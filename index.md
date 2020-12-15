@@ -13,6 +13,5 @@ Test font.
 
 
 # Why Bulyeroi?
-
-I googled some of the poorest postcodes in NSW. Gwabegar.com was taken.
+I googled some of the poorest postcodes in Australia. Gwabegar.com was taken.
 
