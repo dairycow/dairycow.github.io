@@ -1,4 +1,20 @@
-title: bulyeroi.com
-theme: jekyll-theme-modernist
-github:
-  is_project_page: false
+# https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+
+# Site settings
+title: "bulyeroi"
+email: harry@bulyeroi.com
+description: >
+  Poorest postcodes, biggest returns
+#baseurl: "/dairycow.github.io"
+url: "localhost:4000"
+twitter_username: pikeypunter
+github_username: dairycow
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
