@@ -31,7 +31,7 @@ Switched brokers too:
 {% assign mydata=site.data.2020-12-18-GOLD %}
 
 <table>
-    <caption>EXL 4DX broker data</caption>
+    <caption>Gold trades</caption>
     <thead>
     {% for column in mydata[0] %}
         <th>{{ column[0] }}</th>
