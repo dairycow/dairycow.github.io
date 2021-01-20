@@ -1,0 +1,58 @@
+---
+layout: post
+title: 'Gold and punting on the FED - RESULT'
+date: 2021-01-20 18:00:00 +1100
+---
+
+Got the chance to go away to the coast for a week so took it. Haven't been able to do a write-up for this so now I'm really pushing my short-term memory and this will be a quick post. 
+
+I closed SAR and IVR in the match on the 11th and meant to close EVN too but stupidly didn't offer it low enough as I got distracted. That was ~$100 mistake as I sold it a few days later 9c lower whilst on holidays. 
+
+There was some very strange price action going on in Gold and it caused me to panic/lose patience with the trade. The GDX/GDXJ weren't faring too badly.
+
+I still believe the theme is very strong; however, I didn't want to put up with the BS and turn winning positions into losing ones. 
+
+SAR has been relatively strong throughout all of this.
+
+{% assign mydata=site.data.2021-01-20-GOLD %}
+
+<table>
+    <caption>Gold trades</caption>
+    <thead>
+    {% for column in mydata[0] %}
+        <th>{{ column[0] }}</th>
+    {% endfor %}
+    </thead>
+    <tbody>
+    {% for row in mydata %}
+        <tr>
+        {% for cell in row %}
+            <td>{{ cell[1] }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+I made a little Python script to analyse my trades. Because of CFDs and how the financing rate changes over time it won't be exact but it should do the job. Total net profit was $719. 
+
+{% assign mydata=site.data.2021-01-20-GOLD2 %}
+
+<table>
+    <caption>Gold trades results</caption>
+    <thead>
+    {% for column in mydata[0] %}
+        <th>{{ column[0] }}</th>
+    {% endfor %}
+    </thead>
+    <tbody>
+    {% for row in mydata %}
+        <tr>
+        {% for cell in row %}
+            <td>{{ cell[1] }}</td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
