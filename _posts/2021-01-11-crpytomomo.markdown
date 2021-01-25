@@ -6,7 +6,7 @@ date: 2021-01-11 20:10:00 +1100
 
 An interesting month in the Crypto space. Bitcoin doubled, Ripple died and the Cryptomomo portfolio finished up 10.91%. It probably would have been pretty hard to lose money given the current market conditions. 
 
-Hit by some big FOMO this month. Good thing I have this portfolio to keep me invested in the space.
+Good thing I have this portfolio to keep me invested in the space.
 
 I doubled down and moved ~800 USDT from my market making account to this account. One thing I excluded last rotation was leveraged positions like BTCUPUSDT. I have left them in this rotation but will be reviewing them. 
 

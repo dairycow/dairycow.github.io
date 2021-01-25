@@ -12,7 +12,7 @@ I switched broker to Invast which means I'll be using CFDs for the interim. Sinc
 
 The main downfall to using a CFD broker is the credit risk if the broker goes under (which they often do). I figured that if they survived the liquidity event in March 2020 then they should be okay. To reduce some of this risk I can use a *responsible* amount of leverage (less money will be lost in case they go under). However, now I will have to seriously consider the portfolio's drawdowns. With 2x leverage a 50% drawdown will wipe me out. Past simulations of similar models to what I am running have shown maximum drawdowns between 50-70%. 
 
-I don't plan on using much leverage at all - I will probably keep it at 1.3x for now. 
+I don't plan on using much leverage at all - I will try keep it very low for now. 
 
 {% assign mydata=site.data.2021-01-04-smordmomo_OT %}
 
