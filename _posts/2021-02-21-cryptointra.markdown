@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crypto intraday 7'
-date: 2021-02-20 22:30:00 +1100
+date: 2021-02-21 22:30:00 +1100
 ---
 
 Definitely trading way too big and then trying to over compensate. 

@@ -22,9 +22,6 @@ It got down to about 254 where it refused to break. Held VWAP and then there was
 ### QTUM
 Good spot to be short around round number and when the daily chart is on the backside. With the volatility of crypto, I should wait and get in through the round number rather than getting in beforehand. The extra few cents add a lot to your edge.
 
-![Day 5](/assets/images/cryptointra/2021-02-19-cryptointra.PNG "Day 5")
-
-
 ![Day 4 and 5 stats](/assets/images/cryptointra/2021-02-19-cryptointra_stats.PNG "Day 4 and 5 stats")
 
 Things that I need to address:
