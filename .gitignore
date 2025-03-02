@@ -1,0 +1,31 @@
+# .gitignore for Jekyll website
+
+# Ignore the built site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Ignore log files and databases
+*.log
+*.sqlite3
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore bundler config
+.bundle
+
+# Ignore node modules
+node_modules/
+
+# Ignore Gemfile.lock
+Gemfile.lock
