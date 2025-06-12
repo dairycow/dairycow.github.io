@@ -1,0 +1,2335 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASX Announcements - 12 June 2025</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #000000;
+            --secondary-color: #333333;
+            --accent-color: #666666;
+            --text-color: #000000;
+            --light-bg: #f5f5f5;
+            --card-bg: #ffffff;
+            --border-color: #e0e0e0;
+            --success-color: #22c55e;
+            --warning-color: #f59e0b;
+            --danger-color: #ef4444;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: var(--light-bg);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .header { 
+            background: var(--card-bg); 
+            padding: 2rem; 
+            border-radius: 8px; 
+            margin-bottom: 2rem; 
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .header h1 { 
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+        
+        .meta { 
+            color: var(--accent-color); 
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .summary-grid {
+            display: grid;
+            gap: 1.5rem;
+        }
+        
+        .summary-card { 
+            background: var(--card-bg); 
+            border-radius: 8px; 
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .summary-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .card-header { 
+            background: var(--light-bg); 
+            padding: 1.5rem; 
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .card-title {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .ticker { 
+            font-weight: bold; 
+            font-size: 1.25rem; 
+            color: var(--card-bg);
+            padding: 0.5rem 1rem;
+            background: var(--primary-color);
+            border-radius: 4px;
+        }
+        
+        .time { 
+            color: var(--accent-color); 
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+        
+        .price-sensitive { 
+            color: var(--primary-color);
+            font-size: 1rem;
+            margin-left: 0.5rem;
+        }
+        
+        .card-body { 
+            padding: 1.5rem; 
+        }
+        
+        .summary-content { 
+            line-height: 1.7; 
+            margin-bottom: 1rem;
+            font-size: 1rem;
+        }
+        
+        .summary-meta { 
+            display: flex; 
+            align-items: center;
+            gap: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border-color);
+            font-size: 0.85rem;
+            color: var(--accent-color);
+        }
+        
+        .pdf-link { 
+            color: var(--primary-color); 
+            text-decoration: none; 
+            font-weight: 500;
+            padding: 0.25rem 0.75rem;
+            border: 1px solid var(--primary-color);
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+        
+        .pdf-link:hover { 
+            background: var(--primary-color);
+            color: var(--card-bg);
+        }
+        
+        .no-data { 
+            text-align: center; 
+            padding: 4rem 2rem; 
+            color: var(--accent-color);
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .no-data h3 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+        
+        .footer {
+            margin-top: 3rem;
+            padding: 2rem;
+            text-align: center;
+            color: var(--accent-color);
+            font-size: 0.9rem;
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .api-link {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.3s ease;
+        }
+        
+        .api-link:hover {
+            border-bottom-color: var(--primary-color);
+        }
+        
+        /* Markdown styling */
+        .summary-content ul {
+            margin: 0.5rem 0;
+            padding-left: 1.5rem;
+        }
+        
+        .summary-content li {
+            margin: 0.25rem 0;
+        }
+        
+        .summary-content strong {
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+        
+        .summary-content em {
+            font-style: italic;
+            color: var(--accent-color);
+        }
+        
+        .summary-content p {
+            margin: 0.5rem 0;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .header {
+                padding: 1.5rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .meta {
+                flex-direction: column;
+                align-items: center;
+                gap: 0.5rem;
+            }
+            
+            .card-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.75rem;
+            }
+            
+            .summary-meta {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>ASX Announcement Summaries</h1>
+            <div class="meta">
+                <span>12 June 2025 • 49 announcements</span>
+            </div>
+        </div>
+
+        <div class="summary-grid">
+            
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">ATS</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:48
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Summary of Appendix 3Y (Change of Director's Interest Notice):</strong>  </p>
+<ul>
+<li><strong>Director:</strong> Ian Lusted  </li>
+<li><strong>Change Details:</strong> Issuance of <strong>4,400,000 unvested performance rights</strong> under the 2025 Long Term Incentive Award (via Everzen Holdings Pty Ltd). No cash consideration.  </li>
+<li><strong>Post-Change Holdings:</strong>  </li>
+<li>Everzen Holdings: <strong>15,383,164 unvested rights</strong> (total, including new issuance).  </li>
+<li>Superannuation Fund (IG Lusted Pty Ltd): <strong>19,785,181 ordinary shares</strong> (unchanged).  </li>
+</ul>
+<p><strong>No other material information identified.</strong> <em>(Omitted: Legal boilerplate, trust structures, closed period details.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                6426 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1420 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5vg9vvbh6r.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">PTN</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:46
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Trading Halt Request:</strong><br />
+- Reason: Pending release of an exploration update and response to ASX price/volume query.  </p>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1600 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                646 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5ryr2s1qh5.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">PBH</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:44
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>FIRB approval received</strong> for MIXI's 100% acquisition of PointsBet (condition precedent satisfied).  </li>
+<li><strong>Remaining conditions</strong>: Ontario Approval and court approval.  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1320 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                570 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5pmjtx8y9v.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">ORI</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:36
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Share Buyback Cancellation</strong>:  </li>
+<li>4,732,007 ordinary shares (ORI) cancelled under an on-market buy-back for AUD 86.92 million (cessation date: 06/06/2025).  </li>
+<li>Post-cessation issued capital: 482,628,498 ORI ordinary shares (+ unquoted rights).  </li>
+</ul>
+<p>No other material information identified.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3206 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1066 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5kvqkxfvy4.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">ATS</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:35
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Announcement Type:</strong> Employee Incentive Scheme (Performance Rights)  </li>
+<li><strong>Total Performance Rights Issued:</strong> 46,850,000 (unquoted, ATSAD)  </li>
+<li><strong>Key Management Personnel (KMP) Allocations:</strong>  <ul>
+<li>Ian Lusted: 4,400,000  </li>
+<li>Darren Wasylucha: 3,900,000  </li>
+<li>David Greene: 4,200,000  </li>
+</ul>
+</li>
+<li><strong>Terms:</strong> Each right convertible to one ATS ordinary share, subject to service/performance hurdles (approved by Board).  </li>
+</ul>
+<p><strong>No other material information identified</strong> for trading/capital markets decisions.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4149 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1392 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5hhg04gtbx.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MA1</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:26
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Summary:</strong></p>
+<ul>
+<li><strong>Daily NTA Update:</strong> Unaudited NTA per unit of MA Credit Income Trust (MA1) as at 11 June 2025: <strong>$2.0061</strong>.  </li>
+</ul>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                778 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                483 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp5cksqtmw10.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">STO</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:20
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Credit Rating Affirmation</strong>: Fitch reaffirmed Santos' 'BBB' rating (stable outlook), citing strong business profile, diversified assets, and revenue stability from long-term gas contracts.  </li>
+<li><strong>Shareholder Distributions</strong>: Target payout ratio of 60–100% of free cash flow (dividends/buybacks) from 2026, alongside disciplined capex and gearing target of 15–25%.  </li>
+<li><strong>Cost Efficiency</strong>: Maintained low unit production costs; aims to reduce overheads by USD150 million, supporting cash netback resilience.  </li>
+</ul>
+<p><strong>No other material information identified</strong>.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                2596 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                867 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp569l2m7pdw.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">L1H</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:20
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.  </p>
+<p><em>(Note: The provided content appears to be promotional material for an investor webinar and does not contain any material ECM-related announcements such as trading halts, capital raises, or financial reports.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                2499 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                819 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp545v9p7xx9.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">BBC</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:16
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.  </p>
+<p><em>(For Appendix 3Y notices, only director transactions exceeding material thresholds or closed-period violations would warrant inclusion. This filing shows routine on-market purchases with no material impact on liquidity/capital structure.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                7363 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1098 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp51fr6sncf8.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">WBC</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                15:02
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.  </p>
+<p><em>(This is a routine disclosure of voting interest changes (&lt;1% aggregate shift) with no meaningful impact on liquidity, capital structure, or trading. Omitted as non-material per ECM guidelines.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4858 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1140 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp4w9zshmg4x.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AQX</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                14:48
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Substantial Holder Change</strong>: Gage Resource Development Pty Ltd's voting power in Alice Queen Limited decreased from 51% to 46.80% due to dilution from the issuance of 102,750,000 new shares on 28 May 2025.  </li>
+<li><strong>No other material information identified</strong>.</li>
+</ul>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                6774 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1632 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp4qb042nld3.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">ELD</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:17
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.  </p>
+<p><em>(Note: Director interest changes are generally not material for trading or capital markets decisions unless they involve substantial stakes or signal broader strategic shifts. This announcement reflects only routine disclosure of a minor on-market purchase by a director.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                5575 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1025 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp11wnvhrs0g.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">PEN</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:16
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Announcement Summary: PENINSULA ENERGY LIMITED</strong></h3>
+<p><strong>Type: Capital Raising (Placement)</strong>  </p>
+<ul>
+<li><strong>Structure:</strong> Placement of ordinary shares (PEN)  </li>
+<li><strong>Total Proposed Issuance:</strong> <strong>4,962,779 shares</strong> (AUD equivalent ~<strong>$3.08M</strong>, based on AUD$0.62/share and USD/AUD 0.65 FX rate).  </li>
+<li><strong>Purpose:</strong> Settlement of pending Samuel EPC change orders (per 12 June 2025 announcement).  </li>
+<li><strong>Key Dates:</strong>  </li>
+<li><strong>Shareholder Approval Meeting:</strong> 31 August 2025 (conditional).  </li>
+<li><strong>Proposed Issue Date:</strong> 3 September 2025.  </li>
+<li><strong>Escrow:</strong> Shares subject to 6-month voluntary escrow (early release if share price doubles).  </li>
+</ul>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                6098 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1849 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0znpwpdg8r.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">BMG</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:14
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                646 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                396 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0x9f2v6wl2.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">BET</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:12
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Capital Raising Announcement Summary:</strong></h3>
+<ul>
+<li><strong>Structure:</strong> Placement ($11.5M) + Share Purchase Plan (SPP, up to $1.0M).  </li>
+<li><strong>Capital Raised:</strong> $11.5M (Placement) at $0.10 per share. Additional $1.0M from Tekkorp pending shareholder approval.  </li>
+<li><strong>Key Dates:</strong>  </li>
+<li>SPP Offer Booklet dispatch/opening: 17 June 2025.  </li>
+<li><strong>Use of Funds:</strong> Debt repayment, NJ Fixed Odds commitments, potential Nevada acquisition, working capital.  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                5989 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1647 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0tpmd3q2n0.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">EDV</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:10
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Key points</strong>:  </li>
+<li>BWS Managing Director stepping down (effective end of November 2025).  </li>
+<li>Succession process to commence; no immediate replacement announced.  </li>
+</ul>
+<p><em>No other material information identified for trading or capital markets decisions.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1641 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                659 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0r98xdw2bv.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MRL</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:05
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Trading Halt Reason</strong>: Pending announcement on status of Mayur's Special Economic Zone (SEZ) Licence for the Central Cement and Lime Project in Papua New Guinea after meetings with PNG Government.  </li>
+<li><strong>Resolution Timeline</strong>: Update expected by market open on <strong>Monday, 16 June 2025</strong>.  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3983 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1148 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0n6fbks2ff.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">DXB</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                12:02
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3>Announcement Summary: <strong>Dimerix Limited (ASX: DXB)</strong></h3>
+<h4><strong>Type: Option Exercise Notification</strong></h4>
+<ul>
+<li><strong>457,377 new ordinary shares (DXB)</strong> issued from exercise of quoted options (DXBO).  </li>
+<li><strong>Exercise price:</strong> AUD 0.1544 per share.  </li>
+<li><strong>Option expiry date:</strong> 30 June 2025 (remaining unexercised options: 11,843,202).  </li>
+<li><strong>Issued capital post-exercise:</strong> 588,437,304 ordinary shares (quoted).  </li>
+</ul>
+<p><strong>No other material information identified.</strong>  </p>
+<p><em>(Note: Summary excludes boilerplate, director names, and non-ECM details.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4612 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1480 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0kjgwr1ssn.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AQN</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:45
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Announcement Summary</strong></h3>
+<ul>
+<li><strong>Type:</strong> Other (Director's Remuneration – Unlisted Options Issuance)  </li>
+<li><strong>Key Details:</strong>  </li>
+<li><strong>500,000 unlisted options</strong> issued at <strong>$0.35 each</strong>, expiring <strong>27 February 2027</strong>.  </li>
+<li><strong>500,000 unlisted options</strong> issued at <strong>$0.45 each</strong>, expiring <strong>27 February 2028</strong>.  </li>
+<li>Part of remuneration for Director Adrian Mason, approved by shareholders on <strong>22 May 2025</strong>.  </li>
+<li>No cash consideration; no impact on capital structure.  </li>
+</ul>
+<p><strong>No other material information identified</strong> for trading or capital markets decisions.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                7626 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                2046 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp0cyrz0rqdd.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">BXN</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:34
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3728 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1127 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp07klh9f6j1.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">ENL</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:26
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Summary of Material Information:</strong></p>
+<ul>
+<li><strong>Capital Raising (Placement):</strong>  </li>
+<li><strong>Structure:</strong> Placement of CHESS Depositary Interests (CDIs)  </li>
+<li><strong>Total Raised:</strong> AUD 4,168,294 (104,207,349 CDIs × AUD 0.04)  </li>
+<li>
+<p><strong>Issue Date:</strong> 13/06/2025  </p>
+</li>
+<li>
+<p><strong>Additional Securities to be Issued:</strong>  </p>
+</li>
+<li>
+<p>125,000,000 options (expiring in 3 years, nil consideration) – pending completion.  </p>
+</li>
+<li>
+<p><strong>Post-Placement Issued Capital:</strong>  </p>
+</li>
+<li><strong>Quoted CDIs:</strong> 825,616,211  </li>
+<li>
+<p><strong>Unquoted Securities:</strong> Includes options (83,701,452 total) and warrants (162,767 total).  </p>
+</li>
+<li>
+<p><strong>References:</strong> Details refer to prior announcements (05-May-2025) and AGM Notice (19-May-2025).  </p>
+</li>
+</ul>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4448 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1512 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp03wg7c9s41.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">GW1</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:26
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Material Information Summary - GREENWING RESOURCES LTD (Meeting Results)</strong>  </p>
+<ul>
+<li><strong>All resolutions passed</strong> (ratifications/approvals for capital raising activities and director-related share issues).  </li>
+<li><strong>Capital raising approvals</strong>:  </li>
+<li>Tranche 1 Placement ratified (99.94% support).  </li>
+<li>Tranche 2 Placement approved (99.73% support).  </li>
+<li><strong>Share Purchase Plan (SPP)</strong> approved (99.94% support).  </li>
+<li><strong>Director-related share issuances approved</strong>:  </li>
+<li>Peter Wright (99.51% support).  </li>
+<li>Jeff Marvin (99.54% support).  </li>
+<li>James Brown (99.50% support).  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4241 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1153 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06kp01r5vjhn50.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AX8</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:24
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Security Issuance for Acquisition Consideration</strong>: 20,000,000 ordinary shares (AX8) to be quoted, issued as part of a project acquisition (non-cash consideration, valued at ~A$0.007 per share).  </li>
+<li><strong>Issue Date</strong>: 23/06/2025.  </li>
+<li><strong>Post-Issue Capital Structure</strong>:  </li>
+<li>Total ordinary shares on issue: 817,188,712.  </li>
+<li>Unquoted securities include options and performance rights (details in table).  </li>
+</ul>
+<p><strong>No other material information identified</strong> (transaction was previously announced on 24-Jan-2025).</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4004 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1344 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzzfj9kfnm0.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AX8</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:22
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Type:</strong> Shares Issued and Cleansing Notice  </li>
+<li><strong>Material Information:</strong>  </li>
+<li><strong>20,000,000 shares issued</strong> to Metal Hawk Limited as part of a Binding Heads of Agreement (dated 17 December 2024).  </li>
+<li><strong>No disclosure exemption under Part 6D.2</strong> of the Corporations Act claimed.  </li>
+<li><strong>Confirmation of compliance</strong> with Chapter 2M and continuous disclosure obligations.  </li>
+</ul>
+<p>No other material information identified.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1928 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                841 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzwxyb60pd4.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">HZR</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:17
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Reason for Trading Halt</strong>: Pending announcement regarding a proposed capital raising.  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1661 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                658 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzswpwz2pz3.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MFG</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:16
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Escrow Release</strong>: 98,438 ordinary shares released from voluntary escrow on 23 June 2025.  </li>
+<li><strong>No Change to Issued Capital</strong>: Release does not impact total issued capital.  </li>
+</ul>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                865 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                503 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzqlkytqfsc.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AMA</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:14
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Material Information Summary:</strong>  </p>
+<ul>
+<li><strong>Performance Rights Lapse:</strong> 23,166,666 unquoted performance rights (AMAAK) forfeited due to unmet vesting conditions (non-KMP under LTI plan).  </li>
+<li><strong>Impact on Issued Capital:</strong>  </li>
+<li>Ordinary shares (AMA): No change (4,782,595,517 quoted).  </li>
+<li>Remaining unquoted performance rights (AMAAK): 49,750,141.  </li>
+</ul>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3296 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1044 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzn3jwstf3z.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">HZR</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:13
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Trading Halt Request:</strong><br />
+- Pending a further announcement.  </p>
+<p>(No other material information identified.)</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                245 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                300 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzkq6k2hy95.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">LRV</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:10
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>High-grade drill results at Eleanora-Garibaldi</strong>:  </li>
+<li><strong>ELG205</strong>: 4.1m @ 28.08 g/t AuEq (incl. 0.95m @ 111.27 g/t AuEq)  </li>
+<li><strong>ELG211</strong>: 23.4m @ 8.97 g/t AuEq (incl. 5.1m @ 35.42 g/t AuEq)  </li>
+<li>
+<p><strong>ELG219</strong>: 6.8m @ 16.81 g/t AuEq  </p>
+</li>
+<li>
+<p><strong>Golden Gate prospect initial results</strong>:  </p>
+</li>
+<li>
+<p><strong>GGL009</strong>: 4m @ 19.62 g/t AuEq (7.73 g/t Au, 4.10% Sb)  </p>
+</li>
+<li>
+<p><strong>Resource update planned</strong>: Updated Mineral Resource Estimate (MRE) for Eleanora-Garibaldi and Baker Creek to support mine planning.  </p>
+</li>
+<li>
+<p><strong>Exploration progress</strong>:  </p>
+</li>
+<li>~9,200m drilled at Eleanora-Garibaldi; assays pending.  </li>
+<li>
+<p>Four rigs active, prioritizing resource definition.  </p>
+</li>
+<li>
+<p><strong>Garibaldi current MRE</strong>: 2.7Mt @ 6.6 g/t AuEq (396koz Au, 19kt Sb).  </p>
+</li>
+</ul>
+<p><em>No other material trading/capital markets information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                101906 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                15019 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzh3f7vkj99.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">BET</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:10
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Summary of BETMAKERS TECHNOLOGY GROUP LTD Announcement</strong></h3>
+<p><strong>Type:</strong> Capital Raising (Placement)  </p>
+<ul>
+<li><strong>Structure:</strong> Placement + Securities Purchase Plan (SPP)  </li>
+<li><strong>Shares Issued:</strong> 115,000,000 ordinary shares  </li>
+<li><strong>Issue Price:</strong> AUD 0.10 per share  </li>
+<li><strong>Total Raised (this tranche):</strong> AUD 11.5 million  </li>
+<li><strong>Outstanding Issuances:</strong>  </li>
+<li>Placement to Tekkorp Holdings LLC pending shareholder approval.  </li>
+<li>SPP shares yet to be issued.  </li>
+<li><strong>Post-Issue Capital:</strong> 1,086,083,495 ordinary shares on issue.  </li>
+</ul>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4925 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1426 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzf060lz76h.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">DDR</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:09
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No other material information identified.  </p>
+<p><em>(Note: Appendix 3Y discloses routine director share transactions, which are not typically material for trading or capital markets decisions unless indicative of broader insider activity or accompanied by significant volume/context.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                6826 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1131 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knzbrp1vxprq.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">AKA</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:08
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Capital Raising Announcement Summary</strong></h3>
+<ul>
+<li><strong>Structure</strong>: Share Placement to wholesale investors  </li>
+<li><strong>Capital Raised</strong>: AUD $3 million  </li>
+<li><strong>Placement Price</strong>: $0.13/share (5% premium to 15-day VWAP)  </li>
+<li><strong>Expected Issuance Date</strong>: ~13 June 2025  </li>
+</ul>
+<h3><strong>Key Exploration Updates</strong> <em>(Material for valuation)</em></h3>
+<ul>
+<li><strong>Global JORC Resources</strong>: Increased by <strong>19% to 360koz</strong> (up from 304koz) after maiden St Arnaud resource declaration.  </li>
+<li><strong>New Discovery Zone</strong>: Western flank of Irvine Basalt shows fresh mineralisation potential, expanding targeting opportunities.  </li>
+<li><strong>Drilling Acceleration</strong>: Two rigs active (Irvine and St Arnaud projects); pending assays for recent holes.  </li>
+</ul>
+<h3><strong>Strategic Land Purchase</strong> <em>(Liquidity/Capital Impact)</em></h3>
+<ul>
+<li><strong>Irvine Project Land</strong>: $2.2m purchase (97 hectares) to secure permanent access; partial settlement completed ($570k), balance due soon.  </li>
+</ul>
+<h3><strong>Use of Funds</strong></h3>
+<ul>
+<li><strong>Land access costs</strong>, accelerated drilling, and working capital.  </li>
+</ul>
+<p><em>No other material information identified</em>.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                23911 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                5501 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knz4glq2g9bc.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">PEN</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:08
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Capital Raising Announcement:</strong><br />
+- <em>Structure:</em> Pending capital raise (type not specified)<br />
+- <em>Funding Needs:</em> Interim debt funding discussions ongoing; capital raise expected post-finalization of reset plan<br />
+- <em>Current Cash Balance (31 May 2025):</em> US$13M (unaudited), zero debt  </p>
+<p><strong>Key Operational/Funding Updates:</strong><br />
+- <strong>Production Guidance Reset:</strong> CY2026–27 production rates to be "materially lower" than prior guidance; revised plan pending.<br />
+- <strong>Samuel EPC Settlement:</strong><br />
+  - US$4.75M total settlement (US$2M cash, US$2M equity at max A$0.62/share, US$0.75M milestone payment).<br />
+  - Equity issuance requires shareholder approval; escrow for 6 months unless share price doubles.<br />
+- <strong>CPP Phase II Delays:</strong> Cost overruns due to design finalization; commissioning to begin June 2025.  </p>
+<p><strong>Other Material Impacts:</strong><br />
+- <strong>Offtake Contracts:</strong> Renegotiations underway; critical to reset plan viability.<br />
+- <strong>Management Changes:</strong> COO stepping down; operational roles restructured.  </p>
+<p><strong>Trading Halt/Suspension:</strong><br />
+- <em>Reason:</em> Pending finalization of sales contracts, production guidance, and funding plans.  </p>
+<p><strong>No other material information identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                11570 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                2922 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knz8mdjmsp5d.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">IEL</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                11:06
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Material Information Summary (Form 605 - Ceasing to be a Substantial Holder):</strong><br />
+- <strong>Substantial Holder:</strong> Insignia Financial Ltd and subsidiaries.<br />
+- <strong>Key Change:</strong> Ceased to be a substantial holder in IDP Education Ltd on <strong>05-Jun-2025</strong>.<br />
+- <strong>Material Transactions (Highlights):</strong><br />
+  - <strong>03-Jun-2025:</strong> IOOF Investment Services Ltd sold <strong>364,000 shares</strong> (AUD -5.29M).<br />
+  - <strong>04-Jun-2025:</strong> IOOF Investment Services Ltd sold <strong>619,161 shares</strong> (AUD -8.91M).<br />
+  - <strong>05-Jun-2025:</strong> MLC Investments Ltd sold <strong>764,881 shares</strong> (AUD -3.25M).  </p>
+<p><em>No other material information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                12148 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                4394 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knz1ww08wzw4.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MVF</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:25
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>CEO resignation</strong>: Michael Knaap resigns as CEO and Managing Director.  </li>
+<li><strong>Acting CEO appointment</strong>: CFO Malik Jainudeen appointed as Acting CEO.  </li>
+</ul>
+<p><em>No material ECM information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1773 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                691 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knt0kpz7qvl5.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">SUH</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:25
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Trading Halt Reason</strong>: Pending announcement regarding execution of a joint venture agreement.  </li>
+<li><strong>Trading Halt End</strong>: Earliest of normal trading on 16 June 2025 or announcement release.</li>
+</ul>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                1595 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                631 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knt2pzrzhvll.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">LGL</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:24
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Revenue Growth</strong>: Australia +6% YTD vs FY24; China +16% YTD vs FY24.  </li>
+<li><strong>EBITDA Guidance</strong>: $42m - $43m (ex-closure/SAP costs).  </li>
+<li><strong>Key Headwinds</strong>: ~$0.8m EBITDA impact from Cyclone Alfred disruptions (Australia).  </li>
+<li><strong>China Recovery</strong>: Demand/pricing improving, especially during event windows.  </li>
+<li><strong>Operational Updates</strong>: 50 additional SOR stores converted (Australia Q4).  </li>
+</ul>
+<p><em>No material ECM information identified.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                2752 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                938 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knsybqtmzmbh.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">4DS</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:23
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>4DS Memory Limited (ASX: 4DS) has requested an immediate trading halt pending an announcement regarding the interim analysis of its Sixth Platform Lot, with the halt to remain in place until either the release of the announcement or the start of trading on 16 June 2025, whichever occurs first. The company confirms no reason for the halt to be denied and no further details are available at this time.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3016 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                834 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knsw0jwrcf06.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">G88</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:22
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>R&amp;D Tax Incentive Received</strong>: $379,066.30 from ATO for nickel-cobalt process technology development.  </li>
+<li><strong>Use of Funds</strong>: Allocation to exploration at Pearl Copper Project in Arizona, USA.  </li>
+<li><strong>Operational Update</strong>: Maiden drilling program completed (10 RC holes, 1,186.3m), assay results pending.  </li>
+</ul>
+<p><em>No material ECM information identified</em> (e.g., no capital raising or trading halt details).</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3385 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1120 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knssskn861t4.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">LNW</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:08
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>No material ECM information identified.  </p>
+<p><em>(Note: This is a standard SEC Form 4 filing disclosing director equity transactions, which is not material for ASX trading or capital markets decisions.)</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                7231 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1685 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpxqs1xhhp0.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">CDM</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:08
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>Cadence Capital Limited (ASX: CDM) has provided a daily buy-back update, reporting the purchase of 350,520 ordinary shares on 11 June 2025 for a total consideration of AUD 221,521.17, at prices ranging between AUD 0.6275 and AUD 0.63 per share. The company’s ongoing on-market buy-back, which began on 21 October 2024 and will run until 17 October 2025, has so far repurchased 4,529,415 shares out of a maximum target of 10 million, leaving 5,470,585 shares remaining under the program. The buy-back does not require shareholder approval.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4162 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1272 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpztzdcddm7.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">FPR</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:08
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>FleetPartners Group Limited (ASX: FPR) provided a daily buy-back notification, reporting the purchase of 120,000 ordinary shares on 11 June 2025 for a total consideration of AUD 354,996, at prices ranging between AUD 2.92 and AUD 3.01 per share. The company has now bought back a cumulative total of 77,375,116 shares under its on-market buy-back program, which began on 10 May 2023 and is set to conclude by 23 January 2026, with an approved limit of 25 million shares post the January 2025 AGM. The buy-back is managed by Morgan Stanley Australia Securities.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4416 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1321 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knq1xnd61cmk.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">CAM</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:07
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Summary:</strong>  </p>
+<p>Clime Capital Limited (ASX: CAM) provided a daily update on its on-market share buy-back, noting that 100,000 ordinary shares were repurchased on 11 June 2025 at an average price of AUD 0.71355 per share, bringing the total bought back to 1,421,661 shares. The buy-back, managed by Sanlam Private Wealth, began on 10 March 2025 and will run until 9 March 2026, targeting a maximum of 15,055,408 shares (10% of issued shares). The highest price paid was AUD 0.755, and the lowest was AUD 0.675. No shareholder approval was required for the buy-back. The remaining shares to be repurchased stand at 13,633,747.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4158 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1295 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpvh8865j44.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">CVW</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:07
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p>ClearView Wealth Limited (CVW) provided a daily buy-back notification on 12 June 2025, reporting the purchase of 200,000 ordinary shares on-market the previous day (11 June) for AUD 97,060, at prices ranging from AUD 0.48 to AUD 0.49 per share. The total shares repurchased to date under the ongoing buy-back program (which runs until 25 March 2026) are 9,802,500. While no fixed maximum has been set, the company aims to buy back up to 10% of its outstanding shares (657.7 million), with Morgans Financial Limited facilitating the transactions. The highest price paid historically was AUD 0.515, and the buy-back does not require shareholder approval.</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4498 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1363 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpn6qc745yh.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">GG8</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:07
+                            </span>
+                            
+                            <span class="price-sensitive">
+                                <i class="fas fa-dollar-sign"></i>
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>High-grade drill intercepts</strong>:</li>
+<li>8.2m @ 23.5 g/t Au from 217.6m (MWEX012)</li>
+<li>
+<p>1.5m @ 24 g/t Au from 324.1m (MWEX014)</p>
+</li>
+<li>
+<p><strong>Resource expansion</strong>: Mulwarrie Project currently has 78koz @ 2.8 g/t Au, with a <strong>targeted material increase in Q3 2025 resource update</strong>.</p>
+</li>
+<li>
+<p><strong>Exploration progress</strong>:</p>
+</li>
+<li>Maiden drilling program to conclude in 3-4 weeks, followed by resource re-estimation.</li>
+<li>
+<p>Drilling rigs to shift to Comet Vale post-Mulwarrie program.</p>
+</li>
+<li>
+<p><strong>Strategic context</strong>:</p>
+</li>
+<li>Located on granted mining leases, adjacent to haul road, near operational gold mills (100km radius).</li>
+</ul>
+<p>No material ECM information identified (e.g., capital raising, trading halt, or financial metrics).</p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                60902 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                7302 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpq9y325j0s.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MEC</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:07
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Announcement Type</strong>: Daily buy-back notification  </li>
+<li><strong>Security</strong>: MEC (Ordinary Fully Paid)  </li>
+<li><strong>Buy-back Type</strong>: On-market  </li>
+<li><strong>Total bought back as of 11/6/2025</strong>: 2,636,191 shares (cumulative)  </li>
+<li><strong>Previous day's buy-back</strong>: 7,195 shares for AUD 7,697.21 (avg. ~AUD 1.07/share)  </li>
+<li><strong>Remaining buy-back capacity</strong>: 4,811,340 shares (out of max 7,447,531 approved)  </li>
+<li><strong>Buy-back window</strong>: 19/11/2024 to 18/11/2025  </li>
+<li><strong>Price range</strong>: Recent trades between AUD 1.065 (low) and AUD 1.07 (high) on 11/6/2025.  </li>
+</ul>
+<p><em>No material capital markets impact beyond ongoing buy-back execution.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                4483 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1602 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpsdlmv4666.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MML</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:06
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <p><strong>Capital Raising Announcement Summary (Lead Manager Options):</strong><br />
+- <strong>Structure:</strong> Placement of options (Lead Manager Options)<br />
+- <strong>Options Details:</strong> 12,820,000 options exercisable at $0.035, expiring 30 months from issue (est. expiry: 1 Feb 2028).<br />
+- <strong>Proposed Issue Date:</strong> 1 August 2025 (subject to shareholder approval).<br />
+- <strong>Key Condition:</strong> Shareholder approval required (meeting date: 1 August 2025).  </p>
+<p>No material financial impact (nil cash consideration for options).<br />
+<em>Note: No new equity raised; options linked to future capital structure.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                6038 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1803 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knphx2q3m6sl.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">RUL</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:06
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <ul>
+<li><strong>Type:</strong> Securities Cessation (Buy-Back)  </li>
+<li><strong>Details:</strong>  </li>
+<li>79,018 ordinary shares (Code: RUL) cancelled under on-market buy-back.  </li>
+<li>Total consideration paid: <strong>AUD 249,999</strong> (AUD ~3.16/share).  </li>
+<li>Post-cession issued capital: <strong>220,868,841</strong> ordinary shares.  </li>
+</ul>
+<p><em>No material ECM information for trading/capital decisions beyond buy-back impact.</em></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                3166 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                1063 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpl41k96zwx.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="ticker">MML</span>
+                            <span class="time">
+                                <i class="far fa-clock" style="margin-right: 0.25rem;"></i>
+                                09:05
+                            </span>
+                            
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="summary-content">
+                            <h3><strong>Announcement Summary</strong></h3>
+<p><strong>Entity:</strong> McLaren Minerals Limited (ASX: MML)<br />
+<strong>Announcement Type:</strong> Capital Raising (Placement)  </p>
+<ul>
+<li><strong>Structure:</strong>  </li>
+<li><strong>Placement:</strong> 6,666,666 new ordinary shares (MML) at <strong>A$0.0225/share</strong>.  </li>
+<li>
+<p><strong>Attaching Options:</strong> 6,666,666 free options (1:1 ratio) exercisable at <strong>A$0.035</strong> until <strong>1 Feb 2028</strong>.  </p>
+</li>
+<li>
+<p><strong>Capital Raised:</strong> <strong>A$150,000</strong> (6,666,666 shares × A$0.0225).  </p>
+</li>
+<li>
+<p><strong>Key Dates:</strong>  </p>
+</li>
+<li><strong>Proposed Issue Date:</strong> 1 August 2025 (subject to shareholder approval).  </li>
+<li>
+<p><strong>Meeting Date for Approval:</strong> 1 August 2025.  </p>
+</li>
+<li>
+<p><strong>Use of Funds:</strong> Engineering/design, assaying, resource estimate update, PFS completion, working capital, and raise costs.  </p>
+</li>
+<li>
+<p><strong>Broker Fees:</strong>  </p>
+</li>
+<li>2% management fee + 4% placement fee.  </li>
+<li>Up to 12,820,000 lead manager options (same terms).  </li>
+</ul>
+<p><strong>No other material ECM impacts identified.</strong></p>
+                        </div>
+                        <div class="summary-meta">
+                            <span>
+                                <i class="fas fa-file-alt" style="margin-right: 0.25rem;"></i>
+                                7409 chars
+                            </span>
+                            <span>
+                                <i class="fas fa-brain" style="margin-right: 0.25rem;"></i>
+                                2269 tokens
+                            </span>
+                            
+                            <a href="https://announcements.asx.com.au/asxpdf/20250612/pdf/06knpftydnk81p.pdf" target="_blank" class="pdf-link">
+                                <i class="fas fa-external-link-alt" style="margin-right: 0.25rem;"></i>
+                                View PDF
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+            
+        </div>
+        
+        <div class="footer">
+            <p>
+                <i class="fas fa-chart-line" style="margin-right: 0.5rem;"></i>
+                Dashboard updated automatically • 
+                <a href="api.json" class="api-link">
+                    <i class="fas fa-code" style="margin-right: 0.25rem;"></i>
+                    JSON API
+                </a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
