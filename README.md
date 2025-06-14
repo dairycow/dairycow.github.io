@@ -15,7 +15,7 @@ Personal GitHub Pages site with automated content pipelines.
 ### ASX Announcements Pipeline
 Automated scraper that processes ASX company announcements, extracts text from PDFs, generates AI summaries, and publishes to a static site.
 
-- **Live site**: [/asx](gibx.au/asx)
+- **Live site**: [https://gibx.au/asx](https://gibx.au/asx)
 - **Pipeline code**: [/announcements-pipeline](./announcements-pipeline)
 
 ## License
