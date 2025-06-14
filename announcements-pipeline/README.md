@@ -34,3 +34,7 @@ python run_pipeline.py
 ```
 
 Requires `.env` file with `OPENROUTER_API_KEY` for local
+
+## Disclaimer
+
+Not financial advice. Auto-generated content may contain errors.
