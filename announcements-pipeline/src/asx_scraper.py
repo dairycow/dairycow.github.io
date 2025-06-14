@@ -4,9 +4,8 @@ import requests
 from typing import Dict, List, Optional
 from bs4 import BeautifulSoup
 
-# TODO: Update to use the latest ASX announcements URL
-# ASX_ANNOUNCEMENTS_URL = "https://www.asx.com.au/asx/v2/statistics/todayAnns.do"
-ASX_ANNOUNCEMENTS_URL = "https://www.asx.com.au/asx/v2/statistics/prevBusDayAnns.do"
+
+ASX_ANNOUNCEMENTS_URL = "https://www.asx.com.au/asx/v2/statistics/todayAnns.do"
 ASX_BASE_URL = "https://www.asx.com.au"
 DEFAULT_HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
