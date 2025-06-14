@@ -8,7 +8,7 @@ ehthumbs.db
 Thumbs.db
 
 # Editor directories and files
-.vscode/*
+.vscode/
 !.vscode/extensions.json
 .idea
 *.swp
@@ -17,3 +17,12 @@ Thumbs.db
 
 # OS generated files
 *.log
+
+# Python
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
