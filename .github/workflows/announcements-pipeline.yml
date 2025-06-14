@@ -1,0 +1,47 @@
+name: ASX Announcements Pipeline
+
+on:
+  schedule:
+    # Sydney time 6:30-20:30 = UTC 19:30-09:30 (AEST) or UTC 20:30-10:30 (AEDT)
+    # Using wider range to cover both: UTC 19:30-10:30, Mon-Fri
+    - cron: '*/3 19-23 * * 0-4'  # Sun 19:00-23:59 UTC = Mon 06:00-10:59 AEDT
+    - cron: '*/3 0-10 * * 1-5'   # Mon-Fri 00:00-10:59 UTC = Mon-Fri 11:00-21:59 AEDT
+  workflow_dispatch: 
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        
+    - name: Install dependencies
+      run: |
+        cd announcements-pipeline
+        pip install -r requirements.txt
+        
+    - name: Run ASX pipeline
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      run: |
+        cd announcements-pipeline
+        python run_pipeline.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add asx/
+        git add announcements-pipeline/output/*.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Github Action: Update ASX announcements"
+          git push
+        fi
