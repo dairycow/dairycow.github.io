@@ -46,9 +46,11 @@ def run_complete_pipeline():
     """Run end-to-end ASX announcements pipeline"""
     
     if not is_trading_day():
+        print("Not a trading day, skipping pipeline")
         return
         
     if not is_announcement_time():
+        print("Outside announcement hours (7:30-19:30 Sydney time), skipping pipeline")
         return
     
     announcements = fetch_announcements()
@@ -64,6 +66,9 @@ def run_complete_pipeline():
     # Generate summaries
     api_url = "https://openrouter.ai/api/v1/chat/completions"
     api_key = os.getenv('OPENROUTER_API_KEY')
+    if not api_key:
+        print("No API key found, skipping summaries")
+        return
     process_all_files(api_url, api_key)
 
     generate_static_site()
