@@ -1,0 +1,19 @@
+{
+  "ticker": "EGH",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958862",
+  "id": "02958862",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250616",
+  "time": "1638",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250616/pdf/06ksq0d4j02p1h.pdf",
+  "summary": "**Summary Format Guide for ASX Announcements:**  \n\n1. **Trading Halt Request**  \n   - *Reason:* [One-line reason, e.g., \"Pending material acquisition announcement\"]  \n\n2. **Capital Raising Announcement**  \n   - *Type:* [Placement/SPP/Entitlement Offer]  \n   - *Amount Raised:* [AUD Xm]  \n   - *Key Dates:* Ex-date: [dd/mm], Record: [dd/mm], Close: [dd/mm]  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance:* AUD Xm  \n   - *Operational Highlights:* [1-2 key points, e.g., \"Revenue +X% QoQ\", \"Production Y units\"]  \n\n4. **Other Material Announcements**  \n   - [Critical point 1] (e.g., \"Major asset sale for AUD Xm\")  \n   - [Critical point 2] (e.g., \"Debt refinancing at X% yield\")  \n\n**No material information identified** if the document is unclear or lacks actionable data.  \n\n**Example Output:**  \n- *Type:* Placement  \n- *Amount Raised:* AUD 50m  \n- *Use of Proceeds:* Debt reduction (AUD 30m), growth initiatives (AUD 20m)  \n- *Key Dates:* Ex-date: 15/07, Record: 18/07, Close: 25/07  \n\n*Note:* Omit all boilerplate, director names, and non-material operational updates.  \n\n---  \n**Now attach the PDF or specify the announcement type for extraction.**",
+  "usage": {
+    "prompt_tokens": 238,
+    "completion_tokens": 344,
+    "total_tokens": 582,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-16T06:58:02.979492"
+}
