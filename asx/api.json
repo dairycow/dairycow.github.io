@@ -1,5 +1,138 @@
 [
   {
+    "ticker": "AR3",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959134",
+    "id": "02959134",
+    "pages": 26,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0949",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthy645k5wds.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><strong>Reason:</strong> The document is a corporate presentation containing general project updates, strategic positioning, and historical announcements. It does not include new material disclosures (e.g., capital raises, trading halts, or definitive operational/financial results) that would directly impact trading or capital markets decisions.</p>",
+    "usage": {
+      "prompt_tokens": 5356,
+      "completion_tokens": 64,
+      "total_tokens": 5420,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:52:54.157806"
+  },
+  {
+    "ticker": "NWC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959133",
+    "id": "02959133",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0949",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthw4ds86x51.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement of a potential material variation, including a proposed increase in Scheme Consideration, in a change of control transaction.  </li>\n<li><strong>Halt Duration</strong>: Until the earlier of normal trading on 19 June 2025 or the announcement's release.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 834,
+      "completion_tokens": 67,
+      "total_tokens": 901,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:55:30.992073"
+  },
+  {
+    "ticker": "TOP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959135",
+    "id": "02959135",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0949",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktj08p87f8mk.pdf",
+    "summary": "<ul>\n<li><strong>Buy-back Type:</strong> On-market buy-back  </li>\n<li><strong>Total Securities Bought Back Before Previous Day:</strong> 3,213,048  </li>\n<li><strong>Securities Bought Back on Previous Day (16/06/2025):</strong> 78,118  </li>\n<li><strong>Maximum Securities Proposed for Buy-back:</strong> 10,758,796  </li>\n<li><strong>Remaining Securities to be Bought Back (as of 16/06/2025):</strong> 7,467,630  </li>\n<li><strong>Buy-back Period:</strong> 22/05/2025 to 10/03/2026  </li>\n<li><strong>Highest Price Paid on Previous Day:</strong> AUD 0.63  </li>\n<li><strong>Lowest Price Paid (Historical):</strong> AUD 0.57  </li>\n<li><strong>Highest Allowed Price (Listing Rule 7.33):</strong> AUD 0.67043  </li>\n<li><strong>Broker Handling Buy-back:</strong> UBS Nominees Australia Limited  </li>\n<li><strong>No Shareholder Approval Required</strong>  </li>\n</ul>\n<p><em>No material operational or liquidity impacts beyond ongoing buy-back activity.</em></p>",
+    "usage": {
+      "prompt_tokens": 1614,
+      "completion_tokens": 211,
+      "total_tokens": 1825,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:54:47.349364"
+  },
+  {
+    "ticker": "SHP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959132",
+    "id": "02959132",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0948",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthsv7v2wsgt.pdf",
+    "summary": "<p><strong>Trading Halt Request</strong><br />\n- Reason: Pending announcement regarding a capital raising.<br />\n- Halt duration: Until earlier of normal trading on 19 June 2025 or announcement release.  </p>\n<p><em>(No material details on capital raising structure, size, or terms provided.)</em></p>",
+    "usage": {
+      "prompt_tokens": 770,
+      "completion_tokens": 59,
+      "total_tokens": 829,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:54:14.606397"
+  },
+  {
+    "ticker": "GLA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959131",
+    "id": "02959131",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0946",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthqbnfs7l3p.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Unlisted Options Expiry  </li>\n<li><strong>Expiry Details</strong>: 50,126,923 unlisted options (exercise price: $0.02) expire on <strong>30 June 2025</strong> at 5:00 PM AEST.  </li>\n<li><strong>Current Share Price</strong>: $0.009 (as of announcement date).  </li>\n</ul>\n<p><strong>Note</strong>: No immediate material trading impact, but potential dilution risk if options are exercised (current share price below exercise price).</p>",
+    "usage": {
+      "prompt_tokens": 436,
+      "completion_tokens": 99,
+      "total_tokens": 535,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:54:40.784997"
+  },
+  {
+    "ticker": "BBT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959130",
+    "id": "02959130",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0945",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthn46kfy15q.pdf",
+    "summary": "<ul>\n<li><strong>Superior Proposal Argument</strong>: Betr claims its acquisition offer for PointsBet is superior at <strong>A$1.33 per share</strong> (mix of cash/scrip) vs. MIXI's <strong>A$1.20</strong>.  </li>\n<li><strong>Funding Confirmation</strong>: Betr states <strong>A$120m acquisition facility from NAB</strong> is committed to fund the bid.  </li>\n<li><strong>Synergy Confidence</strong>: Betr asserts <strong>A$40m+ cost synergies</strong>, backed by a Big Four accounting advisor.  </li>\n<li><strong>Voting Intent</strong>: Betr (19.9% PointsBet shareholder) will <strong>vote against MIXI's proposal</strong> at the 25 June 2025 meeting.  </li>\n<li><strong>Management Incentives</strong>: MIXI's offer includes accelerated vesting of management rights; Betr's does not.  </li>\n</ul>\n<p><em>No other material trading/capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1230,
+      "completion_tokens": 181,
+      "total_tokens": 1411,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:52:43.971905"
+  },
+  {
+    "ticker": "JAV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959129",
+    "id": "02959129",
+    "pages": 20,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0944",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthksghgws5d.pdf",
+    "summary": "<p>Here\u2019s the material information extracted from the ASX announcement, formatted concisely as per your instructions:  </p>\n<h3><strong>Exploration Results Announcement</strong></h3>\n<ul>\n<li><strong>New Targets Identified</strong>: High-priority gold-copper drill targets identified at Coogee West Project (WA) through reprocessed geophysical data.  </li>\n<li><strong>Key Targets</strong>:  </li>\n<li><strong>CG-04</strong>: Untested circular magnetic anomaly (~700nT) west of Coogee Pit, starting at 300m depth.  </li>\n<li><strong>CG-06/CG-07</strong>: Undrilled 1.8km and 3km magnetic gold trends.  </li>\n<li><strong>Resource Context</strong>: Adjacent to Coogee Gold Project\u2019s existing MRE (3.65Mt @ 1.08g/t Au; 1.01Mt @ 0.41% Cu).  </li>\n<li><strong>Drilling Plan</strong>: Exploration program scheduled for Q3 2025 to test priority targets.  </li>\n</ul>\n<h3><strong>Relevance to Traders/Capital Markets</strong></h3>\n<ul>\n<li>Potential catalysts: Drill results from high-priority targets (CG-04, CG-06/CG-07) could impact valuation if mineralization is confirmed.  </li>\n<li>No capital raising or financial updates\u2014solely exploration-focused.  </li>\n</ul>\n<p><strong>Key Omissions</strong>: Operational minutiae, historical drilling details, and non-material geology/JORC compliance sections.  </p>\n<p>Let me know if you'd like further refinement.</p>",
+    "usage": {
+      "prompt_tokens": 11614,
+      "completion_tokens": 293,
+      "total_tokens": 11907,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:53:21.109644"
+  },
+  {
     "ticker": "VBX",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959128",
     "id": "02959128",
@@ -8,15 +141,15 @@
     "date": "20250617",
     "time": "0939",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthgstnn9vnf.pdf",
-    "summary": "<p>No material information identified (Corporate Presentation \u2013 No new announcements or actionable data for trading/capital markets decisions).  </p>\n<p>Key takeaways are operational/strategic in nature, not market-moving disclosures.</p>",
+    "summary": "<h3>Summary of ASX Announcement (Corporate Presentation \u2013 June 2025)</h3>\n<h4><strong>Key Material Information</strong></h4>\n<ul>\n<li><strong>Project Status</strong>:  </li>\n<li><strong>Wuudagu Bauxite Project (WA)</strong>:  <ul>\n<li>Advanced-stage project with <strong>95.9Mt Mineral Resource</strong> (63.5Mt Indicated, 32.4Mt Inferred).  </li>\n<li><strong>59.3Mt Probable Ore Reserve</strong> defined at Wuudagu C deposit.  </li>\n<li><strong>PFS (2025)</strong> shows <strong>3.5Mtpa production</strong> over 10 years, targeting <strong>first production in Q4 2026</strong>.  </li>\n<li><strong>Low silica product</strong> (45.4% Al\u2082O\u2083, 3.6% SiO\u2082) via on-site beneficiation.  </li>\n<li><strong>Low capex</strong>: A$125m upfront, <strong>AISC of A$54/t CFR China</strong>.  </li>\n<li>Strong economics: <strong>pre-tax NPV8 A$821m, IRR 136%, payback 16 months</strong>.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Takapinga Project (NT)</strong>:  </p>\n<ul>\n<li>Early-stage exploration (1,118km\u00b2), targeting large-scale bauxite potential.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Market Context</strong>:  </p>\n</li>\n<li><strong>Growing Chinese bauxite demand</strong>: Additional <strong>39Mtpa imports required by 2035</strong>.  </li>\n<li>\n<p><strong>Supply risks</strong>: Guinea dominates exports (70%), recent license restrictions highlight need for diversified supply (e.g., Australian projects like Wuudagu).  </p>\n</li>\n<li>\n<p><strong>Catalysts</strong>:  </p>\n</li>\n<li><strong>DFS completion targeted Q4 2025</strong>, financing Q2 2026, approvals Q3 2026.  </li>\n<li>\n<p>Offtake discussions ongoing; product samples circulated to potential customers.  </p>\n</li>\n<li>\n<p><strong>Corporate</strong>:  </p>\n</li>\n<li><strong>Board/management ownership</strong>: 53.4%, aligning interests.  </li>\n<li><strong>ASX listing</strong>: June 2025; tight capital structure (83.1m shares outstanding).  </li>\n</ul>\n<p><strong>No material new data</strong> beyond the Replacement Prospectus (May 2025). Focus remains on Wuudagu development and exploration upside.  </p>\n<hr />\n<p><em>Note: Excluded boilerplate disclaimers, background details, and non-material operational updates.</em></p>",
     "usage": {
-      "prompt_tokens": 7718,
-      "completion_tokens": 38,
-      "total_tokens": 7756,
+      "prompt_tokens": 7720,
+      "completion_tokens": 457,
+      "total_tokens": 8177,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:43.270332"
+    "processed_at": "2025-06-16T23:53:59.281685"
   },
   {
     "ticker": "VBX",
@@ -27,15 +160,15 @@
     "date": "20250617",
     "time": "0939",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthdq3b30lf6.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Listing/IPO</strong>:  </li>\n<li>Commenced trading on ASX (code: VBX) on 17 June 2025.  </li>\n<li>Raised <strong>$10M (AUD)</strong> via IPO at <strong>$0.60/share</strong> (16.7M shares issued).  </li>\n<li>\n<p>Undiluted market cap at IPO price: <strong>$49.9M (AUD)</strong>.  </p>\n</li>\n<li>\n<p><strong>Project (Wuudagu Bauxite)</strong>:  </p>\n</li>\n<li><strong>PFS Highlights</strong>:  <ul>\n<li>Pre-tax <strong>NPV8: $821M (AUD)</strong>, <strong>IRR: 136%</strong>, <strong>payback: 16 months</strong>.  </li>\n<li><strong>Annual EBITDA: $143M (AUD)</strong>; <strong>AISC: $54/t (CFR China)</strong>.  </li>\n<li><strong>Reserve</strong>: 59Mt Probable Reserve (10-year mine life, 3.5Mtpa production).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Targets</strong>:  </p>\n<ul>\n<li>DFS completion by <strong>H2 2025</strong>, production start by <strong>Q4 2026</strong>.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Market Context</strong>:  </p>\n</li>\n<li>Bauxite demand strong (China imports hit <strong>record 159Mt in 2024</strong>).  </li>\n<li><strong>Supply risks in Guinea</strong> (55Mtpa capacity suspended; 78% of China\u2019s supply).  </li>\n<li>\n<p>Wuudagu\u2019s <strong>low-silica bauxite (3.6% SiO\u2082)</strong> commands premium pricing (~<strong>$65.5/t USD</strong>).  </p>\n</li>\n<li>\n<p><strong>Key Catalysts</strong>:  </p>\n</li>\n<li>H2 2025: Drilling, resource updates, DFS, environmental submissions.  </li>\n<li>2026: Project financing (Q2), approvals (Q3), production (Q4).  </li>\n</ul>\n<p><em>Omitted: Non-material operational details, management commentary, legal boilerplate.</em></p>",
+    "summary": "<p>Here's the ruthlessly concise material summary tailored for trading/capital markets decisions:</p>\n<p><strong>IPO Completion &amp; Listing</strong><br />\n- Commenced ASX trading on 17 June 2025 under code <strong>VBX</strong>.<br />\n- Raised <strong>$10m at $0.60/share</strong> (16.67m shares issued; 83.1m total shares post-IPO).<br />\n- Oversubscribed by institutional/sophisticated investors.  </p>\n<p><strong>Wuudagu Project (PFS Highlights)</strong><br />\n- <strong>Pre-tax NPV8: $821m</strong>, <strong>IRR: 136%</strong>, <strong>16-month payback</strong>.<br />\n- <strong>59Mt Probable Reserve</strong> (10-year mine life; 3.5Mtpa production).<br />\n- <strong>First-quartile cost position</strong>: AISC <strong>$54/t CFR China</strong>.<br />\n- DFS targeted for <strong>H2 2025</strong>, production start <strong>Q4 2026</strong>.  </p>\n<p><strong>Market Context</strong><br />\n- <strong>Chinese imports at record highs</strong> (159Mt in 2024); <strong>Guinea supply risks</strong> (licence cancellations).<br />\n- <strong>Premium pricing</strong>: Wuudagu\u2019s low-silica bauxite (3.6% SiO\u2082) aligns with <strong>~$118/t CFR</strong> Guinean pricing.  </p>\n<p><strong>Key Upcoming Catalysts</strong><br />\n- <strong>H2 2025</strong>: DFS, drilling, resource update, environmental lodgement.<br />\n- <strong>2026 Milestones</strong>: Financing (Q2), approvals (Q3), production (Q4).  </p>\n<p><em>Omitted: Operational details, management commentary, CSR statements.</em></p>",
     "usage": {
-      "prompt_tokens": 3793,
-      "completion_tokens": 389,
-      "total_tokens": 4182,
+      "prompt_tokens": 3791,
+      "completion_tokens": 328,
+      "total_tokens": 4119,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:49:48.408737"
+    "processed_at": "2025-06-16T23:55:28.647542"
   },
   {
     "ticker": "D2O",
@@ -46,15 +179,15 @@
     "date": "20250617",
     "time": "0939",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kthblbjv2pt1.pdf",
-    "summary": "<ul>\n<li><strong>Type</strong>: Performance Rights issuance (unquoted securities)  </li>\n<li><strong>Volume</strong>: 3,000,000 Performance Rights issued (non-cash consideration)  </li>\n<li><strong>Context</strong>: Issued under Transitional Services Agreement (details in AGM Notice of Meeting, April 30, 2025)  </li>\n<li><strong>Existing Capital Structure Post-Issuance</strong>:  </li>\n<li>Quoted: 156,614,057 ordinary shares (D2O) + 38,165,498 options (D2OOA)  </li>\n<li>Unquoted: 3,000,000 Performance Rights (new class)  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (non-dilutive, unquoted, non-cash issuance).</em></p>",
+    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Notification of unquoted securities issuance (Appendix 3G)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li>Issuance of <strong>3,000,000 Performance Rights</strong> (unquoted, new class) on <strong>17/06/2025</strong>.  </li>\n<li>Non-cash consideration, issued under a <strong>Transitional Services Agreement</strong> (terms disclosed in AGM notice dated 30 April 2025).  </li>\n<li>No further securities to be issued under this transaction.  </li>\n</ul>\n<p><strong>No material impact on liquidity, valuation, or capital structure identified</strong> (routine issuance of non-tradable performance rights).  </p>\n<p><em>Note: Omitted boilerplate and non-trading-relevant AGM/valuation references.</em></p>",
     "usage": {
-      "prompt_tokens": 1590,
-      "completion_tokens": 153,
+      "prompt_tokens": 1592,
+      "completion_tokens": 151,
       "total_tokens": 1743,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:46:59.395765"
+    "processed_at": "2025-06-16T23:53:01.043351"
   },
   {
     "ticker": "SBM",
@@ -65,15 +198,15 @@
     "date": "20250617",
     "time": "0937",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kth41p3pl8m6.pdf",
-    "summary": "<p><strong>Production &amp; Cost Guidance Update (St Barbara Limited - ASX:SBM)</strong>  </p>\n<ul>\n<li><strong>Revised FY25 Guidance</strong>:  </li>\n<li>Gold production: 50,000\u201352,000 oz (previously undisclosed original target).  </li>\n<li>All-in Sustaining Cost (AISC): A$4,400\u20134,700/oz.  </li>\n<li><strong>Q4 Jun FY25 Update</strong>:  </li>\n<li>Production impacted by heavy rainfall at Simberi (100mm+ in June), delaying access to high-grade ore from Pigibo Central pit.  </li>\n<li>June output expected to be ~9,000 oz (lower recoveries due to alternative stockpile use).  </li>\n<li>Shortfall to be partly offset by gold-in-circuit drawdown; <strong>no material cash/bullion impact</strong> anticipated.  </li>\n<li><strong>Key Financial Position</strong>: No bank debt, no hedging.  </li>\n</ul>\n<p><em>No material changes to capital structure or liquidity noted.</em></p>",
+    "summary": "<ul>\n<li><strong>FY25 Production Update</strong>: Revised gold production guidance for FY25 reduced to <strong>50,000\u201352,000 oz</strong> (previously undisclosed).  </li>\n<li><strong>Q4 Jun FY25 Production</strong>: Expected at <strong>14,000\u201315,000 oz</strong>, impacted by severe rainfall temporarily halting access to high-grade benches in Pigibo Central pit.  </li>\n<li><strong>AISC Update</strong>: Revised to <strong>A$4,400\u20134,700/oz</strong> (vs. A$4,571/oz in Q3 Mar FY25).  </li>\n<li><strong>Liquidity</strong>: No material cash/bullion impact anticipated; excess gold-in-circuit to offset shortfall. No bank debt or hedging.  </li>\n<li><strong>Operational Disruption</strong>: Sorowar pit mining sustained but unable to fully compensate for delayed Pigibo Central production; lower-grade stockpiles to dilute recoveries.  </li>\n</ul>\n<p><em>No capital markets action required; no structural changes to financial position.</em></p>",
     "usage": {
       "prompt_tokens": 997,
-      "completion_tokens": 190,
-      "total_tokens": 1187,
+      "completion_tokens": 194,
+      "total_tokens": 1191,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:49:54.847432"
+    "processed_at": "2025-06-16T23:55:35.244448"
   },
   {
     "ticker": "SBM",
@@ -84,15 +217,15 @@
     "date": "20250617",
     "time": "0937",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kth64c8165w3.pdf",
-    "summary": "<ul>\n<li><strong>Simberi Mining Lease renewal application</strong> to be considered by Papua New Guinea's Mining Advisory Council (MAC) in June 2025.  </li>\n<li><strong>Final step</strong> before minister approval; no objections or delays noted in the process.  </li>\n<li>Expected to unlock <strong>Sulphide Ore Reserves</strong>, targeting <strong>gold production &gt;200,000 oz p.a.</strong>  </li>\n</ul>\n<p><em>No capital, financial, or trading-impact details identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Simberi Mining Lease Renewal Update</strong>: Mining Advisory Council (MAC) to consider early renewal application for Simberi Mining Lease (ML) in June 2025 meeting.  </li>\n<li><strong>Next Step</strong>: MAC's recommendation to Mining Minister is the final step before renewal.  </li>\n<li><strong>Key Implication</strong>: Renewal is critical for unlocking Sulphide Ore Reserves and expanding gold production to <strong>200,000+ ounces per annum</strong>.  </li>\n</ul>\n<p><em>No material financial or capital markets impact disclosed.</em></p>",
     "usage": {
-      "prompt_tokens": 887,
-      "completion_tokens": 88,
-      "total_tokens": 975,
+      "prompt_tokens": 889,
+      "completion_tokens": 102,
+      "total_tokens": 991,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:49:14.373952"
+    "processed_at": "2025-06-16T23:55:16.205659"
   },
   {
     "ticker": "WYX",
@@ -103,15 +236,15 @@
     "date": "20250617",
     "time": "0937",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kth87qydf97t.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<h4><strong>Key Highlights</strong></h4>\n<ul>\n<li><strong>Maiden JORC 2012 Mineral Resource Estimate (MRE)</strong> for Cardea 2 Bauxite Project:  </li>\n<li><strong>20Mt @ 32.1% Total Al\u2082O\u2083 &amp; 26.3% Total SiO\u2082</strong> (cut-off: \u226525% Al\u2082O\u2083).  </li>\n<li><strong>2.15Mt @ 35.7% Available Al\u2082O\u2083 &amp; 2.8% Reactive SiO\u2082</strong> (high-grade subset).  </li>\n<li><strong>Total Group Bauxite Resources</strong>: <strong>188Mt</strong> (combined with Julimar West\u2019s 168Mt).  </li>\n<li><strong>Exploration Upside</strong>: Untested 3.8km strike length potential for further resource growth.  </li>\n</ul>\n<h4><strong>Strategic Value</strong></h4>\n<ul>\n<li><strong>Location</strong>: 16.5km southeast of flagship Julimar West project (168Mt) in WA\u2019s Darling Range.  </li>\n<li><strong>Infrastructure</strong>: Proximity to Perth-Kalgoorlie railway (~16km) supports potential DSO (Direct Shipping Ore) operations.  </li>\n<li><strong>Market Potential</strong>: Targets alumina refineries in China/Middle East; low reactive silica (&lt;5%) enhances suitability for Bayer process.  </li>\n</ul>\n<h4><strong>Metallurgical Notes</strong></h4>\n<ul>\n<li><strong>Bomb Digest Tests</strong>: Confirmed high-grade available alumina (35.7%) but limited to samples with &gt;35% Total Al\u2082O\u2083. Further metallurgical work planned.  </li>\n</ul>\n<h4><strong>Forward Plan</strong></h4>\n<ul>\n<li><strong>Next Steps</strong>: Drilling to expand untested western zone (3.8km \u00d7 1.2km).  </li>\n</ul>\n<h3><strong>Capital Markets Implications</strong></h3>\n<ul>\n<li><strong>Resource Scale</strong>: Adds 20Mt to portfolio, reinforcing WYX\u2019s position as a bauxite developer.  </li>\n<li><strong>Valuation Impact</strong>: Potential re-rating as total resources approach 200Mt.  </li>\n<li><strong>Catalysts</strong>: Further metallurgical results and exploration updates.  </li>\n</ul>\n<p><strong>Format</strong>: Concise, trading-relevant, excludes operational minutiae.</p>",
+    "summary": "<p>Here\u2019s the concise extraction of material information from the ASX announcement:</p>\n<h3><strong>Key Highlights (Bauxite Resource Update)</strong></h3>\n<ul>\n<li><strong>Mineral Resource Estimate (MRE):</strong>  </li>\n<li><strong>Cardea 2 Project (Inferred JORC 2012):</strong>  <ul>\n<li><strong>20Mt @ 32.1% Total Al\u2082O\u2083 &amp; 26.3% Total SiO\u2082</strong> (cut-off: \u226525% Al\u2082O\u2083).  </li>\n<li><strong>High-grade subset:</strong> 2.15Mt @ 35.7% Available Al\u2082O\u2083 &amp; 2.8% Reactive SiO\u2082 (Bomb Digest Method).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Total Company Bauxite Resources:</strong> <strong>188Mt</strong> (combined with Julimar West\u2019s 168Mt).  </p>\n</li>\n<li>\n<p><strong>Exploration &amp; Growth Potential:</strong>  </p>\n</li>\n<li>Untested <strong>3.8km strike \u00d7 1.2km width</strong> area within the license.  </li>\n<li>\n<p>Potential for <strong>Direct Shipping Ore (DSO)</strong> operation targeting Chinese/Middle Eastern refineries.  </p>\n</li>\n<li>\n<p><strong>Location &amp; Infrastructure:</strong>  </p>\n</li>\n<li><strong>Darling Range Bauxite Field (WA)</strong>, 16.5km from Julimar West Project.  </li>\n<li>\n<p>Proximity to Perth, railways, and ports enhances logistics.  </p>\n</li>\n<li>\n<p><strong>Metallurgical Notes:</strong>  </p>\n</li>\n<li><strong>Low reactive silica (&lt;5%)</strong> favors Bayer process efficiency.  </li>\n<li>Historical test work indicates <strong>beneficiation potential</strong> (wet screening upgraded Al\u2082O\u2083 to ~50%).  </li>\n</ul>\n<h3><strong>Material Impact</strong></h3>\n<ul>\n<li><strong>Resource Expansion:</strong> Adds 20Mt to portfolio, improving scale and economics.  </li>\n<li><strong>Strategic Value:</strong> Enhances potential for near-term DSO production.  </li>\n</ul>\n<p><strong>No capital raising, trading halt, or financial figures requiring immediate action were announced.</strong>  </p>\n<p><em>Omitted:</em> Operational minutiae, director quotes, historical assay tables, and JORC details (unless materially impacting valuation).</p>",
     "usage": {
-      "prompt_tokens": 36773,
-      "completion_tokens": 422,
-      "total_tokens": 37195,
+      "prompt_tokens": 36775,
+      "completion_tokens": 406,
+      "total_tokens": 37181,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:49.902792"
+    "processed_at": "2025-06-16T23:55:07.884632"
   },
   {
     "ticker": "CU6",
@@ -122,15 +255,15 @@
     "date": "20250617",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06kth1v75ydb12.pdf",
-    "summary": "<p><strong>Key Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Commercial Manufacturing Agreement signed with SpectronRx</strong> for large-scale production of <strong>64Cu-SAR-bisPSMA</strong> (diagnostic radiopharmaceutical).  </li>\n<li><strong>Capacity</strong>: Up to <strong>400,000 patient-ready doses annually</strong> from SpectronRx\u2019s Indiana facility, scalable via optional regional US hubs.  </li>\n<li><strong>Strategic Impact</strong>: Ensures <strong>nationwide US distribution</strong> (all 50 states) upon FDA approval; reinforces supply chain resilience for commercial rollout.  </li>\n<li><strong>Timeline</strong>: Agreement effective <strong>17 June 2025</strong> (5-year term), aligning with Phase III trials (<strong>CLARIFY</strong>, <strong>AMPLIFY</strong>) and future NDA submission.  </li>\n</ul>\n<p><em>Rationale: Directly addresses commercial readiness and scalability, critical for valuation given pending Phase III results and market potential.</em></p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Commercial Manufacturing Agreement</strong> executed with <strong>SpectronRx</strong> for <strong>64Cu-SAR-bisPSMA</strong>.  </li>\n<li><strong>Capacity</strong>: Up to <strong>400,000 patient-ready doses annually</strong> from SpectronRx\u2019s Indiana facility by commercialization.  </li>\n<li><strong>Expansion Option</strong>: Potential for additional US sites to scale production further.  </li>\n<li><strong>Supply Chain Strategy</strong>: Multi-layered approach combining centralized, regional, and local production, leveraging <strong>copper-64\u2019s 12.7-hour half-life</strong> for extended shelf-life (up to 48 hours).  </li>\n<li><strong>Agreement Term</strong>: Initial <strong>5-year period</strong> (effective <strong>17 June 2025</strong>), with standard cancellation/extension terms.  </li>\n<li><strong>Commercial Readiness</strong>: Supports large-scale rollout <strong>upon FDA approval</strong> post-Phase III trials (CLARIFY, AMPLIFY).  </li>\n</ul>\n<p><strong>No material financial or capital structure impacts disclosed.</strong></p>",
     "usage": {
-      "prompt_tokens": 2772,
-      "completion_tokens": 171,
-      "total_tokens": 2943,
+      "prompt_tokens": 2774,
+      "completion_tokens": 194,
+      "total_tokens": 2968,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:17.857747"
+    "processed_at": "2025-06-16T23:54:31.031683"
   },
   {
     "ticker": "PAB",
@@ -141,15 +274,15 @@
     "date": "20250617",
     "time": "0935",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgxk2pb2pfs.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Placement  </li>\n<li><strong>Total Securities Issued</strong>: 162,360,161 ordinary shares (PAB)  </li>\n<li><strong>Issue Price</strong>: $0.001 (0.1 cents) per share (non-cash consideration)  </li>\n<li><strong>Purpose</strong>: Settlement of accrued salary and termination payments to Dr James Campbell (or nominee)  </li>\n<li><strong>Shareholder Approval Required</strong>: Yes \u2013 expected determination date 21/7/2025  </li>\n<li><strong>Proposed Issue Date</strong>: 28/7/2025  </li>\n<li><strong>Key Condition</strong>: Approval pending at General Meeting in July 2025  </li>\n<li><strong>Ranking</strong>: Equal to existing ordinary shares  </li>\n<li><strong>No underwriting or lead manager involvement</strong>  </li>\n</ul>\n<p>Omitted: Legal boilerplate, director names, non-material fees.</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Placement  </li>\n<li><strong>Security</strong>: 162,360,161 PAB ordinary shares  </li>\n<li><strong>Issue Price</strong>: $0.001 per share (deemed value: ~$162,360 AUD)  </li>\n<li><strong>Purpose</strong>: Shares issued to Dr. James Campbell (or nominee) in lieu of accrued salary/termination payments  </li>\n<li><strong>Conditions</strong>: Subject to shareholder approval (meeting expected July 2025)  </li>\n<li><strong>Issue Date</strong>: 28 July 2025 (estimated)  </li>\n<li><strong>Ranking</strong>: Equal to existing shares  </li>\n<li><strong>No underwriting/fees</strong>: Only standard administrative costs  </li>\n</ul>\n<p><em>Omits non-material details (e.g., escrow, dividend policy).</em></p>",
     "usage": {
       "prompt_tokens": 1779,
-      "completion_tokens": 160,
-      "total_tokens": 1939,
+      "completion_tokens": 147,
+      "total_tokens": 1926,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:32.098459"
+    "processed_at": "2025-06-16T23:53:24.368609"
   },
   {
     "ticker": "EVR",
@@ -160,15 +293,15 @@
     "date": "20250617",
     "time": "0935",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgzn9mpsk42.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement regarding a capital raise and changes to the Board.  </li>\n<li><strong>Halt Duration</strong>: Until the earlier of commencement of trading on 19 June 2025 or release of the announcement.  </li>\n</ul>\n<p><em>No further material details provided (e.g., capital raising structure, Board changes).</em></p>",
+    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Reason: Pending announcement regarding a capital raise and changes to the Board.<br />\n- Expected end: Earlier of commencement of trading on 19 June 2025 or release of the announcement.  </p>\n<p><strong>Key Implication:</strong><br />\n- Capital raise (structure undisclosed) and board changes imminent; monitor for further details.  </p>\n<p>(Note: Specifics of capital raising structure, amounts, or dates not provided in this excerpt.)</p>",
     "usage": {
-      "prompt_tokens": 726,
-      "completion_tokens": 68,
-      "total_tokens": 794,
+      "prompt_tokens": 724,
+      "completion_tokens": 94,
+      "total_tokens": 818,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:29.770263"
+    "processed_at": "2025-06-16T23:54:33.525779"
   },
   {
     "ticker": "XAM",
@@ -179,15 +312,15 @@
     "date": "20250617",
     "time": "0933",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgpxqrnsd6y.pdf",
-    "summary": "<p><strong>Takeover Offer Update (Material Information):</strong><br />\n- <strong>Zijin Mining (largest shareholder &amp; JV partner, 50% stake in Kharmagtai project) has accepted Bastion Mining's A$0.08/share offer</strong>.<br />\n- <strong>Bastion now holds 29.67% of Xanadu</strong> (including Zijin's acceptance and existing stake).<br />\n- <strong>Takeover Board Committee recommends shareholders accept the offer</strong>, citing low likelihood of a superior proposal.<br />\n- <strong>Offer closure date</strong>: 1 July 2025 (Sydney time).<br />\n- <strong>Bastion will declare offer unconditional upon reaching 50.1% ownership</strong>.  </p>\n<p><em>Omitted: Background on Xanadu, forward-looking statements, contact details.</em></p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Takeover Offer Update</strong>:  </li>\n<li><strong>Bastion Mining</strong> now holds <strong>29.67%</strong> of Xanadu shares (including Zijin\u2019s acceptance).  </li>\n<li><strong>Zijin Mining</strong> (largest shareholder &amp; JV partner) has accepted the <strong>A$0.08/share offer</strong> (no superior offer expected).  </li>\n<li><strong>Recommendation</strong>: Takeover Board Committee advises shareholders to accept Bastion\u2019s offer.  </li>\n<li><strong>Offer Close Date</strong>: <strong>1 July 2025</strong> (7:00pm Sydney time).  </li>\n<li><strong>Condition</strong>: Offer to be declared unconditional if Bastion reaches <strong>50.1%</strong> ownership.  </li>\n</ul>\n<p><em>(Omitted: Forward-looking statements, operational background, contact details.)</em></p>",
     "usage": {
       "prompt_tokens": 1596,
-      "completion_tokens": 155,
-      "total_tokens": 1751,
+      "completion_tokens": 164,
+      "total_tokens": 1760,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:20.622154"
+    "processed_at": "2025-06-16T23:53:10.967835"
   },
   {
     "ticker": "LSF",
@@ -198,15 +331,15 @@
     "date": "20250617",
     "time": "0933",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgv57ynwpqh.pdf",
-    "summary": "<p>No material information identified for trading or capital markets decisions.  </p>\n<p>(Reason: This is a routine director's interest change notification with no material impact on valuation, liquidity, or capital structure.)</p>",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3Y):</strong>  </p>\n<ul>\n<li><strong>Director\u2019s Interest Change</strong>: Raphael Lamm increased indirect holdings via <strong>on-market trade</strong> of <strong>9,183 ordinary shares</strong> at <strong>$25,816.17 total consideration</strong>.  </li>\n<li><strong>Post-Trade Holdings</strong>:  </li>\n<li><strong>Shomron Pty Ltd (Lamm FM Family Trust)</strong>: Remains at <strong>7,941,241 ordinary shares</strong> (plus 2.5m in escrow until 24 Apr 2028).  </li>\n<li><strong>Cantone No. 2 Pty Ltd</strong>: Increased to <strong>24,018,236 ordinary shares</strong> (plus 15.3m in escrow until 24 Apr 2028).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1193,
-      "completion_tokens": 38,
-      "total_tokens": 1231,
+      "prompt_tokens": 1195,
+      "completion_tokens": 178,
+      "total_tokens": 1373,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:52.062181"
+    "processed_at": "2025-06-16T23:55:13.751582"
   },
   {
     "ticker": "LNU",
@@ -217,15 +350,15 @@
     "date": "20250617",
     "time": "0933",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgrzw5vktpq.pdf",
-    "summary": "<p>No material information identified.\n<em>(Note: The announcement is an invitation to a virtual conference with no concrete financial/operational data disclosed. Upcoming topics like \"completion of capital raising\" or \"growth initiatives\" are too vague to be material without specifics. If trading decisions require insights from the conference, await the actual presentation details.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>Reason:</em> The announcement is an invitation to a virtual conference outlining planned discussion topics (capital raising completion, governance updates, growth initiatives). No new actionable financial, operational, or capital markets data is disclosed.</p>",
     "usage": {
       "prompt_tokens": 880,
-      "completion_tokens": 69,
-      "total_tokens": 949,
+      "completion_tokens": 49,
+      "total_tokens": 929,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:32.246420"
+    "processed_at": "2025-06-16T23:54:36.420573"
   },
   {
     "ticker": "LRT",
@@ -236,15 +369,15 @@
     "date": "20250617",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktghjcdpqbtg.pdf",
-    "summary": "<p><strong>Net Asset Value (NAV) Update:</strong><br />\n- Estimated NAV per unit as at <strong>13 June 2025: AUD 1.8239</strong>.  </p>\n<p><em>(No other material information identified.)</em></p>",
+    "summary": "<p><strong>NET ASSET VALUE (NAV) UPDATE</strong><br />\n- NAV per unit as at 13 June 2025: <strong>$1.8239</strong>.  </p>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 569,
-      "completion_tokens": 42,
-      "total_tokens": 611,
+      "prompt_tokens": 567,
+      "completion_tokens": 41,
+      "total_tokens": 608,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:04.875447"
+    "processed_at": "2025-06-16T23:54:22.900044"
   },
   {
     "ticker": "PAB",
@@ -255,15 +388,15 @@
     "date": "20250617",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgmq8l5tpnj.pdf",
-    "summary": "<ul>\n<li><strong>CEO redundancy confirmed</strong>, effective 1 July 2025, with leave from 17 June 2025.  </li>\n<li><strong>Termination payment</strong>: ~$535,877 (incl. 6 months' notice payment; 36% of total).  </li>\n<li><strong>Shares issued for part payment</strong>: $231,748 (43% of entitlements) to be settled via <strong>share issuance at $0.001/share</strong>, pending shareholder approval by 31 August 2025 (else paid in cash).  </li>\n<li><strong>Transition to non-executive director</strong>: Dr Campbell to remain on board post-1 July 2025.  </li>\n<li><strong>Cash conservation</strong>: Share issuance aimed at preserving cash.  </li>\n</ul>\n<p><em>No material financial/operational impact beyond disclosed payments and dilution risk from share issuance.</em></p>",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>CEO Redundancy &amp; Deed of Release</strong>:  </li>\n<li>CEO employment ends <strong>1 July 2025</strong>; leave without pay from <strong>17 June 2025</strong>.  </li>\n<li>Total termination payments: <strong>~$535,877</strong>, including <strong>6 months\u2019 notice pay (36% of total)</strong>.  </li>\n<li><strong>$231,748 (43%) to be settled via equity issuance</strong> at <strong>$0.001/share</strong> (subject to shareholder approval by <strong>31 August 2025</strong>).  </li>\n<li>\n<p>CEO transitions to <strong>non-executive director</strong> post-1 July 2025.  </p>\n</li>\n<li>\n<p><strong>Material Impact</strong>:  </p>\n</li>\n<li>Cash conservation via partial equity settlement of termination costs.  </li>\n<li>Potential dilution if shares issued (~231.7 million shares at $0.001).  </li>\n</ul>\n<p><em>Omitted: Standard legal terms, contact details, operational background.</em></p>",
     "usage": {
       "prompt_tokens": 876,
-      "completion_tokens": 159,
-      "total_tokens": 1035,
+      "completion_tokens": 184,
+      "total_tokens": 1060,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:40.108029"
+    "processed_at": "2025-06-16T23:53:38.589543"
   },
   {
     "ticker": "SHE",
@@ -274,15 +407,15 @@
     "date": "20250617",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgkn3zj8tp3.pdf",
-    "summary": "<p><strong>Summary of Appendix 3Z Announcement:</strong></p>\n<ul>\n<li><strong>Director Ceased:</strong> Jay Stephenson ceased as director on 17 June 2025.  </li>\n<li><strong>Securities Held:</strong> Vin Ethos Pty Ltd holds 2,255,208 ordinary shares (indirect interest).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3Z notices disclose director shareholding changes but rarely contain material trading or capital markets information unless significant ownership changes occur. This filing confirms a director's cessation and indirect holding via Vin Ethos Pty Ltd, but no material trading impact is evident.)</em></p>",
     "usage": {
       "prompt_tokens": 730,
-      "completion_tokens": 68,
-      "total_tokens": 798,
+      "completion_tokens": 59,
+      "total_tokens": 789,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:49:34.051099"
+    "processed_at": "2025-06-16T23:55:20.874333"
   },
   {
     "ticker": "SHE",
@@ -293,15 +426,15 @@
     "date": "20250617",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgcbg1jh7wf.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Reason: This is a standard Appendix 3X disclosure of a director's initial interests, with no securities or contracts reported. No impact on trading, capital structure, or valuation.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is an Appendix 3X director interest notice disclosing no securities or contracts held by the newly appointed director. No actionable market or capital structure impact.)</em></p>",
     "usage": {
-      "prompt_tokens": 717,
-      "completion_tokens": 46,
-      "total_tokens": 763,
+      "prompt_tokens": 719,
+      "completion_tokens": 40,
+      "total_tokens": 759,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:49:19.335200"
+    "processed_at": "2025-06-16T23:55:17.563719"
   },
   {
     "ticker": "BET",
@@ -312,15 +445,15 @@
     "date": "20250617",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktg519zbmm40.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement: Share Purchase Plan (SPP) Offer</strong></h3>\n<h4><strong>Key Details:</strong></h4>\n<ul>\n<li><strong>Type:</strong> <strong>Share Purchase Plan (SPP)</strong>  </li>\n<li><strong>Target Raise:</strong> <strong>AUD $1,000,000</strong> (subject to oversubscription)  </li>\n<li><strong>Issue Price:</strong> <strong>AUD $0.10 per share</strong>  </li>\n<li>Represents a <strong>9.9% discount</strong> to the 10-day VWAP prior to announcement (AUD $0.11).  </li>\n<li><strong>Use of Proceeds:</strong>  </li>\n<li>Repay outstanding debt.  </li>\n<li>Fund content/access agreements (e.g., Jersey Fixed Odds).  </li>\n<li>Strategic acquisition of Las Vegas Dissemination Company.  </li>\n<li>General working capital.  </li>\n</ul>\n<h4><strong>Key Dates:</strong></h4>\n<ul>\n<li><strong>Record Date:</strong> 4 June 2025 (7:00 PM AEST)  </li>\n<li><strong>Offer Open:</strong> 17 June 2025  </li>\n<li><strong>Offer Close:</strong> 1 July 2025 (5:00 PM AEST)  </li>\n<li><strong>Issue Date:</strong> 8 July 2025  </li>\n<li><strong>Trading Start:</strong> 9 July 2025  </li>\n</ul>\n<h4><strong>Eligibility &amp; Terms:</strong></h4>\n<ul>\n<li><strong>Eligible Shareholders:</strong> Registered holders with addresses in <strong>Australia or New Zealand</strong> as of record date.  </li>\n<li><strong>Investment Limits:</strong>  </li>\n<li><strong>Minimum:</strong> AUD $2,500  </li>\n<li><strong>Maximum:</strong> AUD $30,000 per shareholder (aggregate across holdings).  </li>\n<li><strong>Non-renounceable, non-underwritten.</strong>  </li>\n<li><strong>Potential for scale-back.</strong>  </li>\n</ul>\n<h4><strong>Additional Notes:</strong></h4>\n<ul>\n<li><strong>Placement Precedent:</strong> Preceded by a <strong>AUD $12.5M institutional placement</strong> at the same issue price ($0.10).  </li>\n</ul>\n<p><strong>Rules Applied:</strong> Omitted legal/boilerplate, director details, and non-material operational explanations. Focused on pricing, structure, timetable, and capital impact.  </p>\n<hr />\n<p><strong>Final Output:</strong> Directly actionable for trading/investment decisions.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Capital Raising Announcement (SPP)</strong></h4>\n<ul>\n<li><strong>Structure</strong>: Share Purchase Plan (SPP)  </li>\n<li><strong>Target Raise</strong>: AUD $1 million (subject to discretion).  </li>\n<li><strong>Issue Price</strong>: AUD $0.10 per share (9.9% discount to 10-day VWAP prior to announcement).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Record Date</strong>: 4 June 2025  </li>\n<li><strong>Offer Open</strong>: 17 June 2025  </li>\n<li><strong>Offer Close</strong>: 1 July 2025  </li>\n<li><strong>Issue Date</strong>: 8 July 2025  </li>\n<li><strong>Subscription Limits</strong>:  </li>\n<li>Minimum: AUD $2,500  </li>\n<li>Maximum: AUD $30,000 per eligible shareholder.  </li>\n</ul>\n<h4><strong>Use of Proceeds</strong></h4>\n<ul>\n<li>Repay outstanding debt.  </li>\n<li>Fund content/access agreements (e.g., Jersey Fixed Odds).  </li>\n<li>Strategic acquisition of Las Vegas Dissemination Company.  </li>\n<li>Working capital and financial flexibility.  </li>\n</ul>\n<h4><strong>Additional Notes</strong></h4>\n<ul>\n<li>Non-renounceable, oversubscriptions accepted at discretion.  </li>\n<li>Eligible shareholders: Australia/NZ residents only (excludes US persons).  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
     "usage": {
-      "prompt_tokens": 10936,
-      "completion_tokens": 427,
-      "total_tokens": 11363,
+      "prompt_tokens": 10934,
+      "completion_tokens": 259,
+      "total_tokens": 11193,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:15.361763"
+    "processed_at": "2025-06-16T23:53:06.904988"
   },
   {
     "ticker": "SHE",
@@ -331,15 +464,15 @@
     "date": "20250617",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktg96pgxfymr.pdf",
-    "summary": "<h3>Summary:</h3>\n<p><strong>Board Changes</strong><br />\n- <strong>Resignation:</strong> Jay Stephenson steps down as Director and Company Secretary.<br />\n- <strong>Appointment:</strong> Nicholas Ong appointed as Non-Executive Director and Company Secretary (immediate effect). Background in governance, mining, and commercial negotiations.  </p>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Board Changes</strong>: Jay Stephenson resigns as Director and Company Secretary.  </li>\n<li><strong>New Appointment</strong>: Nicholas Ong appointed as Non-Executive Director and Company Secretary (experienced in governance, mining, and offtake contracts).  </li>\n</ul>\n<p>No material capital markets or trading impact identified.</p>",
     "usage": {
       "prompt_tokens": 764,
-      "completion_tokens": 70,
-      "total_tokens": 834,
+      "completion_tokens": 57,
+      "total_tokens": 821,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:02.563068"
+    "processed_at": "2025-06-16T23:54:17.859276"
   },
   {
     "ticker": "LSF",
@@ -350,15 +483,15 @@
     "date": "20250617",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktgffp4blj1q.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change Notice</strong>:  </li>\n<li><strong>Director</strong>: Mark Landau  </li>\n<li><strong>Indirect Interests</strong>:  <ul>\n<li>Annaeus Pty Ltd (2,150,000 escrowed + 5,469,647 ordinary shares)  </li>\n<li>Billy Ray Pty Ltd (350,000 escrowed + 51,062 ordinary shares)  </li>\n<li>Sylverly Pty Ltd (15,285,179 escrowed + 29,537,471 ordinary shares)  </li>\n</ul>\n</li>\n<li><strong>Change</strong>: Acquired <strong>9,183 ordinary shares</strong> on-market for <strong>$25,816.17</strong> (no disposals).  </li>\n<li><strong>Post-change Holdings</strong>: Sylverly Pty Ltd now holds <strong>29,546,654 ordinary shares</strong>.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).</p>",
+    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Mark Landau  </li>\n<li><strong>Date of Change:</strong> 16 June 2025  </li>\n<li><strong>Transaction Type:</strong> On-market trade (acquisition)  </li>\n<li><strong>Securities Acquired:</strong> 9,183 Ordinary Shares  </li>\n<li><strong>Total Consideration:</strong> AUD $25,816.17  </li>\n<li><strong>Post-Transaction Holdings:</strong>  </li>\n<li><strong>Annaeus Pty Ltd (Mark Landau Family Trust):</strong> 7,619,647 Ordinary Shares (incl. 2,150,000 escrowed until 24 April 2028)  </li>\n<li><strong>Billy Ray Pty Ltd (Kram Super Fund):</strong> 401,062 Ordinary Shares (incl. 350,000 escrowed)  </li>\n<li><strong>Sylverly Pty Ltd:</strong> 44,831,833 Ordinary Shares (incl. 15,285,179 escrowed)  </li>\n<li><strong>Closed Period Trading:</strong> No (no clearance required).  </li>\n</ul>\n<p><strong>Material Impact:</strong> Minimal \u2013 reflects a modest personal acquisition by a director with no change in escrowed holdings or material liquidity impact.</p>",
     "usage": {
-      "prompt_tokens": 1248,
-      "completion_tokens": 170,
-      "total_tokens": 1418,
+      "prompt_tokens": 1250,
+      "completion_tokens": 233,
+      "total_tokens": 1483,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:35.930093"
+    "processed_at": "2025-06-16T23:53:34.171765"
   },
   {
     "ticker": "AUE",
@@ -369,15 +502,15 @@
     "date": "20250617",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktg7420wny6r.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><em>(Exploration Results Announcement - Key Trading &amp; Capital Markets Takeaways)</em>  </p>\n<h4><strong>1. High-Grade Drill Results</strong></h4>\n<ul>\n<li><strong>BDT1 Deposit (Boundiali):</strong>  </li>\n<li><strong>66m @ 1.07 g/t Au</strong> from 33m (including <strong>29m @ 1.46 g/t Au</strong>).  </li>\n<li><strong>71.72m @ 0.72 g/t Au</strong> from 187m (including <strong>6.50m @ 1.72 g/t Au</strong>).  </li>\n<li><strong>BDT3 Prospect (Boundiali):</strong>  </li>\n<li><strong>8.34m @ 1.95 g/t Au</strong> from 132.66m (including <strong>5.54m @ 2.88 g/t Au</strong>).  </li>\n</ul>\n<h4><strong>2. Exploration &amp; Resource Growth</strong></h4>\n<ul>\n<li><strong>100,000m drilling program</strong> ongoing at Boundiali (eight company-owned rigs).  </li>\n<li><strong>Two MRE updates planned in 2025</strong> (first in July) to expand <strong>current 1.59Moz resource</strong>.  </li>\n<li><strong>30,000m drilling</strong> to commence at <strong>Napi\u00e9 Project</strong> (current MRE: <strong>0.87Moz</strong>).  </li>\n</ul>\n<h4><strong>3. Development Progress</strong></h4>\n<ul>\n<li><strong>Pre-Feasibility Study (PFS) for Boundiali</strong> underway, targeting completion by <strong>end of 2025</strong>.  </li>\n</ul>\n<h4><strong>4. Funding &amp; Capital Structure</strong></h4>\n<ul>\n<li><strong>$35.6M private placement completed in May 2025</strong> \u2013 fully funds exploration plans.  </li>\n</ul>\n<hr />\n<p><strong>Note:</strong> All intervals calculated at <strong>0.1 g/t Au cutoff</strong>; true widths estimated at <strong>65\u201380%</strong> of downhole lengths. Mineralization remains <strong>open at depth and along strike</strong>.  </p>\n<p><em>Prioritized brevity; omitted operational/contextual details.</em></p>",
+    "summary": "<p>Here's the extracted material information tailored for capital markets decision-making:  </p>\n<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Drilling Results</strong>:  </li>\n<li><strong>BD Target 1 (BDT1)</strong>:  <ul>\n<li>66m @ <strong>1.07 g/t Au</strong> from 33m (including 29m @ <strong>1.46 g/t Au</strong>).  </li>\n<li>71.72m @ <strong>0.72 g/t Au</strong> from 187m (including 6.50m @ <strong>1.72 g/t Au</strong>).  </li>\n</ul>\n</li>\n<li><strong>BD Target 3 (BDT3)</strong>:  <ul>\n<li>8.34m @ <strong>1.95 g/t Au</strong> from 132.66m (including 5.54m @ <strong>2.88 g/t Au</strong>).  </li>\n</ul>\n</li>\n<li><strong>Resource Growth Plans</strong>:  </li>\n<li><strong>Boundiali Project</strong>:  <ul>\n<li>Ongoing <strong>100,000m drilling program</strong> in 2025.  </li>\n<li><strong>Two MRE updates planned</strong>: First in July 2025 (incorporating these results), second by late 2025.  </li>\n<li>Pre-Feasibility Study (PFS) targeted for completion by <strong>end of CY2025</strong>.  </li>\n</ul>\n</li>\n<li><strong>Napi\u00e9 Project</strong>:  <ul>\n<li><strong>30,000m drilling program</strong> commencing June 2025 to expand current <strong>0.87Moz MRE</strong>.  </li>\n</ul>\n</li>\n<li><strong>Funding &amp; Capital</strong>:  </li>\n<li><strong>$35.6M private placement completed in May 2025</strong> ensures fully funded exploration.  </li>\n<li><strong>Project Scale</strong>:  </li>\n<li>Combined <strong>2.47Moz gold resources</strong> (1.59Moz at Boundiali, 0.87Moz at Napi\u00e9).  </li>\n<li>Mineralization remains <strong>open along strike and at depth</strong>.  </li>\n</ul>\n<h3><strong>Key Takeaways for Traders/Investors</strong></h3>\n<ol>\n<li><strong>High-impact drilling results</strong> support resource expansion potential.  </li>\n<li><strong>Aggressive 2025 drill programs</strong> (130,000m total across both projects) with near-term catalysts (MRE updates, PFS).  </li>\n<li><strong>Strong liquidity position</strong> post-$35.6M raise reduces financing risk.  </li>\n</ol>\n<p><em>No material operational or financial red flags identified.</em>  </p>\n<p><strong>Note</strong>: Omitted routine technical/assay details, non-material JORC data, and repetitive drilling tables. Focused on valuation-impacting metrics.</p>",
     "usage": {
-      "prompt_tokens": 31531,
-      "completion_tokens": 391,
-      "total_tokens": 31922,
+      "prompt_tokens": 31529,
+      "completion_tokens": 495,
+      "total_tokens": 32024,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:57.472127"
+    "processed_at": "2025-06-16T23:54:12.454460"
   },
   {
     "ticker": "AAU",
@@ -388,15 +521,15 @@
     "date": "20250617",
     "time": "0929",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktg2q34j340x.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising</strong>: 20,000,000 shares issued at <strong>A$0.004/share</strong> (total <strong>A$80,000</strong>) with <strong>1 free option per 2 shares</strong> (exercise price <strong>A$0.01</strong>, expiry <strong>31 Dec 2026</strong>).  </li>\n<li><strong>Type</strong>: Placement to sophisticated investors (no disclosure under Part 6D.2).  </li>\n</ul>\n<p><em>Note: No material valuation or liquidity impact given small size.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Details</strong>: Placement of 20,000,000 shares at AUD $0.004 per share, with one free attaching listed option per two shares (exercise price: AUD $0.01, expiry: 31 Dec 2026).  </li>\n<li><strong>Disclosure Exemption</strong>: Issued without disclosure under Part 6D.2 of Corporations Act (sophisticated investors only).  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 622,
-      "completion_tokens": 95,
-      "total_tokens": 717,
+      "completion_tokens": 91,
+      "total_tokens": 713,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:47:28.671158"
+    "processed_at": "2025-06-16T23:53:13.589242"
   },
   {
     "ticker": "CLE",
@@ -445,15 +578,15 @@
     "date": "20250617",
     "time": "0928",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktg0fhk0sf1y.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Reason: Appendix 3X is a routine director interest disclosure with nil holdings or interests reported. No impact on trading or capital structure.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: Appendix 3X filings disclose director interests but contain no trade-relevant data unless securities are acquired/sold. This filing reports nil holdings.)</em></p>",
     "usage": {
-      "prompt_tokens": 722,
-      "completion_tokens": 37,
-      "total_tokens": 759,
+      "prompt_tokens": 724,
+      "completion_tokens": 40,
+      "total_tokens": 764,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-16T23:48:33.885958"
+    "processed_at": "2025-06-16T23:54:37.916034"
   },
   {
     "ticker": "AAU",
