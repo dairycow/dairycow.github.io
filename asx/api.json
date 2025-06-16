@@ -1,5 +1,575 @@
 [
   {
+    "ticker": "WQG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959086",
+    "id": "02959086",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0913",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktdj6vvmjytr.pdf",
+    "summary": "<ul>\n<li><strong>NTA (Net Tangible Assets) per share as at 13 June 2025</strong>:  </li>\n<li>Pre-tax: <strong>$1.978</strong>  </li>\n<li>Post-tax: <strong>$1.763</strong>  </li>\n<li><strong>Closing share price (13 June 2025)</strong>: <strong>$1.760</strong>  </li>\n<li><strong>Dividend impact</strong>:  </li>\n<li>Accrued final dividend of <strong>1.89 cps (100% franked)</strong>, ex-date <strong>11 June 2025</strong>, payable <strong>30 June 2025</strong>.  </li>\n<li><strong>Shares outstanding</strong>: <strong>226,337,141</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 963,
+      "completion_tokens": 133,
+      "total_tokens": 1096,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:29.238425"
+  },
+  {
+    "ticker": "TIP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959085",
+    "id": "02959085",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0913",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktdg5798gyrj.pdf",
+    "summary": "<p><strong>Appendix 3C - Buy-Back Update Summary</strong>  </p>\n<ul>\n<li><strong>Type</strong>: On-market buy-back  </li>\n<li><strong>Total shares bought back as of 16/6/2025</strong>: 44,470 (39,023 prior + 5,447 on previous day)  </li>\n<li><strong>Cumulative buy-back scope</strong>: Maximum of 2,700,083 shares (10% of issued capital)  </li>\n<li><strong>Remaining buy-back capacity</strong>: 2,655,613 shares (as of 16/6/2025)  </li>\n<li><strong>Price range (previous day)</strong>: AUD 1.740\u20131.745  </li>\n<li><strong>Buy-back period</strong>: 14/4/2025 to 14/4/2026  </li>\n<li><strong>Broker</strong>: Phillip Securities (AUS) Limited  </li>\n</ul>\n<p>No material deviations or new approvals disclosed.</p>",
+    "usage": {
+      "prompt_tokens": 1529,
+      "completion_tokens": 173,
+      "total_tokens": 1702,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:17.360019"
+  },
+  {
+    "ticker": "MEC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959083",
+    "id": "02959083",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0913",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktd9zb8n1wrt.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Daily buy-back notification (on-market buy-back)  </li>\n<li><strong>Security</strong>: MEC ordinary shares  </li>\n<li><strong>Total shares bought back to date</strong>: 2,733,466 (prior to 16/6/2025) + 21,275 (on 16/6/2025) = <strong>2,754,741 shares</strong>  </li>\n<li><strong>Maximum buy-back capacity</strong>: 7,447,531 shares (20% of shares on issue as of 18/11/2024)  </li>\n<li><strong>Remaining buy-back capacity</strong>: 4,692,790 shares (as of 16/6/2025)  </li>\n<li><strong>Buy-back period</strong>: 19/11/2024 to 18/11/2025  </li>\n<li><strong>Broker</strong>: Taylor Collison Limited  </li>\n<li><strong>Recent buy-back details (16/6/2025)</strong>:  </li>\n<li><strong>Price range</strong>: AUD 1.045\u20131.05  </li>\n<li><strong>Total consideration paid</strong>: AUD 22,251.52  </li>\n</ul>\n<p><strong>No other material information identified</strong>.</p>",
+    "usage": {
+      "prompt_tokens": 1586,
+      "completion_tokens": 224,
+      "total_tokens": 1810,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:54.330433"
+  },
+  {
+    "ticker": "LDR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959084",
+    "id": "02959084",
+    "pages": 22,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0913",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktdd33d4smr6.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Key Points from Maiden Mineral Resource Estimate (MRE) Announcement</strong></h4>\n<ul>\n<li><strong>Resource Estimate:</strong>  </li>\n<li><strong>Total Resource (Indicated + Inferred):</strong> 1.57 Mt @ <strong>636g/t AgEq</strong>, containing <strong>32.1 Moz AgEq</strong>.  </li>\n<li><strong>Breakdown:</strong>  <ul>\n<li><strong>Indicated:</strong> 590 kt @ <strong>647g/t AgEq</strong> (12.2 Moz AgEq).  </li>\n<li><strong>Inferred:</strong> 980 kt @ <strong>630g/t AgEq</strong> (19.9 Moz AgEq).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Cut-off Grade:</strong> <strong>140g/t AgEq</strong>.  </p>\n</li>\n<li>\n<p><strong>Project Location:</strong> Webbs Consol (New South Wales, 100% LDR-owned).  </p>\n</li>\n<li><strong>Mineralisation Type:</strong> High-grade silver-zinc-lead sulphide pipes (steeply dipping, 20\u201350m diameter).  </li>\n<li><strong>Metallurgical Recoveries (from prior test work):</strong>  </li>\n<li>\n<p>Silver (97.3%), Zinc (98.7%), Lead (94.7%), Copper (76.3%), Gold (90.8%).  </p>\n</li>\n<li>\n<p><strong>Next Steps:</strong> Further infill/extension drilling under consideration.  </p>\n</li>\n</ul>\n<h4><strong>Valuation Impact Highlights</strong></h4>\n<ol>\n<li><strong>Significant Resource Scale:</strong> Large high-grade Ag-Zn-Pb resource with potential upside (open at depth/strike).  </li>\n<li><strong>Economic Assumptions:</strong> Cut-off grade based on conservative metal prices ($30/oz Ag) and industry cost estimates.  </li>\n</ol>\n<p><strong>Omitted:</strong> JORC technical details, historic exploration, non-material operational updates.  </p>\n<p><strong>Brevity Note:</strong> Focused strictly on resource metrics and forward plans with market-moving implications.</p>",
+    "usage": {
+      "prompt_tokens": 11001,
+      "completion_tokens": 364,
+      "total_tokens": 11365,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:54.168603"
+  },
+  {
+    "ticker": "DDR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959082",
+    "id": "02959082",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0912",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktd7vkgfr0z6.pdf",
+    "summary": "<ul>\n<li><strong>Director Dealings</strong>:  </li>\n<li><strong>Director</strong>: Vladimir Mitnovetski  </li>\n<li><strong>Transactions</strong>:  <ul>\n<li><strong>Direct</strong>: Acquired 10,000 shares at AUD $7.90 per share.  </li>\n<li><strong>Indirect</strong>: Acquired 7,614 shares (via Mitnovetski Super Fund) at AUD $7.89 per share.  </li>\n</ul>\n</li>\n<li><strong>Post-transaction Holdings</strong>:  <ul>\n<li><strong>Direct</strong>: 919,338 shares.  </li>\n<li><strong>Indirect</strong>: 60,798 shares.  </li>\n</ul>\n</li>\n<li><strong>Nature of Change</strong>: On-market purchase.  </li>\n<li><strong>Closed Period</strong>: No trades occurred during a closed period.  </li>\n</ul>\n<p><em>No material impact on valuation or capital structure identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1081,
+      "completion_tokens": 151,
+      "total_tokens": 1232,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:19:14.442198"
+  },
+  {
+    "ticker": "WOW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959081",
+    "id": "02959081",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0912",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktd5rbkgt6xm.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(The document is a routine Appendix 3Y filing disclosing directors' interests in securities and share rights under the company's standard NED Equity Plan. No trades or material changes to holdings occurred that would impact liquidity, valuation, or capital structure.)</p>",
+    "usage": {
+      "prompt_tokens": 2937,
+      "completion_tokens": 56,
+      "total_tokens": 2993,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:19.595012"
+  },
+  {
+    "ticker": "OSM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959079",
+    "id": "02959079",
+    "pages": 16,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0912",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktd1jcbhqgcn.pdf",
+    "summary": "<h3>Material Information Summary (ASX Announcement: Osmond Resources Ltd \u2013 Exploration Update)</h3>\n<ul>\n<li><strong>Exploration Highlights:</strong>  </li>\n<li>Confirmed mineralized outcrops in <strong>Zone 2</strong> of the Orion EU Critical Minerals Project (Spain), extending <strong>12km East-West</strong>.  </li>\n<li>Metallurgical testing expanded to include <strong>silicon metal</strong> (EU Strategic Critical Raw Material) from waste streams (quartz constitutes ~50% of bulk material).  </li>\n<li>\n<p>Project now targets <strong>three EU Strategic Critical Raw Materials</strong>: silicon metal, magnet rare earths, and titanium metal.  </p>\n</li>\n<li>\n<p><strong>Corporate Update:</strong>  </p>\n</li>\n<li>CEO increasing time commitment from <strong>50% to 90%</strong> starting 1 July 2025, signaling heightened project activity.  </li>\n<li>\n<p>Proposed <strong>director remuneration adjustments</strong> (subject to AGM approval), including long-term incentives (options at 90c strike price).  </p>\n</li>\n<li>\n<p><strong>No Capital Raising or Trading Halt:</strong> No material financial or timetable details disclosed.  </p>\n</li>\n</ul>\n<p><strong>Key Focus:</strong> Positive exploration results and strategic pivot to silicon metal could enhance project economics and EU critical mineral positioning. Omit operational minutiae (e.g., sampling methods, JORC details).  </p>\n<p><em>Note: Tenure status (\"granting process\") mentioned but no material impediments flagged.</em></p>",
+    "usage": {
+      "prompt_tokens": 8480,
+      "completion_tokens": 264,
+      "total_tokens": 8744,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:45.925480"
+  },
+  {
+    "ticker": "RLF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959080",
+    "id": "02959080",
+    "pages": 3,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0912",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktd3kzj2dvhy.pdf",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Announcement Type: Distribution Agreement</strong>  </p>\n<ul>\n<li><strong>Exclusive Distribution Rights</strong>: RLF AgTech secures exclusive rights to market and distribute AXIOMA\u2019s biostimulant products in <strong>Australia, China, and Asia</strong>.  </li>\n<li><strong>Product Focus</strong>: Biostimulants target <strong>cereals, canola, soybeans</strong>, enhancing resilience against abiotic stress and nutrient efficiency.  </li>\n<li><strong>Strategic Expansion</strong>: Entry into biologicals segment complements RLF\u2019s existing fertiliser/nutrition portfolio, potentially unlocking <strong>new margin opportunities</strong>.  </li>\n<li><strong>Term</strong>: Initial agreement until <strong>30 September 2026</strong>, with automatic 2-year renewals unless terminated.  </li>\n</ul>\n<p><strong>Non-material</strong>: Operational details, executive quotes, AXIOMA background.  </p>\n<p><strong>Impact</strong>: Positive for RLF\u2019s revenue diversification and market positioning in sustainable agriculture.  </p>\n<p><em>No capital markets actions (e.g., raising, halt) or financial metrics disclosed.</em>  </p>\n<p>Format: Concise bullet points, stripped of non-material fluff. Focus on exclusivity, scale, and strategic implications.  </p>\n<p>Let me know if you'd adjust emphasis on any point.  </p>\n<p><em>Notes:</em><br />\n- If trading halt was requested, I'd state the reason in <strong>one line</strong>, e.g., <em>\"Pending release of material distribution agreement.\"</em><br />\n- For capital raising, I'd list <strong>$XXm, structure, key dates</strong>.<br />\n- For 4C, I'd extract <strong>cash balance + key metrics</strong>.  </p>\n<p>This approach ensures <strong>only decision-useful data</strong> is highlighted.</p>",
+    "usage": {
+      "prompt_tokens": 1598,
+      "completion_tokens": 320,
+      "total_tokens": 1918,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:19:41.942009"
+  },
+  {
+    "ticker": "IVR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959074",
+    "id": "02959074",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcq2dbtc030.pdf",
+    "summary": "<p><strong>Capital Raising Announcement (Placement with Attaching Options):</strong><br />\n- <strong>Structure:</strong> Placement with attaching options<br />\n- <strong>Total Capital Raised:</strong> AUD 4.3 million (143.3m shares \u00d7 AUD 0.03/share)<br />\n- <strong>Key Dates:</strong> Proposed issue date \u2013 25/6/2025<br />\n- <strong>Key Terms:</strong><br />\n  - <strong>Ordinary Shares (IVR):</strong> 143,333,337 new shares issued at AUD 0.03/share.<br />\n  - <strong>Options (IVROB):</strong><br />\n    - 57,333,318 options issued free (attached to placement shares, 2 options per 5 shares). Exercise price: AUD 0.042, expiry 24-Mar-2028.<br />\n    - 28,666,666 broker options issued as fees (1 option per 5 placement shares).<br />\n- <strong>Use of Proceeds:</strong> Drilling programs (Paris Silver, Uno Morgans, Curnamona), DFS finalisation, working capital.<br />\n- <strong>Lead Manager:</strong> Alpine Capital (6% fee: 2% management + 4% selling fee).<br />\n- <strong>ASX Capacity Used:</strong> 15% placement capacity (options) + 10% additional capacity (shares).  </p>\n<p><strong>Excluded:</strong> Dividend policy (no change), escrow details (none), routine disclosures.  </p>\n<p><em>Note: No SPP or entitlement offer; placement only.</em></p>",
+    "usage": {
+      "prompt_tokens": 2441,
+      "completion_tokens": 297,
+      "total_tokens": 2738,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:19:31.047450"
+  },
+  {
+    "ticker": "SHG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959075",
+    "id": "02959075",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcs40wyv7w7.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement of a capital raising and a material commercial contract.  </li>\n<li><strong>Halt Duration</strong>: Until earlier of 19 June 2025 (trading commencement) or announcement release.  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 635,
+      "completion_tokens": 55,
+      "total_tokens": 690,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:48.078372"
+  },
+  {
+    "ticker": "FBR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959072",
+    "id": "02959072",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktckymcmyxzf.pdf",
+    "summary": "<p><strong>Material Information Summary (ASX: FBR - MOU for Hadrian Unit Sale)</strong>  </p>\n<p>\u4e4b\u5b66<strong>Key Points:</strong><br />\n- <strong>Non-binding MOU</strong> executed with Habitat (NT) Pty Ltd for sale of <strong>Hadrian X\u00ae units</strong> under a <strong>Machine Supply Agreement</strong>.<br />\n- <strong>Initial purchase order</strong>: <strong>1 unit at A$7.8 million</strong> (subject to final specifications).<br />\n- <strong>Staged transaction</strong>:<br />\n  - <strong>Deposit</strong>: A$780,000 within 14 days of binding agreement execution.<br />\n  - <strong>Balance paid</strong> within 30 days of successful Factory Acceptance Testing.<br />\n- <strong>Market context</strong>:<br />\n  - NT housing shortage with <strong>HomeGrown Territory Grant</strong> ($50k first-home buyer incentive) boosting demand.<br />\n  - <strong>Defence infrastructure projects</strong> (Robertson Barracks, Bradshaw Training Base) driving construction activity.<br />\n- <strong>Habitat pipeline</strong>: 3-year backlog of residential/defence projects; aims to use Hadrian X\u00ae for Besser-block structures.  </p>\n<p>Non-material: CEO quotes, operational support details, company backgrounds.</p>",
+    "usage": {
+      "prompt_tokens": 1440,
+      "completion_tokens": 228,
+      "total_tokens": 1668,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:25.277970"
+  },
+  {
+    "ticker": "NRX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959077",
+    "id": "02959077",
+    "pages": 14,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcx9dkpr9kh.pdf",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Strategic Alliance &amp; Earn-In Agreement Update</strong><br />\n- <strong>South32 expands Strategic Alliance</strong> to include two Botswana tenements (PL0074/2025 and PL0075/2025).<br />\n- <strong>Earn-in terms</strong>: South32 can acquire <strong>60% interest</strong> in Botswana tenements by funding <strong>A$5M over 5 years</strong> (minimum A$1M/quarter starting Q1 FY26).<br />\n- <strong>Existing Humpback-Damara Project</strong>: South32 committed to <strong>A$15M over 5 years</strong> (A$3M/year). Combined FY26 exploration budget: <strong>A$4M/year</strong>.  </p>\n<p><strong>Exploration Highlights</strong><br />\n- <strong>Damara Project (Namibia)</strong>:<br />\n  - <strong>Anomalous copper</strong> (up to 800ppm) in initial RC drilling.<br />\n  - New geological model suggests potential for basement-hosted copper deposits.<br />\n- <strong>Fiesta Project</strong>:<br />\n  - Two diamond holes completed; two more planned. Delays due to weather/rig issues.<br />\n  - Targets analogous to <strong>Khoemacau Copper Project</strong> (370Mt @ 1.7% CuEq).  </p>\n<p><strong>Financial/Liquidity Impact</strong><br />\n- South32 funding eliminates near-term exploration capex burden for Noronex.<br />\n- No dilution from equity raising; terms maintain Noronex as project operator.  </p>\n<p><strong>Additional Material Data</strong> (Appendix 4C equivalent):<br />\n- Closing cash balance not disclosed, but FY26 exploration fully funded by South32.  </p>\n<p><em>Omitted: JORC details, operational logistics, non-material drilling results.</em></p>",
+    "usage": {
+      "prompt_tokens": 6752,
+      "completion_tokens": 338,
+      "total_tokens": 7090,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:25.709976"
+  },
+  {
+    "ticker": "IVR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959073",
+    "id": "02959073",
+    "pages": 4,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcn080ck623.pdf",
+    "summary": "<p><strong>Capital Raising Announcement Summary:</strong>  </p>\n<ul>\n<li><strong>Structure:</strong> Placement  </li>\n<li><strong>Total Raised:</strong> $4.3M AUD  </li>\n<li><strong>Issue Price:</strong> 3.0c/share (11.8% discount to last close of 3.4c, 10.2% premium to 15-day VWAP of 2.72c)  </li>\n<li><strong>Shares Issued:</strong> 143.3M new shares (+ ~9% dilution to existing shares on issue).  </li>\n<li><strong>Attached Options:</strong> 2 IVROB options (exercise price 4.2c, expiry 24 March 2028) for every 5 Placement shares.  </li>\n<li><strong>Use of Funds:</strong> Paris Silver Project DFS completion, exploration drilling (Paris corridor, Uno Morgans, Curnamona), working capital, offer costs.  </li>\n<li><strong>Settlement Date:</strong> 25 June 2025.  </li>\n</ul>\n<p><strong>Key Additional Details:</strong><br />\n- Major shareholder Jupiter Asset Management participated.<br />\n- Broker fee: 6% of funds raised + 28.7M broker options (same terms as IVROB).<br />\n- No retail/SPP component disclosed.  </p>\n<p><em>Omitted: Director commentary, legal terms, option appendix (non-material to immediate trading).</em></p>",
+    "usage": {
+      "prompt_tokens": 2488,
+      "completion_tokens": 258,
+      "total_tokens": 2746,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:19:55.299902"
+  },
+  {
+    "ticker": "OPL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959076",
+    "id": "02959076",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcv7rfghzzf.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Opyl Limited - 17 June 2025):</strong>  </p>\n<ul>\n<li><strong>Key Appointment</strong>: Matt Hallam appointed as Chief Revenue Officer (CRO) to drive commercial growth for TrialKey.ai.  </li>\n<li><strong>Compensation</strong>: AUD $10,000/month (70% cash, 30% equity via standard ASX advisor arrangements).  </li>\n<li><strong>Strategic Focus</strong>: Expanding market partnerships in biopharma and clinical research sectors.  </li>\n</ul>\n<p><strong>No material capital markets or trading-impacting information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 863,
+      "completion_tokens": 107,
+      "total_tokens": 970,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:29.072795"
+  },
+  {
+    "ticker": "FCL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959078",
+    "id": "02959078",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0911",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktczfnmnjvrb.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Appendix 3Z filings are routine director interest disclosures with no material impact on trading or capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 743,
+      "completion_tokens": 31,
+      "total_tokens": 774,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:19:32.368161"
+  },
+  {
+    "ticker": "RF1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959071",
+    "id": "02959071",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0910",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktchq2vcv99b.pdf",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back (Previous Day)</strong>: 45,003 RF1 ordinary units  </li>\n<li><strong>Consideration Paid (Previous Day)</strong>: AUD 127,152.14  </li>\n<li><strong>Price Range (Previous Day)</strong>: AUD 2.80 (low) to AUD 2.87 (high)  </li>\n<li><strong>Total Securities Bought Back (Cumulative)</strong>: 20,758,716 RF1 ordinary units  </li>\n<li><strong>Total Consideration Paid (Cumulative)</strong>: AUD 61,806,622.68  </li>\n<li><strong>Buy-back Period</strong>: 25/7/2024 to 24/7/2025  </li>\n<li><strong>Broker</strong>: Shaw &amp; Partners Limited  </li>\n<li><strong>Key Condition</strong>: Conducted within 10/12 limit, may be suspended/terminated without notice.  </li>\n</ul>\n<p>No material changes to capital structure or liquidity impacts.</p>",
+    "usage": {
+      "prompt_tokens": 1516,
+      "completion_tokens": 190,
+      "total_tokens": 1706,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:12.757350"
+  },
+  {
+    "ticker": "CLA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959069",
+    "id": "02959069",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0909",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktccj5mclqsj.pdf",
+    "summary": "<h3><strong>Summary of Material Information</strong></h3>\n<ul>\n<li><strong>Funding Received</strong>: First drawdown from Mahalika Investment Corporation (MIC) funding arrangement received. Proceeds allocated to Feasibility Study update and FEED program at MCB Project.  </li>\n<li><strong>Development Timeline</strong>: Feasibility Study/FEED completion on track for early works in late 2025; target production by 2027.  </li>\n<li><strong>Management Changes</strong>:  </li>\n<li>Neil Grimes appointed Executive Director (focus: financial management, funding, stakeholder engagement, divestment of non-core assets).  </li>\n<li>Mark Van Kerkwijk transitioned to Non-Executive Director.  </li>\n<li><strong>Project Economics (Previous Study)</strong>:  </li>\n<li>NPV (8%): <strong>US$464m</strong> | IRR: <strong>31%</strong> (based on Cu: <strong>US$4.00/lb</strong>, Au: <strong>US$1,695/oz</strong>).  </li>\n<li>Initial capex: <strong>US$253m</strong> | Payback: <strong>~2.7 years</strong>.  </li>\n<li>Avg. first 10-year grade: <strong>1.14% Cu</strong>, <strong>0.54g/t Au</strong> | C1 cash cost: <strong>US$0.73/lb Cu</strong> (net of Au credits).  </li>\n</ul>\n<p><em>No other material trading or capital markets impacts identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2710,
+      "completion_tokens": 272,
+      "total_tokens": 2982,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:11.747903"
+  },
+  {
+    "ticker": "PIA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959067",
+    "id": "02959067",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0909",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktc7b8h85plx.pdf",
+    "summary": "<h3><strong>Summary of ASX Announcement (Appendix 3C - Buy-back Notification)</strong></h3>\n<h4><strong>Key Material Information</strong>:</h4>\n<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Shares Bought Back Previously</strong>: 1,150,747  </li>\n<li><strong>Shares Bought Back Previous Day (16/6/2025)</strong>: 30,000  </li>\n<li><strong>Cumulative Buy-back Consideration</strong>: AUD <strong>1,344,236.49</strong> (prior) + <strong>AUD 35,700.00</strong> (prev. day)  </li>\n<li><strong>Maximum Buy-back Cap</strong>: <strong>25,699,847</strong> shares (~10% of issued shares).  </li>\n<li><strong>Remaining Buy-back Capacity</strong>: <strong>24,519,100</strong> shares.  </li>\n<li><strong>Price Range Paid</strong>: <strong>AUD 1.0725 \u2013 AUD 1.2450</strong> (highest paid on 19/2/2025).  </li>\n<li><strong>Broker</strong>: Bell Potter.  </li>\n<li><strong>Buy-back Window</strong>: 4/9/2024 \u2013 4/9/2025.  </li>\n</ul>\n<h4><strong>Trading Impact</strong>:</h4>\n<ul>\n<li>Daily buy-back activity (~30,000 shares at <strong>AUD 1.19</strong> prev. day) supports liquidity management without immediate dilution risk.  </li>\n</ul>\n<p>(Omits boilerplate, dates without relevance, and non-material administrative details.)</p>",
+    "usage": {
+      "prompt_tokens": 1502,
+      "completion_tokens": 280,
+      "total_tokens": 1782,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:05.749445"
+  },
+  {
+    "ticker": "OSM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959066",
+    "id": "02959066",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0909",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktc57l0w095v.pdf",
+    "summary": "<ul>\n<li><strong>Security Type</strong>: Unlisted employee incentive options (not for ASX quoting)  </li>\n<li><strong>Quantity Issued</strong>: 1,500,000 options  </li>\n<li><strong>Exercise Price</strong>: AUD 0.90  </li>\n<li><strong>Expiry Date</strong>: 6 June 2029  </li>\n<li><strong>Underlying Security</strong>: OSM ordinary shares  </li>\n<li><strong>Total Unquoted Options Post-Issue</strong>: 43,889,000 (across multiple tranches)  </li>\n<li><strong>Listing Rule Exception</strong>: Issued under LR 7.2 (employee incentive scheme, no shareholder approval required)  </li>\n</ul>\n<p><em>No material trading impact identified (non-dilutive until exercise; terms already ASX-approved).</em></p>",
+    "usage": {
+      "prompt_tokens": 1883,
+      "completion_tokens": 140,
+      "total_tokens": 2023,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:34.842606"
+  },
+  {
+    "ticker": "LKY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959070",
+    "id": "02959070",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0909",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktcfmdld75t0.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Strategic Collaboration &amp; Project Highlights</strong></h4>\n<ul>\n<li><strong>Strategic U.S. partnerships</strong> initiated with federal agencies (U.S. EXIM Bank, DOE, DOD), academia, and private stakeholders for funding and R&amp;D support.  </li>\n<li><strong>El Campo REE Prospect</strong>:  </li>\n<li>Geological similarities to <strong>Mountain Pass Mine</strong> (largest U.S. REE producer).  </li>\n<li>Rock chips up to <strong>12.1% TREO</strong> (total rare earth oxides) and <strong>3.19% NdPr</strong> (high-value REEs).  </li>\n<li><strong>Desert Antimony Mine</strong>:  </li>\n<li>High-grade surface samples: <strong>46% Sb</strong>, <strong>1,022 g/t Ag</strong>, plus lead/zinc.  </li>\n<li>Historic production site; potential strategic U.S. domestic supply.  </li>\n<li><strong>R&amp;D focus</strong>: Metallurgical testing, processing tech, and integration into U.S. critical mineral supply chains.  </li>\n</ul>\n<h4><strong>Next Steps</strong></h4>\n<ul>\n<li>Pursuing <strong>federal partnerships</strong> (CRADAs, DOE/DOD programs) for funding and tech development.  </li>\n<li>Advancing mineral processing pathways for REEs and antimony.  </li>\n</ul>\n<p><strong>No capital raising, financials, or trading-sensitive dates identified.</strong>  </p>\n<p><em>(Note: Omitted operational/background details per instructions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 2264,
+      "completion_tokens": 272,
+      "total_tokens": 2536,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:02.345581"
+  },
+  {
+    "ticker": "OSM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959068",
+    "id": "02959068",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0909",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktc9df73b92g.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Proposed issue of securities (unlisted options)  </li>\n<li><strong>Security Details</strong>:  </li>\n<li><strong>Type</strong>: Unlisted options  </li>\n<li><strong>Exercise Price</strong>: AUD 0.90  </li>\n<li><strong>Expiry Date</strong>: 6 June 2029  </li>\n<li><strong>Quantity</strong>: 7,000,000  </li>\n<li><strong>Underlying Security</strong>: OSM ordinary shares (1:1 conversion)  </li>\n<li><strong>Issue Date</strong>: 31 October 2025 (estimated)  </li>\n<li><strong>Conditions</strong>: Subject to shareholder approval (deadline 30 October 2025, not yet obtained).  </li>\n<li><strong>Purpose</strong>: Not specified in this document (referenced to separate announcement).  </li>\n</ul>\n<p>No further material details (e.g., capital raised, fees, escrow) identified.</p>",
+    "usage": {
+      "prompt_tokens": 1761,
+      "completion_tokens": 162,
+      "total_tokens": 1923,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:20.355446"
+  },
+  {
+    "ticker": "SLZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959064",
+    "id": "02959064",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0908",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktc0xcgs0z06.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Update to previous announcement  </li>\n<li><strong>Key Update</strong>: Extension of Entitlement Offer closing date to <strong>4 July 2025</strong> (previously 2 June 2025).  </li>\n<li><strong>Offer Structure</strong>: Non-renounceable entitlement offer (1:1 ratio).  </li>\n<li><strong>Offer Price</strong>: AUD 0.005 per share.  </li>\n<li><strong>Maximum Shares Issued</strong>: 231,469,910.  </li>\n<li><strong>Timetable</strong>:  </li>\n<li>Ex-date: 4 June 2025  </li>\n<li>Record date: 5 June 2025  </li>\n<li>Closing date: 4 July 2025  </li>\n<li>Trading of new shares (deferred settlement): 7 July 2025.  </li>\n<li><strong>Use of Proceeds</strong>: Exploration, project assessment, working capital, and offer expenses.  </li>\n<li><strong>Underwriting/Lead Manager</strong>: None.  </li>\n<li><strong>Key Restrictions</strong>: Offer limited to Australia/New Zealand holders; no aggregation of registers.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 2241,
+      "completion_tokens": 205,
+      "total_tokens": 2446,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:43.711932"
+  },
+  {
+    "ticker": "ICE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959065",
+    "id": "02959065",
+    "pages": 39,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0908",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktc33tf2zdk1.pdf",
+    "summary": "<p>Based on the ASX announcement, here are the material details extracted in a concise format:</p>\n<p><strong>Substantial Holder Notice (Form 603):</strong><br />\n- <strong>Holder:</strong> Softbank Robotics Singapore Pte. Ltd. (SBRS) and SBR Group Entities<br />\n- <strong>Date Became Substantial Holder:</strong> 13 June 2025<br />\n- <strong>Securities Acquired:</strong> 93,683,262 fully paid ordinary shares in icetana Limited (ICE)<br />\n- <strong>Voting Power:</strong> 17.61%<br />\n- <strong>Consideration Paid:</strong> AUD $1,873,665 (non-cash)  </p>\n<p><strong>Key Transaction Details:</strong><br />\n- <strong>Subscription Agreement:</strong> SBRS acquired shares via a subscription agreement dated 7 June 2025 (terms detailed in Annexure A).<br />\n- <strong>Board Nominee Rights:</strong> SBRS secured the right to appoint a nominee director to icetana's board, subject to maintaining at least 10% shareholding.  </p>\n<p><strong>Capital Markets Impact:</strong><br />\n- <strong>Post-Transaction Ownership:</strong> SBRS group holds ~17.6% of ICE's issued capital, becoming a major shareholder.<br />\n- <strong>Further Placement Rights:</strong> SBRS retains participation rights in future equity issuances to maintain its proportional ownership.  </p>\n<p><strong>Regulatory Compliance:</strong><br />\n- Disclosure aligns with Corporations Act 2001 (Section 671B) requirements for substantial holdings.  </p>\n<p><em>Omitted:</em> Routine operational details, legal boilerplate, and non-material associate entity addresses.  </p>\n<p><strong>Summary:</strong> The notice confirms Softbank's strategic stake in icetana, influencing governance and future capital raising dynamics. No immediate trading halt or liquidity impact noted.  </p>\n<p>Let me know if you'd like further refinement for specific use cases (e.g., trading, M&amp;A analysis).</p>",
+    "usage": {
+      "prompt_tokens": 59559,
+      "completion_tokens": 360,
+      "total_tokens": 59919,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:56.460530"
+  },
+  {
+    "ticker": "PCX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959061",
+    "id": "02959061",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0907",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbtm74v4hjt.pdf",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back (Previous Day)</strong>: 3,000 PCX units  </li>\n<li><strong>Total Securities Bought Back (Cumulative)</strong>: 1,289,313 PCX units  </li>\n<li><strong>Remaining Buy-back Capacity</strong>: 6,547,042 PCX units (max 7,836,355)  </li>\n<li><strong>Previous Day Buy-back Details</strong>:  </li>\n<li>Consideration: AUD 5,880 (AUD 1.96/unit)  </li>\n<li>Highest price paid: AUD 1.96 (16/6/2025)  </li>\n<li>Lowest price paid: AUD 1.96 (16/6/2025)  </li>\n<li><strong>Buy-back Period</strong>: 1/7/2024 to 30/6/2025  </li>\n<li><strong>Broker</strong>: Morgans Financial Limited  </li>\n<li><strong>Funding Source</strong>: Cash at bank (no RE/associate holdings)  </li>\n</ul>\n<p><em>No material deviations or new information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1556,
+      "completion_tokens": 210,
+      "total_tokens": 1766,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:18:38.844937"
+  },
+  {
+    "ticker": "D3E",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959062",
+    "id": "02959062",
+    "pages": 15,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0907",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbwpzb4n9l7.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><strong>Reason</strong>: This appears to be an investor presentation outlining exploration potential in the Arckaringa Basin for helium and hydrogen. It contains speculative geological analysis but no concrete operational, financial, or capital markets updates (e.g., drilling results, funding arrangements, or definitive resource estimates).  </p>\n<p><em>Note for traders/investors</em>: Monitor for future announcements on\u52d8\u63a2 results or capital raising to fund drilling programs.</p>",
+    "usage": {
+      "prompt_tokens": 2868,
+      "completion_tokens": 88,
+      "total_tokens": 2956,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:16.129415"
+  },
+  {
+    "ticker": "D3E",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959060",
+    "id": "02959060",
+    "pages": 6,
+    "price_sensitive": true,
+    "date": "20250617",
+    "time": "0907",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbrjkgr3x2j.pdf",
+    "summary": "<p><strong>Key Summary (Asset Acquisition Announcement):</strong>  </p>\n<ul>\n<li><strong>Acquisition Details:</strong> Purchase of 100% of Unleash Energy Pty Ltd (owner of PEL 121 and PEL 122 in SA\u2019s Arckaringa Basin).  </li>\n<li><strong>Strategic Rationale:</strong> Low-cost entry into underexplored helium/hydrogen hotspot (analogous to Amadeus Basin, where wells recorded high helium/hydrogen concentrations).  </li>\n<li><strong>Key Prospects:</strong> Identified two drill-ready prospects (Hydrohelix: 148km\u00b2 structure; Cootanoorina: thrusted basement feature).  </li>\n<li><strong>Deal Terms:</strong>  </li>\n<li><strong>Cash:</strong> $200,000.  </li>\n<li><strong>Shares:</strong> 5M initial + up to $500K in contingent shares tied to resource booking/drilling milestones.  </li>\n<li><strong>Next Steps:</strong> Independent resource assessment planned; JV partner sought for funding.  </li>\n</ul>\n<p><strong>Material Impact:</strong> Expands portfolio with high-potential, low-commitment assets; potential catalyst via drilling/resource updates.  </p>\n<p><em>(Omitted operational/comparative details, director commentary, and regional geology.)</em></p>",
+    "usage": {
+      "prompt_tokens": 2516,
+      "completion_tokens": 235,
+      "total_tokens": 2751,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:17.252609"
+  },
+  {
+    "ticker": "D3E",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959063",
+    "id": "02959063",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0907",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbyslwj47bf.pdf",
+    "summary": "<h3>Capital Raising Announcement Summary:</h3>\n<ul>\n<li><strong>Structure</strong>: Placement (utilizing 15% placement capacity under ASX Listing Rule 7.1).  </li>\n<li><strong>Total Securities Issued</strong>: 7,500,000 fully paid ordinary shares (ASX: D3E).  </li>\n<li><strong>Purpose</strong>: Acquisition of 100% shares in <strong>Unleash Energy Pty Ltd</strong> (consideration for Share Sale and Purchase Agreement).  </li>\n<li><strong>Key Tranches</strong>:  </li>\n<li><strong>Initial Consideration</strong>: 5,000,000 shares (AUD 500,000 equivalent).  </li>\n<li><strong>Contingent Tranche 1</strong>: 1,250,000 shares (AUD 250,000) if contingent resource announced within 5 years.  </li>\n<li><strong>Contingent Tranche 2</strong>: 1,250,000 shares (AUD 250,000) if helium/hydrogen well spudded within 5 years.  </li>\n<li><strong>Escrow</strong>: Initial shares subject to 12-month voluntary escrow.  </li>\n<li><strong>Proposed Issue Date</strong>: 28 August 2026.  </li>\n</ul>\n<p><strong>No shareholder approval required</strong> (within 15% placement capacity). No underwriting or lead manager disclosed.</p>",
+    "usage": {
+      "prompt_tokens": 2250,
+      "completion_tokens": 251,
+      "total_tokens": 2501,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:20:02.168102"
+  },
+  {
+    "ticker": "XPN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959058",
+    "id": "02959058",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0906",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbm7y1vq040.pdf",
+    "summary": "<ul>\n<li><strong>Issue of Performance Rights</strong>: XPON Technologies issued <strong>900,000 unquoted performance rights (XPNAV)</strong> on <strong>16 June 2025</strong> under an employee incentive scheme.  </li>\n<li><strong>Vesting Schedule</strong>: Rights vest in equal tranches on <strong>2 July 2025</strong>, <strong>2 August 2025</strong>, and <strong>2 September 2025</strong>, expiring <strong>17 June 2030</strong>.  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li><strong>Ordinary shares (XPN)</strong>: 414,253,220 (quoted).  </li>\n<li><strong>Unquoted securities</strong>:  <ul>\n<li>Performance rights (XPNAV): <strong>31,233,331</strong> (includes new issue).  </li>\n<li>Warrants, options, and convertible notes outstanding (see Part 4.2 for details).  </li>\n</ul>\n</li>\n<li><strong>No shareholder approval required</strong>: Issued under Listing Rule 7.2 exception 13 (employee incentive scheme).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine equity incentive issuance).</em></p>",
+    "usage": {
+      "prompt_tokens": 1593,
+      "completion_tokens": 212,
+      "total_tokens": 1805,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:32.351893"
+  },
+  {
+    "ticker": "PCG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959059",
+    "id": "02959059",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0906",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbpc54spms2.pdf",
+    "summary": "<ul>\n<li><strong>Type of Buy-Back</strong>: On-market buy-back  </li>\n<li><strong>Total Securities on Issue</strong>: 98,768,896  </li>\n<li><strong>Maximum Buy-Back Cap</strong>: 9,876,890 shares (10% of issued capital)  </li>\n<li><strong>Daily Buy-Back Activity (16/6/2025)</strong>:  </li>\n<li>50,000 shares bought back  </li>\n<li>Total consideration: AUD 40,000 (AUD 0.80 per share)  </li>\n<li><strong>Remaining Buy-Back Capacity</strong>: 9,366,097 shares as of 16/6/2025  </li>\n<li><strong>Buy-Back Period</strong>: 4/3/2025 to 28/11/2025  </li>\n<li><strong>Broker</strong>: Taylor Collison</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 1499,
+      "completion_tokens": 156,
+      "total_tokens": 1655,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:17:04.299239"
+  },
+  {
+    "ticker": "HCT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959057",
+    "id": "02959057",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250617",
+    "time": "0906",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktbk57x2sydv.pdf",
+    "summary": "<ul>\n<li><strong>Capital Structure Update</strong>:  </li>\n<li><strong>49,281,936 fully paid ordinary shares</strong> issued on 16 June 2025 via <strong>conversion of convertible notes</strong> (previously approved by shareholders).  </li>\n<li><strong>Regulatory Disclosure</strong>:  </li>\n<li>Issued without disclosure under <strong>Part 6D.2</strong> of Corporations Act (ASX waiver).  </li>\n<li>Confirms compliance with <strong>ongoing reporting obligations</strong> (Chapter 2M, sections 674/674A).  </li>\n</ul>\n<p><em>No further material information identified (standard regulatory notice).</em></p>",
+    "usage": {
+      "prompt_tokens": 593,
+      "completion_tokens": 114,
+      "total_tokens": 707,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-16T23:16:25.811613"
+  },
+  {
     "ticker": "DUI",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959040",
     "id": "02959040",
