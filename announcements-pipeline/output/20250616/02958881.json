@@ -7,13 +7,13 @@
   "date": "20250616",
   "time": "1705",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250616/pdf/06ksrg10t9f5vf.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** (or its content), and I will extract **only material information** relevant for trading or capital markets decisions in the strict **concise bullet-point format** you requested.  \n\nIf the document is:  \n- A **Trading Halt**: Only the reason (one line).  \n- A **Capital Raising**: Structure (Placement/SPP/Entitlement), total AUD raised, and key dates (ex-date, record date, close date).  \n- A **Quarterly (4C)**: Cash balance (AUD) and key operational/financial highlights.  \n- **Other Announcements**: Only 2-3 critical points impacting valuation, liquidity, or capital structure (omit routine updates).  \n\nIf unclear or immaterial, I will state: **\"No material information identified.\"**  \n\n**Provide the announcement text or PDF, and I\u2019ll summarize it accordingly.**",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text) for review. I\u2019ll analyze it strictly based on your guidelines and extract only material information relevant to trading or capital markets decisions, formatted as concise bullet points.  \n\nWithout the document, here\u2019s how I\u2019d summarize common announcement types (for reference):  \n\n**1. Trading Halt Request**  \n- *Reason*: Pending release of material announcement regarding [specific event].  \n\n**2. Capital Raising (e.g., Placement)**  \n- *Structure*: Placement to institutional investors.  \n- *Amount*: AUD $X million at $Y/share (Z% discount to last close).  \n- *Use of Funds*: [Key purpose, e.g., debt reduction, acquisition].  \n- *Dates*: Ex-date: [DD/MM], Settlement: [DD/MM].  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD $X million (prior quarter: $Y million).  \n- *Cash Burn*: AUD $Z million (operational highlights if material).  \n\n**4. Other Material Announcements**  \n- M&A: Acquisition of [Target] for AUD $X (funded by [equity/debt]).  \n- Guidance Update: FY24 EBITDA revised to $X-$Y (prior $A-$B).  \n- Asset Sale: Divestment of [Asset] for AUD $X (expected completion [date]).  \n\n**5. No Material Information Identified**  \n- [If the announcement lacks actionable data].  \n\nProvide the PDF/text, and I\u2019ll compress it to its essence.",
   "usage": {
     "prompt_tokens": 235,
-    "completion_tokens": 193,
-    "total_tokens": 428,
+    "completion_tokens": 341,
+    "total_tokens": 576,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-16T07:27:42.780592"
+  "processed_at": "2025-06-16T07:44:43.445996"
 }
