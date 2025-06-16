@@ -7,13 +7,13 @@
   "date": "20250616",
   "time": "1638",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250616/pdf/06ksq0d4j02p1h.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or key details from it, and I will extract **only material information** relevant for trading or capital markets decisions, formatted as concise bullet points based on the rules outlined.  \n\n**Example outputs:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - Type: Placement + SPP  \n   - Total Raising: AUD $50m (Placement AUD $40m, SPP AUD $10m)  \n   - Key Dates: Ex-date 15/10, Record 18/10, SPP Close 30/10.  \n\n3. **Quarterly Report (4C)**  \n   - Cash balance: AUD $12.5m (prior quarter: AUD $15.2m).  \n   - Key highlight: Production up 15% QoQ to 25,000oz.  \n\n4. **Other Announcement**  \n   - Major contract signed with [counterparty], expected to add AUD $30m revenue annually.  \n   - Director resignation (non-material; omit unless linked to governance concerns).  \n\n**If no material information is found**:  \n   - No material information identified.  \n\nPlease share the announcement details.",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or the key details from it (e.g., document type, headline, and critical content). I will then generate a strictly concise summary based on your formatting rules.  \n\nExample outputs:  \n\n1. **Capital Raising Announcement**  \n   - Structure: 1-for-4 entitlement offer  \n   - Total raised: AUD 50M  \n   - Key dates: Ex-date 05/04, Record date 07/04, Close date 20/04  \n\n2. **Quarterly Report (4C)**  \n   - Cash balance: AUD 12.3M  \n   - Quarterly sales: AUD 4.1M (+15% QoQ)  \n   - Cash burn: AUD 1.8M  \n\n3. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement  \n\n4. **Other Announcement**  \n   - Major asset sale: AUD 25M (30% premium to book value)  \n   - CEO resignation effective immediately  \n\nIf no material details are found:  \n- *No material information identified*.  \n\nProceed with the document or key details. I\u2019ll adhere strictly to your rules.",
   "usage": {
     "prompt_tokens": 238,
-    "completion_tokens": 265,
-    "total_tokens": 503,
+    "completion_tokens": 250,
+    "total_tokens": 488,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-16T07:25:08.096779"
+  "processed_at": "2025-06-16T07:41:40.786289"
 }
