@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958855",
+  "id": "02958855",
+  "pages": 36,
+  "price_sensitive": false,
+  "date": "20250616",
+  "time": "1626",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250616/pdf/06kspgj4j7pswx.pdf",
+  "summary": "This document appears to be a product listing for CitiFirst MINIs (leveraged equity derivatives) on various ASX-listed stocks and indices. Here are the key material points presented in a structured format:\n\n---\n\n### **Product Summary - CitiFirst MINIs**\n**Effective Date:** 17-Jun-2025  \n**Product Type:** Leveraged derivatives (Long/Short MINIs) linked to single stocks, indices, currencies, and commodities.  \n\n#### **Key Features:**\n- **Single Stock MINIs (Pages 1-29):**  \n  - Long/Short positions with custom strike prices, stop-loss triggers, and gearing ratios.  \n  - Underlying stocks include major ASX companies (e.g., BHP, CBA, CSL, Rio Tinto).  \n- **Australian Index MINIs (Page 30):**  \n  - Linked to S&P/ASX 200 futures (e.g., XJO).  \n- **International Index MINIs (Pages 31-32):**  \n  - Cover Dow Jones, Nasdaq, Nikkei, Russell 2000, and S&P 500 futures.  \n- **Currency & Commodity MINIs (Pages 33-36):**  \n  - FX pairs (AUD/EUR, AUD/GBP, AUD/USD, AUD/JPY) and commodities (copper, gold, silver, crude oil).  \n\n#### **Material Trading Details:**\n1. **Gearing:** Ranges from ~15% to 95% for longs (higher gearing = greater leverage).  \n2. **Stop-Loss Triggers:** Automatic exit if the underlying hits the specified stop level.  \n3. **Variable Interest Rates:**  \n   - MINI Longs: 8.45% p.a.  \n   - MINI Shorts: -0.15% p.a.  \n   - Index/Commodity MINIs: 4.85% p.a.  \n\n#### **Examples of Single Stock MINIs:**\n| Code   | Type       | Underlying           | Strike  | Stop-Loss | Current Price | Gearing | Approx. Value | Risk to Stop-Loss |\n|--------|------------|----------------------|---------|-----------|---------------|---------|---------------|-------------------|\n| BHPKOD | MINI Long  | BHP Group Ltd        | $31.87  | $36.21    | $37.44        | 85.12%  | $5.57         | 3.29%             |\n| CSLKOE | MINI Long  | CSL Ltd              | $151.99 | $174.19   | $239.10       | 63.57%  | $87.10        | 27.15%            |\n\n---\n\n### **Notes for Trading Decisions:**\n- **Liquidity Impact:** High-gearing MINIs (e.g., >80%) amplify both gains and losses.  \n- **Capital Structure:** MINIs are synthetic derivatives; no dilution impact on underlying shares.  \n- **Key Risks:** Stop-loss triggers may lead to premature exits during volatility.  \n\n**No material operational/financial updates or capital raisings identified.** The document is purely a product listing.  \n\n--- \n\nLet me know if you'd like further analysis on specific sections.",
+  "usage": {
+    "prompt_tokens": 57174,
+    "completion_tokens": 689,
+    "total_tokens": 57863,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-16T06:39:59.076114"
+}
