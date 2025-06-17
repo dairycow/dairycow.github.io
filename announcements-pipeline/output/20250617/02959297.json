@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959297",
+  "id": "02959297",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250617",
+  "time": "1636",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktygf3xplrdt.pdf",
+  "summary": "### Summary of CitiFirst Instalment MINIs Announcement:\n- **Product Type**: Instalment MINIs (structured products combining leveraged exposure to underlying ASX-listed securities with a loan component).  \n- **Key Features**:  \n  - **Interest Rate**: 8.30% p.a. (current rate).  \n  - **Effective Date**: 18-Jun-25.  \n  - **Dividend Treatment**: Dividends typically paid to investors (except where specified as \"Pay down loan\").  \n  - **Stop Loss Triggers**: Levels provided for each MINI; breach may trigger mandatory loan repayment.  \n\n#### Selected Examples (from 100+ instruments listed):  \n| MINI Code | Underlying       | Final Instalment (Loan) | Stop Loss Trigger | Current Price | Gearing  | Expiry      | Indicative Yield |  \n|-----------|------------------|-------------------------|--------------------|---------------|----------|-------------|------------------|  \n| A2MJOB    | A2 Milk Co       | $4.0400                 | $8.13              | $4.75         | 41.58%   | 26/05/2026 | 1.64%            |  \n| ANZJOA    | ANZ Group        | $15.2500               | $29.46             | $15.80        | 46.37%   | 15/07/2032 | 10.51%           |  \n| BHPJOA    | BHP Group        | $28.7400               | $37.30             | $12.22        | 67.25%   | 21/01/2032 | 15.37%           |  \n| CSLJOF    | CSL Ltd          | $228.6700              | $239.29            | $39.72        | 83.40%   | 26/05/2026 | 10.61%           |  \n\n**Risk Note**: High gearing (>50%) implies amplified exposure to underlying price movements. Stop loss triggers may force liquidation if breached.  \n\n**No material capital raising or corporate action data identified** (purely a product update).  \n\n*Focus: Traders/investors should assess leverage, yield, and stop loss proximity relative to current market conditions.*",
+  "usage": {
+    "prompt_tokens": 23357,
+    "completion_tokens": 487,
+    "total_tokens": 23844,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-17T06:57:41.090602"
+}
