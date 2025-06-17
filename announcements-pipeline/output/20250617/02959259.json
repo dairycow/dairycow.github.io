@@ -7,13 +7,13 @@
   "date": "20250617",
   "time": "1527",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktvgz8h0y64j.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract material information in the strict format you\u2019ve requested (e.g., trading halt reason, capital raising terms, or critical operational/financial data).  \n\nIf the document is unavailable, here are hypothetical examples of how I\u2019d structure responses:  \n\n---  \n**Example 1: Trading Halt Request**  \n- Pending release of capital raising details.  \n\n**Example 2: Capital Raising Announcement**  \n- **Structure:** 1-for-5 Entitlement Offer + Placement.  \n- **Total raised:** AUD 50M (Placement: AUD 30M; Entitlement: AUD 20M).  \n- **Key dates:** Ex-date: 15 Oct; Record: 17 Oct; Close: 30 Oct.  \n\n**Example 3: Quarterly Report (4C)**  \n- **Cash balance:** AUD 12.5M (QoQ -15%).  \n- **Highlights:** Production +22%; unit costs AUD 1.20/lb (guidance: AUD 1.15\u20131.30).  \n\n**Example 4: Material Contract Signed**  \n- 5-year supply deal with Tier-1 OEM; minimum revenue AUD 200M.  \n- Includes upfront payment of AUD 25M (H1 FY25).  \n\n**No Material Information Identified:** If boilerplate or lacks actionable data.  \n\n---  \nSubmit the announcement, and I\u2019ll adhere strictly to your rules.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will extract **only** the material information in the requested format, omitting all fluff.  \n\nExample outputs based on common scenarios:  \n\n---  \n**Trading Halt Request**  \n- Reason: Pending capital raising announcement.  \n\n**Capital Raising Announcement**  \n- Type: Placement + SPP.  \n- Amount: AUD 50M (Placement: AUD 40M; SPP: AUD 10M).  \n- Key dates: Ex-date 15/04, Record 18/04, SPP close 30/04.  \n\n**Quarterly Report (4C)**  \n- Cash balance (end quarter): AUD 12.5M.  \n- Highlights: Revenue AUD 8.2M (+15% QoQ), customer growth to 45K (+10%).  \n\n**Other Announcement**  \n- Material item 1: Major contract win (AUD 25M over 3 years).  \n- Material item 2: CEO resignation effective immediately.  \n\n**No Material Information Identified**  \n---  \n\nReady to parse your document.",
   "usage": {
-    "prompt_tokens": 233,
-    "completion_tokens": 316,
-    "total_tokens": 549,
+    "prompt_tokens": 235,
+    "completion_tokens": 250,
+    "total_tokens": 485,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-17T05:57:22.085010"
+  "processed_at": "2025-06-17T06:32:14.812518"
 }
