@@ -1,0 +1,19 @@
+{
+  "ticker": "OSL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959259",
+  "id": "02959259",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250617",
+  "time": "1527",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktvgz8h0y64j.pdf",
+  "summary": "Understood. For any ASX announcement you provide (or simulate), I will:  \n\n1. **Quickly classify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly, M&A).  \n2. **Extract only the material details** per your strict formatting rules.  \n3. **Omit all fluff** (boilerplate, director names, non-impactful operational updates).  \n\n**Example Outputs:**  \n\n---  \n**Trading Halt Request**  \n\u2022 Reason: Pending capital raising announcement ($50M placement).  \n\n**Capital Raising Announcement**  \n\u2022 Structure: $100M accelerated placement + $20M SPP.  \n\u2022 Key dates: Ex-date 15/05/2024, SPP closes 30/05/2024.  \n\n**Quarterly Report (4C)**  \n\u2022 Cash balance: $12.7M (vs. $15.1M last quarter).  \n\u2022 Key highlight: Production +22% QoQ to 50koz Au.  \n\n**Other Announcement**  \n\u2022 Strategic review initiated; asset divestments targeting $200M.  \n\u2022 CEO resigns effective immediately (no successor named).  \n\n**No material information identified**  \n---  \n\nReady to analyze your PDF/text. Paste or describe the announcement, and specify if you need emphasis on particular aspects (liquidity, valuation, etc.).",
+  "usage": {
+    "prompt_tokens": 233,
+    "completion_tokens": 287,
+    "total_tokens": 520,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-17T05:47:20.294426"
+}
