@@ -1,5 +1,5 @@
 {
-  "ticker": "OSL",
+  "ticker": "PCG",
   "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959259",
   "id": "02959259",
   "pages": 4,
@@ -7,13 +7,13 @@
   "date": "20250617",
   "time": "1527",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250617/pdf/06ktvgz8h0y64j.pdf",
-  "summary": "Understood. For any ASX announcement you provide (or simulate), I will:  \n\n1. **Quickly classify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly, M&A).  \n2. **Extract only the material details** per your strict formatting rules.  \n3. **Omit all fluff** (boilerplate, director names, non-impactful operational updates).  \n\n**Example Outputs:**  \n\n---  \n**Trading Halt Request**  \n\u2022 Reason: Pending capital raising announcement ($50M placement).  \n\n**Capital Raising Announcement**  \n\u2022 Structure: $100M accelerated placement + $20M SPP.  \n\u2022 Key dates: Ex-date 15/05/2024, SPP closes 30/05/2024.  \n\n**Quarterly Report (4C)**  \n\u2022 Cash balance: $12.7M (vs. $15.1M last quarter).  \n\u2022 Key highlight: Production +22% QoQ to 50koz Au.  \n\n**Other Announcement**  \n\u2022 Strategic review initiated; asset divestments targeting $200M.  \n\u2022 CEO resigns effective immediately (no successor named).  \n\n**No material information identified**  \n---  \n\nReady to analyze your PDF/text. Paste or describe the announcement, and specify if you need emphasis on particular aspects (liquidity, valuation, etc.).",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract material information in the strict format you\u2019ve requested (e.g., trading halt reason, capital raising terms, or critical operational/financial data).  \n\nIf the document is unavailable, here are hypothetical examples of how I\u2019d structure responses:  \n\n---  \n**Example 1: Trading Halt Request**  \n- Pending release of capital raising details.  \n\n**Example 2: Capital Raising Announcement**  \n- **Structure:** 1-for-5 Entitlement Offer + Placement.  \n- **Total raised:** AUD 50M (Placement: AUD 30M; Entitlement: AUD 20M).  \n- **Key dates:** Ex-date: 15 Oct; Record: 17 Oct; Close: 30 Oct.  \n\n**Example 3: Quarterly Report (4C)**  \n- **Cash balance:** AUD 12.5M (QoQ -15%).  \n- **Highlights:** Production +22%; unit costs AUD 1.20/lb (guidance: AUD 1.15\u20131.30).  \n\n**Example 4: Material Contract Signed**  \n- 5-year supply deal with Tier-1 OEM; minimum revenue AUD 200M.  \n- Includes upfront payment of AUD 25M (H1 FY25).  \n\n**No Material Information Identified:** If boilerplate or lacks actionable data.  \n\n---  \nSubmit the announcement, and I\u2019ll adhere strictly to your rules.",
   "usage": {
     "prompt_tokens": 233,
-    "completion_tokens": 287,
-    "total_tokens": 520,
+    "completion_tokens": 316,
+    "total_tokens": 549,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-17T05:47:20.294426"
+  "processed_at": "2025-06-17T05:57:22.085010"
 }
