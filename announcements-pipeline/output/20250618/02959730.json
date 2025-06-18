@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959730",
+  "id": "02959730",
+  "pages": 36,
+  "price_sensitive": false,
+  "date": "20250618",
+  "time": "1629",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw5r8hd28vcn.pdf",
+  "summary": "**Summary of CitiFirst MINIs Announcement (Effective 19-Jun-25):**\n\n### **Material Information Extracted:**\n#### **Single Stock MINIs (Pages 1-29):**\n- **Instrument Structure:** MINI Long/Short contracts on ASX-listed stocks.\n- **Key Terms per Instrument:**  \n  - **Strike Price**: AUD value (e.g., LIFE360 INC MINI Long: $26.3267).  \n  - **Stop Loss Trigger**: AUD level (e.g., $31.4800 for LIFE360).  \n  - **Gearing**: Ratio (e.g., 82.09% for LIFE360).  \n  - **Current Share Price**: AUD (e.g., $32.07 for LIFE360).  \n  - **Approx. MINI Value**: AUD (e.g., $5.74).  \n  - **Distance to Stop Loss**: % (e.g., 1.84% for LIFE360).  \n\n#### **Australian Index MINIs (Page 30):**\n- **Underlying**: S&P ASX 200 Futures (Sep-2025).  \n- **Example**:  \n  - **XJOQOG MINI Long**:  \n    - Strike: 7169.3323, Stop Loss: 7583.  \n    - Current Index: 8529, Gearing: 84.06%, Value: AUD 13.60.  \n\n#### **International Index MINIs (Pages 31-32):**\n- **Underlying**: Indices (e.g., Nasdaq-100, Nikkei 225).  \n  - **NDXKOD MINI Long**:  \n    - Strike: 19317.7265 (Nasdaq-100), Stop Loss: 20227.  \n    - Current Index: 22009.50, Gearing: 87.77%.  \n\n#### **Currencies & Commodities (Pages 33-36):**\n- **FX (EUR, GBP, JPY AUD/USD)**:  \n  - **FXEKOB (AUD/EUR MINI Long)**: Strike 0.5334, Stop Loss 0.5500, Value AUD 5.66.  \n- **Commodities (Copper, Gold, WTI Crude)**:  \n  - **ZGCKOC (Gold MINI Long)**: Strike 2483.1203, Stop Loss 2725.27, Value AUD 14.13.  \n\n### **Key Points for Trading Decisions:**\n1. **Leverage**: High gearing (e.g., 82.09% for LIFE360) implies amplified exposure.  \n2. **Stop Loss Triggers**: Critical for risk management (e.g., 5.65% buffer for AUD/USD MINI Short).  \n3. **Effective Date**: All instruments expire/update on **19-Jun-25**.  \n\n### **Actionable Data:**\n- **MINI Longs**: Favor high-gearing, low stop-loss distance (e.g., GPTKOA: 81.59% gearing, 6.46% to stop).  \n- **MINI Shorts**: Monitor those close to trigger (e.g., AUD/USD FXUKOW: 1.36% to stop).  \n\n**No material operational or financial updates found beyond instrument specs.**  \n\n*Note: Omitted boilerplate disclaimers and non-trading details.*",
+  "usage": {
+    "prompt_tokens": 57117,
+    "completion_tokens": 711,
+    "total_tokens": 57828,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-18T06:32:48.446294"
+}
