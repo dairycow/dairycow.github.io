@@ -7,13 +7,13 @@
   "date": "20250618",
   "time": "1646",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw6d5h4h2ckm.pdf",
-  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will analyze it according to your specified guidelines, extracting only material information relevant for trading or capital markets decisions in concise bullet points.  \n\nFor now, here\u2019s how I would structure responses for common announcement types:  \n\n### **Examples:**  \n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising Announcement**  \n- Type: Institutional Placement + SPP.  \n- Amount: AUD 50 million.  \n- Key dates: Ex-date (DD/MM), Record date (DD/MM), SPP close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: AUD 10.2 million (vs. AUD 12.5M prev).  \n- Key operational highlights: Revenue up 15% QoQ, production XYZ units.  \n\n**4. Other Material Announcements**  \n- Major asset sale: Proceeds AUD 75M, expected completion Q4.  \n- Debt restructuring: New AUD 100M facility replaces maturing debt.  \n\n**5. No Material Information Identified** *(if applicable)*  \n\nOnce you share the PDF or relevant text, I\u2019ll provide a similarly structured breakdown. Let me know if you'd like any refinements to this format.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or selected excerpts), and I will generate a **concise, material-only summary** adhering strictly to your outlined rules.  \n\nExample outputs:  \n\n**1. Trading Halt Request:**  \n- Halt requested pending release of capital raising details.  \n\n**2. Capital Raising Announcement:**  \n- Type: AUD 50M Placement + AUD 10M SPP.  \n- Key dates: Ex-date 15/04, Record 17/04, SPP close 30/04.  \n\n**3. Quarterly Report (4C):**  \n- Cash balance: AUD 12.5M (prior: AUD 15.2M).  \n- Key highlight: Record production of 5,200oz gold (up 15% QoQ).  \n\n**4. Other Announcement (e.g., M&A):**  \n- Acquisition of X asset for AUD 25M, funded via debt (AUD 20M) and equity (AUD 5M).  \n\n*No material information identified* will be returned if irrelevant. Proceed when ready.  \n\n*For personal use only*",
   "usage": {
     "prompt_tokens": 223,
-    "completion_tokens": 284,
-    "total_tokens": 507,
+    "completion_tokens": 251,
+    "total_tokens": 474,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T07:39:38.826475"
+  "processed_at": "2025-06-18T07:51:11.447163"
 }
