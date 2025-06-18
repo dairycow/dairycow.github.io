@@ -1,0 +1,19 @@
+{
+  "ticker": "ACE",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959738",
+  "id": "02959738",
+  "pages": 2,
+  "price_sensitive": true,
+  "date": "20250618",
+  "time": "1646",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw6d5h4h2ckm.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, issuer name, headline). I\u2019ll promptly extract only material information in the requested format.  \n\n**Example Outputs for Reference:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - Structure: A$50M placement + A$10M SPP.  \n   - Key dates: Ex-date 15/03, Record 18/03, Close 05/04.  \n\n3. **Appendix 4C (Quarterly)**  \n   - Cash balance: A$12.5M (prior quarter: A$15.2M).  \n   - Highlights: Sales up 22% QoQ, production costs down 8%.  \n\n4. **Other Announcement**  \n   - Key point 1: Major JV signed with Tier-1 miner (terms undisclosed).  \n   - Key point 2: FY24 guidance lifted to A$150M EBITDA (prior: A$130M).  \n\n5. **No Material Information Identified**  \n   - Routine operational update; no financial/strategic impact.  \n\nProceed with your document.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 263,
+    "total_tokens": 486,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-18T06:58:24.732526"
+}
