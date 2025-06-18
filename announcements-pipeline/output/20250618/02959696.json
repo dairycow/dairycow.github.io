@@ -7,13 +7,13 @@
   "date": "20250618",
   "time": "1436",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw2qz28dw4jw.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its key details), and I will:  \n\n1. **Identify the announcement type** (e.g., Capital Raise, Trading Halt, Quarterly).  \n2. **Extract only material information** (capital raised, key dates, operational/financial highlights, etc.).  \n3. **Format as ultra-concise bullet points**, omitting all non-material details.  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement**  \n- Type: Placement + SPP  \n- Total raised: $50M (Placement: $40M, SPP: $10M cap)  \n- Key dates: Ex-date 15 Oct, Record 17 Oct, SPP closes 5 Nov.  \n\n**Appendix 4C (Quarterly)**  \n- Cash balance: $12.5M (prior: $15.2M).  \n- Quarterly burn: $2.7M.  \n- Milestone: First revenue ($0.8M).  \n\n**Trading Halt Request**  \n- Reason: Pending capital raise announcement.  \n\n---  \nSubmit the PDF/text, and I\u2019ll respond in this exact style. If unclear/non-material: \"No material information identified.\"",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its key contents), and I will extract the material information in the precise format you\u2019ve requested.  \n\nExample outputs based on your criteria:  \n\n---  \n**If Trading Halt:**  \n- *Reason*: Pending capital raising announcement.  \n\n**If Capital Raising:**  \n- *Structure*: Placement + SPP.  \n- *Amount*: $50M (Placement: $40M at $0.50/share; SPP: up to $10M).  \n- *Key Dates*: Ex-date 15/10, Record 16/10, SPP close 30/10.  \n\n**If Appendix 4C:**  \n- *Cash Balance*: $12.5M (Q-end).  \n- *Highlights*: Revenue up 15% QoQ; production costs down 10%.  \n\n**If Other Material Announcement:**  \n- *Key Point 1*: Major asset sale agreement signed ($100M expected proceeds).  \n- *Key Point 2*: Debt refinancing completed (new 3-yr term at 5% interest).  \n\n**If Unclear/Non-Material:**  \n- *No material information identified*.  \n---  \n\nSubmit the document/text, and I\u2019ll adhere strictly to your guidelines.",
   "usage": {
     "prompt_tokens": 228,
-    "completion_tokens": 257,
-    "total_tokens": 485,
+    "completion_tokens": 275,
+    "total_tokens": 503,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T04:52:01.851745"
+  "processed_at": "2025-06-18T05:03:52.730968"
 }
