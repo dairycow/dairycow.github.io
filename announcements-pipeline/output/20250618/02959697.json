@@ -1,0 +1,19 @@
+{
+  "ticker": "HCT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959697",
+  "id": "02959697",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250618",
+  "time": "1437",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw2t5j8jrtqp.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its text), and I will extract **only** the material trading or capital markets information as:  \n\n- **Concise bullet points** (no sentences).  \n- **Strictly structured** by announcement type per your guidelines.  \n- **No filler, names, or commentary**\u2014only data impacting valuation, liquidity, or capital structure.  \n\nIf the document is irrelevant/unclear, I\u2019ll respond: *\"No material information identified.\"*  \n\nProceed when ready.  \n\n*Note: If pasting text, focus on the key sections (e.g., \"Highlights,\" \"Capital Raising Details,\" \"Timetable\").*",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 144,
+    "total_tokens": 369,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-18T04:51:51.453289"
+}
