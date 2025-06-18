@@ -7,13 +7,13 @@
   "date": "20250618",
   "time": "1615",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw51wj52txxw.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information relevant for trading or capital markets decisions in a concise bullet-point format, strictly adhering to your specified structure and rules.  \n\nIf the document isn't immediately available, here\u2019s how I\u2019d handle common scenarios based on your guidelines:  \n\n**Example Summary Outputs:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending announcement of a material capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP)**  \n   - Structure: AUD 50M Placement + AUD 10M SPP.  \n   - Key dates: Ex-date (DD/MM/YYYY), Record date (DD/MM/YYYY), SPP close (DD/MM/YYYY).  \n\n3. **Appendix 4C (Quarterly Cash Flow)**  \n   - Cash balance: AUD XX.XM (prior quarter: AUD XX.XM).  \n   - Key highlight: Revenue up X% QoQ to AUD XX.XM; cash burn AUD X.XM.  \n\n4. **Merger Announcement**  \n   - Proposed all-scrip merger with [Target] at 0.5x exchange ratio.  \n   - Implied equity value: AUD XXXM; expected completion Q4 2024.  \n\n5. **No Material Information Identified**  \n   - Routine operational update; no impact on valuation or liquidity.  \n\nProvide the document or specifics, and I\u2019ll refine accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its text, and I will extract and summarize the **material information only**, strictly adhering to the following format based on announcement type:  \n\n### **1. Trading Halt Request**  \n\u2014 Reason: *[One-line summary]*  \n\n### **2. Capital Raising Announcement**  \n\u2014 Structure: *[Placement/SPP/Entitlement Offer]*  \n\u2014 Amount Raised: *[AUD XX million]*  \n\u2014 Key Dates: Ex-date (*DD/MM/YY*), Record date (*DD/MM/YY*), Close date (*DD/MM/YY*).  \n\n### **3. Quarterly Report (Appendix 4C)**  \n\u2014 Key Highlights: *[1-2 lines on operational/financial metrics]*  \n\u2014 Cash Balance: *[AUD XX.X million]*  \n\n### **4. Other Announcement Types**  \n\u2014 Critical Impact Points:  \n  1. *[Material event affecting valuation/liquidity]*  \n  2. *[Key change to capital structure]*  \n\nIf no material information is found, I will state:  \n\u2014 **No material information identified.**  \n\n**Now, share the document or paste the relevant text, and I\u2019ll provide a concise summary.**",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 317,
-    "total_tokens": 547,
+    "completion_tokens": 261,
+    "total_tokens": 491,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T06:34:17.159025"
+  "processed_at": "2025-06-18T06:57:09.564916"
 }
