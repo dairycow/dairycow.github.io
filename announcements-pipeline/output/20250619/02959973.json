@@ -7,13 +7,13 @@
   "date": "20250619",
   "time": "0933",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kwxq4lvzkr90.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I will generate a **concise, material-only summary** adhering strictly to your rules.  \n\nExample outputs based on common scenarios:  \n\n---  \n\n**Trading Halt Request**:  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement**:  \n- Structure: A$50M Placement + A$10M SPP.  \n- Key dates: Ex-date 15 Sep, Record 18 Sep, Close 30 Sep.  \n\n**Appendix 4C (Quarterly)**:  \n- Cash balance: A$12.5M (prior: A$15.2M).  \n- Highlights: Gold production +5% QoQ; costs A$1,200/oz.  \n\n**Other Announcement**:  \n- Major contract signed (A$200M revenue over 3 years).  \n- CEO resigns (effective immediately).  \n\n**No Material Information Identified**.  \n\n---  \n\nDrop the document or specifics, and I\u2019ll extract **only what matters** for trading/capital markets decisions.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (type, title, and major points), and I\u2019ll extract **only** the material trading/capital markets information in concise bullet points, adhering strictly to your rules.  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement**  \n- Structure: 1-for-5 non-renounceable entitlement offer  \n- Amount: AUD 50M (AUD 0.20/share)  \n- Dates: Ex-date 15/05, Record 16/05, Close 30/05  \n\n**Quarterly Report (Appendix 4C)**  \n- Cash balance: AUD 12.3M (prior quarter: AUD 15.1M)  \n- Key highlight: Sales up 22% QoQ to AUD 8.4M  \n\n**Other Announcement (Acquisition)**  \n- Acquiring Asset X for AUD 25M (50% cash, 50% scrip)  \n- Conditional on shareholder approval (meeting 20/06)  \n\n**Trading Halt Request**  \n- Pending release of capital raising details  \n\n**No material information identified**  \n---  \n\nReady to proceed\u2014share the document or key details.",
   "usage": {
-    "prompt_tokens": 218,
-    "completion_tokens": 241,
-    "total_tokens": 459,
+    "prompt_tokens": 220,
+    "completion_tokens": 254,
+    "total_tokens": 474,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T23:52:16.492337"
+  "processed_at": "2025-06-18T23:58:01.153464"
 }
