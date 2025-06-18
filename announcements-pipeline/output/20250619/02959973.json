@@ -7,13 +7,13 @@
   "date": "20250619",
   "time": "0933",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kwxq4lvzkr90.pdf",
-  "summary": "Understood. Please provide:  \n1. **The ASX announcement PDF** (or key excerpts if PDF isn't shareable).  \n2. **The announcement type** (if identifiable, e.g., \"Capital Raising,\" \"Trading Halt,\" \"Quarterly Report\").  \n\nI\u2019ll strictly adhere to your rules:  \n- **Boilerplate/context removed**.  \n- **Only material trading/capital markets data extracted**.  \n- **Concise bullet points tailored to the announcement type**.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Halt requested pending release of material acquisition announcement.  \n\n**Capital Raising (Placement + SPP):**  \n- **Structure:** $50M placement (institutional) + $15M SPP.  \n- **Use of funds:** Debt reduction (70%), exploration (30%).  \n- **Dates:** Ex-date 15/03, Record 18/03, SPP closes 05/04.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: $12.4M (QoQ -$2.1M).  \n- Operational: Gold production 15koz (vs guidance 14koz).  \n\n**Other Announcement:**  \n- Major asset sale: Divesting X project for $120M (net 30% uplift to NAV).  \n- Board change: CFO resigning (no successor named).  \n\n**No material information identified.**  \n\nReady to proceed\u2014attach/share the document or details.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I will generate a **concise, material-only summary** adhering strictly to your rules.  \n\nExample outputs based on common scenarios:  \n\n---  \n\n**Trading Halt Request**:  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement**:  \n- Structure: A$50M Placement + A$10M SPP.  \n- Key dates: Ex-date 15 Sep, Record 18 Sep, Close 30 Sep.  \n\n**Appendix 4C (Quarterly)**:  \n- Cash balance: A$12.5M (prior: A$15.2M).  \n- Highlights: Gold production +5% QoQ; costs A$1,200/oz.  \n\n**Other Announcement**:  \n- Major contract signed (A$200M revenue over 3 years).  \n- CEO resigns (effective immediately).  \n\n**No Material Information Identified**.  \n\n---  \n\nDrop the document or specifics, and I\u2019ll extract **only what matters** for trading/capital markets decisions.",
   "usage": {
-    "prompt_tokens": 220,
-    "completion_tokens": 311,
-    "total_tokens": 531,
+    "prompt_tokens": 218,
+    "completion_tokens": 241,
+    "total_tokens": 459,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T23:43:34.086654"
+  "processed_at": "2025-06-18T23:52:16.492337"
 }
