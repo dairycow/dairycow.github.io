@@ -1,6 +1,44 @@
 [
   {
-    "ticker": "OSL",
+    "ticker": "BCN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959716",
+    "id": "02959716",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250618",
+    "time": "1552",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw4kvhwwdfc8.pdf",
+    "summary": "<ul>\n<li><strong>Options Exercise</strong>: Issued 17 new shares from exercise of Listed Options at $0.030 per share on 17 June 2025.  </li>\n<li><strong>Disclosure Exemption</strong>: Shares issued under Section 708A exemption (no disclosure document required).  </li>\n</ul>\n<p>No material information impacting trading or capital structure identified.</p>",
+    "usage": {
+      "prompt_tokens": 595,
+      "completion_tokens": 65,
+      "total_tokens": 660,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-18T05:57:15.063481"
+  },
+  {
+    "ticker": "BCN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959715",
+    "id": "02959715",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250618",
+    "time": "1550",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw4hf1v07464.pdf",
+    "summary": "<h3><strong>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities)</strong></h3>\n<ul>\n<li><strong>Issuer:</strong> Beacon Minerals Limited (ASX: BCN)  </li>\n<li><strong>Announcement Type:</strong> Securities issuance (conversion of options to ordinary shares)  </li>\n<li><strong>Securities Issued:</strong>  </li>\n<li><strong>17 new ordinary shares (BCN)</strong> issued from exercise of <strong>options (BCNOD expiring 05-Nov-2029)</strong>.  </li>\n<li><strong>Issue price:</strong> AUD 0.03 per share.  </li>\n<li><strong>Issue date:</strong> 17 June 2025.  </li>\n<li><strong>Post-Issue Capital Structure:</strong>  </li>\n<li><strong>Ordinary shares (BCN):</strong> 4,226,395,459 (quoted).  </li>\n<li><strong>Options (BCNOD):</strong> 533,758,983 (quoted).  </li>\n</ul>\n<p><strong>No material impact on liquidity/capital structure</strong> (negligible dilution from 17 shares).</p>",
+    "usage": {
+      "prompt_tokens": 1410,
+      "completion_tokens": 202,
+      "total_tokens": 1612,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-18T05:57:30.875953"
+  },
+  {
+    "ticker": "SOL",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959714",
     "id": "02959714",
     "pages": 8,
@@ -8,15 +46,15 @@
     "date": "20250618",
     "time": "1537",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw4bq4qpnq7d.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement</strong>  </p>\n<ul>\n<li><strong>Substantial Holder Change</strong>: Washington H. Soul Pattinson (Soul Patts) reports a technical change in deemed voting power for <strong>OncoSil Medical Ltd (OSL)</strong> due to its &gt;20% stake in <strong>Pengana Capital Group Ltd (PCG)</strong>.  </li>\n<li><strong>Revised Voting Power</strong>: Soul Patts\u2019 voting power in OSL increased from <strong>11.97% to 16.52%</strong> (2,349,702 ordinary shares).  </li>\n<li><strong>Reason</strong>: Attributable to PCG's updated substantial holding notice (referenced but not detailed in this filing).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (change reflects technical disclosure, not active trading or capital activity).  </p>\n<p><em>Omitted boilerplate, legal details, and non-material context.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> Notice of Change of Interests of Substantial Holder<br />\n<strong>Key Points:</strong><br />\n- <strong>Substantial Holder:</strong> Washington H. Soul Pattinson and Company Limited (Soul Patts).<br />\n- <strong>Change in Interest:</strong><br />\n  - <strong>Previous Holding (OSL):</strong> 11.97% voting power (535,714,286 ordinary shares).<br />\n  - <strong>Current Holding (OSL):</strong> 16.52% voting power (2,349,702 ordinary shares).<br />\n  - <strong>Technical Interest:</strong> Deemed due to Soul Patts holding &gt;20% voting power in Pengana Capital Group Limited (PCG).<br />\n- <strong>Date of Change:</strong> 13 May 2025.  </p>\n<p><strong>Material Impact:</strong><br />\n- Increased stake may signal strategic intentions or influence over OSL. No capital raising or liquidity event disclosed.  </p>\n<p><strong>Omitted:</strong> Legal boilerplate, non-material association details.</p>",
     "usage": {
       "prompt_tokens": 2164,
-      "completion_tokens": 171,
-      "total_tokens": 2335,
+      "completion_tokens": 196,
+      "total_tokens": 2360,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:02.288776"
+    "processed_at": "2025-06-18T05:56:45.943933"
   },
   {
     "ticker": "TTZ",
@@ -27,15 +65,15 @@
     "date": "20250618",
     "time": "1536",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw48fk5rk3ht.pdf",
-    "summary": "<h3><strong>Torrens Series 2016-1 Trust \u2013 Class A Notes Interest Payment Announcement</strong></h3>\n<ul>\n<li><strong>ASX Code:</strong> TTZ  </li>\n<li><strong>Record Date:</strong> 14 July 2025  </li>\n<li><strong>Interest Payment Date:</strong> 18 July 2025  </li>\n</ul>\n<h4><strong>Pool Statistics (Key Highlights)</strong></h4>\n<ul>\n<li><strong>Total Loan Pool Size:</strong> AUD <strong>$88.54M</strong>  </li>\n<li><strong>Weighted Average Current LVR (Loan-to-Value Ratio):</strong> <strong>43.40%</strong>  </li>\n<li><strong>Weighted Average Interest Rate:</strong> <strong>5.97%</strong>  </li>\n<li><strong>Arrears Summary:</strong>  </li>\n<li><strong>96.72% (647 loans)</strong> current (0 days in arrears)  </li>\n<li><strong>0.93% (4 loans)</strong> 90+ days in arrears (AUD <strong>$823K</strong>)  </li>\n<li><strong>Owner-Occupied vs. Investment Loans:</strong>  </li>\n<li><strong>93.04% ($82.38M)</strong> owner-occupied  </li>\n<li><strong>6.96% ($6.16M)</strong> investment loans  </li>\n<li><strong>Geographic Distribution (Top Regions by Loan Balance):</strong>  </li>\n<li><strong>Victoria (Metro + Non-Metro): 54.16%</strong>  </li>\n<li><strong>Queensland (Non-Metro): 15.40%</strong>  </li>\n<li><strong>New South Wales (Non-Metro): 5.25%</strong>  </li>\n</ul>\n<h4><strong>Credit Risk Snapshot</strong></h4>\n<ul>\n<li><strong>Maximum Current LVR:</strong> <strong>72.00%</strong>  </li>\n<li><strong>Mortgage Insurance Coverage:</strong>  </li>\n<li><strong>23.78% ($21.06M)</strong> covered by QBE/Helia  </li>\n<li><strong>76.21% ($67.48M)</strong> insurable (potential risk retention)  </li>\n</ul>\n<p>No material changes to capital structure noted. Disclosure confirms stable underlying asset performance.  </p>\n<p><strong>Action:</strong> Monitor interest payment execution on <strong>18 July 2025</strong>.</p>",
+    "summary": "<p><strong>Interest Payment Announcement - Torrens Series 2016-1 Trust (ASX: TTZ)</strong>  </p>\n<ul>\n<li><strong>Record Date:</strong> 14 July 2025  </li>\n<li><strong>Interest Payment Date:</strong> 18 July 2025  </li>\n<li><strong>Loan Pool Data (as of 31 May 2025):</strong>  </li>\n<li>Total Pool Size: <strong>A$88.5M</strong>  </li>\n<li>Weighted Avg Current LVR: <strong>43.4%</strong>  </li>\n<li>Weighted Avg Interest Rate: <strong>5.97%</strong> (Fixed: 5.58%, Variable: 6.07%)  </li>\n<li>Arrears: <strong>97.3% current (0 days overdue)</strong>; 1.5% (1-30 days); 0.9% (31+ days)  </li>\n<li>Owner-Occupied Loans: <strong>93% of pool</strong>  </li>\n</ul>\n<p><em>No material changes to capital structure or liquidity identified.</em></p>",
     "usage": {
       "prompt_tokens": 7326,
-      "completion_tokens": 392,
-      "total_tokens": 7718,
+      "completion_tokens": 194,
+      "total_tokens": 7520,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:42.547516"
+    "processed_at": "2025-06-18T05:57:21.639365"
   },
   {
     "ticker": "LYL",
@@ -46,15 +84,15 @@
     "date": "20250618",
     "time": "1531",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw457f0vpw7j.pdf",
-    "summary": "<ul>\n<li><strong>Director Share Sale (Indirect Interest)</strong>  </li>\n<li><strong>Director:</strong> Bruno Ruggiero  </li>\n<li><strong>Date of Change:</strong> 17 June 2025  </li>\n<li><strong>Securities Disposed:</strong> 650,000 fully paid ordinary shares  </li>\n<li><strong>Holding Post-Sale:</strong> 1,000,520 ordinary shares + 52,047 Class A Performance Rights retained  </li>\n<li><strong>Transaction Type:</strong> Off-market sale  </li>\n<li><strong>Consideration:</strong> $6,750,705.00  </li>\n</ul>\n<p><strong>No material impact on capital structure or liquidity identified.</strong><br />\n<em>(Note: Routine director interest disclosure; no trading halt, capital raising, or operational updates.)</em></p>",
+    "summary": "<h3>Summary (Director's Interest Change):</h3>\n<ul>\n<li><strong>Director:</strong> Bruno Ruggiero  </li>\n<li><strong>Transaction:</strong> Off-market sale of <strong>650,000 fully paid ordinary shares</strong> (indirectly held via Luala Pty Ltd and Ziziphus Pty Ltd).  </li>\n<li><strong>Value:</strong> <strong>$6,750,705</strong> (total consideration).  </li>\n<li><strong>Post-transaction holdings:</strong>  </li>\n<li><strong>1,000,520 ordinary shares</strong> (remaining).  </li>\n<li><strong>52,047 Class A Performance Rights</strong> (unchanged).  </li>\n<li><strong>Closed period:</strong> No trading during a closed period.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 946,
-      "completion_tokens": 138,
-      "total_tokens": 1084,
+      "prompt_tokens": 944,
+      "completion_tokens": 131,
+      "total_tokens": 1075,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:28.768010"
+    "processed_at": "2025-06-18T05:57:10.573055"
   },
   {
     "ticker": "DCO",
@@ -65,18 +103,18 @@
     "date": "20250618",
     "time": "1526",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw422cmdp22f.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Amount</strong>: 17.00 cents per unit.  </li>\n<li><strong>DRP Issue Price</strong>: $50.8860.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-Distribution Date: 16 June 2025.  </li>\n<li>Record Date: 17 June 2025.  </li>\n<li>Payment Date: 23 June 2025.</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Final Distribution</strong>: 17.00 cents per unit.  </li>\n<li><strong>DRP Issue Price</strong>: $50.8860.  </li>\n<li><strong>Distribution Timetable</strong>:  </li>\n<li>Ex-Distribution Date: 16 June 2025.  </li>\n<li>Record Date: 17 June 2025.  </li>\n<li>DRP Election Date: 17 June 2025 (5 PM).  </li>\n<li>Payment Date: 23 June 2025.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
     "usage": {
-      "prompt_tokens": 1256,
-      "completion_tokens": 75,
-      "total_tokens": 1331,
+      "prompt_tokens": 1254,
+      "completion_tokens": 105,
+      "total_tokens": 1359,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:49.457661"
+    "processed_at": "2025-06-18T05:57:26.362334"
   },
   {
-    "ticker": "CUR",
+    "ticker": "FAN",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959709",
     "id": "02959709",
     "pages": 4,
@@ -84,15 +122,15 @@
     "date": "20250618",
     "time": "1515",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw3vsxd7fmpt.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Key Correction for FANG ETF:</strong>  </li>\n<li>\n<p><strong>Global X FANG+ ETF (FANG):</strong> Revised monthly net inflow of <strong>1,000,000 units</strong> (<strong>A$31.8m</strong>).  </p>\n<ul>\n<li>New units issued: 1,400,000 (A$44.9m).  </li>\n<li>Units redeemed: 400,000 (A$13.1m).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Material Fund Flow Updates (Other ETFs):</strong>  </p>\n</li>\n<li><strong>LNAS:</strong> Net outflow of <strong>1,050,000 units</strong> (<strong>A$9.9m</strong>).  </li>\n<li><strong>USTB:</strong> Net outflow of <strong>1,850,000 units</strong> (<strong>A$16.9m</strong>).  </li>\n<li><strong>WIRE:</strong> Net inflow of <strong>650,000 units</strong> (<strong>A$8.3m</strong>).  </li>\n<li>\n<p><strong>BANK:</strong> Net inflow of <strong>2,000,894 units</strong> (<strong>A$19.9m</strong>).  </p>\n</li>\n<li>\n<p><strong>No Changes Reported for:</strong> ATOM, BCOM, BUGG, GMTL, HGEN, OZXX, PAVE, TECH, USHY, USIG, ZYAU.  </p>\n</li>\n</ul>\n<p><strong>No capital raising, trading halt, or valuation-impacting operational updates.</strong></p>",
+    "summary": "<h3>Summary of ASX Announcement (ETF Fund Flow Update)</h3>\n<p><strong>Key ETF Fund Flow Changes (Material Liquidity Impact):</strong><br />\n- <strong>FANG (Global X FANG+ ETF):</strong><br />\n  - Net issuance: <strong>+1,000,000 units</strong> ($31.8M inflow)<br />\n  - Redemptions: <strong>400,000 units</strong> (-$13.1M)  </p>\n<ul>\n<li><strong>ACDC (Battery Tech &amp; Lithium ETF):</strong>  </li>\n<li>\n<p>Net redemptions: <strong>-120,000 units</strong> (-$10.4M outflow)  </p>\n</li>\n<li>\n<p><strong>AYLD (ASX 200 Covered Call ETF):</strong>  </p>\n</li>\n<li>\n<p>Net issuance: <strong>+300,000 units</strong> ($3.1M inflow)  </p>\n</li>\n<li>\n<p><strong>DRGN (China Tech ETF):</strong>  </p>\n</li>\n<li>\n<p>New units: <strong>+500,000 units</strong> ($5.1M inflow)  </p>\n</li>\n<li>\n<p><strong>FHNG (FANG+ Hedged ETF):</strong>  </p>\n</li>\n<li>\n<p>Net redemptions: <strong>-250,000 units</strong> (-$2.9M outflow)  </p>\n</li>\n<li>\n<p><strong>LNAS (Ultra Long Nasdaq 100 ETF):</strong>  </p>\n</li>\n<li>\n<p>Net redemptions: <strong>-1,050,000 units</strong> (-$9.9M outflow)  </p>\n</li>\n<li>\n<p><strong>USTB (US Treasury Bond Hedged ETF):</strong>  </p>\n</li>\n<li>Net redemptions: <strong>-1,850,000 units</strong> (-$16.9M outflow)  </li>\n</ul>\n<p><strong>Other Notable Changes (&gt;$5M Net Flow):</strong><br />\n- <strong>ESTX (EURO STOXX 50 ETF):</strong> +$31.2M inflow<br />\n- <strong>GHLD (Gold Hedged ETF):</strong> +$22.0M inflow<br />\n- <strong>SNAS (Ultra Short Nasdaq ETF):</strong> +$13.0M inflow  </p>\n<p><strong>No Material Flow Changes:</strong> Funds not listed above (e.g., ATOM, BUGG, TECH, etc.).  </p>\n<p><strong>Purpose:</strong> Correction of prior reported data for <strong>FANG</strong>; all other ETFs confirm unchanged or updated flows.  </p>\n<p><strong>Action:</strong> Monitor liquidity shifts for ETFs with large net inflows/outflows (&gt;$5M).  </p>\n<p><em>Format note: Excluded boilerplate disclaimers and non-material fund listings.</em></p>",
     "usage": {
       "prompt_tokens": 2690,
-      "completion_tokens": 272,
-      "total_tokens": 2962,
+      "completion_tokens": 468,
+      "total_tokens": 3158,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:24.459083"
+    "processed_at": "2025-06-18T05:57:06.960165"
   },
   {
     "ticker": "CEN",
@@ -103,15 +141,15 @@
     "date": "20250618",
     "time": "1515",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw3xvk0m6svc.pdf",
-    "summary": "<ul>\n<li><strong>Approval of Acquisition</strong>: Manawa Energy Limited shareholders approved the acquisition by Contact Energy Limited via a scheme of arrangement.  </li>\n<li><strong>Expected Implementation Date</strong>: Scheme expected to complete on <strong>11 July 2025</strong>, pending High Court approval and remaining conditions.  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Scheme of arrangement approved</strong>: Manawa shareholders approved the acquisition by Contact Energy Limited.  </li>\n<li><strong>Expected completion date</strong>: 11 July 2025 (subject to High Court approval and remaining conditions).</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 848,
-      "completion_tokens": 65,
-      "total_tokens": 913,
+      "prompt_tokens": 850,
+      "completion_tokens": 42,
+      "total_tokens": 892,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-18T05:47:31.536189"
+    "processed_at": "2025-06-18T05:57:12.043732"
   },
   {
     "ticker": "SKO",
