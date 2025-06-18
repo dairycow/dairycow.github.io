@@ -7,13 +7,13 @@
   "date": "20250618",
   "time": "1646",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw6d5h4h2ckm.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or relevant excerpts), and I\u2019ll promptly extract **only** the material trading or capital markets information in the strict format you\u2019ve requested.  \n\nExample outputs:  \n\n---  \n**Trading Halt Request**  \n- Reason: Pending announcement of a capital raising.  \n\n---  \n**Capital Raising Announcement**  \n- Structure: A$50M placement + A$10M SPP.  \n- Key dates: Ex-date 15/05, Record 17/05, Close 31/05.  \n\n---  \n**Quarterly Report (4C)**  \n- Cash burn: A$2.1M (prior Q: A$3.4M).  \n- Closing cash: A$12.5M.  \n- Milestone: First revenue received (A$0.8M).  \n\n---  \n**Other Announcement**  \n- Major asset sale: A$100M proceeds to repay debt.  \n- CEO resignation (no succession plan disclosed).  \n\n---  \n\n**Note:** If the document is unclear or lacks material details, I\u2019ll state: *No material information identified*.  \n\nReady to analyze your PDF.",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will analyze it according to your specified guidelines, extracting only material information relevant for trading or capital markets decisions in concise bullet points.  \n\nFor now, here\u2019s how I would structure responses for common announcement types:  \n\n### **Examples:**  \n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising Announcement**  \n- Type: Institutional Placement + SPP.  \n- Amount: AUD 50 million.  \n- Key dates: Ex-date (DD/MM), Record date (DD/MM), SPP close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: AUD 10.2 million (vs. AUD 12.5M prev).  \n- Key operational highlights: Revenue up 15% QoQ, production XYZ units.  \n\n**4. Other Material Announcements**  \n- Major asset sale: Proceeds AUD 75M, expected completion Q4.  \n- Debt restructuring: New AUD 100M facility replaces maturing debt.  \n\n**5. No Material Information Identified** *(if applicable)*  \n\nOnce you share the PDF or relevant text, I\u2019ll provide a similarly structured breakdown. Let me know if you'd like any refinements to this format.",
   "usage": {
     "prompt_tokens": 223,
-    "completion_tokens": 245,
-    "total_tokens": 468,
+    "completion_tokens": 284,
+    "total_tokens": 507,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T07:20:30.242337"
+  "processed_at": "2025-06-18T07:39:38.826475"
 }
