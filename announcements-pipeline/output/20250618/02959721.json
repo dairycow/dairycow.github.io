@@ -1,0 +1,19 @@
+{
+  "ticker": "DVP",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02959721",
+  "id": "02959721",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250618",
+  "time": "1615",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw51wj52txxw.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information relevant for trading or capital markets decisions in a concise bullet-point format, strictly adhering to your specified structure and rules.  \n\nIf the document isn't immediately available, here\u2019s how I\u2019d handle common scenarios based on your guidelines:  \n\n**Example Summary Outputs:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending announcement of a material capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP)**  \n   - Structure: AUD 50M Placement + AUD 10M SPP.  \n   - Key dates: Ex-date (DD/MM/YYYY), Record date (DD/MM/YYYY), SPP close (DD/MM/YYYY).  \n\n3. **Appendix 4C (Quarterly Cash Flow)**  \n   - Cash balance: AUD XX.XM (prior quarter: AUD XX.XM).  \n   - Key highlight: Revenue up X% QoQ to AUD XX.XM; cash burn AUD X.XM.  \n\n4. **Merger Announcement**  \n   - Proposed all-scrip merger with [Target] at 0.5x exchange ratio.  \n   - Implied equity value: AUD XXXM; expected completion Q4 2024.  \n\n5. **No Material Information Identified**  \n   - Routine operational update; no impact on valuation or liquidity.  \n\nProvide the document or specifics, and I\u2019ll refine accordingly.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 317,
+    "total_tokens": 547,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-18T06:34:17.159025"
+}
