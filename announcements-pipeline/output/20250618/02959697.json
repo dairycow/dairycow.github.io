@@ -7,13 +7,13 @@
   "date": "20250618",
   "time": "1437",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250618/pdf/06kw2t5j8jrtqp.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or paste its text), and I will extract **only** the material trading or capital markets information as:  \n\n- **Concise bullet points** (no sentences).  \n- **Strictly structured** by announcement type per your guidelines.  \n- **No filler, names, or commentary**\u2014only data impacting valuation, liquidity, or capital structure.  \n\nIf the document is irrelevant/unclear, I\u2019ll respond: *\"No material information identified.\"*  \n\nProceed when ready.  \n\n*Note: If pasting text, focus on the key sections (e.g., \"Highlights,\" \"Capital Raising Details,\" \"Timetable\").*",
+  "summary": "Understood. Please provide the ASX announcement PDF you'd like summarized, and I'll extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points based on the announcement type.  \n\nIf the document is unavailable, here's how my response would look for common scenarios:  \n\n### **Example Summaries:**  \n**1. Trading Halt Request**  \n- Reason: Pending announcement regarding capital raising.  \n\n**2. Capital Raising Announcement (Placement + SPP)**  \n- Structure: A$50M placement (A$0.20/sh) + A$10M SPP.  \n- Key dates: Ex-date (DD/MM), Record (DD/MM), SPP close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash receipts: A$15M (up 20% QoQ).  \n- Cash balance: A$25M (vs. A$20M last quarter).  \n\n**4. Other Announcement (e.g., M&A)**  \n- Acquirer: Company X to acquire Asset Y for A$100M (50% cash, 50% scrip).  \n- Conditional on shareholder approval (meeting: DD/MM).  \n\n**5. No Material Information Identified**  \n- Routine update without material financial/operational impact.  \n\nSubmit the PDF, and I\u2019ll provide the summary in this style.",
   "usage": {
-    "prompt_tokens": 225,
-    "completion_tokens": 144,
-    "total_tokens": 369,
+    "prompt_tokens": 223,
+    "completion_tokens": 298,
+    "total_tokens": 521,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-18T04:51:51.453289"
+  "processed_at": "2025-06-18T05:03:40.175752"
 }
