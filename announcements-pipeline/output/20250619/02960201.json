@@ -1,0 +1,19 @@
+{
+  "ticker": "BMT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960201",
+  "id": "02960201",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250619",
+  "time": "1744",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj3b018vvj2.pdf",
+  "summary": "Got it. Please provide the ASX announcement PDF (or its text), and I\u2019ll extract the material information in the requested concise format, tailored to the announcement type.  \n\nExample outputs based on your guidelines:  \n\n---  \n**Capital Raising Announcement**:  \n- Structure: 1-for-5 entitlement offer + $50m placement.  \n- Total raised: $150m AUD.  \n- Key dates: Ex-date 15/03, Record 18/03, Close 01/04.  \n\n**Appendix 4C (Quarterly)**:  \n- Cash balance: $12.5m AUD (prior: $15.2m).  \n- Burn rate: $2.7m/quarter.  \n- Milestone: Phase 2 trials completed ahead of schedule.  \n\n**Trading Halt Request**:  \n- Reason: Pending capital raising announcement.  \n\n**Other Announcement (Acquisition)**:  \n- Asset acquired: [X] lithium tenement for $20m AUD (scrip only).  \n- Implied dilution: ~5% to ESC.  \n\n---  \nSubmit the announcement, and I\u2019ll adhere strictly to your rules.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 241,
+    "total_tokens": 469,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-19T07:56:01.139533"
+}
