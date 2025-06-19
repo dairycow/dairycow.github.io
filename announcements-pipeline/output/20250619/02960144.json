@@ -1,0 +1,19 @@
+{
+  "ticker": "COI",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960144",
+  "id": "02960144",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250619",
+  "time": "1559",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxcmfs26zqtt.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF (or text/data from it), and I will extract **only material information** relevant for trading or capital markets decisions, formatted as ultra-concise bullet points.  \n\nExamples of what to expect:  \n\n### **Trading Halt Request**  \n- Reason: Pending material capital raising announcement.  \n\n### **Capital Raising Announcement**  \n- **Type:** Placement + SPP.  \n- **Amount:** AUD 50M (Placement: AUD 40M @ $0.50/share; SPP: AUD 10M cap).  \n- **Key Dates:** Ex-date 15 Oct, Record 18 Oct, SPP closes 5 Nov.  \n\n### **Quarterly Report (Appendix 4C)**  \n- **Cash balance (end-Q):** AUD 12.4M.  \n- **Key highlight:** Sales up 25% QoQ to AUD 8.2M; production 15,000oz Au.  \n\n### **Other Announcement (e.g., M&A, Asset Sale, Strategy Shift)**  \n- **Acquisition:** XYZ Co for AUD 120M (50% scrip, 50% cash).  \n- **Funding:** AUD 80M new debt facility secured.  \n\n**If no material info is found**, reply will be: *\"No material information identified.\"*  \n\n**Now,** share the announcement text/data for analysis.",
+  "usage": {
+    "prompt_tokens": 238,
+    "completion_tokens": 294,
+    "total_tokens": 532,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-19T06:31:59.322148"
+}
