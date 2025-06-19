@@ -1,6 +1,82 @@
 [
   {
     "ticker": "ATM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960195",
+    "id": "02960195",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1741",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhpfjvnz3t0.pdf",
+    "summary": "<p><strong>Appendix 3X Summary:</strong><br />\n- No material trading or capital markets information identified (routine director interest disclosure with zero securities held).  </p>\n<p><em>(Note: Appendix 3X filings are administrative and rarely contain material market-moving information unless they reveal substantial director holdings or transactions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 770,
+      "completion_tokens": 56,
+      "total_tokens": 826,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T07:46:50.978998"
+  },
+  {
+    "ticker": "CLG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960193",
+    "id": "02960193",
+    "pages": 9,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1741",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhk5gwgnc36.pdf",
+    "summary": "<ul>\n<li><strong>Wilson Asset Management Group ceased to be a substantial holder</strong> in Close the Loop Limited (ASX: CLG) on <strong>14/06/2025</strong>.  </li>\n<li><strong>Key disposals</strong> (on-market sells) by associated entities:  </li>\n<li><strong>17\u201319/06/2025</strong>: Combined sell-down of <strong>~9.3 million CLG shares</strong> by WAM Capital, WAM Microcap, and Wilson Asset Management Equity Fund entities (~13.3% of disclosed voting rights).  </li>\n<li><strong>29\u201330/01/2025</strong>: Earlier disposals of <strong>~1.1 million shares</strong> (~1.6% of voting rights).  </li>\n</ul>\n<p><em>No other material information identified (e.g., capital raising, trading halt, or operational updates).</em></p>",
+    "usage": {
+      "prompt_tokens": 9473,
+      "completion_tokens": 161,
+      "total_tokens": 9634,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T07:46:11.799019"
+  },
+  {
+    "ticker": "OSL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960196",
+    "id": "02960196",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1741",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhrj728g79q.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of securities</strong>: 3,494 OSL ordinary shares ceased due to lapse of conditional rights (Employee Loan Funded Shares).  </li>\n<li><strong>Date of cessation</strong>: 19/06/2025.  </li>\n<li><strong>Post-cessation issued capital</strong>:  </li>\n<li>Quoted: 14,220,777 OSL ordinary shares; 2,140,009 OSLOC options (expiring 20-Dec-2027); 4,786,231 OSL</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 1163,
+      "completion_tokens": 101,
+      "total_tokens": 1264,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T07:45:45.135842"
+  },
+  {
+    "ticker": "ATM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960194",
+    "id": "02960194",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1741",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhmb9l66rm6.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: Appendix 3X filings disclose director interests but rarely contain trade-impacting details. This notice shows no material securities held or transactions.)</p>",
+    "usage": {
+      "prompt_tokens": 768,
+      "completion_tokens": 36,
+      "total_tokens": 804,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T07:45:59.379843"
+  },
+  {
+    "ticker": "ATM",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960192",
     "id": "02960192",
     "pages": 2,
@@ -8,15 +84,15 @@
     "date": "20250619",
     "time": "1730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhf06456prl.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>Rationale: This is a standard director's interest notice (Appendix 3X) disclosing zero securities holdings by a newly appointed director. No impact on trading, capital structure, or valuation.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director's interest notice with no securities held or material disclosures affecting capital markets decisions.)</em></p>",
     "usage": {
-      "prompt_tokens": 767,
-      "completion_tokens": 48,
-      "total_tokens": 815,
+      "prompt_tokens": 769,
+      "completion_tokens": 29,
+      "total_tokens": 798,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:17.851482"
+    "processed_at": "2025-06-19T07:45:57.453751"
   },
   {
     "ticker": "ATM",
@@ -27,15 +103,15 @@
     "date": "20250619",
     "time": "1729",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhbmwsc8rc8.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(This is a routine director's interest notice disclosing minimal holdings, with no impact on trading, capital structure, or valuation.)</p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(This is a routine director's interest notice disclosing only an insignificant initial holding of 1 B share. No impact on trading, capital structure, or valuation.)</p>",
     "usage": {
       "prompt_tokens": 767,
-      "completion_tokens": 32,
-      "total_tokens": 799,
+      "completion_tokens": 39,
+      "total_tokens": 806,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:33:15.123230"
+    "processed_at": "2025-06-19T07:45:15.175373"
   },
   {
     "ticker": "ATM",
@@ -46,15 +122,15 @@
     "date": "20250619",
     "time": "1726",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh82nvnc4r0.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: Appendix 3X filings disclose director shareholdings but rarely contain material trading or capital markets information unless significant holdings are reported. This filing shows no securities held by the newly appointed director.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Appendix 3X - Initial Director\u2019s Interest Notice: Routine disclosure with no material ownership or trading impact.)</em></p>",
     "usage": {
-      "prompt_tokens": 710,
-      "completion_tokens": 49,
-      "total_tokens": 759,
+      "prompt_tokens": 708,
+      "completion_tokens": 32,
+      "total_tokens": 740,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:19.358343"
+    "processed_at": "2025-06-19T07:46:01.030159"
   },
   {
     "ticker": "ATM",
@@ -65,15 +141,15 @@
     "date": "20250619",
     "time": "1725",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh5p97sb7sy.pdf",
-    "summary": "<p><strong>No material information identified.</strong>  </p>\n<p><em>(This is an initial director's interest notice with no reported holdings or material interests.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: This is a routine director's interest notice with no reported securities holdings or other material details affecting valuation, liquidity, or capital structure.)</p>",
     "usage": {
-      "prompt_tokens": 703,
-      "completion_tokens": 26,
-      "total_tokens": 729,
+      "prompt_tokens": 705,
+      "completion_tokens": 36,
+      "total_tokens": 741,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:03.435907"
+    "processed_at": "2025-06-19T07:46:44.490913"
   },
   {
     "ticker": "KAT",
@@ -84,15 +160,15 @@
     "date": "20250619",
     "time": "1724",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh3dp0gf34b.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back Before Previous Day</strong>: 577,290  </li>\n<li><strong>Securities Bought Back on Previous Day (19/6/2025)</strong>: 25,000  </li>\n<li><strong>Total Buy-back Consideration Paid</strong> (AUD):  </li>\n<li>Cumulative: $695,617.92  </li>\n<li>Previous Day: $30,500.00  </li>\n<li><strong>Price Range</strong>:  </li>\n<li>Highest paid: $1.235 (14/1/2025)  </li>\n<li>Lowest paid: $1.180 (7/5/2025)  </li>\n<li>Previous day price: $1.220  </li>\n<li><strong>Maximum Buy-back Limit</strong>: 3,142,313 shares (remaining: 2,540,023 as of 19/6/2025)  </li>\n<li><strong>Buy-back Period</strong>: 2/1/2025 to 31/12/2025  </li>\n<li><strong>Broker</strong>: Canaccord Genuity  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity; routine daily update.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 3C - Buy-back Notification):</h3>\n<ul>\n<li><strong>Buy-back Type:</strong> On-market buy-back  </li>\n<li><strong>Total Securities Bought Back to Date:</strong> 602,290 (incl. 25,000 on 19/6/2025)  </li>\n<li><strong>Total Consideration for Buy-backs:</strong> AUD 726,117.92 (AUD 30,500 on 19/6/2025)  </li>\n<li><strong>Price Range on 19/6/2025:</strong> AUD 1.220 (flat)  </li>\n<li><strong>Maximum Approved Buy-back:</strong> 3,142,313 shares (remaining: 2,540,023)  </li>\n<li><strong>Broker:</strong> Canaccord Genuity  </li>\n<li><strong>Buy-back Period:</strong> 2/1/2025 to 31/12/2025  </li>\n</ul>\n<p><em>No material valuation or liquidity impacts noted beyond routine buy-back execution.</em></p>",
     "usage": {
-      "prompt_tokens": 1498,
-      "completion_tokens": 222,
-      "total_tokens": 1720,
+      "prompt_tokens": 1496,
+      "completion_tokens": 188,
+      "total_tokens": 1684,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:47.738753"
+    "processed_at": "2025-06-19T07:47:13.727738"
   },
   {
     "ticker": "LSF",
@@ -103,15 +179,15 @@
     "date": "20250619",
     "time": "1724",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh1b0fnd4fc.pdf",
-    "summary": "<ul>\n<li><strong>Change of director\u2019s interest in securities (Raphael Lamm)</strong>  </li>\n<li><strong>On-market acquisition</strong>: 4,591 ordinary shares  </li>\n<li><strong>Total held post-change</strong>:  <ul>\n<li>Direct: 1 ordinary share  </li>\n<li>Indirect (via Shomron Pty Ltd and Cantone No. 2 Pty Ltd): <strong>24,022,827 ordinary shares</strong> (7,941,241 + 15,285,179 + 2,500,000 in escrow until 24 April 2028)  </li>\n</ul>\n</li>\n<li>\n<p><strong>Consideration</strong>: $13,037.06  </p>\n</li>\n<li>\n<p><strong>No closed period trading</strong> occurred.  </p>\n</li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Raphael Lamm (director) increased indirect holdings via related entities (Shomron Pty Ltd and Cantone No. 2 Pty Ltd) by <strong>4,591 ordinary shares</strong> through an <strong>on-market trade</strong>.  </li>\n<li><strong>Transaction Value</strong>: Consideration of <strong>$13,037.06</strong> for the acquired shares.  </li>\n<li><strong>Post-Transaction Holdings</strong>:  </li>\n<li><strong>Direct</strong>: 1 ordinary share (unchanged).  </li>\n<li><strong>Indirect</strong>: <strong>24,022,827 ordinary shares</strong> (including escrowed shares).  </li>\n<li><strong>Closed Period Compliance</strong>: No trading during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No material impact on capital structure, liquidity, or valuation identified.</em></p>",
     "usage": {
       "prompt_tokens": 1193,
-      "completion_tokens": 142,
-      "total_tokens": 1335,
+      "completion_tokens": 149,
+      "total_tokens": 1342,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:33.518363"
+    "processed_at": "2025-06-19T07:47:06.182328"
   },
   {
     "ticker": "BYH",
@@ -122,15 +198,15 @@
     "date": "20250619",
     "time": "1723",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgx30gngbvz.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Shareholder Meeting Notice (Director Removal Resolutions)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Meeting Date</strong>: 29 July 2025 (2:00 pm WST)  </li>\n<li><strong>Resolutions</strong>: Vote on removal of two directors (Leslie Ingraham and Ian Stuart).  </li>\n<li><strong>Board Recommendation</strong>: <em>Against</em> both resolutions.  </li>\n<li><strong>Requisitioning Shareholder</strong>: Yu Yonglu (11.8% holder, acquired shares in Feb 2025 via discounted placement).  </li>\n<li>\n<p><strong>Board\u2019s Concerns</strong>:  </p>\n<ul>\n<li>No clear alternative plan from Yu Yonglu for Bryah\u2019s strategy or funding.  </li>\n<li>Accusations of opportunistic control attempt without formal takeover offer or premium to shareholders.  </li>\n<li>Links Yu Yonglu to GBA Capital (which facilitated Bryah\u2019s Feb 2025 capital raise).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Impact</strong>: Potential board overhaul if resolutions pass, risking governance continuity. No immediate capital or operational changes disclosed.  </p>\n</li>\n</ul>\n<p><strong>Omitted</strong>: Background on directors\u2019 qualifications, project details, and non-material legal boilerplate.  </p>\n<p><em>Note</em>: No trading or capital markets action required unless shareholder vote outcome alters control.</p>",
+    "summary": "<p>Here is the materially relevant information extracted from the ASX announcement, formatted as concise bullet points:</p>\n<p><strong>General Meeting Notice (Board Challenge)</strong><br />\n- <strong>Meeting Date/Time</strong>: 29 July 2025, 2:00 pm WST (Perth).<br />\n- <strong>Resolutions</strong>: Shareholder vote on removal of two directors (Leslie Ingraham and Ian Stuart).<br />\n- <strong>Board Recommendation</strong>: Unanimously <strong>AGAINST</strong> all resolutions.<br />\n- <strong>Key Issue</strong>: Activist shareholder (Yu Yonglu, 11.8% holder) seeks board control; no alternative plan disclosed.<br />\n- <strong>Strategic Context</strong>: Directors highlight progress in manganese/copper projects (JORC resources) and new gold focus (Golden Pike option).  </p>\n<p><strong>Material Risks/Opportunities</strong>:<br />\n1. Potential board overhaul without clear strategy.<br />\n2. Existing projects (manganese JV, copper/nickel resources) backed by partners (OM Holdings, AVL).<br />\n3. Opportunistic move by Yu Yonglu (recent shareholder, linked to GBA Capital).  </p>\n<p><strong>Proxy Deadline</strong>: 27 July 2025, 2:00 pm WST.  </p>\n<p><em>Note: No capital raising, financials, or trading halt requested. Operational updates are not exceptional.</em></p>",
     "usage": {
       "prompt_tokens": 9705,
-      "completion_tokens": 255,
-      "total_tokens": 9960,
+      "completion_tokens": 264,
+      "total_tokens": 9969,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:08.443233"
+    "processed_at": "2025-06-19T07:45:53.274089"
   },
   {
     "ticker": "LSF",
@@ -141,15 +217,15 @@
     "date": "20250619",
     "time": "1723",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgz6r9vkg6j.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Reason: Appendix 3Y filings disclose director shareholding changes, which are routine and non-material for trading or capital markets decisions unless indicating a substantial shift in control or insider sentiment. This filing shows minor on-market purchases with no significant impact on liquidity, capital structure, or valuation.)</p>",
+    "summary": "<ul>\n<li><strong>Director's Share Acquisition</strong>: Mark Landau increased his indirect holdings via on-market trade, acquiring <strong>4,591 Ordinary Shares</strong> at <strong>$13,037.06</strong> (average ~$2.84/share).  </li>\n<li><strong>Total Holdings Post-Change</strong>:  </li>\n<li><strong>Annaeus Pty Ltd (Mark Landau Family Trust)</strong>: 2,150,000 (escrowed until 24 Apr 2028) + 5,469,647 free = <strong>7,619,647 shares</strong>.  </li>\n<li><strong>Billy Ray Pty Ltd (Kram Super Fund)</strong>: 350,000 (escrowed) + 51,062 free = <strong>401,062 shares</strong>.  </li>\n<li><strong>Sylverly Pty Ltd</strong>: 15,285,179 (escrowed) + 29,551,245 free = <strong>44,836,424 shares</strong>.  </li>\n<li><strong>No Closed Period Breach</strong>: Trade did not occur during a closed period requiring clearance.  </li>\n</ul>\n<p><strong>Note</strong>: Escrowed shares (totaling ~17.8 million) remain restricted until 2028, limiting near-term liquidity impact.</p>",
     "usage": {
-      "prompt_tokens": 1247,
-      "completion_tokens": 64,
-      "total_tokens": 1311,
+      "prompt_tokens": 1249,
+      "completion_tokens": 228,
+      "total_tokens": 1477,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:15.416642"
+    "processed_at": "2025-06-19T07:46:59.465494"
   },
   {
     "ticker": "HAR",
@@ -160,15 +236,15 @@
     "date": "20250619",
     "time": "1720",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgtcxf1mrnr.pdf",
-    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change</strong>: Hendrik Schloemann acquired <strong>795,000 ordinary shares</strong> at <strong>$0.05 per share</strong>, issued in lieu of director fees.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li><strong>1,335,909 fully paid ordinary shares</strong> (previously 540,909).  </li>\n<li><strong>450,000 each of Class A and Class B Performance Rights</strong> (unchanged).  </li>\n<li><strong>No closed-period trading</strong>: No prior clearance required.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change:</strong> Hendrik Schloemann acquired <strong>795,000 ordinary shares</strong> at <strong>$0.05 per share</strong> (issued in lieu of director fees).  </li>\n<li><strong>Post-Transaction Holdings:</strong>  </li>\n<li><strong>1,335,909 fully paid ordinary shares</strong> (previously 540,909).  </li>\n<li><strong>450,000 Class A Performance Rights</strong> (unchanged).  </li>\n<li><strong>450,000 Class B Performance Rights</strong> (unchanged).  </li>\n<li><strong>No closed-period trading</strong> occurred.  </li>\n</ul>\n<p><em>No material capital markets or trading impact identified.</em></p>",
     "usage": {
-      "prompt_tokens": 993,
-      "completion_tokens": 110,
-      "total_tokens": 1103,
+      "prompt_tokens": 995,
+      "completion_tokens": 121,
+      "total_tokens": 1116,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:11.797803"
+    "processed_at": "2025-06-19T07:46:48.471722"
   },
   {
     "ticker": "SPX",
@@ -179,15 +255,15 @@
     "date": "20250619",
     "time": "1718",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxglrjvbtjcd.pdf",
-    "summary": "<ul>\n<li><strong>Type:</strong> Proposal to issue 12.5 million options (SPXAD) expiring 30-Sep-2027 with an $0.0175 exercise price  </li>\n<li><strong>Purpose:</strong> Consideration for corporate advisory fees  </li>\n<li><strong>Issue date:</strong> 19/6/2025  </li>\n<li><strong>Capacity:</strong> Entire 12.5 million options issued under ASX 7.1 placement capacity (no shareholder approval needed)  </li>\n<li><strong>Consideration per option:</strong> AUD 0.003 (for advisory fees)  </li>\n<li><strong>No capital raised:</strong> No cash proceeds; issuance for fee settlement only  </li>\n<li><strong>Implication:</strong> Potential dilution if options are exercised in future; no immediate capital raise or liquidity impact</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Proposed issue of securities (Placement)  </li>\n<li><strong>Security Details</strong>:  </li>\n<li><strong>ASX Code</strong>: SPXAD  </li>\n<li><strong>Description</strong>: Options expiring 30-Sep-2027, exercise price $0.0175  </li>\n<li><strong>Number Issued</strong>: 12,500,000  </li>\n<li><strong>Purpose</strong>: Issued as consideration for corporate advisory fees (AUD equivalent $0.003 per security).  </li>\n<li><strong>Issue Date</strong>: 19-Jun-2025.  </li>\n<li><strong>Approval</strong>: Issued under 15% placement capacity (no shareholder approval required).  </li>\n<li><strong>No escrow/restrictions</strong>: Securities rank equally with existing class.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1512,
-      "completion_tokens": 144,
-      "total_tokens": 1656,
+      "prompt_tokens": 1519,
+      "completion_tokens": 153,
+      "total_tokens": 1672,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:33:37.805994"
+    "processed_at": "2025-06-19T07:45:37.135556"
   },
   {
     "ticker": "HAR",
@@ -198,15 +274,15 @@
     "date": "20250619",
     "time": "1718",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgqyzyjs9bg.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Peter Batten acquired <strong>1,250,000 Ordinary Shares</strong> at <strong>$0.05 per share</strong>, issued in lieu of director fees.  </li>\n<li><strong>Holding After Change</strong>:  </li>\n<li><strong>1,704,545 Fully Paid Ordinary Shares</strong> (previously 454,545).  </li>\n<li>Retains <strong>1,000,000 each</strong> of Class 1, 2, 3, and 4 Performance Rights.  </li>\n<li><strong>No Closed Period Trading</strong>: No trades occurred during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Peter Batten acquired 1,250,000 ordinary shares at $0.05 per share (issued in lieu of director fees).  </li>\n<li><strong>Post-Change Holdings</strong>: Now holds 1,704,545 ordinary shares and 4,000,000 performance rights (across four classes).  </li>\n<li><strong>Non-Market Transaction</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity.</em></p>",
     "usage": {
       "prompt_tokens": 1051,
-      "completion_tokens": 127,
-      "total_tokens": 1178,
+      "completion_tokens": 94,
+      "total_tokens": 1145,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:15.694440"
+    "processed_at": "2025-06-19T07:45:55.949203"
   },
   {
     "ticker": "HAR",
@@ -217,15 +293,15 @@
     "date": "20250619",
     "time": "1718",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgnvrt1jphb.pdf",
-    "summary": "<h3>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice:</h3>\n<ul>\n<li><strong>Director</strong>: Michael Davy  </li>\n<li><strong>Date of Change</strong>: 19 June 2025  </li>\n<li><strong>Nature of Change</strong>: Issuance of <strong>1,427,000 ordinary shares</strong> at <strong>$0.05 per share</strong> (in lieu of director fees).  </li>\n<li><strong>Indirect Holdings After Change</strong> (via Davy Corp Pty Ltd):  </li>\n<li><strong>2,189,003 ordinary shares</strong> (+1,427,000)  </li>\n<li><strong>450,000 Class A Performance Rights</strong> (unchanged)  </li>\n<li><strong>450,000 Class B Performance Rights</strong> (unchanged)  </li>\n<li><strong>Closed Period Trade</strong>: No (no clearance required).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Change of Director\u2019s Interest Notice  </li>\n<li><strong>Key Points</strong>:  </li>\n<li><strong>Director</strong>: Michael Davy (via indirect holdings in Davy Corp Pty Ltd).  </li>\n<li><strong>Change</strong>: Issuance of <strong>1,427,000 ordinary shares</strong> at <strong>$0.05 per share</strong> in lieu of director fees (no disposal).  </li>\n<li><strong>Post-Change Holdings</strong>:  <ul>\n<li><strong>Davy Investment A/C</strong>: 2,189,003 ordinary shares (+450,000 Class A/B Performance Rights).  </li>\n<li><strong>The Davy Investment A/C</strong>: 240,000 ordinary shares.  </li>\n</ul>\n</li>\n<li><strong>No closed period trading violation</strong>.  </li>\n</ul>\n<p><em>Note: No material capital markets or trading impact identified; routine director interest disclosure.</em></p>",
     "usage": {
-      "prompt_tokens": 1151,
-      "completion_tokens": 162,
-      "total_tokens": 1313,
+      "prompt_tokens": 1149,
+      "completion_tokens": 161,
+      "total_tokens": 1310,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:46.074622"
+    "processed_at": "2025-06-19T07:46:42.385889"
   },
   {
     "ticker": "BPP",
@@ -236,15 +312,15 @@
     "date": "20250619",
     "time": "1717",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgjmrm7zvvm.pdf",
-    "summary": "<ul>\n<li><strong>Corrective Disclosure</strong>: Babylon Pump &amp; Power (BPP) clarifies that shareholder approval is required for the issuance of shares related to the acquisitions of Blue Hire and Matrix Hydro, contrary to initial incorrect statements.  </li>\n<li><strong>Listing Rule Breach</strong>: BPP admits it lacked Listing Rule 7.1 capacity for the share issuance, constituting a breach.  </li>\n<li><strong>Shareholder Meeting</strong>: General meeting scheduled for <strong>15 July 2025</strong> to seek approval for the scrip-based acquisitions.  </li>\n<li><strong>Conditions Precedent</strong>: Transactions remain pending, as shareholder approval has not yet been obtained or waived.  </li>\n</ul>\n<p><em>No material trading/capital-raising details (e.g., offer size, pricing) provided.</em></p>",
+    "summary": "<ul>\n<li><strong>Corrective Disclosure</strong>: Babylon Pump &amp; Power Limited (ASX: BPP) clarifies that it does <strong>not</strong> have ASX Listing Rule 7.1 capacity to issue shares for the Blue Hire acquisition, contrary to prior incorrect statements.  </li>\n<li><strong>Shareholder Approval Required</strong>: Issuance of shares for acquisitions of <strong>Blue Hire</strong> and <strong>Matrix Hydro</strong> requires shareholder approval under Listing Rules 7.1 and 7.3.  </li>\n<li><strong>Pending Approval</strong>: Conditions precedent for both acquisitions remain unsatisfied; shareholder meeting scheduled for <strong>15 July 2025</strong> to approve the scrip issuances.  </li>\n<li><strong>Governance Remediation</strong>: Board mandates all future securities issuances to assume shareholder approval is required.  </li>\n</ul>\n<p><em>Omitted: Operational details, contact info, forward-looking statements.</em></p>",
     "usage": {
       "prompt_tokens": 1449,
-      "completion_tokens": 142,
-      "total_tokens": 1591,
+      "completion_tokens": 163,
+      "total_tokens": 1612,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:33:31.919874"
+    "processed_at": "2025-06-19T07:45:26.984253"
   },
   {
     "ticker": "GTI",
@@ -255,15 +331,15 @@
     "date": "20250619",
     "time": "1715",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxg9z9gzyxsy.pdf",
-    "summary": "<ul>\n<li><strong>Director Shareholding Change</strong>: Iain Dunstan acquired <strong>5,092,591 Loan Funded Shares</strong> via a shareholder-approved incentive plan (approved 25 November 2024).  </li>\n<li><strong>No cash consideration</strong>: Shares issued as vested performance rights.  </li>\n<li><strong>Post-change holding</strong>: Direct ownership now includes <strong>5,092,591 Loan Funded Shares</strong> alongside existing ordinary shares and options.  </li>\n</ul>\n<p><em>Note: No material trading or capital markets impact identified beyond director\u2019s increased exposure.</em>  </p>\n<p><em>(Omitted: Indirect holdings, option details, and non-material legal boilerplate.)</em></p>",
+    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change</strong>: Iain Dunstan acquired <strong>5,092,591 Loan Funded Shares</strong> via a shareholder-approved incentive plan (no cash consideration).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>Direct: 568,478 ordinary shares + 5,092,591 Loan Funded Shares + options (total 703,169) + performance rights (1,283,407).  </li>\n<li>Indirect: 1,114,420 ordinary shares via associated entities.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified\u2014routine director interest disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1393,
-      "completion_tokens": 120,
-      "total_tokens": 1513,
+      "completion_tokens": 118,
+      "total_tokens": 1511,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:29.624865"
+    "processed_at": "2025-06-19T07:47:02.532150"
   },
   {
     "ticker": "AKA",
@@ -274,15 +350,15 @@
     "date": "20250619",
     "time": "1715",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgg69hlt7sn.pdf",
-    "summary": "<p><strong>Summary of Appendix 3Y - Change of Director\u2019s Interest Notice:</strong>  </p>\n<ul>\n<li><strong>Director</strong>: James Gurry  </li>\n<li><strong>Transaction</strong>: On-market purchase of <strong>100,000 fully paid ordinary shares</strong> at <strong>$14,000</strong> (implied price: <strong>$0.14/share</strong>).  </li>\n<li><strong>Holdings After Change</strong>:  </li>\n<li><strong>Direct</strong>: 3,300,603 shares + 7,000,000 Performance Rights.  </li>\n<li><strong>Indirect</strong>: 2,745,816 shares (via trust).  </li>\n<li><strong>No closed-period trading breach</strong>.  </li>\n</ul>\n<p><strong>Material Insight</strong>: Minor liquidity event (~0.3% of direct holdings); insignificant standalone impact but may signal director confidence.</p>",
+    "summary": "<ul>\n<li><strong>Director's Trade</strong>: James Gurry acquired 100,000 fully paid ordinary shares in Aureka Limited via on-market purchase.  </li>\n<li><strong>Consideration</strong>: $14,000 (implied price: $0.14 per share).  </li>\n<li><strong>Post-Trade Holdings</strong>:  </li>\n<li>Direct: 3,300,603 ordinary shares + 7,000,000 Performance Rights.  </li>\n<li>Indirect: 2,745,816 ordinary shares (held via super fund).  </li>\n<li><strong>Closed Period Compliance</strong>: Trade did not occur during a closed period.  </li>\n</ul>\n<p>No other material capital markets or liquidity impacts identified.  </p>\n<p><em>(Note: Appendix 3Y filings are typically non-material for trading decisions unless accompanied by unusual volume/price context.)</em></p>",
     "usage": {
-      "prompt_tokens": 1117,
-      "completion_tokens": 147,
-      "total_tokens": 1264,
+      "prompt_tokens": 1119,
+      "completion_tokens": 153,
+      "total_tokens": 1272,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:33:54.032176"
+    "processed_at": "2025-06-19T07:45:42.034306"
   },
   {
     "ticker": "MOT",
@@ -293,15 +369,15 @@
     "date": "20250619",
     "time": "1715",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgd2js0z10z.pdf",
-    "summary": "<p><strong>Daily NTA Announcement</strong><br />\n- <strong>NTA per Unit (18/06/2025):</strong> $2.1526  </p>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Daily NTA Estimate</strong> (19 June 2025 announcement):  </li>\n<li><strong>NTA per Unit (18/06/2025)</strong>: $2.1526  </li>\n</ul>\n<p>No other material information identified for trading or capital markets decisions.</p>",
     "usage": {
       "prompt_tokens": 575,
-      "completion_tokens": 37,
-      "total_tokens": 612,
+      "completion_tokens": 51,
+      "total_tokens": 626,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:29.310364"
+    "processed_at": "2025-06-19T07:46:02.617394"
   },
   {
     "ticker": "GTI",
@@ -312,15 +388,15 @@
     "date": "20250619",
     "time": "1714",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxg3lg0zwr11.pdf",
-    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Michael Hill  </li>\n<li><strong>Date of Change:</strong> 18 June 2025  </li>\n<li><strong>Interest Change:</strong> Acquired <strong>1,018,518 Loan Funded Shares</strong> (direct holding) at <strong>nil consideration</strong> under shareholder-approved incentive plan (25 Nov 2024).  </li>\n<li><strong>Post-Change Holdings:</strong>  </li>\n<li><strong>Direct:</strong> 166,666 ordinary shares + 1,018,518 Loan Funded Shares.  </li>\n<li><strong>Indirect:</strong>  <ol>\n<li>Malolo Holdings Trust: 1,899,999 ordinary shares + 480,673 Performance Rights + 666,666 Options.  </li>\n<li>Jarumitoti Super Fund: 217,095 ordinary shares.  </li>\n</ol>\n</li>\n<li><strong>No material trading impact</strong> (no disposals, closed period not applicable).  </li>\n</ul>\n<p><strong>Rationale:</strong> Highlights director\u2019s increased alignment via incentive shares but no immediate liquidity/capital structure effect. Exclude non-material trusts/options.</p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>:  </li>\n<li>Michael Hill acquired <strong>1,018,518 Loan Funded Shares</strong> (nil consideration) under a shareholder-approved incentive plan (approved 25 November 2024).  </li>\n<li>\n<p><strong>Total holdings post-change</strong>:  </p>\n<ul>\n<li>Direct: 166,666 ordinary shares + 1,018,518 Loan Funded Shares.  </li>\n<li>Indirect: 1,899,999 ordinary shares + 480,673 Performance Rights + 666,666 Options (via Malolo Holdings Trust) and 217,095 ordinary shares (via Jarumitoti Super Fund).  </li>\n</ul>\n</li>\n<li>\n<p><strong>No closed period trading</strong> reported.  </p>\n</li>\n</ul>\n<p><em>Note: No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
       "prompt_tokens": 1298,
-      "completion_tokens": 215,
-      "total_tokens": 1513,
+      "completion_tokens": 149,
+      "total_tokens": 1447,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:36:15.591348"
+    "processed_at": "2025-06-19T07:47:39.924746"
   },
   {
     "ticker": "MXT",
@@ -331,15 +407,15 @@
     "date": "20250619",
     "time": "1714",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxg7tgmh08s5.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Daily NTA Update</strong> (Metrics Master Income Trust):  </li>\n<li><strong>Value Date:</strong> 18/06/2025  </li>\n<li><strong>NTA per Unit:</strong> AUD $2.0073  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>NTA Update (Metrics Master Income Trust)</strong>:  </li>\n<li>NTA per unit (18/06/2025): <strong>$2.0073</strong> (unaudited).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 582,
-      "completion_tokens": 60,
-      "total_tokens": 642,
+      "prompt_tokens": 584,
+      "completion_tokens": 48,
+      "total_tokens": 632,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:33:21.462448"
+    "processed_at": "2025-06-19T07:45:17.735411"
   },
   {
     "ticker": "GTI",
@@ -350,15 +426,15 @@
     "date": "20250619",
     "time": "1714",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxg5pp7vgh7g.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Patrina Kerr acquired 1,018,518 Loan Funded Shares (no cash consideration) via a shareholder-approved incentive plan.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>Direct: 2,188,332 ordinary shares, 214,008 Performance Rights, 1,018,518 Loan Funded Shares, 666,666 Options.  </li>\n<li>Indirect: 4,000,000 ordinary shares.  </li>\n</ul>\n<p>No material trading or capital markets impact identified (standard director interest disclosure).</p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change (Patrina Kerr)</strong>:  </li>\n<li><strong>Securities Acquired</strong>: 1,018,518 Loan Funded Shares (via incentive plan approved 25 November 2024).  </li>\n<li><strong>Holdings After Change</strong>:  <ul>\n<li>Direct: 2,188,332 ordinary shares + 214,008 Performance Rights + 666,666 Options + 1,018,518 Loan Funded Shares.  </li>\n<li>Indirect: 4,000,000 ordinary shares.  </li>\n</ul>\n</li>\n<li><strong>Consideration</strong>: Nil (shareholder-approved plan).  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
     "usage": {
       "prompt_tokens": 1174,
-      "completion_tokens": 109,
-      "total_tokens": 1283,
+      "completion_tokens": 130,
+      "total_tokens": 1304,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:35:55.333024"
+    "processed_at": "2025-06-19T07:47:22.206032"
   },
   {
     "ticker": "GTI",
@@ -369,15 +445,15 @@
     "date": "20250619",
     "time": "1709",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxfyfy41tykc.pdf",
-    "summary": "<p><strong>Summary:</strong><br />\n- <strong>Director Bryan Zekulich</strong> acquired <strong>1,018,518 loan-funded shares</strong> on <strong>18 June 2025</strong> under a shareholder-approved incentive plan.<br />\n- <strong>No disposal</strong> of securities.<br />\n- <strong>Total holdings post-change</strong>:<br />\n  - <strong>Direct</strong>: 464,469 ordinary shares + 1,108,518 loan-funded shares.<br />\n  - <strong>Indirect</strong>: 2,041,499 ordinary shares, 480,673 performance rights, and 666,666 unlisted options.  </p>\n<p><strong>Material Impact</strong>:<br />\n- No immediate liquidity or capital structure impact (no cash consideration).<br />\n- <strong>Non-material</strong> for trading (no open market transactions or price-sensitive change).  </p>\n<p><strong>Verdict</strong>: <strong>No material trading or capital markets information identified</strong>.</p>",
+    "summary": "<ul>\n<li><strong>Director's Security Holdings Change</strong>  </li>\n<li><strong>Director</strong>: Bryan Zekulich  </li>\n<li><strong>Date of Change</strong>: 18 June 2025  </li>\n<li><strong>Nature of Change</strong>: Participation in Loan Funded Shares Incentive Plan (approved by shareholders 25 November 2024).  </li>\n<li><strong>New Holdings</strong>:  <ul>\n<li><strong>Direct</strong>: 464,469 ordinary shares + <strong>1,018,518 Loan Funded Shares</strong> (previously nil).  </li>\n<li><strong>Indirect</strong>: Unchanged (1,835,896 ordinary shares, 480,673 Performance Rights, 666,666 Unlisted Options via Alster Australia Pty Ltd; 122,270 ordinary shares via Maxharry Pty Ltd; 83,333 ordinary shares via Zeka Pty Ltd).  </li>\n</ul>\n</li>\n<li><strong>Consideration</strong>: Nil (loan-funded).  </li>\n</ul>\n<p>No other material impacts on valuation, liquidity, or capital structure.</p>",
     "usage": {
-      "prompt_tokens": 1406,
-      "completion_tokens": 165,
-      "total_tokens": 1571,
+      "prompt_tokens": 1408,
+      "completion_tokens": 188,
+      "total_tokens": 1596,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:36.278575"
+    "processed_at": "2025-06-19T07:46:22.786613"
   },
   {
     "ticker": "SPX",
@@ -388,15 +464,15 @@
     "date": "20250619",
     "time": "1708",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxfwbq0j6ymw.pdf",
-    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 8,925,000 SPXAK options expired unexercised on 15/06/2025 (strike $0.0175).  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li>Quoted securities:  <ul>\n<li>SPX (Ordinary): 4,615,215,480  </li>\n<li>SPXOA (Options expiring 04-Aug-2025): 230,344,166  </li>\n</ul>\n</li>\n<li>Unquoted options: Detailed breakdown provided, including SPXAK now at 0.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine option expiry).</em></p>",
+    "summary": "<p><strong>Notification of Cessation of Securities Summary:</strong><br />\n- <strong>Security Ceased:</strong> SPXAK options (expiry 15-Jun-2025, exercise price $0.0175).<br />\n- <strong>Number Ceased:</strong> 8,925,000 (expired without exercise/conversion).<br />\n- <strong>Impact:</strong> No consideration paid; no material change to issued capital structure.<br />\n- <strong>Post-Cessation Issued Capital:</strong><br />\n  - Ordinary shares (SPX): 4,615,215,480.<br />\n  - Outstanding options: Multiple tranches with varying expiry dates (see Part 3 for details).  </p>\n<p><strong>No other material information identified.</strong></p>",
     "usage": {
       "prompt_tokens": 1424,
-      "completion_tokens": 133,
-      "total_tokens": 1557,
+      "completion_tokens": 136,
+      "total_tokens": 1560,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:34:41.982691"
+    "processed_at": "2025-06-19T07:46:27.099675"
   },
   {
     "ticker": "CTT",
@@ -407,15 +483,15 @@
     "date": "20250619",
     "time": "1707",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxfsx83vfmcg.pdf",
-    "summary": "<p><strong>Key Material Information (Form 604 - Change in Substantial Holder Interest):</strong>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> Mitsubishi UFJ Financial Group, Inc.  </li>\n<li><strong>Company:</strong> Cettire Limited  </li>\n<li><strong>Voting Power Change:</strong> Increased from <strong>5.29%</strong> to <strong>7.63%</strong> (total votes: 20,183,018 shares).  </li>\n<li><strong>Key Transactions (16 June 2025):</strong>  </li>\n<li><strong>Net Purchases:</strong> ~3.05M shares acquired via Morgan Stanley-controlled entities (detailed per Annexure A).  </li>\n<li><strong>Borrow Returns:</strong> 2.805M shares returned via securities lending agreements (detailed per Annexure B).  </li>\n<li><strong>Relevant Interests:</strong>  </li>\n<li>Interests held via Morgan Stanley nominees (HSBC Custody, JP Morgan Chase, Citigroup) under section 608(3) of Corporations Act.  </li>\n</ul>\n<p><strong>Omitted:</strong> Routine transactional breakdowns (e.g., individual trade lots), legal boilerplate, and non-material lending agreement terms.  </p>\n<p><strong>Why Material?</strong><br />\nSignificant increase in voting power by a major financial institution, indicating potential strategic positioning or accumulation. Securities lending activity may imply short-covering or liquidity events.  </p>\n<p><strong>Brevity Note:</strong> Only critical trading/capital structure impacts extracted. Full annexures contain granular trade data if needed.</p>",
+    "summary": "<p><strong>Substantial Holder Disclosure (Form 604) - Key Points:</strong>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> Mitsubishi UFJ Financial Group, Inc.  </li>\n<li><strong>Company:</strong> Cettire Limited (ASX:CTT)  </li>\n<li><strong>Voting Power Change:</strong> Increased from 5.29% (20,183,018 shares) to 7.63% (29,072,352 shares).  </li>\n<li><strong>Key Transactions:</strong>  </li>\n<li>Net <strong>purchases</strong> of <strong>175,838 shares</strong> via Morgan Stanley-controlled entities (16 June 2025).  </li>\n<li>Net <strong>sales</strong> of <strong>4,866,372 shares</strong> via Morgan Stanley-controlled entities (16 June 2025).  </li>\n<li><strong>Securities lending adjustments</strong>: Return of <strong>2,805,146 shares</strong> (borrowed shares repaid).  </li>\n</ul>\n<p><strong>Material Impact:</strong><br />\n- Significant increase in Mitsubishi UFJ's voting stake (+2.34%) suggests strategic positioning.<br />\n- High volume of trades (net sales ~4.9M shares) via Morgan Stanley entities may indicate hedging or portfolio rebalancing activity.  </p>\n<p><em>Omitted:</em> Routine lending agreement details (no material voting rights restrictions or recall triggers).</p>",
     "usage": {
-      "prompt_tokens": 11019,
-      "completion_tokens": 277,
-      "total_tokens": 11296,
+      "prompt_tokens": 11021,
+      "completion_tokens": 247,
+      "total_tokens": 11268,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T07:36:08.593289"
+    "processed_at": "2025-06-19T07:47:29.994297"
   },
   {
     "ticker": "MEM",
