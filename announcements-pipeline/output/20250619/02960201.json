@@ -7,13 +7,13 @@
   "date": "20250619",
   "time": "1744",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj3b018vvj2.pdf",
-  "summary": "Understood. Please attach or provide the text of the ASX announcement PDF, and I will:  \n\n1. **Quickly identify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly).  \n2. **Extract ONLY material information** per your strict criteria.  \n3. **Format concisely** as bullet points (no fluff).   \n\nExample outputs:  \n\n---  \n**Trading Halt Request**  \n- Reason: Pending capital raising announcement ($50M placement).  \n\n**Capital Raising**  \n- Type: 1-for-4 entitlement offer + $75M placement.  \n- Total raised: $200M (before costs).  \n- Key dates: Ex-date 15/03, Record 18/03, Close 02/04.  \n\n**Quarterly (4C)**  \n- Cash burn: $2.1M (vs $1.8M prior Q).  \n- Cash balance: $12.4M (no debt).  \n- Milestone: Phase 2 trial enrollment completed (85%).  \n\n**Other Announcement**  \n- Asset sale: $150M divestment of non-core division (completes Q3).  \n- Equity impact: Net debt reduced to zero post-sale.  \n\n**No Material Information Identified**  \n---  \n\nProvide the document, and I\u2019ll distill it to its essence.  \n\n*Note: If PDF text is lengthy, highlight key sections to expedite.*",
+  "summary": "**Summary Guidance:**  \n\n- **Trading Halt Request:**  \n  - *State only the reason (e.g., \"Pending capital raising announcement\").*  \n\n- **Capital Raising Announcement:**  \n  - Structure (Placement/SPP/Entitlement Offer), total AUD raised, key dates (ex-date, record date, close date).  \n\n- **Quarterly Report (Appendix 4C):**  \n  - Operational/financial highlights (e.g., production volumes, revenue), closing cash balance (AUD).  \n\n- **Other Announcements:**  \n  - 2-3 critical points impacting valuation, liquidity, or capital structure (e.g., M&A, asset sale, material contract).  \n\n**If unclear or immaterial:**  \n- *\"No material information identified.\"*  \n\n**Example Output:**  \n*Capital Raising Announcement:*  \n- $50M Placement at $0.20/share.  \n- Ex-date: DD/MM/YY, Close: DD/MM/YY.  \n\n*Appendix 4C:*  \n- Cash balance: $12.5M.  \n- Quarterly revenue: $3.2M (+15% QoQ).  \n\n*Material Contract Signed:*  \n- 5-year supply deal with [Company], est. $100M revenue.  \n\n**Rules:** Omit intros, names, boilerplate. Be concise. Prioritize trading/capital impact.",
   "usage": {
-    "prompt_tokens": 228,
-    "completion_tokens": 303,
-    "total_tokens": 531,
+    "prompt_tokens": 230,
+    "completion_tokens": 292,
+    "total_tokens": 522,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-19T09:02:12.898803"
+  "processed_at": "2025-06-19T09:32:28.398225"
 }
