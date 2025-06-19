@@ -1,5 +1,119 @@
 [
   {
+    "ticker": "ZNC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960360",
+    "id": "02960360",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250620",
+    "time": "0938",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky21bjbg78rw.pdf",
+    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Reason: Pending release of a material update on Mineral Resources for the Dulcie Far North Gold Project.<br />\n- Halt duration: Until earlier of commencement of trading on 24 June 2025 or announcement release.  </p>\n<p><strong>Rules followed:</strong><br />\n- Excluded boilerplate, director names, and non-material details.<br />\n- Strictly extracted only the trading halt reason and timeframe.</p>",
+    "usage": {
+      "prompt_tokens": 723,
+      "completion_tokens": 87,
+      "total_tokens": 810,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:42:52.109047"
+  },
+  {
+    "ticker": "GLN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960359",
+    "id": "02960359",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250620",
+    "time": "0934",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1yb9gz9d65.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Structure Placement</strong>:  </li>\n<li><strong>Total Ordinary Shares</strong>: 181,818,182 at AUD 0.11 per share (GLN:ORDINARY FULLY PAID).  </li>\n<li><strong>Options Issue</strong>: 90,909,091 free-attaching options (1:2 ratio), exercisable at AUD 0.15, expiring 11/9/2028.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Proposed Issue Date</strong>: 11/9/2025.  </li>\n<li><strong>Shareholder Approval Deadline</strong>: 4/9/2025 (for Tranche 2).  </li>\n<li><strong>Use of Proceeds</strong>: Fund Phase 1 construction (H2 2025) targeting first lithium chloride production (H1 2026).  </li>\n<li><strong>Escrow</strong>: 90,909,182 Tranche 1 shares voluntarily escrowed for 12 months.  </li>\n<li><strong>Capacity Utilization</strong>:  </li>\n<li>Tranche 1: 90,909,091 shares (10% placement capacity) + 45,454,545 options (15% capacity).  </li>\n<li>Tranche 2: Requires shareholder approval.  </li>\n</ul>\n<p><em>No lead manager, underwriting, or dividend policy change disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 2448,
+      "completion_tokens": 253,
+      "total_tokens": 2701,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:42:49.534655"
+  },
+  {
+    "ticker": "A1M",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960358",
+    "id": "02960358",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250620",
+    "time": "0934",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1w84gj8tkv.pdf",
+    "summary": "<p><strong>Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Prepayment Facility &amp; Offtake Agreement:</strong>  </li>\n<li><strong>Amount:</strong> US$40M prepayment facility with Trafigura to fund expansion of Eloise processing facility.  </li>\n<li><strong>Terms:</strong>  <ul>\n<li>Interest: SOFR + 3% p.a.  </li>\n<li>Grace period: 18 months (no repayments).  </li>\n<li>Maturity: 36 months post-availability period.  </li>\n</ul>\n</li>\n<li><strong>Offtake Agreement:</strong>  <ul>\n<li>Minimum <strong>400,000dmt</strong> of copper concentrate from Jericho Mine.  </li>\n<li>Payment: 90% advance on shipment documents, final settlement post-assays.  </li>\n</ul>\n</li>\n<li><strong>Security:</strong> First-ranking charges over assets, subsidiaries, and mining leases.  </li>\n</ul>\n<p><strong>Impact:</strong> Strengthens funding for expansion, locks in offtake partner, and avoids hedging requirements.  </p>\n<p><em>Omitted: Board details, corporate background, advisory roles, and non-material legal terms.</em></p>",
+    "usage": {
+      "prompt_tokens": 1336,
+      "completion_tokens": 197,
+      "total_tokens": 1533,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:43:23.981707"
+  },
+  {
+    "ticker": "GBR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960357",
+    "id": "02960357",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250620",
+    "time": "0933",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1t4x8dvcn0.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement regarding a proposed capital raising.  </li>\n<li><strong>Halt Duration</strong>: Until the earlier of normal trading on 24 June 2025 or announcement release.  </li>\n</ul>\n<p><em>No further material details on capital raising structure, size, or terms provided.</em></p>",
+    "usage": {
+      "prompt_tokens": 671,
+      "completion_tokens": 59,
+      "total_tokens": 730,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:41:55.929117"
+  },
+  {
+    "ticker": "PGY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960355",
+    "id": "02960355",
+    "pages": 11,
+    "price_sensitive": false,
+    "date": "20250620",
+    "time": "0932",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1nsn1fgj4h.pdf",
+    "summary": "<h3><strong>Summary of Material Information (Director Interest Changes - Appendix 3Y Resubmissions)</strong></h3>\n<ul>\n<li><strong>Reason for resubmission</strong>: Administrative error correcting the <strong>date of securities issuance</strong> from 4 June 2025 to <strong>11 June 2025</strong> for all director interests.  </li>\n<li><strong>Key changes in director holdings</strong> (issued at <strong>$0.01/share</strong>):  </li>\n<li><strong>Alexander Sundich</strong>:  <ul>\n<li>Acquired <strong>15M shares</strong> and <strong>15M options</strong> (expiring 13 Dec 2026).  </li>\n<li>Total holdings: <strong>92.5M shares</strong>, <strong>26.7M options</strong>.  </li>\n</ul>\n</li>\n<li><strong>Bradley Lingo</strong>:  <ul>\n<li>Acquired <strong>500k shares</strong> and <strong>500k options</strong> (expiring 13 Dec 2026).  </li>\n<li>Total holdings: <strong>500k shares</strong>, <strong>14M options</strong>.  </li>\n</ul>\n</li>\n<li><strong>Gregory Columbus</strong>:  <ul>\n<li>Acquired <strong>25M shares</strong> and <strong>25M options</strong> (expiring 13 Dec 2026).  </li>\n<li>Total holdings: <strong>27M shares</strong>, <strong>30M options</strong>.  </li>\n</ul>\n</li>\n<li><strong>Natalie Wallace</strong>:  <ul>\n<li>Acquired <strong>5M shares</strong> and <strong>5M options</strong> (expiring 13 Dec 2026).  </li>\n</ul>\n</li>\n</ul>\n<p>No material impact on capital structure or liquidity disclosed. <strong>No trading halt or capital raising</strong> involved.  </p>\n<hr />\n<p><strong>Rules applied</strong>: Omitted non-material boilerplate, corrected dates only, and focused on quantifiable changes.</p>",
+    "usage": {
+      "prompt_tokens": 4468,
+      "completion_tokens": 315,
+      "total_tokens": 4783,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:42:09.647354"
+  },
+  {
+    "ticker": "NUZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960356",
+    "id": "02960356",
+    "pages": 3,
+    "price_sensitive": true,
+    "date": "20250620",
+    "time": "0932",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1qwv7xyppq.pdf",
+    "summary": "<ul>\n<li><strong>Key preclinical findings</strong>:  </li>\n<li>NUZ-001 and its metabolite (NUZ-001 Sulfone) demonstrated significant blood-brain barrier penetration in rodent studies, achieving brain concentrations (285\u20131,300 nM for NUZ-001; 177\u20131,231 nM for NUZ-001 Sulfone) that overlap with therapeutic ranges.  </li>\n<li>\n<p>Both compounds significantly reduced TDP-43 aggregation in ALS patient-derived neuron models at concentrations as low as 270 nM.  </p>\n</li>\n<li>\n<p><strong>Therapeutic implications</strong>:  </p>\n</li>\n<li>Validates NUZ-001\u2019s potential as a disease-modifying therapy for ALS and other TDP-43 proteinopathies (e.g., FTD, Alzheimer\u2019s).  </li>\n<li>\n<p>Supports advancing NUZ-001\u2019s clinical development as a CNS-targeted treatment.  </p>\n</li>\n<li>\n<p><strong>No capital markets or trading-specific information</strong> (e.g., capital raising, timelines) disclosed.  </p>\n</li>\n</ul>\n<p><em>Note: Announcement is a preclinical data update; no direct trading or capital structure impact.</em></p>",
+    "usage": {
+      "prompt_tokens": 2041,
+      "completion_tokens": 208,
+      "total_tokens": 2249,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T23:42:28.637893"
+  },
+  {
     "ticker": "GLN",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960354",
     "id": "02960354",
@@ -8,15 +122,15 @@
     "date": "20250620",
     "time": "0927",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1krvc3kt69.pdf",
-    "summary": "<p><strong>Capital Raising Announcement Summary:</strong>  </p>\n<ul>\n<li><strong>Structure:</strong> $20M Placement + Options (1:2 ratio) at <strong>A$0.11/share</strong> (21% premium to last close of A$0.091).  </li>\n<li><strong>Amount Raised:</strong> <strong>A$20M</strong> (181.8M shares + 90.9M options @ A$0.15 exercise, 3-year expiry).  </li>\n<li><strong>Tranches:</strong>  </li>\n<li><strong>Tranche 1 (A$10M):</strong> Post due diligence (77-day max) + shareholder approval (GM expected early Sep-2025).  </li>\n<li><strong>Tranche 2 (A$10M):</strong> Post shareholder approval, settle ~28 Nov-2025.  </li>\n<li><strong>Use of Funds:</strong> Final Phase 1 construction (4ktpa LCE) at <strong>Hombre Muerto West (HMW)</strong>, targeting H1-2026 production.  </li>\n<li><strong>Strategic Context:</strong> Avoids debt due to unfavorable terms; secures <strong>offtake prepayment facility (US$6M)</strong> with Authium.  </li>\n</ul>\n<p><strong>Key Asset Highlights:</strong><br />\n- <strong>HMW Resource:</strong> 9.5Mt LCE, <strong>first-quartile cost</strong> globally; Phase 1 targets 40-year mine life.<br />\n- <strong>Lithium Demand:</strong> Focus on <strong>lithium chloride</strong> for LFP batteries.  </p>\n<p><em>Omitted: Boilerplate, director quotes, background details.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Placement to strategic investor (Clean Elements Fund).  </li>\n<li><strong>Total Capital</strong>: A$20 million at A$0.11/share (21% premium to last close).  </li>\n<li><strong>Options</strong>: 90.9M unlisted options (1:2 ratio, A$0.15 strike, 3-year expiry).  </li>\n<li><strong>Timetable</strong>:  <ul>\n<li><strong>Tranche 1</strong>: A$10M (90.9M shares + 45.5M options) post-due diligence (~Sept 2025 GM).  </li>\n<li><strong>Tranche 2</strong>: A$10M (same terms) subject to shareholder approval (~28 Nov 2025 settlement).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Use of Proceeds</strong>: Phase 1 construction (HMW project, targeting H1 2026 production).  </p>\n</li>\n<li>\n<p><strong>Key Project Update</strong>:  </p>\n</li>\n<li><strong>HMW Phase 1</strong>: 4ktpa LCE lithium chloride production, 40-year mine life, first concentrate expected H1 2026.  </li>\n<li>\n<p><strong>Resource Base</strong>: 9.5Mt LCE total resource inventory (HMW + Candelas).  </p>\n</li>\n<li>\n<p><strong>Strategic Context</strong>:  </p>\n</li>\n<li>Strengthens balance sheet (zero debt) amid challenging lithium market conditions.  </li>\n<li>Offtake/prepayment facility (US$6M) with Authium remains available.  </li>\n</ul>\n<p><em>Omitted: Management quotes, background on Clean Elements, JORC details.</em></p>",
     "usage": {
       "prompt_tokens": 2868,
-      "completion_tokens": 304,
-      "total_tokens": 3172,
+      "completion_tokens": 312,
+      "total_tokens": 3180,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:30:43.206999"
+    "processed_at": "2025-06-19T23:41:17.398395"
   },
   {
     "ticker": "CVW",
@@ -27,15 +141,15 @@
     "date": "20250620",
     "time": "0927",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1hnm01qzzc.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Daily Buy-back Activity</strong>: 150,000 shares repurchased (AUD 70,125) at prices between AUD 0.465\u20130.470 on previous day (18/6/2025).  </li>\n<li><strong>Total Buy-back to Date</strong>: 10,533,955 shares (AUD 5,013,511) since inception.  </li>\n<li><strong>Target</strong>: Up to 10% of outstanding shares (~65.8m shares).  </li>\n<li><strong>Buy-back Period</strong>: 25/3/2025 to 25/3/2026.  </li>\n<li><strong>Broker</strong>: Morgans Financial Limited.  </li>\n</ul>\n<p><em>No material valuation or liquidity impacts beyond ongoing buy-back program.</em></p>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back (Previous Day)</strong>: 150,000  </li>\n<li><strong>Total Securities Bought Back (Cumulative)</strong>: 10,533,955  </li>\n<li><strong>Daily Buy-back Consideration (Previous Day)</strong>: AUD 70,125  </li>\n<li><strong>Cumulative Buy-back Consideration</strong>: AUD 5,013,510.89  </li>\n<li><strong>Price Range (Previous Day)</strong>: AUD 0.465 (low) to AUD 0.470 (high)  </li>\n<li><strong>Price Range (Overall)</strong>: AUD 0.430 (low) to AUD 0.515 (high)  </li>\n<li><strong>Buy-back Period</strong>: 25/3/2025 to 25/3/2026  </li>\n<li><strong>Target</strong>: Up to 10% of ordinary shares (no fixed minimum/maximum).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1582,
-      "completion_tokens": 155,
-      "total_tokens": 1737,
+      "completion_tokens": 190,
+      "total_tokens": 1772,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:32:46.772210"
+    "processed_at": "2025-06-19T23:43:11.443198"
   },
   {
     "ticker": "MXO",
@@ -46,15 +160,15 @@
     "date": "20250620",
     "time": "0926",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1c9bgx60bl.pdf",
-    "summary": "<h3><strong>Material Information Summary (June Trading Update - Motio Ltd)</strong></h3>\n<h4><strong>Financial Highlights</strong></h4>\n<ul>\n<li><strong>Revenue</strong>: Q4 revenue reached a record ~A$2.6M (+35% YoY). FY25 YTD revenue: ~A$9.3M (+33% YoY).  </li>\n<li><strong>EBITDA (unaudited)</strong>: ~A$1.9M (+308% YoY).  </li>\n<li><strong>Cash Balance (as of June 19)</strong>: A$2.6M.  </li>\n<li><strong>Debt Reduction</strong>: Repaid ~A$1.3M of oOh!media loan in FY25; remaining debt A$1.085M (final payment due Aug 2026).  </li>\n<li><strong>Q1 FY26 Revenue</strong>: ~50% of budget already secured.  </li>\n</ul>\n<h4><strong>Operational &amp; Strategic Updates</strong></h4>\n<ul>\n<li><strong>Strongest Sector</strong>: Health segment grew +26% YoY.  </li>\n<li><strong>Revenue Mix</strong>: Agency sales dominate (~61-70%), programmatic grew to 12% of FY25 revenue (vs. 9% FY24).  </li>\n<li><strong>Outlook</strong>: Positive momentum into FY26 with organic/acquisitive opportunities. MOVE 2.0 audience measurement delayed to ~Jan 2026.  </li>\n</ul>\n<h4><strong>Valuation Metrics</strong></h4>\n<ul>\n<li>Trading at &lt;1x EV/Revenue and &lt;5x EV/Cash EBITDA (unaudited).  </li>\n</ul>\n<p><strong>No capital raising, material asset sales, or trading halts announced.</strong></p>",
+    "summary": "<h3><strong>June Trading Update Summary (Motio Ltd - ASX:MXO)</strong></h3>\n<h4><strong>Financial Highlights (Unaudited Estimates)</strong></h4>\n<ul>\n<li><strong>Media Revenue</strong>: ~$9.3M (+33% YoY)  </li>\n<li><strong>Cash EBITDA</strong>: ~$1.9M (+308% YoY)  </li>\n<li><strong>Q4 Revenue Record</strong>: ~$2.6M (+35% YoY)  </li>\n<li><strong>Cash Balance (June 19)</strong>: $2.6M  </li>\n</ul>\n<h4><strong>Debt &amp; Liquidity</strong></h4>\n<ul>\n<li><strong>oOh!media Debt Reduction</strong>: ~$1.3M repaid in FY25 ($750k in last 10 weeks); remaining balance $1.085M (final payment due Aug 2026).  </li>\n<li><strong>Interest Savings</strong>: $93k saved from accelerated repayment.  </li>\n</ul>\n<h4><strong>Operational Metrics</strong></h4>\n<ul>\n<li><strong>Key Growth Segment</strong>: Health (+26% YoY).  </li>\n<li><strong>FY25 Revenue Mix</strong>: Agency (63%), Local (14%), Programmatic (12%).  </li>\n<li><strong>Q1 FY26</strong>: Currently at ~50% of budget.  </li>\n</ul>\n<h4><strong>Forward Outlook</strong></h4>\n<ul>\n<li><strong>FY26 Momentum</strong>: Strong forward revenue pipeline and organic/acquisitive opportunities.  </li>\n<li><strong>Industry Update</strong>: MOVE 2.0 audience measurement delayed to ~Jan 2026.  </li>\n<li><strong>Next Update</strong>: Full-year audited results in September.  </li>\n</ul>\n<p><strong>No material capital-raising or corporate action details identified.</strong>  </p>\n<p><em>Note: Omitted promotional/marketing content and non-quantitative strategic commentary.</em></p>",
     "usage": {
-      "prompt_tokens": 2061,
-      "completion_tokens": 308,
-      "total_tokens": 2369,
+      "prompt_tokens": 2059,
+      "completion_tokens": 318,
+      "total_tokens": 2377,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:33:38.323826"
+    "processed_at": "2025-06-19T23:43:55.375638"
   },
   {
     "ticker": "NMG",
@@ -65,15 +179,15 @@
     "date": "20250620",
     "time": "0926",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky196lyltngx.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending an announcement regarding an update on Crown Prince gold project approvals.  </li>\n<li><strong>Halt Duration</strong>: Until the earlier of the announcement release or normal trading on 24 June 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending an announcement regarding an update on Crown Prince gold project approvals.  </li>\n<li><strong>Halt Duration</strong>: Until the earlier of the announcement release or normal trading on 24 June 2025.</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 845,
-      "completion_tokens": 56,
-      "total_tokens": 901,
+      "prompt_tokens": 847,
+      "completion_tokens": 48,
+      "total_tokens": 895,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:55.861769"
+    "processed_at": "2025-06-19T23:42:33.126357"
   },
   {
     "ticker": "PIA",
@@ -84,15 +198,15 @@
     "date": "20250620",
     "time": "0926",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1fcg5t3nh9.pdf",
-    "summary": "<p><strong>ASX Buy-Back Notification Summary (PIA)</strong>  </p>\n<ul>\n<li><strong>Type of Buy-Back</strong>: On-market  </li>\n<li><strong>Total Shares Bought Back (as of 19/6/2025)</strong>: 1,209,412 (1,195,987 before + 13,425 on previous day)  </li>\n<li><strong>Remaining Buy-Back Capacity</strong>: 24,490,435 shares (of maximum 25,699,847)  </li>\n<li><strong>Previous Day Buy-Back (19/6/2025)</strong>:  </li>\n<li>Volume: 13,425 shares  </li>\n<li>Consideration: AUD 15,866.25  </li>\n<li>Price Range: AUD 1.1800\u20131.1850 (highest allowed: AUD 1.2511)  </li>\n<li><strong>Buy-Back Period</strong>: 4/9/2024 to 4/9/2025 (no shareholder approval required)  </li>\n<li><strong>Broker</strong>: Bell Potter  </li>\n</ul>\n<p><em>No material operational/financial impacts beyond ongoing buy-back execution.</em></p>",
+    "summary": "<p><strong>Appendix 3C - Buy-Back Notification Summary</strong>  </p>\n<ul>\n<li><strong>Buy-back type</strong>: On-market  </li>\n<li><strong>Total securities bought back (previous day)</strong>: 13,425  </li>\n<li><strong>Cumulative buy-back to date</strong>: 1,195,987 (out of 25,699,847 maximum)  </li>\n<li><strong>Consideration paid (previous day)</strong>: AUD 15,866.25  </li>\n<li><strong>Price range (previous day)</strong>: AUD 1.1800\u20131.1850  </li>\n<li><strong>Remaining buy-back capacity</strong>: 24,490,435 securities  </li>\n<li><strong>Buy-back period</strong>: 4 Sep 2024 to 4 Sep 2025  </li>\n</ul>\n<p><em>No material valuation/liquidity impacts beyond ongoing buy-back execution.</em></p>",
     "usage": {
       "prompt_tokens": 1504,
-      "completion_tokens": 214,
-      "total_tokens": 1718,
+      "completion_tokens": 156,
+      "total_tokens": 1660,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:32:22.557164"
+    "processed_at": "2025-06-19T23:43:01.794134"
   },
   {
     "ticker": "AMS",
@@ -103,15 +217,15 @@
     "date": "20250620",
     "time": "0925",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky17176dv4zm.pdf",
-    "summary": "<h3><strong>Summary of Material Information</strong></h3>\n<h4><strong>Announcement Type</strong>: <strong>Employee Incentive Plan (Equity-Based Compensation)</strong></h4>\n<ul>\n<li><strong>Plan Details</strong>:  </li>\n<li><strong>Options Granted</strong>: Up to <strong>149.5 million options</strong> (approx. <strong>11% of current issued shares</strong> if fully exercised).  </li>\n<li><strong>Exercise Price</strong>: <strong>1.00005 cents</strong> (based on <strong>2.0001x 5-day VWAP</strong> as of 18 June 2025).  </li>\n<li><strong>Vesting Schedule</strong>:  <ul>\n<li>50% on <strong>30 June 2026</strong>  </li>\n<li>50% on <strong>30 June 2027</strong>  </li>\n</ul>\n</li>\n<li><strong>Exercise Period</strong>: Vested options exercisable until <strong>30 June 2030</strong>.  </li>\n<li><strong>Exclusions</strong>: Directors (including CEO) <strong>not eligible</strong> for the plan.  </li>\n<li><strong>Purpose</strong>: Align employee/shareholder interests; retain talent during challenging periods.  </li>\n</ul>\n<h4><strong>Capital Impact</strong>:</h4>\n<ul>\n<li><strong>Potential Dilution</strong>: ~11% if all options exercised.  </li>\n<li><strong>Source of Shares</strong>: Issued under <strong>Listing Rule 7.1 placement capacity</strong>.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.  </p>\n<hr />\n<p><strong>Brevity Note</strong>: Excluded non-material operational context, director quotes, and legal boilerplate. Focused on terms directly affecting equity structure and trading implications.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Announcement Type:</strong> Employee Incentive Plan</h4>\n<ul>\n<li><strong>Plan Details:</strong>  </li>\n<li>Up to <strong>149.5 million options</strong> (11% of current issued capital) may be issued to employees.  </li>\n<li><strong>Vesting Schedule:</strong>  <ul>\n<li>50% on <strong>30 June 2026</strong>, remaining 50% on <strong>30 June 2027</strong> (contingent on continued employment).  </li>\n</ul>\n</li>\n<li><strong>Exercise Price:</strong> <strong>1.00005 cents</strong> (2.0001x 5-day VWAP as of 18 June 2025).  </li>\n<li><strong>Exercise Window:</strong> Options can be exercised anytime after vesting until <strong>30 June 2030</strong>.  </li>\n<li><strong>Exclusions:</strong> Directors (including CEO) are <strong>not eligible</strong> to participate.  </li>\n</ul>\n<h4><strong>Impact:</strong></h4>\n<ul>\n<li><strong>Dilution:</strong> Potential <strong>11% dilution</strong> if all options are exercised.  </li>\n<li><strong>Capital Structure:</strong> No immediate cash inflow; future equity issuance if options are exercised.  </li>\n</ul>\n<p><strong>No other material trading/capital markets information identified.</strong>  </p>\n<hr />\n<p><strong>Note:</strong> Boilerplate, operational updates, and non-material governance details omitted.</p>",
     "usage": {
-      "prompt_tokens": 15023,
-      "completion_tokens": 286,
-      "total_tokens": 15309,
+      "prompt_tokens": 15021,
+      "completion_tokens": 245,
+      "total_tokens": 15266,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:34:27.363721"
+    "processed_at": "2025-06-19T23:44:44.754588"
   },
   {
     "ticker": "ODY",
@@ -122,15 +236,15 @@
     "date": "20250620",
     "time": "0923",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky14k4h7qt9v.pdf",
-    "summary": "<p><strong>Capital Raising Announcement Summary</strong>  </p>\n<ul>\n<li><strong>Structure</strong>: Placement with attaching options  </li>\n<li><strong>Total Capital Raised</strong>:  </li>\n<li><strong>Ordinary Shares</strong>: 222,222,222 shares issued at <strong>AUD 0.018 per share</strong> (<strong>AUD ~3.99m total</strong>)  </li>\n<li><strong>Attaching Options</strong>: 111,111,111 options (1:2 ratio, exercisable at <strong>AUD 0.036</strong>, expiry <strong>2 years from issue</strong>)  </li>\n<li><strong>Broker Options</strong>: 10,000,000 additional options (same terms)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Proposed Issue Date</strong>: 26 June 2025  </li>\n<li><strong>Shareholder Approval Date</strong>: 7 August 2025 (for 16.9m shares + 121.1m options)  </li>\n<li><strong>Use of Proceeds</strong>: Funding drilling/exploration at Tuckanarra gold project, studies, and working capital.  </li>\n<li><strong>Placement Capacity</strong>:  </li>\n<li>15% capacity: 115,435,109 shares  </li>\n<li>10% capacity (7.1A): 89,887,113 shares  </li>\n<li><strong>Broker Fees</strong>: 6% fee on funds raised + 10m broker options.  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, non-material conditions, escrow details.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>  </li>\n<li><strong>Structure</strong>: Placement to institutional/sophisticated investors  </li>\n<li><strong>Total Capital Raised</strong>: AUD 4.0 million (222,222,222 shares \u00d7 AUD 0.018)  </li>\n<li><strong>Attaching Securities</strong>: 111,111,111 free options (1:2 ratio, exercise price AUD 0.036, expiry 7/8/2027)  </li>\n<li><strong>Placement Options</strong>: 10,000,000 options issued to Joint Lead Managers (same terms)  </li>\n<li><strong>Use of Proceeds</strong>: Fund drilling/exploration at Tuckanarra gold project, studies, and working capital  </li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Issue date: 26/6/2025  </li>\n<li>Shareholder approval date (for partial issuance): 7/8/2025 (estimated)  </li>\n</ul>\n</li>\n<li><strong>Capacity Utilization</strong>:  <ul>\n<li>15% placement capacity: 115,435,109 shares  </li>\n<li>Additional 10% capacity: 89,887,113 shares  </li>\n</ul>\n</li>\n<li><strong>Broker Fees</strong>: 6% on funds raised + placement options (subject to approval)  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, director names, non-material conditions.</em></p>",
     "usage": {
-      "prompt_tokens": 3046,
-      "completion_tokens": 280,
-      "total_tokens": 3326,
+      "prompt_tokens": 3044,
+      "completion_tokens": 260,
+      "total_tokens": 3304,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:53.111740"
+    "processed_at": "2025-06-19T23:42:16.706133"
   },
   {
     "ticker": "ODY",
@@ -141,15 +255,15 @@
     "date": "20250620",
     "time": "0923",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky12fx4dphg4.pdf",
-    "summary": "<h3>Capital Raising Announcement Summary:</h3>\n<p>\u8005\u548c\u65b0\u6295\u8d44\u8005\u901a\u8fc7\u914d\u80a1\u878d\u8d44400\u4e07\u6fb3\u5143\uff0c\u7528\u4e8e\u52a0\u901f\u94bb\u63a2\u8ba1\u5212\u548c\u5f00\u53d1\u7814\u7a76\u3002<br />\n- <strong>Structure</strong>: Share Placement (\u9644\u5e26\u671f\u6743)<br />\n  - <strong>Total raised</strong>: AUD 4 million<br />\n  - <strong>Price/share</strong>: AUD 0.018 (9.7% discount to 10-day VWAP)<br />\n  - <strong>Options</strong>: 1 free option per 2 new shares (exercise price AUD 0.036, 2-year expiry)<br />\n- <strong>Key Dates</strong>:<br />\n  - <strong>Tranche 1</strong>: ~26 June 2025 (205.3M shares) \u2013 under LR 7.1/7.1A<br />\n  - <strong>Tranche 2</strong>: Post-shareholder approval (16.9M shares to directors)<br />\n- <strong>Use of Proceeds</strong>: Accelerate drilling at Tuckanarra Gold Project and fund development studies.<br />\n- <strong>Joint Lead Managers</strong>: Argonaut Securities &amp; Taylor Collison.  </p>\n<p><strong>Omitted</strong>: Director quotes, contact details, procedural boilerplate.</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>  </li>\n<li><strong>Structure</strong>: Placement with free-attaching options (1 option for every 2 new shares).  </li>\n<li><strong>Total Raised</strong>: A$4.0 million (222,222,222 new shares at A$0.018/share).  </li>\n<li><strong>Options Terms</strong>: Exercise price A$0.036, 2-year expiry (subject to shareholder approval).  </li>\n<li><strong>Use of Proceeds</strong>: Accelerate drilling and development studies at Tuckanarra Gold Project.  </li>\n<li><strong>Discounts</strong>: 9.7% to 10-day VWAP (A$0.0199), 10.4% to 15-day VWAP (A$0.0201).  </li>\n<li><strong>Tranches</strong>:  <ul>\n<li><strong>Tranche 1</strong>: 205,322,222 shares (ASX LR 7.1/7.1A) \u2013 expected 26 June 2025.  </li>\n<li><strong>Tranche 2</strong>: 16,900,000 shares (director participation) \u2013 subject to shareholder approval.  </li>\n</ul>\n</li>\n<li><strong>Joint Lead Managers</strong>: Argonaut Securities, Taylor Collison.  </li>\n</ul>\n<p><em>Key omission</em>: No material timetable dates (e.g., record date) provided. Operational commentary deemed non-material under rules.</p>",
     "usage": {
-      "prompt_tokens": 994,
-      "completion_tokens": 225,
-      "total_tokens": 1219,
+      "prompt_tokens": 992,
+      "completion_tokens": 275,
+      "total_tokens": 1267,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:34:34.766397"
+    "processed_at": "2025-06-19T23:44:50.282390"
   },
   {
     "ticker": "FFI",
@@ -160,15 +274,15 @@
     "date": "20250620",
     "time": "0922",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky1091rtt2mr.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Placement or other issuance (referenced from prior Appendix 3B)  </li>\n<li><strong>Securities Issued</strong>: 2,099,019 FFI ordinary fully paid shares  </li>\n<li><strong>Issue Price</strong>: AUD 3.50 per share  </li>\n<li><strong>Issue Date</strong>: 23/06/2025  </li>\n<li><strong>Post-Issue Issued Capital</strong>: 13,108,652 FFI ordinary shares (quoted)  </li>\n<li><strong>Prior Announcement Date</strong>: 20-May-2025 (Appendix 3B disclosed as \"Proposed issue of securities - FFI\")  </li>\n</ul>\n<p><strong>Note</strong>: No further tranches pending per the transaction.</p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 2,099,019 new fully paid ordinary shares (ASX: FFI) to be quoted, issued at AUD 3.50 per share.  </li>\n<li><strong>Issue Date</strong>: 23 June 2025.  </li>\n<li><strong>Capital Impact</strong>: Post-issuance, total issued capital will be 13,108,652 ordinary shares (quoted).  </li>\n<li><strong>Prior Announcement</strong>: Linked to Appendix 3B disclosed on 20 May 2025 (non-renounceable pro rata issue).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1103,
-      "completion_tokens": 136,
-      "total_tokens": 1239,
+      "completion_tokens": 121,
+      "total_tokens": 1224,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:33:52.033790"
+    "processed_at": "2025-06-19T23:44:10.519137"
   },
   {
     "ticker": "ACL",
@@ -179,15 +293,15 @@
     "date": "20250620",
     "time": "0921",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0xx6q5tf10.pdf",
-    "summary": "<p><strong>Board Appointment Announcement:</strong><br />\n- <strong>New Chair Appointment:</strong> Mr Stephen Roche appointed as independent non-executive director, transitioning to Chair on <strong>26 August 2025</strong>.<br />\n- <strong>Current Interim Chair:</strong> Mark Haberlin remains Interim Chair until transition date.<br />\n- <strong>Experience:</strong> Roche brings 15+ years of public company directorship experience (notably in healthcare and retail sectors).  </p>\n<p><strong>No material trading or capital markets impact identified.</strong>  </p>\n<p><em>(Omitted: Director background details, non-material operational descriptions, and legal/contact boilerplate.)</em></p>",
+    "summary": "<ul>\n<li><strong>New Independent Non-Executive Chair Appointment</strong>: Mr. Stephen Roche appointed as independent non-executive director, transitioning to Chair on <strong>26 August 2025</strong>.  </li>\n<li><strong>Experience</strong>: Roche brings 15+ years of public company directorship experience (e.g., Baby Bunting, GWA Group) and executive roles in healthcare/retail.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em> (Routine board change; no financial/structural implications).</p>",
     "usage": {
       "prompt_tokens": 847,
-      "completion_tokens": 113,
-      "total_tokens": 960,
+      "completion_tokens": 95,
+      "total_tokens": 942,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:34:16.757848"
+    "processed_at": "2025-06-19T23:44:37.140669"
   },
   {
     "ticker": "FCL",
@@ -198,15 +312,15 @@
     "date": "20250620",
     "time": "0920",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0vnnswg689.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: The announcement relates to a change in Company Secretary, which is a routine administrative update with no direct impact on trading, capital markets decisions, or valuation.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: A change of company secretary is a routine administrative update and does not impact trading, valuation, or capital structure.)</em></p>",
     "usage": {
       "prompt_tokens": 608,
-      "completion_tokens": 42,
-      "total_tokens": 650,
+      "completion_tokens": 34,
+      "total_tokens": 642,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:01.108202"
+    "processed_at": "2025-06-19T23:41:22.894248"
   },
   {
     "ticker": "NWC",
@@ -217,15 +331,15 @@
     "date": "20250620",
     "time": "0920",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0skzdftbww.pdf",
-    "summary": "<p><strong>Capital Raising Announcement Summary</strong>  </p>\n<ul>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Total Capital Raised</strong>: 188,679,246 new shares \u00d7 AUD 0.053 = <strong>AUD 10,000,000</strong> (est.)  </li>\n<li><strong>Issue Date</strong>: 9 July 2025  </li>\n<li><strong>Conditions</strong>: Subject to no competing proposal by 4 July 2025 (5:00 PM Sydney time)  </li>\n<li><strong>Use of Proceeds</strong>: Fund Antler Copper Project development (bonding, land acquisition, working capital)  </li>\n<li><strong>Capacity</strong>: Utilizes 15% placement capacity (no shareholder approval required)  </li>\n<li><strong>Ranking</strong>: Equal to existing ordinary shares  </li>\n</ul>\n<p><strong>Omitted</strong>: Non-material legal boilerplate, procedural details.</p>",
+    "summary": "<p><strong>Capital Raising Announcement Summary:</strong>  </p>\n<ul>\n<li><strong>Structure:</strong> Placement (using 15% placement capacity under ASX Listing Rule 7.1).  </li>\n<li><strong>Total Capital Raised:</strong> AUD ~10 million (188,679,246 shares \u00d7 AUD 0.053/share).  </li>\n<li><strong>Issue Date:</strong> 9 July 2025.  </li>\n<li><strong>Conditions:</strong> Placement conditional on no superior competing proposal by 4 July 2025.  </li>\n<li><strong>Use of Funds:</strong> Advance Antler Copper Project (bonding, land acquisition, working capital).  </li>\n<li><strong>Securities:</strong> Ordinary fully paid shares (existing class, no escrow).  </li>\n<li><strong>No underwriting or lead manager fees disclosed.</strong>  </li>\n</ul>\n<p><strong>Key Trading Impact:</strong> Dilution (~188.7m new shares issued) at a 5.3c/share discount (if applicable vs. current trading price).</p>",
     "usage": {
-      "prompt_tokens": 1786,
-      "completion_tokens": 154,
-      "total_tokens": 1940,
+      "prompt_tokens": 1784,
+      "completion_tokens": 178,
+      "total_tokens": 1962,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:30:24.978192"
+    "processed_at": "2025-06-19T23:41:03.885884"
   },
   {
     "ticker": "NWC",
@@ -236,15 +350,15 @@
     "date": "20250620",
     "time": "0919",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0ndlr6v9t3.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Type: Revised Takeover Proposal &amp; Capital Raising</strong></h4>\n<ul>\n<li><strong>Offer Increase</strong>: CAML increased offer price to <strong>A$0.053/share</strong> (from A$0.050), valuing New World at <strong>~A$197M</strong>.  </li>\n<li>Premiums:  <ul>\n<li>107.5% to 30-day VWAP (as of 20 May 2025).  </li>\n<li>165% to March 2025 capital raise price.  </li>\n</ul>\n</li>\n<li><strong>Alternative Structure</strong>: Parallel <strong>off-market takeover offer</strong> (same price) with <strong>50.1% minimum acceptance condition</strong>, if Scheme fails.  </li>\n<li><strong>Placement</strong>: <strong>A$10M</strong> at A$0.053/share (5% dilution), conditional on no superior proposal within <strong>14 days</strong> (closes 4 July 2025). Funds to cover Arizona bonding requirements.  </li>\n<li><strong>Conditions</strong>: Regulatory approvals (US CFIUS, North Macedonia, HSR if triggered), no material adverse change, shareholder/court approval.  </li>\n<li><strong>Timetable</strong>:  </li>\n<li>Scheme Meeting: <strong>mid-Sept 2025</strong>.  </li>\n<li>Implementation: <strong>early Oct 2025</strong> (if approved).  </li>\n<li><strong>Board Recommendation</strong>: Unanimously supports Scheme/Takeover Offer, absent superior proposal.  </li>\n</ul>\n<p><strong>Omitted</strong>: Director names, legal boilerplate, project details without direct financial impact.</p>",
+    "summary": "<p>Here's the concise extraction of material information for trading and capital markets decisions:</p>\n<h3><strong>Takeover Offer &amp; Scheme of Arrangement</strong></h3>\n<ul>\n<li><strong>Increased offer price</strong>: A$0.053/share (from A$0.050), valuing New World at ~A$197m.  </li>\n<li><strong>Premiums</strong>:  <ul>\n<li>107.5% to 30-day VWAP (as of 20 May 2025).  </li>\n<li>165% to March 2025 capital raise price.  </li>\n</ul>\n</li>\n<li><strong>Alternative structure</strong>: Parallel off-market takeover offer (same price), conditional on 50.1% minimum acceptance.  </li>\n<li><strong>Interim funding</strong>: CAML to invest A$10m via placement (188.7m new shares at A$0.053/share), conditional on no competing proposal within 14 days (by 4 July 2025).  </li>\n<li><strong>Use of funds</strong>: Bonding requirements for Arizona permits (accelerated timeline), land acquisitions, and working capital.  </li>\n<li><strong>Board recommendation</strong>: Unanimously supports Scheme; recommends accepting Takeover Offer if Scheme fails (absent a superior proposal).  </li>\n<li><strong>Key dates</strong>:  </li>\n<li>Placement expected completion: 9 July 2025.  </li>\n<li>Scheme Meeting: mid-September 2025.  </li>\n<li>Implementation: early October 2025.  </li>\n</ul>\n<h3><strong>Capital Structure Impact</strong></h3>\n<ul>\n<li>Post-placement, CAML to hold ~5% of New World.  </li>\n<li>Kinterra Capital holds 11.99% stake (428.5m shares).  </li>\n</ul>\n<h3><strong>Conditions</strong></h3>\n<ul>\n<li>Regulatory approvals (US, North Macedonia), no material adverse change, shareholder/court approvals.  </li>\n</ul>\n<p>Omitted: Director names, legal boilerplate, project details, non-material timelines.</p>",
     "usage": {
       "prompt_tokens": 10893,
-      "completion_tokens": 294,
-      "total_tokens": 11187,
+      "completion_tokens": 362,
+      "total_tokens": 11255,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:45.391501"
+    "processed_at": "2025-06-19T23:41:53.314458"
   },
   {
     "ticker": "NWC",
@@ -255,15 +369,15 @@
     "date": "20250620",
     "time": "0919",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0qh8qy58q9.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Lift</strong>: Suspension of New World Resources Limited (NWC) securities lifted immediately following announcement release.  </li>\n<li><strong>No material information</strong> on capital, financials, or operational updates provided.  </li>\n</ul>\n<p>(Note: Announcement solely addresses reinstatement; no other actionable trading or capital markets details are included.)</p>",
+    "summary": "<p><strong>Reinstatement Announcement:</strong><br />\n- Trading suspension of New World Resources Limited (NWC) lifted immediately following release of unspecified announcement.  </p>\n<p><em>Note: Materiality depends on the content of NWC's pending announcement, which is not provided here.</em></p>",
     "usage": {
       "prompt_tokens": 327,
-      "completion_tokens": 67,
-      "total_tokens": 394,
+      "completion_tokens": 52,
+      "total_tokens": 379,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:34:00.911907"
+    "processed_at": "2025-06-19T23:44:33.730997"
   },
   {
     "ticker": "CY5",
@@ -274,15 +388,15 @@
     "date": "20250620",
     "time": "0918",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0fxhjsxsj0.pdf",
-    "summary": "<h3><strong>Capital Raising Summary (CY5 - Cygnus Metals Limited)</strong></h3>\n<ul>\n<li><strong>Structure</strong>: Placement to institutional/sophisticated investors (two tranches).  </li>\n<li><strong>Total Raised</strong>: <strong>A$18.3m</strong> (before costs).  </li>\n<li><strong>Tranche 1</strong>: A$18.2m (unconditional, settles 26 June 2025).  </li>\n<li><strong>Tranche 2</strong>: A$0.1m (director participation, subject to Aug-2025 shareholder approval).  </li>\n<li><strong>Pricing</strong>: <strong>A$0.086/share</strong> (8.5% discount to last close, 11.1% discount to 15-day VWAP).  </li>\n<li><strong>Post-Raising Cash</strong>: <strong>A$23.7m</strong> (pro forma).  </li>\n<li><strong>Use of Funds</strong>: Resource expansion (Corner Bay/Golden Eye), exploration, studies, permitting, working capital.  </li>\n<li><strong>Key Catalysts</strong>: Resource update next quarter; drilling results driving demand.  </li>\n</ul>\n<p><em>(Omitted: Director names, boilerplate, PEA details lacking ASX compliance)</em>  </p>\n<p><strong>Brevity Note</strong>: Non-material operational/lithium project details excluded. Capital structure impact (equity dilution) and liquidity (funding runway) are focal points.</p>",
+    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Placement (institutional/sophisticated investors) + minor director tranche.<br />\n- <strong>Total raised:</strong> A$18.3m (A$18.2m unconditional Tranche 1; A$0.1m conditional Tranche 2).<br />\n- <strong>Price:</strong> A$0.086/share (8.5% discount to last close).<br />\n- <strong>Use of funds:</strong> Resource growth (Corner Bay/Golden Eye), exploration, permitting, studies, working capital.<br />\n- <strong>Key dates:</strong><br />\n  - Trading halt lift: 20 June 2025.<br />\n  - Tranche 1 settlement: 26 June 2025.<br />\n  - Shareholder approval for Tranche 2: August 2025 (target).<br />\n- <strong>Pro-forma cash:</strong> ~A$23.7m (pre-costs).  </p>\n<p><strong>Material catalysts:</strong><br />\n- Resource update planned next quarter (high-grade discoveries at Corner Bay/Golden Eye).<br />\n- Increased M&amp;A activity in copper/gold sector noted as strategic context.  </p>\n<p><em>Omitted: Director names, PEA disclaimer, general corporate background.</em></p>",
     "usage": {
-      "prompt_tokens": 1933,
-      "completion_tokens": 269,
-      "total_tokens": 2202,
+      "prompt_tokens": 1935,
+      "completion_tokens": 244,
+      "total_tokens": 2179,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:33:57.033225"
+    "processed_at": "2025-06-19T23:44:21.329741"
   },
   {
     "ticker": "CY5",
@@ -293,15 +407,15 @@
     "date": "20250620",
     "time": "0918",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0l2wnd5x4d.pdf",
-    "summary": "<h3><strong>Capital Raising Announcement Summary</strong></h3>\n<ul>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Total Securities Issued</strong>: 212,790,697 ordinary shares (CY5)  </li>\n<li><strong>Issue Price</strong>: AUD 0.086 per share  </li>\n<li><strong>Capital Raised</strong>: ~AUD 18.3 million (212,790,697 \u00d7 0.086)  </li>\n<li><strong>Placement Breakdown</strong>:  </li>\n<li>15% capacity (LR 7.1): 126,025,591 shares  </li>\n<li>10% capacity (LR 7.1A): 84,925,316 shares  </li>\n<li><strong>Proposed Issue Date</strong>: 27 June 2025  </li>\n<li><strong>Shareholder Approval Required</strong>: Yes (for 1,162,790 director-linked shares; deadline 29 Aug 2025)  </li>\n<li><strong>Use of Proceeds</strong>:  </li>\n<li>Chibougamau Copper-Gold Project (exploration, studies, permitting)  </li>\n<li>Working capital &amp; placement costs  </li>\n<li><strong>Lead Managers</strong>: Canaccord Genuity &amp; Euroz Hartleys (5% fee).  </li>\n<li><strong>Underwritten</strong>: No</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Issue Type</strong>: Placement  </li>\n<li><strong>Total Capital Raised</strong>: AUD ~18.30m (212,790,697 shares \u00d7 AUD 0.086/share)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Proposed issue date: 27/6/2025  </li>\n<li>Shareholder approval deadline (for director Tranche 2 issuance): 29/8/2025  </li>\n<li><strong>Placement Structure</strong>:  </li>\n<li>126,025,591 shares (15% placement capacity, no approval required)  </li>\n<li>84,925,316 shares (10% additional capacity, no approval required)  </li>\n<li><strong>Use of Proceeds</strong>: Chibougamau Copper-Gold Project (exploration, studies, working capital)  </li>\n<li><strong>Joint Lead Managers</strong>: Canaccord Genuity &amp; Euroz Hartleys (5% fee)  </li>\n<li><strong>Cleansing Notice</strong>: Yes (secondary sale compliance)</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 1926,
-      "completion_tokens": 231,
-      "total_tokens": 2157,
+      "prompt_tokens": 1924,
+      "completion_tokens": 187,
+      "total_tokens": 2111,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:31.908929"
+    "processed_at": "2025-06-19T23:41:38.559365"
   },
   {
     "ticker": "PCG",
@@ -312,15 +426,15 @@
     "date": "20250620",
     "time": "0918",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0hznbpvrt7.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Type</strong>: On-market buy-back (daily update)  </li>\n<li><strong>Total shares bought back (cumulative)</strong>: 549,252  </li>\n<li><strong>Shares bought back (previous day)</strong>: 1,858  </li>\n<li><strong>Total remaining buy-back capacity</strong>: 9,325,780 shares (max program size: 9,876,890)  </li>\n<li><strong>Buy-back period</strong>: 4 Mar 2025 \u2013 28 Nov 2025  </li>\n<li><strong>Broker</strong>: Taylor Collison  </li>\n<li><strong>Previous day buy-back details</strong>:  </li>\n<li><strong>Price paid</strong>: $0.77/share  </li>\n<li><strong>Consideration</strong>: AUD 1,430.66  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market  </li>\n<li><strong>Total Securities Bought Back (Cumulative)</strong>: 549,252 (before 19/6/2025) + 1,858 (on 19/6/2025) = <strong>551,110</strong>  </li>\n<li><strong>Maximum Buy-back Cap</strong>: 9,876,890 shares (10% of issued capital)  </li>\n<li><strong>Remaining Buy-back Capacity</strong>: 9,325,780 shares as of 19/6/2025  </li>\n<li><strong>Buy-back Period</strong>: 4/3/2025 to 28/11/2025  </li>\n<li><strong>Price Range (AUD)</strong>: Highest paid: $0.93 (7/3/2025), Lowest paid: $0.735 (28/4/2025)  </li>\n<li><strong>Broker</strong>: Taylor Collison  </li>\n<li><strong>Total Consideration Paid (AUD)</strong>: $468,449.84 (cumulative) + $1,430.66 (19/6/2025) = <strong>$469,880.50</strong>  </li>\n</ul>\n<p><em>No material changes to capital structure or liquidity impact noted.</em></p>",
     "usage": {
-      "prompt_tokens": 1497,
-      "completion_tokens": 151,
-      "total_tokens": 1648,
+      "prompt_tokens": 1499,
+      "completion_tokens": 235,
+      "total_tokens": 1734,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:32:09.214378"
+    "processed_at": "2025-06-19T23:42:43.118694"
   },
   {
     "ticker": "PXX",
@@ -331,15 +445,15 @@
     "date": "20250620",
     "time": "0917",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky09kqzxwykk.pdf",
-    "summary": "<ul>\n<li><strong>Loan Agreement</strong>:  </li>\n<li><strong>Amount</strong>: US$2M (~A$3.1M) unsecured loan from Northern Star Resources (16% shareholder).  </li>\n<li><strong>Terms</strong>: 12-month term, 0% interest for first 3 months, then 7% p.a.  </li>\n<li>\n<p><strong>Use of Funds</strong>: Exploration program at Alaska Range Copper-Gold Project (geophysics, drilling).  </p>\n</li>\n<li>\n<p><strong>Exploration Program</strong>:  </p>\n</li>\n<li>Airborne geophysics (magnetic/LIDAR) and drilling from July\u2013September 2025.  </li>\n<li>\n<p>Focus on expanding high-grade copper resource at Caribou Dome (7.2Mt @ 3.1% Cu, 6.5g/t Ag).  </p>\n</li>\n<li>\n<p><strong>Strategic Context</strong>:  </p>\n</li>\n<li>Northern Star\u2019s backing signals confidence in project potential.  </li>\n<li>No material operational/financial updates beyond loan terms and exploration plans.  </li>\n</ul>\n<p><em>Omitted: JORC details, historical data, forward-looking statements.</em></p>",
+    "summary": "<ul>\n<li><strong>Loan Agreement</strong>:  </li>\n<li>US$2M (~A$3.1M) unsecured loan from Northern Star Resources (16% shareholder).  </li>\n<li><strong>Terms</strong>: 12-month term, 0% interest for first 3 months, then 7% p.a.  </li>\n<li>\n<p><strong>Use of funds</strong>: Exploration at Alaska Range Project (geophysics, drilling).  </p>\n</li>\n<li>\n<p><strong>Exploration Program</strong>:  </p>\n</li>\n<li>Airborne geophysics (magnetic/LIDAR) and drilling planned for 2025 field season (July\u2013September).  </li>\n<li>\n<p>Focus on expanding high-grade copper resource at Caribou Dome (current resource: 7.2Mt @ 3.1% Cu).  </p>\n</li>\n<li>\n<p><strong>Project Background</strong>:  </p>\n</li>\n<li>Caribou Dome resource open at depth (&gt;300m); 2024 Scoping Study NPV (7%) of A$625M (base case: Cu $8,500/t, Au $1,900/oz).  </li>\n</ul>\n<p><em>Omitted: Operational timelines, historical data, loan default clauses.</em></p>",
     "usage": {
       "prompt_tokens": 3897,
-      "completion_tokens": 207,
-      "total_tokens": 4104,
+      "completion_tokens": 215,
+      "total_tokens": 4112,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:31:13.903052"
+    "processed_at": "2025-06-19T23:41:32.707329"
   },
   {
     "ticker": "RYD",
@@ -350,15 +464,15 @@
     "date": "20250620",
     "time": "0917",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky0cmwh072n6.pdf",
-    "summary": "<ul>\n<li><strong>Type</strong>: On-market buy-back  </li>\n<li><strong>Maximum shares to be bought back</strong>: 8,109,963 (10% of issued shares)  </li>\n<li><strong>Buy-back period</strong>: 20/6/2025 \u2013 19/6/2026  </li>\n<li><strong>Broker</strong>: Taylor Collison Limited  </li>\n<li><strong>No shareholder approval required</strong>  </li>\n<li><strong>Consideration</strong>: Cash (AUD), price not pre-determined</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market  </li>\n<li><strong>Maximum Buy-back Volume</strong>: 8,109,963 RYD ordinary shares (~10% of issued capital)  </li>\n<li><strong>Broker</strong>: Taylor Collison Limited  </li>\n<li><strong>Buy-back Period</strong>: 20/06/2025 to 19/06/2026  </li>\n<li><strong>No shareholder approval required</strong>  </li>\n</ul>\n<p><em>No material financial or pricing details disclosed.</em></p>",
     "usage": {
       "prompt_tokens": 923,
-      "completion_tokens": 88,
-      "total_tokens": 1011,
+      "completion_tokens": 84,
+      "total_tokens": 1007,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:30:32.767017"
+    "processed_at": "2025-06-19T23:41:10.417245"
   },
   {
     "ticker": "FRS",
@@ -369,15 +483,15 @@
     "date": "20250620",
     "time": "0915",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky07817kl2qv.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Extraordinary General Meeting Notice):</h3>\n<h4><strong>Key Resolutions for Voting</strong>:</h4>\n<ol>\n<li><strong>Ratification of Prior Issue of Placement Shares (Resolution 1)</strong>  </li>\n<li><strong>Details</strong>: Ratification of 10M shares issued at $0.05/share (total $500K) under ASX Listing Rule 7.1.  </li>\n<li>\n<p><strong>Purpose</strong>: Funds used for drilling, exploration, and working capital.  </p>\n</li>\n<li>\n<p><strong>Election of Director \u2013 David Geraghty (Resolution 2)</strong>  </p>\n</li>\n<li><strong>Background</strong>: Appointed 16 May 2025; seeks election under ASX Listing Rule 14.4.  </li>\n<li>\n<p><strong>Remuneration</strong>: $36K/year + superannuation.  </p>\n</li>\n<li>\n<p><strong>Issue of Options to Director (Resolution 3)</strong>  </p>\n</li>\n<li><strong>Terms</strong>: 30M options (20M @ $0.075, 10M @ $0.11; 3-year expiry).  </li>\n<li><strong>Valuation</strong>: $1.45M (Black-Scholes model). Requires Listing Rule 10.14 approval.  </li>\n</ol>\n<h4><strong>Voting Exclusions</strong>:</h4>\n<ul>\n<li><strong>Resolution 1</strong>: Votes from placement participants excluded.  </li>\n<li><strong>Resolution 3</strong>: Votes from David Geraghty or associates excluded.  </li>\n</ul>\n<h4><strong>Meeting Logistics</strong>:</h4>\n<ul>\n<li><strong>Date/Time</strong>: 21 July 2025, 10:00 AM AWST.  </li>\n<li><strong>Location</strong>: 680 Murray St, West Perth.  </li>\n<li><strong>Proxy Deadline</strong>: 19 July 2025, 10:00 AM AWST.  </li>\n</ul>\n<h4><strong>Capital Impact</strong>:</h4>\n<ul>\n<li>Potential 8.81% dilution if all options are exercised (310.5M \u2192 340.5M shares).  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<hr />\n<p><strong>Note</strong>: Excluded boilerplate, director bios, and procedural details. Focused on trading/capital impacts.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>EGM Notice</strong></h4>\n<ul>\n<li><strong>Meeting Date:</strong> 21 July 2025, 10:00 AM AWST  </li>\n<li><strong>Location:</strong> 680 Murray Street, West Perth, WA  </li>\n<li><strong>Key Resolutions:</strong>  </li>\n<li><strong>Ratification of Prior Placement:</strong> Issue of 10M shares at $0.05/sh (raised $500k) under ASX Listing Rule 7.1.  </li>\n<li><strong>Election of Director:</strong> David Geraghty (independent, non-executive).  </li>\n<li><strong>Director Incentive Options:</strong> Issue of 30M options to Geraghty (20M @ $0.075, 10M @ $0.11; 3-year term).  </li>\n</ul>\n<h4><strong>Voting &amp; Logistics</strong></h4>\n<ul>\n<li><strong>Proxy Deadline:</strong> 19 July 2025, 10:00 AM AWST.  </li>\n<li><strong>Electronic Materials:</strong> Available via ASX announcements or Company\u2019s investor platform.  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>Note: Operational/financial impacts center on dilution (8.8% if options exercised) and governance changes.</em></p>",
     "usage": {
-      "prompt_tokens": 12723,
-      "completion_tokens": 400,
-      "total_tokens": 13123,
+      "prompt_tokens": 12725,
+      "completion_tokens": 240,
+      "total_tokens": 12965,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:30:17.564020"
+    "processed_at": "2025-06-19T23:40:54.010792"
   },
   {
     "ticker": "NAC",
@@ -388,15 +502,15 @@
     "date": "20250620",
     "time": "0915",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky051kqkhh15.pdf",
-    "summary": "<ul>\n<li><strong>Type of Buy-back</strong>: On-market buy-back  </li>\n<li><strong>Total securities bought back on previous day (19/6/2025)</strong>: 233,629  </li>\n<li><strong>Total consideration paid for previous day's buy-back</strong>: AUD 109,128.11  </li>\n<li><strong>Price range on previous day</strong>: AUD 0.465 (low) to AUD 0.470 (high)  </li>\n<li><strong>Remaining securities to be bought back (out of max 4,292,072)</strong>: 3,637,741  </li>\n<li><strong>Buy-back period</strong>: 10/6/2025 to 9/6/2026  </li>\n<li><strong>Broker handling buy-back</strong>: Taylor Collison Limited  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Type of Buy-back</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back (cumulative)</strong>: 420,702  </li>\n<li><strong>Securities Bought Back (previous day)</strong>: 233,629  </li>\n<li><strong>Total Consideration Paid (cumulative)</strong>: AUD 196,837.22  </li>\n<li><strong>Consideration Paid (previous day)</strong>: AUD 109,128.11  </li>\n<li><strong>Price Range (previous day)</strong>: AUD 0.465\u20130.470  </li>\n<li><strong>Maximum Securities to be Bought Back</strong>: 4,292,072 (remaining: 3,637,741 as of 19/6/2025)  </li>\n<li><strong>Buy-back Period</strong>: 10/6/2025 to 9/6/2026  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
-      "prompt_tokens": 1516,
-      "completion_tokens": 152,
-      "total_tokens": 1668,
+      "prompt_tokens": 1514,
+      "completion_tokens": 167,
+      "total_tokens": 1681,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:33:28.293000"
+    "processed_at": "2025-06-19T23:43:41.499293"
   },
   {
     "ticker": "CLE",
@@ -407,15 +521,15 @@
     "date": "20250620",
     "time": "0914",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky02xtbww8rh.pdf",
-    "summary": "<h3><strong>Material Information Summary \u2013 Cyclone Metals Limited (ASX:CLE)</strong></h3>\n<h4><strong>Key Points:</strong></h4>\n<ul>\n<li><strong>Power Study Completion</strong>: Conceptual study (AACE Class 5) completed by Hatch Ltd. confirms feasibility of <strong>100% renewable power</strong> (hydro + wind) for Iron Bear Project (Canada).  </li>\n<li><strong>Phased Power Supply</strong>:  </li>\n<li><strong>Phase 1 (2031-2032)</strong>: 120 MW (10 Mtpa concentrator) via 60 MW hydro + 280 MW wind + 10 MWh BESS.  </li>\n<li><strong>Phase 2 (2035-2036)</strong>: 270 MW (25 Mtpa) adds 2 x 315kV lines from Churchill Falls Hydro (\u00a31.75B CAD incremental CAPEX).  </li>\n<li><strong>Phase 3 (2038-2039)</strong>: 520 MW (50 Mtpa) adds 3rd 315kV line (\u00a31.07B CAD incremental CAPEX).  </li>\n<li><strong>Cost Estimates (CAD)</strong>:  </li>\n<li><strong>Phase 1 CAPEX</strong>: Midpoint <strong>$1.61B</strong> (range: $806M\u2013$2.22B); <strong>OPEX</strong>: $21M/year.  </li>\n<li><strong>Unit Power Cost</strong>: <strong>Phase 1</strong>: <strong>$0.023/kWh</strong> (range: $0.011\u2013$0.046).  </li>\n<li><strong>De-risking Milestone</strong>: Validates renewable energy solution, reducing operational and ESG risks.  </li>\n<li><strong>Funding Risk</strong>: Study assumes <strong>\u00a30.8\u20138.8B CAD</strong> required; no certainty of funding (potential dilution or JV).  </li>\n<li><strong>Upcoming Catalyst</strong>: Scoping Study due <strong>end-June 2025</strong>; drilling program summer 2025 to expand Mineral Resource.  </li>\n</ul>\n<h4><strong>Cautionary Notes</strong>:</h4>\n<ul>\n<li><strong>Study Accuracy</strong>: \u00b150% CAPEX/OPEX variance (scoping-level).  </li>\n<li><strong>No Reserve Estimate</strong>: Further studies needed for economic viability confirmation.  </li>\n</ul>\n<p><strong>Conclusion</strong>: Material de-risking of power supply, but significant funding and execution risks remain. Watch for Scoping Study release.  </p>\n<p><strong>Style</strong>: Bullet-pointed, trimmed redundancy, retained only market-moving data.</p>",
+    "summary": "<p><strong>Summary of ASX Announcement: Cyclone Metals Limited \u2013 Power Study for Iron Bear Project</strong>  </p>\n<h3><strong>Material Information for Capital Markets/Trading Decisions:</strong></h3>\n<ul>\n<li><strong>Project De-risking:</strong> Power Study confirms <strong>100% renewable energy</strong> (hydropower + wind) feasibility for Iron Bear Project, reducing operational and ESG risks.  </li>\n<li><strong>Key CAPEX/OPEX Estimates (CAD, Class 5 \u00b150% accuracy):</strong>  </li>\n<li><strong>Phase 1 (10 Mtpa, COD 2031-32):</strong> CAPEX <strong>CAD 1,613M</strong> (range: 806\u20132,219M), OPEX <strong>CAD 21M/year</strong>, unit power cost <strong>CAD 0.023/kWh</strong>.  </li>\n<li><strong>Phase 2 (25 Mtpa, COD 2035-36):</strong> CAPEX <strong>CAD 3,365M</strong> (range: 1,682\u20136,730M), OPEX <strong>CAD 85M/year</strong>, unit power cost <strong>CAD 0.041/kWh</strong>.  </li>\n<li><strong>Phase 3 (50 Mtpa, COD 2038-39):</strong> CAPEX <strong>CAD 4,438M</strong> (range: 3,226\u20138,876M), OPEX <strong>CAD 3M/year</strong> (typo noted; likely higher), unit power cost <strong>CAD 0.047/kWh</strong>.  </li>\n<li><strong>Funding Risk:</strong> Total funding required ranges <strong>CAD 800M\u20138,800M</strong>; no certainty of raising capital, potential dilution or JV/sale of project.  </li>\n<li><strong>Upcoming Catalysts:</strong>  </li>\n<li>Scoping Study due <strong>June 2025</strong>.  </li>\n<li>Summer 2025 drilling program to expand Mineral Resources.  </li>\n<li><strong>Cautionary Notes:</strong> Study is <strong>preliminary</strong> (\u00b150% accuracy); further work needed for economic viability.  </li>\n</ul>\n<p><strong>Actionable Insight:</strong> Positive de-risking milestone with renewable energy solution, but high funding uncertainty and long-term horizons (COD from 2031). Watch for Scoping Study results.  </p>\n<p><em>Omitted: Technical assumptions, director quotes, legal disclaimers.</em></p>",
     "usage": {
-      "prompt_tokens": 8267,
-      "completion_tokens": 462,
-      "total_tokens": 8729,
+      "prompt_tokens": 8269,
+      "completion_tokens": 445,
+      "total_tokens": 8714,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:33:19.102783"
+    "processed_at": "2025-06-19T23:43:36.517326"
   },
   {
     "ticker": "GNC",
@@ -426,15 +540,15 @@
     "date": "20250620",
     "time": "0913",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky00psksl299.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Buy-back Program</strong>: $75 million AUD (~$15 million executed to date)  </li>\n<li><strong>Daily Buy-back (19/6/2025)</strong>: 98,983 shares at avg. ~$7.79/share (total $771,255.74)  </li>\n<li><strong>Cumulative Buy-back</strong>: 3,314,792 shares (total $23.45 million AUD)  </li>\n<li><strong>Price Range</strong>: $7.74\u2013$8.00 (previous day) / $6.35\u2013$8.00 (historical)  </li>\n<li><strong>Program Dates</strong>: 3/3/2025 to 2/3/2026  </li>\n<li><strong>Broker</strong>: Macquarie Securities (Australia) Limited  </li>\n</ul>\n<p><em>No material deviations or additional impacts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Program Value</strong>: AUD 75 million (AUD 15 million completed to date)  </li>\n<li><strong>Daily Buy-back (19/6/2025)</strong>: 98,983 shares at avg. ~AUD 7.79/share (total AUD 771,255.74)  </li>\n<li><strong>Cumulative Buy-back</strong>: 3,314,792 shares (AUD 23.45 million)  </li>\n<li><strong>Price Range (previous day)</strong>: AUD 7.74 (low) to AUD 7.85 (high)  </li>\n<li><strong>Program Dates</strong>: 3/3/2025 to 2/3/2026  </li>\n<li><strong>Broker</strong>: Macquarie Securities (Australia) Limited  </li>\n</ul>\n<p><em>No material deviations or exceptional disclosures identified.</em></p>",
     "usage": {
       "prompt_tokens": 1513,
-      "completion_tokens": 171,
-      "total_tokens": 1684,
+      "completion_tokens": 170,
+      "total_tokens": 1683,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:32:13.693172"
+    "processed_at": "2025-06-19T23:42:55.462972"
   },
   {
     "ticker": "PH2",
@@ -445,15 +559,15 @@
     "date": "20250620",
     "time": "0913",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06kxzylklnn36f.pdf",
-    "summary": "<ul>\n<li><strong>Delivery of Taurus Hydrogen Prime Mover</strong> to Barwon Water, marking the first fully registered, Vehicle Type Approved hydrogen prime mover in Australia.  </li>\n<li><strong>8-year service agreement</strong> included, with vehicle lifespan estimated at 20 years.  </li>\n<li><strong>Confirms commercial traction</strong> in zero-emission vehicle fleet sales, following recent HFC waste vehicle delivery to Solo Resource Recovery.  </li>\n</ul>\n<p>No material financial or capital markets impacts (e.g., revenue figures, capital raising, or material contracts beyond disclosed agreement).</p>",
+    "summary": "<ul>\n<li><strong>Key Event</strong>: Delivery of Taurus Hydrogen Fuel Cell Prime Mover to Barwon Water under 2024 sales agreement.  </li>\n<li><strong>Strategic Relevance</strong>: First fully registered, Vehicle Type Approved hydrogen prime mover in Australia; supports Barwon Water\u2019s net-zero emissions target by 2030.  </li>\n<li><strong>Commercial Momentum</strong>: Reflects ongoing sales traction for Pure Hydrogen\u2019s zero-emission fleet in Australia.  </li>\n</ul>\n<p><em>No material financial or capital markets impact identified (e.g., no disclosed deal value, capital raising, or material revenue figures).</em></p>",
     "usage": {
       "prompt_tokens": 2071,
-      "completion_tokens": 103,
-      "total_tokens": 2174,
+      "completion_tokens": 111,
+      "total_tokens": 2182,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T23:30:59.322715"
+    "processed_at": "2025-06-19T23:41:21.154118"
   },
   {
     "ticker": "WEB",
