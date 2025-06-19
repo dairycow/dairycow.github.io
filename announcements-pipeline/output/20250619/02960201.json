@@ -7,13 +7,13 @@
   "date": "20250619",
   "time": "1744",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj3b018vvj2.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF or a clear description of its type and content** (e.g., \"Capital Raising Announcement,\" \"Quarterly Report,\" etc.), and I will extract only the material information per your guidelines in concise bullet points.  \n\nIf the document type is unclear or lacks material details, I will reply:  \n**\"No material information identified.\"**  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement**  \n- **Structure:** Placement + SPP  \n- **Total raised (AUD):** $50M ($40M placement, $10M SPP)  \n- **Key dates:** Ex-date: 15 Sep, Record: 18 Sep, Close: 30 Sep  \n\n**Quarterly Report (4C)**  \n- **Cash balance (AUD):** $12.5M (prior: $15.2M)  \n- **Key highlights:** Production +10% QoQ, costs -5% QoQ  \n\n**Trading Halt Request**  \n- **Reason:** Pending capital raising announcement  \n\n**Other Announcement (e.g., M&A)**  \n- **Acquisition:** 100% of TargetCo for $200M (50% scrip, 50% cash)  \n- **Funding:** $100M placement (10% discount)",
+  "summary": "Understood. For any ASX announcement PDF you provide, I will:  \n\n- **Identify the announcement type** and extract **only material information** relevant to trading or capital markets decisions.  \n- **Format strictly** as concise bullet points, tailored to the announcement type.  \n- **Exclude all non-material details** (e.g., introductions, director names, legal boilerplate).  \n- **Prioritize brevity and clarity**\u2014if no material info is present, I will state: *\"No material information identified.\"*  \n\n**Example Outputs:**  \n1. **Trading Halt Request:**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Structure: Placement + SPP.  \n   - Total raised: AUD 50M.  \n   - Key dates: Ex-date 15/10, Record 18/10, Close 25/10.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - Cash balance: AUD 12.5M.  \n   - Highlights: Revenue +15% QoQ, production 20K oz gold.  \n\n4. **Other Announcements:**  \n   - Key point 1 (e.g., major contract win).  \n   - Key point 2 (e.g., debt refinancing completed).  \n\n**Ready to analyze your ASX announcement PDF\u2014please upload or paste the text.**",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 275,
-    "total_tokens": 505,
+    "completion_tokens": 296,
+    "total_tokens": 526,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-19T08:24:56.956359"
+  "processed_at": "2025-06-19T08:48:55.790346"
 }
