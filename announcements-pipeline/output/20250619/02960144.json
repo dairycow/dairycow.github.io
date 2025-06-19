@@ -7,13 +7,13 @@
   "date": "20250619",
   "time": "1559",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxcmfs26zqtt.pdf",
-  "summary": "Understood. Provide the ASX announcement PDF (or text/data from it), and I will extract **only material information** relevant for trading or capital markets decisions, formatted as ultra-concise bullet points.  \n\nExamples of what to expect:  \n\n### **Trading Halt Request**  \n- Reason: Pending material capital raising announcement.  \n\n### **Capital Raising Announcement**  \n- **Type:** Placement + SPP.  \n- **Amount:** AUD 50M (Placement: AUD 40M @ $0.50/share; SPP: AUD 10M cap).  \n- **Key Dates:** Ex-date 15 Oct, Record 18 Oct, SPP closes 5 Nov.  \n\n### **Quarterly Report (Appendix 4C)**  \n- **Cash balance (end-Q):** AUD 12.4M.  \n- **Key highlight:** Sales up 25% QoQ to AUD 8.2M; production 15,000oz Au.  \n\n### **Other Announcement (e.g., M&A, Asset Sale, Strategy Shift)**  \n- **Acquisition:** XYZ Co for AUD 120M (50% scrip, 50% cash).  \n- **Funding:** AUD 80M new debt facility secured.  \n\n**If no material info is found**, reply will be: *\"No material information identified.\"*  \n\n**Now,** share the announcement text/data for analysis.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as strictly concise bullet points following your guidelines.  \n\nExamples of outputs based on common announcement types:  \n\n**Trading Halt Request:**  \n- *Reason:* Pending capital raising announcement.  \n\n**Capital Raising (Placement + SPP):**  \n- *Structure:* $50M placement (at $0.20/share) + $10M SPP.  \n- *Use of funds:* Debt reduction (60%), growth capex (40%).  \n- *Key dates:* Ex-date 15 Oct, SPP closes 30 Oct.  \n\n**Quarterly Report (Appendix 4C):**  \n- *Cash balance:* $12.5M (down from $15.2M last quarter).  \n- *Revenue:* $8.4M (+22% QoQ).  \n- *Burn rate:* $2.7M/month.  \n\n**Other Announcement (Asset Sale):**  \n- Divesting X project for $25M (expected completion Q4 2024).  \n- Proceeds to repay $15M debt; balance for share buyback.  \n\nIf you share the announcement text or type, I\u2019ll adhere strictly to your rules. Otherwise, reply with: *\"No material information identified.\"*",
   "usage": {
     "prompt_tokens": 238,
-    "completion_tokens": 294,
-    "total_tokens": 532,
+    "completion_tokens": 288,
+    "total_tokens": 526,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-19T06:31:59.322148"
+  "processed_at": "2025-06-19T06:56:23.298732"
 }
