@@ -1,5 +1,81 @@
 [
   {
+    "ticker": "CLZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960211",
+    "id": "02960211",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1843",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxk51f25csps.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising &amp; Debt Settlement via Share Issuance</strong>  </li>\n<li><strong>Debt Settlement</strong>: 101,757,400 shares issued at $0.001/share to repay $101,757.40 (3 creditors).  </li>\n<li><strong>Placement</strong>: 125,000,000 shares issued at $0.0008/share (20% discount) to 1 investor, raising $100,000.  </li>\n</ul>\n<p><strong>Implications</strong>: Significant dilution from ~226.76M new shares; priced at deep discount to market.</p>",
+    "usage": {
+      "prompt_tokens": 466,
+      "completion_tokens": 109,
+      "total_tokens": 575,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T08:47:52.175014"
+  },
+  {
+    "ticker": "CLZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960210",
+    "id": "02960210",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1843",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxk2z8dq3wx0.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Total Capital Raised</strong>:  <ul>\n<li>AUD 100,000 (125M shares at AUD 0.0008) + 101.76M shares issued to satisfy debt (AUD 101,757 estimated)  </li>\n</ul>\n</li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Proposed issue date: 20/6/2025  </li>\n</ul>\n</li>\n<li><strong>Purpose</strong>: Working capital and debt retirement.  </li>\n<li><strong>Capacity Used</strong>: 15% (101.76M shares) + 10% (125M shares) placement capacity under ASX Listing Rules 7.1 and 7.1A.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 1967,
+      "completion_tokens": 141,
+      "total_tokens": 2108,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T08:49:55.976577"
+  },
+  {
+    "ticker": "NHE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960209",
+    "id": "02960209",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250619",
+    "time": "1838",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjzxg42lp2s.pdf",
+    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Reason: Pending announcement regarding amendments to the Convertible Securities Agreement and response to an ASX Price and Volume Query.<br />\n- Duration: Until the earlier of announcement release or normal trading commencement on Monday, 23 June 2025.</p>",
+    "usage": {
+      "prompt_tokens": 702,
+      "completion_tokens": 58,
+      "total_tokens": 760,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T08:48:24.064391"
+  },
+  {
+    "ticker": "BGL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960208",
+    "id": "02960208",
+    "pages": 13,
+    "price_sensitive": false,
+    "date": "20250619",
+    "time": "1821",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjtcp51q1j5.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(This is a standard trading policy document outlining internal compliance rules for employee trading in company securities. It contains no market-moving or capital markets-relevant disclosures.)</p>",
+    "usage": {
+      "prompt_tokens": 5282,
+      "completion_tokens": 37,
+      "total_tokens": 5319,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-19T08:49:58.366277"
+  },
+  {
     "ticker": "NSR",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960207",
     "id": "02960207",
@@ -8,15 +84,15 @@
     "date": "20250619",
     "time": "1807",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjng8y25hqr.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement \u2013 National Storage REIT (NSR)</strong>  </p>\n<ul>\n<li><strong>Asset Sale &amp; Fund Update</strong>: NSR settled Tranche 2 of its <strong>Self-Storage Ventures Fund</strong>, acquiring 6 development assets from its portfolio.  </li>\n<li><strong>Capital Deployment</strong>: Total capital of <strong>~$228M</strong> to be deployed by NSR and GIC (75% GIC, 25% NSR) for development/operation.  </li>\n<li><strong>Proceeds &amp; Use</strong>: NSR received <strong>~$140M net proceeds</strong> from the sale, allocated to <strong>debt repayment</strong>.  </li>\n<li><strong>Fee Earnings</strong>: NSR retains role as Fund manager, earning fees for development/management services.  </li>\n</ul>\n<p><em>No material trading/capital markets actions (e.g., raising, halt) identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Transaction Type</strong>: Settlement of Tranche 2 acquisition by National Storage Ventures Fund.  </li>\n<li><strong>Capital Deployment</strong>: ~$228M total capital (NSR + GIC) for development/operation of 6 assets.  </li>\n<li><strong>Proceeds to NSR</strong>: ~$140M (net sale proceeds), allocated to debt repayment.  </li>\n<li><strong>Ownership Structure</strong>: NSR retains 25% equity; GIC holds 75% in the Fund.  </li>\n<li><strong>Management</strong>: NSR remains Fund manager, earning fees; continues independent developments.  </li>\n</ul>\n<p><em>No material trading or capital raising dates identified.</em></p>",
     "usage": {
       "prompt_tokens": 997,
-      "completion_tokens": 163,
-      "total_tokens": 1160,
+      "completion_tokens": 124,
+      "total_tokens": 1121,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:23:56.849658"
+    "processed_at": "2025-06-19T08:47:58.133144"
   },
   {
     "ticker": "IDX",
@@ -27,15 +103,15 @@
     "date": "20250619",
     "time": "1805",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjky4n2d29j.pdf",
-    "summary": "<ul>\n<li><strong>Escrow Release</strong>: 533,539 ordinary shares to be released from voluntary escrow on 1 July 2025.  </li>\n<li><strong>No impact on issued capital</strong>: Release does not change the company's issued capital.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Release of Ordinary Shares from Escrow</strong>: 533,539 fully paid ordinary shares held under voluntary escrow will be released on <strong>1 July 2025</strong>.  </li>\n<li><strong>No change to issued capital</strong>: The release does not affect the company's issued capital.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong>.</p>",
     "usage": {
       "prompt_tokens": 505,
-      "completion_tokens": 55,
-      "total_tokens": 560,
+      "completion_tokens": 66,
+      "total_tokens": 571,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:29.837472"
+    "processed_at": "2025-06-19T08:49:43.127872"
   },
   {
     "ticker": "OSX",
@@ -46,15 +122,15 @@
     "date": "20250619",
     "time": "1802",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjhccvmy8jr.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 9,615,384 ordinary fully paid shares (OSX) issued on 19/06/2025.  </li>\n<li><strong>Conversion Event</strong>: Results from conversion of 2 convertible notes (OSXAM) at <strong>A$0.0104 per share</strong>.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li><strong>Ordinary shares (OSX)</strong>: 183,043,107.  </li>\n<li><strong>Options/Convertibles Outstanding</strong>:  <ul>\n<li>OSXO (exp 24-Apr-2026): 3,510,164.  </li>\n<li>Unquoted (OSXAL, OSXAK, OSXAM, OSXAI): 25,916,531 combined.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material valuation or liquidity impact identified</strong> (routine conversion of negligible convertible notes).  </p>\n<p><em>Omitted: Legal boilerplate, non-material note details.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 9,615,384 new ordinary fully paid shares (OSX) issued from conversion of 2 convertible notes (OSXAM).  </li>\n<li><strong>Conversion Terms</strong>: Value per share ~A$0.0104 (implied from note conversion).  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing OSX shares.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total OSX shares on issue: 183,043,107. Unquoted convertible notes remaining: 62 (OSXAM).  </li>\n</ul>\n<p><strong>No material capital raising, trading halt, or operational updates identified.</strong></p>",
     "usage": {
-      "prompt_tokens": 1500,
-      "completion_tokens": 187,
-      "total_tokens": 1687,
+      "prompt_tokens": 1502,
+      "completion_tokens": 128,
+      "total_tokens": 1630,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:46.880112"
+    "processed_at": "2025-06-19T08:48:39.969678"
   },
   {
     "ticker": "CTT",
@@ -65,15 +141,15 @@
     "date": "20250619",
     "time": "1755",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxjcnn89fd08.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceases</strong>: First Sentier Investors (Australia) IM Ltd (ACN 114 194 311) and related entities ceased to be substantial holders in Cettire Ltd on <strong>17/06/2025</strong>.  </li>\n<li><strong>Previous Notice Date</strong>: Last substantial holding notice was dated <strong>16/06/2025</strong>.  </li>\n<li><strong>No Trade Reported</strong>: No change in relevant interests or voting securities disclosed.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Substantial Holder Ceasing</strong>: First Sentier Investors (Australia) IM Ltd (ACN 114 194 311) and associated entities (listed in Annexure A) ceased to be a substantial holder in <strong>Cettire Ltd</strong> (ACN 630 725 558) on <strong>17/06/2025</strong>.  </li>\n<li><strong>No Reported Trades</strong>: No changes in relevant interests or voting securities disclosed.  </li>\n</ul>\n<p><strong>Key Implication</strong>: Reduced institutional ownership, potential liquidity or governance impact. No immediate trading signal.  </p>\n<p><em>(Strictly limited to material capital markets information; excludes boilerplate and non-essential details.)</em></p>",
     "usage": {
       "prompt_tokens": 1687,
-      "completion_tokens": 97,
-      "total_tokens": 1784,
+      "completion_tokens": 141,
+      "total_tokens": 1828,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:49.692680"
+    "processed_at": "2025-06-19T08:48:45.990261"
   },
   {
     "ticker": "MYX",
@@ -84,15 +160,15 @@
     "date": "20250619",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj9ht7q514z.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceased</strong>: First Sentier Investors group (via multiple entities) ceased to be a substantial holder in <strong>Mayne Pharma Group Ltd</strong> (ASX: MYX) on <strong>17/06/2025</strong>.<br />\n\u6bb4\u6253</li>\n<li><strong>No Material Changes Reported</strong>: No trading activity or voting securities adjustments disclosed in the notice.  </li>\n</ul>\n<p><strong>Summary</strong>: Passive disclosure of ownership threshold cessation; no actionable trading impact.</p>",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Type:</strong> Notice of Ceasing to be a Substantial Holder  </li>\n<li><strong>Key Points:</strong>  </li>\n<li><strong>Substantial Holder:</strong> Mitsubishi UFJ Financial Group / First Sentier Investors group ceased as substantial holder in <strong>Mayne Pharma Group Ltd (ASX: MYX)</strong> on <strong>17/06/2025</strong>.  </li>\n<li><strong>Previous Notice Date:</strong> 12/06/2025.  </li>\n<li><strong>No material changes</strong> in relevant interests or voting securities disclosed (no trades reported).  </li>\n</ul>\n<p><strong>Conclusion:</strong> No immediate trading impact identified; monitoring for follow-up disclosures on rationale or further shareholding changes.</p>",
     "usage": {
-      "prompt_tokens": 1686,
-      "completion_tokens": 88,
-      "total_tokens": 1774,
+      "prompt_tokens": 1688,
+      "completion_tokens": 137,
+      "total_tokens": 1825,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:41.097744"
+    "processed_at": "2025-06-19T08:48:36.875852"
   },
   {
     "ticker": "OFX",
@@ -103,15 +179,15 @@
     "date": "20250619",
     "time": "1753",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj78t6jzr2v.pdf",
-    "summary": "<p><strong>Form 604 \u2013 Notice of Change of Interests of Substantial Holder</strong>  </p>\n<ul>\n<li><strong>Substantial Holder</strong>: First Sentier Investors Holdings Pty Limited (ACN 630 725 558) and affiliates.  </li>\n<li><strong>Company</strong>: OFX Group Ltd.  </li>\n<li><strong>Current Voting Power</strong>: 5.27% (14,818,815 Fully Paid ordinary shares), down from 6.33% in previous notice.  </li>\n<li><strong>Key Changes</strong>:  </li>\n<li>Multiple transactions between 23/05/2025 and 17/06/2025, including purchases, sales, and borrowing of shares.  </li>\n<li>Net decrease in voting power attributed to share disposals and adjustments in borrowed securities (detailed in Annexure B).  </li>\n<li><strong>Material Detail</strong>:  </li>\n<li>428,945 shares borrowed from Citigroup Global Markets Limited (Agreement 14) \u2013 voting rights unrestricted.  </li>\n<li>Ultimate parent Mitsubishi UFJ Financial Group, Inc. holds 1,312,696 shares (disclosed separately).  </li>\n</ul>\n<p><strong>Conclusion</strong>: Voting power dilution (-1.06%) due to active portfolio adjustments. No control implications flagged.</p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Substantial Holding Notice (Form 604)</strong>  </p>\n<ul>\n<li><strong>Substantial Holder</strong>: First Sentier Investors Holdings Pty Ltd (ACN 630 725 558) and related entities.  </li>\n<li><strong>Total Voting Power</strong>: <strong>14,818,815 shares</strong> (5.27% of total) as of 17/06/2025 (prev. 6.33%).  </li>\n<li><strong>Key Changes</strong>:  </li>\n<li>Net <strong>decrease</strong> in holding by <strong>1.06%</strong> (from 6.33% to 5.27%) since prior notice.  </li>\n<li>Includes <strong>borrowed shares</strong> (428,945 from Citigroup Global Markets).  </li>\n<li><strong>Parent Entity Interest</strong>: Mitsubishi UFJ Financial Group (MUFG) holds <strong>1,312,696 shares</strong> separately.  </li>\n</ul>\n<p><strong>Annexure B Highlights</strong>:<br />\n- Multiple transactions between <strong>23/05/2025\u201317/06/2025</strong>, including purchases, sales, and borrowings.<br />\n- Largest single transaction: <strong>Purchase of 502,137 shares</strong> (AUD 358,563.48) on 26/05/2025.  </p>\n<p><strong>Omitted</strong>: Non-material details (e.g., director names, legal boilerplate).  </p>\n<p><em>Brevity rule applied: No operational/financial impact beyond voting power changes.</em></p>",
     "usage": {
-      "prompt_tokens": 5652,
-      "completion_tokens": 233,
-      "total_tokens": 5885,
+      "prompt_tokens": 5654,
+      "completion_tokens": 284,
+      "total_tokens": 5938,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:23:36.617069"
+    "processed_at": "2025-06-19T08:47:34.949723"
   },
   {
     "ticker": "BPP",
@@ -122,15 +198,15 @@
     "date": "20250619",
     "time": "1744",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj15phq5cdp.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Shortfall placement from non-renounceable entitlement offer (7:20 ratio).  </li>\n<li><strong>Total Raised</strong>: <strong>AUD 811,727.82</strong> (202,931,596 shares at <strong>AUD 0.004/share</strong>).  </li>\n<li><strong>Key Dates</strong>: Not explicitly stated in announcement (refer to Offer Document dated 14 May 2025).  </li>\n</ul>\n<p><em>Note: No material trading or valuation impacts beyond the capital raised.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Shortfall placement from non-renounceable entitlement offer (7:20 ratio).  </li>\n<li><strong>Amount Raised</strong>: AUD $811,727.82 (202,931,596 shares at $0.004 per share).  </li>\n<li><strong>Key Dates</strong>: Not disclosed (refer to original Offer Document dated 14 May 2025).  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
       "prompt_tokens": 970,
-      "completion_tokens": 107,
-      "total_tokens": 1077,
+      "completion_tokens": 91,
+      "total_tokens": 1061,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:23:29.335932"
+    "processed_at": "2025-06-19T08:47:25.602712"
   },
   {
     "ticker": "BMT",
@@ -141,15 +217,15 @@
     "date": "20250619",
     "time": "1744",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxj3b018vvj2.pdf",
-    "summary": "<p>Understood. Please provide the <strong>ASX announcement PDF or a clear description of its type and content</strong> (e.g., \"Capital Raising Announcement,\" \"Quarterly Report,\" etc.), and I will extract only the material information per your guidelines in concise bullet points.  </p>\n<p>If the document type is unclear or lacks material details, I will reply:<br />\n<strong>\"No material information identified.\"</strong>  </p>\n<p>Example outputs:  </p>\n<hr />\n<p><strong>Capital Raising Announcement</strong><br />\n- <strong>Structure:</strong> Placement + SPP<br />\n- <strong>Total raised (AUD):</strong> $50M ($40M placement, $10M SPP)<br />\n- <strong>Key dates:</strong> Ex-date: 15 Sep, Record: 18 Sep, Close: 30 Sep  </p>\n<p><strong>Quarterly Report (4C)</strong><br />\n- <strong>Cash balance (AUD):</strong> $12.5M (prior: $15.2M)<br />\n- <strong>Key highlights:</strong> Production +10% QoQ, costs -5% QoQ  </p>\n<p><strong>Trading Halt Request</strong><br />\n- <strong>Reason:</strong> Pending capital raising announcement  </p>\n<p><strong>Other Announcement (e.g., M&amp;A)</strong><br />\n- <strong>Acquisition:</strong> 100% of TargetCo for $200M (50% scrip, 50% cash)<br />\n- <strong>Funding:</strong> $100M placement (10% discount)</p>",
+    "summary": "<p>Understood. For any ASX announcement PDF you provide, I will:  </p>\n<ul>\n<li><strong>Identify the announcement type</strong> and extract <strong>only material information</strong> relevant to trading or capital markets decisions.  </li>\n<li><strong>Format strictly</strong> as concise bullet points, tailored to the announcement type.  </li>\n<li><strong>Exclude all non-material details</strong> (e.g., introductions, director names, legal boilerplate).  </li>\n<li><strong>Prioritize brevity and clarity</strong>\u2014if no material info is present, I will state: <em>\"No material information identified.\"</em>  </li>\n</ul>\n<p><strong>Example Outputs:</strong><br />\n1. <strong>Trading Halt Request:</strong><br />\n   - Reason: Pending capital raising announcement.  </p>\n<ol>\n<li><strong>Capital Raising Announcement:</strong>  </li>\n<li>Structure: Placement + SPP.  </li>\n<li>Total raised: AUD 50M.  </li>\n<li>\n<p>Key dates: Ex-date 15/10, Record 18/10, Close 25/10.  </p>\n</li>\n<li>\n<p><strong>Quarterly Report (Appendix 4C):</strong>  </p>\n</li>\n<li>Cash balance: AUD 12.5M.  </li>\n<li>\n<p>Highlights: Revenue +15% QoQ, production 20K oz gold.  </p>\n</li>\n<li>\n<p><strong>Other Announcements:</strong>  </p>\n</li>\n<li>Key point 1 (e.g., major contract win).  </li>\n<li>Key point 2 (e.g., debt refinancing completed).  </li>\n</ol>\n<p><strong>Ready to analyze your ASX announcement PDF\u2014please upload or paste the text.</strong></p>",
     "usage": {
       "prompt_tokens": 230,
-      "completion_tokens": 275,
-      "total_tokens": 505,
+      "completion_tokens": 296,
+      "total_tokens": 526,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:56.956359"
+    "processed_at": "2025-06-19T08:48:55.790346"
   },
   {
     "ticker": "RNU",
@@ -160,15 +236,15 @@
     "date": "20250619",
     "time": "1743",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhz09hrc0wr.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: Resignation of a company secretary is typically not material to trading or capital markets decisions unless it signals broader governance concerns, which is not indicated here.)</p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: Resignation of a Joint Company Secretary is not typically material for trading or capital markets decisions unless accompanied by governance or operational concerns. No impact on valuation, liquidity, or capital structure was noted.)</em></p>",
     "usage": {
       "prompt_tokens": 485,
-      "completion_tokens": 40,
-      "total_tokens": 525,
+      "completion_tokens": 51,
+      "total_tokens": 536,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:23:51.936930"
+    "processed_at": "2025-06-19T08:47:47.986603"
   },
   {
     "ticker": "ATM",
@@ -179,15 +255,15 @@
     "date": "20250619",
     "time": "1743",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhww02d4khj.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>[Note: Appendix 3X filings disclose routine director interest notifications and contain no market-moving data.]</p>",
+    "summary": "<p><strong>Summary of Appendix 3X Announcement:</strong>  </p>\n<ul>\n<li><strong>No material information identified</strong> (Standard director\u2019s interest disclosure with no holdings or transactions reported).  </li>\n</ul>\n<p><strong>Rationale:</strong> The filing merely confirms a new director's appointment with zero securities held, presenting no impact on liquidity, capital structure, or valuation. Omitted per guidelines (routine disclosure without materiality).</p>",
     "usage": {
       "prompt_tokens": 768,
-      "completion_tokens": 27,
-      "total_tokens": 795,
+      "completion_tokens": 75,
+      "total_tokens": 843,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:31.587098"
+    "processed_at": "2025-06-19T08:50:03.657180"
   },
   {
     "ticker": "SST",
@@ -198,15 +274,15 @@
     "date": "20250619",
     "time": "1742",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhtr72zq9y7.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Change of Australian Registered Office</strong>: Effective immediately, new address is Level 10, Tower 4, 727 Collins Street, Docklands VIC 3008.  </li>\n</ul>\n<p><strong>No material information identified</strong> for trading or capital markets decisions.</p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p>(Note: The announcement only discloses a change in the company's registered office address, which does not impact trading, capital markets decisions, valuation, liquidity, or capital structure.)</p>",
     "usage": {
-      "prompt_tokens": 481,
-      "completion_tokens": 59,
-      "total_tokens": 540,
+      "prompt_tokens": 483,
+      "completion_tokens": 43,
+      "total_tokens": 526,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:27.650919"
+    "processed_at": "2025-06-19T08:49:38.360358"
   },
   {
     "ticker": "ATM",
@@ -217,15 +293,15 @@
     "date": "20250619",
     "time": "1741",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhpfjvnz3t0.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director's interest notice with no disclosed holdings or material interests.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Appendix 3X Director's Interest Notices are routine regulatory filings and do not contain trade-sensitive or capital markets-impacting information.)</em></p>",
     "usage": {
       "prompt_tokens": 772,
-      "completion_tokens": 25,
-      "total_tokens": 797,
+      "completion_tokens": 36,
+      "total_tokens": 808,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:21.372860"
+    "processed_at": "2025-06-19T08:49:32.414897"
   },
   {
     "ticker": "WMI",
@@ -236,15 +312,15 @@
     "date": "20250619",
     "time": "1741",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhk5gwgnc36.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Notice (Form 605):</strong> Wilson Asset Management Group ceased to be a substantial holder in Close the Loop Limited (ASX: CLG) on <strong>14/06/2023</strong>.  </li>\n<li><strong>Key Transactions:</strong>  </li>\n<li><strong>Recent Sales (June 2025):</strong> Collective on-market sales of ~3.1M CLG shares by Wilson Asset Management entities (total ~11.1M votes divested).  </li>\n<li><strong>Historical Activity:</strong> Net reduction in holdings since 2023, including a significant sell-down of 2M shares by WAM Microcap in September 2023.  </li>\n</ul>\n<p><em>No other material information for trading/capital markets decisions identified.</em></p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Wilson Asset Management Group</strong> ceased to be a substantial holder in <strong>Close the Loop Limited (CLG)</strong> on <strong>14/06/2023</strong>.  </li>\n<li><strong>Key disposals (reducing stake below 5%):</strong>  </li>\n<li><strong>17/06/2025:</strong>  <ul>\n<li>WAM Capital Limited sold <strong>3,503,999</strong> shares (~$120,838).  </li>\n<li>WAM Microcap Limited sold <strong>4,706,258</strong> shares (~$162,299).  </li>\n</ul>\n</li>\n<li><strong>18/06/2025:</strong>  <ul>\n<li>WAM Capital Limited sold <strong>2,823,614</strong> shares (~$78,504).  </li>\n<li>WAM Microcap Limited sold <strong>3,792,425</strong> shares (~$105,439).  </li>\n</ul>\n</li>\n<li><strong>19/06/2025:</strong>  <ul>\n<li>WAM Capital Limited sold <strong>2,670,997</strong> shares (~$68,563).  </li>\n<li>WAM Microcap Limited sold <strong>3,587,443</strong> shares (~$92,088).  </li>\n</ul>\n</li>\n</ul>\n<p><strong>Prior significant transactions (context for liquidity impact):</strong><br />\n- <strong>29/05/2024:</strong> WAM Capital sold <strong>3,684,272</strong> shares (~$1.22M).<br />\n- <strong>3/07/2024:</strong> WAM Active sold <strong>189,322</strong> shares (~$60,928).  </p>\n<p>No further material disclosures (e.g., capital structure changes, new ownership thresholds).</p>",
     "usage": {
       "prompt_tokens": 9475,
-      "completion_tokens": 144,
-      "total_tokens": 9619,
+      "completion_tokens": 308,
+      "total_tokens": 9783,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:35.053079"
+    "processed_at": "2025-06-19T08:48:33.686010"
   },
   {
     "ticker": "OSL",
@@ -255,15 +331,15 @@
     "date": "20250619",
     "time": "1741",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhrj728g79q.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of securities</strong>: 3,494 OSL ordinary fully paid shares lapsed due to unmet conditions (Employee Loan Funded Shares).  </li>\n<li><strong>Date of cessation</strong>: 19/06/2025.  </li>\n<li><strong>No consideration paid</strong> for cessation.  </li>\n<li><strong>Post-cessation issued capital</strong>:  </li>\n<li>Ordinary shares (OSL): 14,220,777  </li>\n<li>Options: OSLOC (2,140,009), OSLOB (4,786,231), OSLO (4,253,161)  </li>\n<li>Unquoted securities: Performance rights/options (OSLAB, OSLAR, OSLAM, OSLAN).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (minor share count adjustment).</p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 3,494 OSL ordinary shares ceased due to lapse of conditional rights (employee loan funded shares).  </li>\n<li><strong>Date of Cessation</strong>: 19/06/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary shares (OSL): 14,220,777.  </li>\n<li>Options/Rights: Detailed in Part 3.1 and 3.2 (no material change to capital structure).  </li>\n</ul>\n<p>No material impact on liquidity or valuation identified.</p>",
     "usage": {
       "prompt_tokens": 1163,
-      "completion_tokens": 160,
-      "total_tokens": 1323,
+      "completion_tokens": 111,
+      "total_tokens": 1274,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:09.719836"
+    "processed_at": "2025-06-19T08:48:01.911225"
   },
   {
     "ticker": "ATM",
@@ -274,15 +350,15 @@
     "date": "20250619",
     "time": "1741",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhmb9l66rm6.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3X filings disclose director interests only\u2014no trading or capital markets impact.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director's interest disclosure with no reported securities holdings or material transactions affecting capital structure or trading.)</em></p>",
     "usage": {
       "prompt_tokens": 768,
-      "completion_tokens": 26,
-      "total_tokens": 794,
+      "completion_tokens": 31,
+      "total_tokens": 799,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:27.608652"
+    "processed_at": "2025-06-19T08:48:22.096211"
   },
   {
     "ticker": "ATM",
@@ -293,15 +369,15 @@
     "date": "20250619",
     "time": "1730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhf06456prl.pdf",
-    "summary": "<p>No material information identified.<br />\n<em>(Appendix 3X filings disclose director interests only; no trading or capital markets impact.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(This is a routine Director's Interest Notice with no reported securities holdings or material transactions.)</em></p>",
     "usage": {
-      "prompt_tokens": 767,
-      "completion_tokens": 26,
-      "total_tokens": 793,
+      "prompt_tokens": 769,
+      "completion_tokens": 27,
+      "total_tokens": 796,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:23.064982"
+    "processed_at": "2025-06-19T08:48:20.398088"
   },
   {
     "ticker": "ATM",
@@ -312,15 +388,15 @@
     "date": "20250619",
     "time": "1729",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxhbmwsc8rc8.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a standard director\u2019s interest disclosure with no material impact on trading, capital structure, or valuation.)  </p>\n<p>Key reasons for omission:<br />\n- No change in beneficial ownership or securities held by the director (only 1 B share disclosed).<br />\n- No equity transactions, capital events, or financial data relevant to investors.<br />\n- Routine compliance filing without actionable market implications.  </p>\n<p>Would only flag if:<br />\n- Large shareholding changes,<br />\n- Derivatives/pledged shares, or<br />\n- Conflicts of interest disclosed. None present here.</p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a routine director's interest notice with no relevant trading or capital markets impact.)</em></p>",
     "usage": {
       "prompt_tokens": 769,
-      "completion_tokens": 118,
-      "total_tokens": 887,
+      "completion_tokens": 26,
+      "total_tokens": 795,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:23:25.811220"
+    "processed_at": "2025-06-19T08:47:18.611935"
   },
   {
     "ticker": "ATM",
@@ -331,15 +407,15 @@
     "date": "20250619",
     "time": "1726",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh82nvnc4r0.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Appendix 3X is a routine director's interest notice disclosing no securities holdings or other market-sensitive details.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3X filings disclose director shareholdings but typically contain no actionable market data unless revealing substantial/unexpected holdings. This filing shows zero holdings and no relevant contracts.)</em></p>",
     "usage": {
       "prompt_tokens": 708,
-      "completion_tokens": 32,
-      "total_tokens": 740,
+      "completion_tokens": 43,
+      "total_tokens": 751,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:29.554374"
+    "processed_at": "2025-06-19T08:48:26.179075"
   },
   {
     "ticker": "ATM",
@@ -350,15 +426,15 @@
     "date": "20250619",
     "time": "1725",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh5p97sb7sy.pdf",
-    "summary": "<p><strong>Summary of Appendix 3X (Initial Director\u2019s Interest Notice):</strong><br />\n- <strong>No material information identified</strong> (Standard director interest disclosure with zero holdings).  </p>\n<p>(Note: Director interest notices are typically administrative and only material if they reveal significant ownership changes or conflicts.)</p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is an initial director's interest notice disclosing no holdings or material interests. No trading or capital markets impact.)</em></p>",
     "usage": {
-      "prompt_tokens": 703,
-      "completion_tokens": 56,
-      "total_tokens": 759,
+      "prompt_tokens": 705,
+      "completion_tokens": 32,
+      "total_tokens": 737,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:15.537855"
+    "processed_at": "2025-06-19T08:49:29.941213"
   },
   {
     "ticker": "KAT",
@@ -369,15 +445,15 @@
     "date": "20250619",
     "time": "1724",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh3dp0gf34b.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back type</strong>: On-market  </li>\n<li><strong>Total shares bought back as of 19/6/2025</strong>: 602,290 (577,290 before + 25,000 on previous day)  </li>\n<li><strong>Remaining buy-back capacity</strong>: 2,540,023 shares (out of maximum 3,142,313)  </li>\n<li><strong>Price range (previous day)</strong>: AUD 1.220 (flat, no range)  </li>\n<li><strong>Buy-back period</strong>: 2/1/2025 to 31/12/2025  </li>\n<li><strong>Broker</strong>: Canaccord Genuity  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Type of Buy-back:</strong> On-market buy-back  </li>\n<li><strong>Total Shares Bought Back (Previous Day):</strong> 25,000  </li>\n<li><strong>Total Shares Bought Back (Cumulative):</strong> 577,290  </li>\n<li><strong>Maximum Buy-back Limit:</strong> 3,142,313 (remaining: 2,540,023 as of 19/6/2025)  </li>\n<li><strong>Buy-back Period:</strong> 2/1/2025 to 31/12/2025  </li>\n<li><strong>Price Paid (Previous Day):</strong> AUD 1.22 per share (total consideration: AUD 30,500)  </li>\n<li><strong>Highest Price Allowed (ASX Rule 7.33):</strong> AUD 1.281</li>\n</ul>",
     "usage": {
       "prompt_tokens": 1498,
-      "completion_tokens": 132,
-      "total_tokens": 1630,
+      "completion_tokens": 151,
+      "total_tokens": 1649,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:42.341891"
+    "processed_at": "2025-06-19T08:50:11.551091"
   },
   {
     "ticker": "LSF",
@@ -388,15 +464,15 @@
     "date": "20250619",
     "time": "1724",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxh1b0fnd4fc.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3Y - Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director's Name:</strong> Raphael Lamm  </li>\n<li><strong>Change in Holdings (Ordinary Shares):</strong>  </li>\n<li>Acquired <strong>4,591</strong> shares via <strong>on-market trade</strong> (Consideration: <strong>AUD $13,037.06</strong>).  </li>\n<li>No shares disposed.  </li>\n<li><strong>Post-Change Holdings:</strong>  </li>\n<li><strong>Direct:</strong> 1 share (unchanged).  </li>\n<li><strong>Indirect (via trusts):</strong>  <ul>\n<li>Shomron Pty Ltd (Lamm FM Family Trust): <strong>10,441,241</strong> shares (2.5m in escrow until 24/04/2028).  </li>\n<li>Cantone No. 2 Pty Ltd: <strong>39,308,006</strong> shares (15.29m in escrow until 24/04/2028).  </li>\n</ul>\n</li>\n<li><strong>Closed Period Trading:</strong> No (no clearance required).  </li>\n</ul>\n<p><em>Note: No material impact on capital structure or liquidity identified; routine disclosure.</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Raphael Lamm acquired <strong>4,591 Ordinary Shares</strong> on-market at <strong>$13,037.06</strong> (via entities Shomron Pty Ltd and Cantone No. 2 Pty Ltd).  </li>\n<li><strong>Post-Trade Holdings</strong>:  </li>\n<li><strong>Total indirect holdings</strong>: <strong>24,022,827 Ordinary Shares</strong> (including escrowed shares).  </li>\n<li><strong>No closed-period trade</strong>: Transaction did not occur during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No material capital markets impact identified (routine director interest disclosure).</em></p>",
     "usage": {
       "prompt_tokens": 1193,
-      "completion_tokens": 223,
-      "total_tokens": 1416,
+      "completion_tokens": 113,
+      "total_tokens": 1306,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:36.737289"
+    "processed_at": "2025-06-19T08:50:06.762958"
   },
   {
     "ticker": "BYH",
@@ -407,15 +483,15 @@
     "date": "20250619",
     "time": "1723",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgx30gngbvz.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement: Notice of General Meeting (Director Removal Resolutions)</strong>  </p>\n<ul>\n<li><strong>Meeting Type</strong>: General Meeting (Shareholder Requested)  </li>\n<li><strong>Meeting Date</strong>: 29 July 2025 (2:00 pm WST)  </li>\n<li><strong>Key Resolutions</strong>:  </li>\n<li><strong>Removal of Director Leslie Ingraham</strong> (Board recommends <strong>AGAINST</strong>)  </li>\n<li><strong>Removal of Director Ian Stuart</strong> (Board recommends <strong>AGAINST</strong>)  </li>\n<li><strong>Requisitioning Shareholder</strong>: Yu Yonglu (~11.8% holder, acquired shares via discounted placement in February 2025).  </li>\n<li><strong>Board Position</strong>: Unanimously opposes resolutions, citing:  </li>\n<li>Clear strategy focusing on manganese, copper, and gold projects (e.g., JORC resources at Bryah Basin and Gabanintha).  </li>\n<li>Concerns over Yu Yonglu\u2019s lack of disclosed plans, opportunistic timing, and ties to GBA Capital (placement lead manager).  </li>\n<li><strong>Voting Instructions</strong>: Proxies due by 27 July 2025 (2:00 pm WST). Undirected proxies will default to Board recommendations.  </li>\n</ul>\n<p><strong>Material Impact</strong>: Potential board disruption, but no immediate capital structure or liquidity changes. Strategic direction at stake if resolutions pass.</p>",
+    "summary": "<h3>Material Information Summary</h3>\n<ul>\n<li><strong>Type of Announcement</strong>: Notice of General Meeting (Shareholder Requisitioned)  </li>\n<li><strong>Key Resolutions</strong>:  </li>\n<li><strong>Resolution 1</strong>: Removal of Leslie James Ingraham (Non-Executive Director). <strong>Board recommendation</strong>: AGAINST.  </li>\n<li><strong>Resolution 2</strong>: Removal of Ian George Stuart (Non-Executive Chairman). <strong>Board recommendation</strong>: AGAINST.  </li>\n<li><strong>Meeting Date</strong>: 29 July 2025 (2:00 pm WST).  </li>\n<li><strong>Proxy Deadline</strong>: 27 July 2025 (2:00 pm WST).  </li>\n<li><strong>Context</strong>:  </li>\n<li>Requisitioned by Yu Yonglu (~11.8% shareholder), who acquired shares at a discount in Feb 2025.  </li>\n<li>Board opposes resolutions, citing lack of strategic plan from Yu Yonglu, opportunistic timing, and concerns over ties to GBA Capital (raised capital for Bryah earlier in 2025).  </li>\n<li>Directors highlight progress on critical mineral projects (manganese, copper, gold) and JVs with OM Holdings (manganese) and Australian Vanadium.  </li>\n</ul>\n<p><strong>No capital-raising, financials, or trading halt details identified.</strong></p>",
     "usage": {
       "prompt_tokens": 9705,
-      "completion_tokens": 268,
-      "total_tokens": 9973,
+      "completion_tokens": 249,
+      "total_tokens": 9954,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:24:17.920466"
+    "processed_at": "2025-06-19T08:48:17.177947"
   },
   {
     "ticker": "LSF",
@@ -426,15 +502,15 @@
     "date": "20250619",
     "time": "1723",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250619/pdf/06kxgz6r9vkg6j.pdf",
-    "summary": "<h3>Summary of Appendix 3Y - Change of Director\u2019s Interest Notice:</h3>\n<ul>\n<li><strong>Director</strong>: Mark Landau  </li>\n<li><strong>Date of Change</strong>: 18 June 2025  </li>\n<li><strong>Nature of Change</strong>: On-market trade (acquisition)  </li>\n<li><strong>Securities Acquired</strong>: 4,591 Ordinary Shares  </li>\n<li><strong>Consideration</strong>: $13,037.06 (on-market)  </li>\n<li><strong>Total Holdings Post-Change</strong>: 29,551,245 Ordinary Shares (via indirect interests in trusts/entities).  </li>\n<li><strong>Closed Period Trading</strong>: No (no clearance required).  </li>\n</ul>\n<p><strong>No material market or capital structure impact identified</strong> (routine director interest update).</p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>:  </li>\n<li><strong>Director</strong>: Mark Landau  </li>\n<li><strong>Change Date</strong>: 18 June 2025  </li>\n<li><strong>Transaction</strong>: On-market purchase of <strong>4,591 Ordinary Shares</strong>  </li>\n<li><strong>Consideration</strong>: <strong>$13,037.06</strong> (implied price: ~$2.84/share)  </li>\n<li><strong>Total Holdings Post-Change</strong>:  <ul>\n<li>Indirect interests via trusts/super fund: <strong>29,551,245 Ordinary Shares</strong> (majority under escrow until 24 April 2028).  </li>\n</ul>\n</li>\n<li><strong>Closed Period</strong>: No trading during a closed period requiring clearance.  </li>\n</ul>\n<p><em>Note: No material impact on capital structure or liquidity (small trade relative to escrowed holdings).</em></p>",
     "usage": {
       "prompt_tokens": 1249,
-      "completion_tokens": 138,
-      "total_tokens": 1387,
+      "completion_tokens": 155,
+      "total_tokens": 1404,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-19T08:25:25.504561"
+    "processed_at": "2025-06-19T08:49:36.682374"
   },
   {
     "ticker": "HAR",
