@@ -1,0 +1,19 @@
+{
+  "ticker": "DTZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960401",
+  "id": "02960401",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250620",
+  "time": "1019",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06ky50z3npn78v.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or key details from it (e.g., document type, headline, or excerpts). I will then generate a strictly concise, material-only summary per your requested format.  \n\n**Example Outputs:**  \n- *Trading Halt:* \"Halt requested pending release of capital raising details.\"  \n- *Capital Raising:* \"Placement + SPP to raise A$50M. Ex-date: 15/05, Record: 18/05, Close: 25/05.\"  \n- *4C Report:* \"Quarterly cash burn A$2.1M, receipts A$3.5M. Closing cash: A$12.8M.\"  \n\nNo fluff\u2014just actionable data. Ready for your input.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 163,
+    "total_tokens": 383,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-20T01:29:12.391247"
+}
