@@ -1,0 +1,19 @@
+{
+  "ticker": "AII",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960580",
+  "id": "02960580",
+  "pages": 9,
+  "price_sensitive": false,
+  "date": "20250620",
+  "time": "1656",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250620/pdf/06kymk3cm7q4l8.pdf",
+  "summary": "### **Material Information Summary**  \n**Announcement Type:** *Appendix 2A \u2013 Quotation of New Securities*  \n\n- **Security Issuance:** 200,000 CDIs (CHESS Depositary Interests) issued upon conversion of options (AIIAAL).  \n- **Conversion Details:**  \n  - **Option Terms:** Expiry 17-May-2026, exercise price **A$0.84**.  \n- **Post-Issuance Capital Structure:**  \n  - **Total Quoted CDIs (AII):** 23,947,961.  \n  - **Unquoted Securities:**  \n    - Outstanding options/warrants (~28.6M across multiple series).  \n    - Convertible debentures (EUR 2.1M, CAD 2.39M).  \n  - **Underlying Common Shares:** 246,772,554.  \n\n**Rationale for Materiality:**  \n- Minimal dilution (~0.8% of quoted CDIs), but highlights active option conversions and complex capital structure with significant unlisted derivatives.  \n\n**Actionability:**  \n- Monitor option exercise liquidity impacts (remaining AIIAAL options: 2,279,000). No immediate trading signal.  \n\n---  \n*Omitted:* Legal boilerplate, non-conversion-related warrant series, director details.",
+  "usage": {
+    "prompt_tokens": 2588,
+    "completion_tokens": 276,
+    "total_tokens": 2864,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-20T07:14:30.807982"
+}
