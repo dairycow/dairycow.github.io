@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961109",
+  "id": "02961109",
+  "pages": 36,
+  "price_sensitive": false,
+  "date": "20250623",
+  "time": "1641",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0phg4rn5h15.pdf",
+  "summary": "This document is a product listing for CitiFirst MINIs (leveraged equity derivative products) on the ASX. Below is the material information extracted for trading and capital markets decisions:\n\n### Key Details:\n- **Product Type**: CitiFirst MINIs (Leveraged Long/Short single-stock and index derivatives)\n- **Underlyings**: Covers ASX-listed stocks, Australian/International indices, currencies, and commodities\n- **Effective Date**: 24-Jun-2025\n- **Pricing Mechanism**: Each MINI has a Strike Price, Stop Loss Trigger Level, Current Share Price, Gearing (leverage ratio), and Approx. MINI Value \n\n### Notable Features:\n1. **Single Stock MINIs (Pages 1-29)**  \n   - Example:  \n     - **360KOI (LIFE360 INC)**  \n       - Type: MINI Long  \n       - Strike: $26.3572  \n       - Stop Loss: $31.4800  \n       - Current Price: $32.00  \n       - Gearing: 82.37%  \n       - Approx. MINI Value: $5.64  \n       - Distance to Stop Loss: 1.63%  \n\n2. **Index MINIs (Pages 30-32)**  \n   - **XJOQOG (S&P/ASX 200 Futures)**  \n     - Type: MINI Long  \n     - Strike: 7174.0968  \n     - Stop Loss: 7583  \n     - Current Level: 8452  \n     - Gearing: 84.88%  \n     - Approx. MINI Value: $12.78  \n\n3. **Currency MINIs (Pages 33-34)**  \n   - **FXUKOB (AUD/USD)**  \n     - Type: MINI Long  \n     - Strike: 0.6224  \n     - Stop Loss: 0.6400  \n     - Current Rate: 0.6414  \n     - Gearing: 97.04%  \n\n4. **Commodity MINIs (Pages 35-36)**  \n   - **ZGCKOB (Gold Futures)**  \n     - Type: MINI Long  \n     - Strike: $2395.89/oz  \n     - Stop Loss: $2627.79  \n     - Current Price: $3369.50  \n     - Gearing: 71.11%  \n\n### Important Risks:\n- **Leverage Risk**: High gearing amplifies gains/losses (e.g., 82.37% gearing means 82.37% exposure to underlying movement).  \n- **Stop Loss Trigger**: Automatic exit if Stop Loss level is hit.  \n- **Interest Rates**: Variable rates apply (e.g., 8.45% p.a. for MINI Longs).  \n\n### Conclusion:\nThis is a derivative product catalogue, not a corporate announcement. No corporate actions (e.g., capital raisings, trading halts) are disclosed. Focus on pricing/structure for trading decisions.  \n\n*No material corporate information identified.*",
+  "usage": {
+    "prompt_tokens": 56978,
+    "completion_tokens": 645,
+    "total_tokens": 57623,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-23T07:03:17.665632"
+}
