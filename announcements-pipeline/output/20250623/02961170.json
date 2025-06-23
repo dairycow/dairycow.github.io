@@ -1,0 +1,19 @@
+{
+  "ticker": "HTA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961170",
+  "id": "02961170",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250623",
+  "time": "1846",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0vcrhnpm9r9.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or a summary of its contents (e.g., document type, headline, key details), and I will extract **only** the material information in the concise format outlined.  \n\n**Example Outputs**:  \n\n1. **Trading Halt Request**:  \n   - Reason: Pending announcement of a capital raising.  \n\n2. **Capital Raising Announcement**:  \n   - Structure: $50M placement + $10M SPP.  \n   - Key dates: Ex-date 15/10, Record 17/10, Close 30/10.  \n\n3. **Quarterly Report (4C)**:  \n   - Cash balance: $12.5M (quarter-end).  \n   - Highlights: Production up 15% QoQ; costs lowered to $1,200/oz.  \n\n4. **Other Announcement**:  \n   - Major asset sale: $200M divestment of non-core division (completes Q1 2025).  \n   - FY24 guidance upgraded: EBITDA $140M\u2013$150M (prior $120\u2013$130M).  \n\n**If no material info**:  \n   - No material information identified.  \n\nUpload or describe the announcement, and I\u2019ll parse it strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 268,
+    "total_tokens": 491,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-23T09:07:25.363963"
+}
