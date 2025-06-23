@@ -1,5 +1,556 @@
 [
   {
+    "ticker": "WS1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961009",
+    "id": "02961009",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1316",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0fhlspzx34h.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Instrument</strong>: Class A Notes (WS1HA)  </li>\n<li><strong>Interest Rate Announcement</strong>: 4.7425% p.a. for the period <strong>23 June 2025 to 20 July 2025</strong> (inclusive).  </li>\n<li><strong>Record Date</strong>: 17 July 2025  </li>\n<li><strong>Interest Payment Date</strong>: 21 July 2025  </li>\n</ul>\n<p><strong>No other material information identified</strong>.  </p>\n<p><em>(Note: This is a routine interest rate notification for a securitised note. No capital or liquidity impact.)</em></p>",
+    "usage": {
+      "prompt_tokens": 479,
+      "completion_tokens": 119,
+      "total_tokens": 598,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:22:23.570465"
+  },
+  {
+    "ticker": "ARG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961008",
+    "id": "02961008",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1314",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0ff35kn6bwz.pdf",
+    "summary": "<p><strong>Summary of Argo Investments Weekly NTA Announcement (20 June 2025):</strong>  </p>\n<ul>\n<li><strong>Pre-tax NTA per share (unaudited):</strong> $10.32 (13 June), $10.39 (20 June)  </li>\n<li><strong>Share price (Friday close):</strong> $9.02 (13 June), $9.08 (20 June)  </li>\n<li><strong>Key investment highlights disclosed:</strong> Diversified portfolio, no debt, fully-franked dividends, &gt;$7bn AUM  </li>\n</ul>\n<p><em>No material trading/capital markets actions identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 583,
+      "completion_tokens": 115,
+      "total_tokens": 698,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:20.485856"
+  },
+  {
+    "ticker": "AZJ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961007",
+    "id": "02961007",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1303",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0f8rj0dvycc.pdf",
+    "summary": "<h3><strong>Substantial Holder Notice Summary</strong></h3>\n<ul>\n<li><strong>Holder</strong>: Australian Retirement Trust Pty Ltd (5.00% voting power)  </li>\n<li><strong>Date Became Substantial Holder</strong>: 19/06/2025  </li>\n<li><strong>Total Shares Held</strong>: 88,661,796 ordinary shares  </li>\n<li><strong>Recent Activity</strong>: Net buyer over past 4 months (see Annexure A for detailed trades).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (disclosure of ownership threshold crossing only).</p>",
+    "usage": {
+      "prompt_tokens": 3924,
+      "completion_tokens": 102,
+      "total_tokens": 4026,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:25.659191"
+  },
+  {
+    "ticker": "RG8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961006",
+    "id": "02961006",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1256",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0f58qywsrr6.pdf",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 157,213 RG8 ordinary shares cancelled via on-market buy-back.  </li>\n<li><strong>Cessation Date</strong>: 2 June 2025.  </li>\n<li><strong>Buy-back Cost</strong>: AUD 297,324.85 paid.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 149,962,946 RG8 ordinary shares remain outstanding.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1029,
+      "completion_tokens": 86,
+      "total_tokens": 1115,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:38.524359"
+  },
+  {
+    "ticker": "VG1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961005",
+    "id": "02961005",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1253",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0f2dtbp4kpc.pdf",
+    "summary": "<ul>\n<li><strong>Security cessation</strong>: 522,150 VG1 ordinary shares cancelled via on-market buy-back.  </li>\n<li><strong>Date of cessation</strong>: 02/06/2025.  </li>\n<li><strong>Total consideration paid</strong>: AUD 861,459.11.  </li>\n<li><strong>Post-cessation issued capital</strong>: 248,511,023 VG1 ordinary shares remain quoted.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine buy-back with negligible reduction in issued capital).</p>",
+    "usage": {
+      "prompt_tokens": 1033,
+      "completion_tokens": 98,
+      "total_tokens": 1131,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:51.086935"
+  },
+  {
+    "ticker": "AAJ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961004",
+    "id": "02961004",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1240",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dxv4jvnz1c.pdf",
+    "summary": "<h3>Summary of Appendix 3G - Aruma Resources Limited</h3>\n<ul>\n<li><strong>Director Performance Rights Issued</strong>: 8,865,000 unquoted securities issued on 20/06/2025 (no cash consideration).  </li>\n<li><strong>Key Terms</strong>:  </li>\n<li>Milestones and expiry (1 August 2029) tied to Notice of Meeting (15 May 2025).  </li>\n<li>Rank equally with existing securities.  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Ordinary Shares (AAJ): 277,572,714 (quoted).  </li>\n<li>Unquoted Securities: Includes 10.8m Performance Rights (AAJAH), 52.5m Options (AAJAG), 120.9m Options (AAJAN), and 3m Options (AAJAF).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond dilution disclosure.</em></p>",
+    "usage": {
+      "prompt_tokens": 1680,
+      "completion_tokens": 183,
+      "total_tokens": 1863,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:08.964791"
+  },
+  {
+    "ticker": "CIW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961003",
+    "id": "02961003",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1239",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dvd4806src.pdf",
+    "summary": "<ul>\n<li><strong>Securities Cessation</strong>: 350,000 CIW ordinary fully paid shares ceased due to employee share scheme buy-back.  </li>\n<li><strong>Cessation Date</strong>: 16/06/2025.  </li>\n<li><strong>Consideration Paid</strong>: AUD 198,800.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 75,708,491 CIW ordinary shares remain on issue.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1011,
+      "completion_tokens": 90,
+      "total_tokens": 1101,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:41.160132"
+  },
+  {
+    "ticker": "MA1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961002",
+    "id": "02961002",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1236",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0drqnwpm1tq.pdf",
+    "summary": "<p><strong>Key Points:</strong><br />\n- <strong>NTA Update:</strong> Unaudited Net Tangible Asset Backing (NTA) per unit of MA Credit Income Trust (ASX: MA1) as of 20 June 2025: <strong>$2.0102</strong>.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 440,
+      "completion_tokens": 63,
+      "total_tokens": 503,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:04.979387"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960996",
+    "id": "02960996",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dc941gbz70.pdf",
+    "summary": "<h3><strong>Capital Raising Announcement Summary (MAP)</strong></h3>\n<ul>\n<li><strong>Type</strong>: Placement (Tranche 1 of 2)  </li>\n<li><strong>Total Shares Issued</strong>: 67,177,796 ordinary shares (Existing class)  </li>\n<li><strong>Issue Price</strong>: AUD $0.09 per share  </li>\n<li><strong>Proposed Issue Date</strong>: 27 June 2025  </li>\n<li><strong>Use of Proceeds</strong>: Fund MetaXplore &amp; MetaPanel commercialization (AU/UK expansion, R&amp;D, working capital, costs).  </li>\n<li><strong>Attaching Options</strong>: 1 option per 2 new shares (subject to shareholder approval via prospectus).  </li>\n<li><strong>Total Placement Size</strong>: AUD $12.5 million (across Tranche 1 &amp; 2).  </li>\n<li><strong>Lead Managers</strong>: Canaccord Genuity &amp; Morgans (3% management + 3% selling fee).  </li>\n<li><strong>Cleansing Notice</strong>: Lodged for Tranche 1 shares; no voluntary escrow.  </li>\n</ul>\n<p><em>No shareholder approval required for Tranche 1 (utilizes 15% placement capacity).</em></p>",
+    "usage": {
+      "prompt_tokens": 1815,
+      "completion_tokens": 220,
+      "total_tokens": 2035,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:46.493615"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961001",
+    "id": "02961001",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dpmytln1my.pdf",
+    "summary": "<ul>\n<li><strong>Reinstatement to Quotation</strong>: Trading suspension of Microba Life Sciences (MAP) lifted immediately post-release of capital raising announcement.  </li>\n</ul>\n<p><em>No additional material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 335,
+      "completion_tokens": 37,
+      "total_tokens": 372,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:22:25.436515"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960995",
+    "id": "02960995",
+    "pages": 11,
+    "price_sensitive": true,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0d96f2gnxxg.pdf",
+    "summary": "<h3><strong>Capital Raising Summary (Microba Life Sciences Ltd)</strong></h3>\n<h4><strong>Capital Raise Structure</strong></h4>\n<ul>\n<li><strong>Total Raise</strong>: <strong>A$14.5M</strong>  </li>\n<li><strong>Placement</strong>: A$12.5M (two-tranche, institutional/sophisticated investors) at <strong>A$0.09/share</strong> (21.7% discount to last close).  </li>\n<li><strong>SPP</strong>: A$2M (fully underwritten, max A$30k per eligible shareholder).  </li>\n<li><strong>Attaching Options</strong>: 1 option (exercise price A$0.14, 2-year expiry) per 2 new shares issued (subject to shareholder approval).  </li>\n</ul>\n<h4><strong>Strategic Investor</strong></h4>\n<ul>\n<li><strong>Sonic Healthcare</strong>: Invests <strong>A$4.16M</strong> (part of Placement). Post-placement, voting power increases to <strong>21.68%</strong>.  </li>\n<li>Additional <strong>A$4.16M option</strong> (17-month term) convertible to shares + options (1:4 ratio).  </li>\n</ul>\n<h4><strong>Use of Proceeds</strong></h4>\n<ul>\n<li>Drive clinical adoption of microbiome testing (Australia/UK), sales/marketing expansion, and working capital.  </li>\n</ul>\n<h4><strong>Financial Guidance</strong></h4>\n<ul>\n<li><strong>FY25 Revenue</strong>: Narrowed to <strong>A$15.4M\u2013A$16M</strong> (from A$15.25M\u2013A$16.25M).  </li>\n<li><strong>Breakeven Targets</strong>: Regional (Australia/UK) by <strong>FY26</strong>, group-wide in <strong>~3 years</strong>.  </li>\n</ul>\n<h4><strong>Pro Forma Cash</strong></h4>\n<ul>\n<li><strong>A$26.29M</strong> (as of 31 March 2025, post-raise).  </li>\n</ul>\n<h4><strong>Key Dates</strong></h4>\n<ul>\n<li><strong>SPP Record Date</strong>: 20 June 2025.  </li>\n<li><strong>Tranche 1 Placement Settlement</strong>: 27 June 2025.  </li>\n<li><strong>General Meeting (Approval)</strong>: 8 August 2025.  </li>\n<li><strong>Tranche 2 Placement/SPP Allotment</strong>: 13 August 2025.  </li>\n</ul>\n<h4><strong>Other Material Update</strong></h4>\n<ul>\n<li>Signed <strong>exclusive UK lab agreement</strong> with Sonic\u2019s subsidiary (The Doctors Laboratory) for microbiome testing services.  </li>\n</ul>\n<hr />\n<p><em>Summary excludes non-material operational/legal details. Focus: Capital structure, liquidity, and valuation impacts.</em></p>",
+    "usage": {
+      "prompt_tokens": 10396,
+      "completion_tokens": 481,
+      "total_tokens": 10877,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:57.096903"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960999",
+    "id": "02960999",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dkhmfkk60n.pdf",
+    "summary": "<h3><strong>Summary of ASX Announcement \u2013 MAP (Microba Life Sciences Limited)</strong></h3>\n<p><strong>Announcement Type:</strong> <em>Proposed Issue of Securities (Options)</em>  </p>\n<ul>\n<li><strong>Security Type:</strong> Options (New class)  </li>\n<li><strong>Underlying Security:</strong> MAP Ordinary Shares  </li>\n<li><strong>Options to be Issued:</strong> 46,222,222  </li>\n<li><strong>Exercise Price:</strong> AUD 0.090 per share  </li>\n<li><strong>Expiry Date:</strong> 13-Jan-2027  </li>\n<li><strong>Issue Date (Proposed):</strong> 13-Aug-2025  </li>\n<li><strong>Attaching Options:</strong>  </li>\n<li><strong>Ratio:</strong> 1 attaching option per 4 shares issued (max ~11.56M options).  </li>\n<li><strong>Terms:</strong> Exercise price AUD 0.108, expiry 36 months post-issue.  </li>\n<li><strong>Conditions:</strong>  </li>\n<li>Shareholder approval required (meeting scheduled for 8-Aug-2025).  </li>\n<li><strong>Purpose of Issue:</strong> Fund commercialization of MetaXplore/MetaPanel (R&amp;D, sales/marketing in AU/UK, working capital).  </li>\n<li><strong>Key Risks/Omissions:</strong> No underwriting, lead manager, or escrow. No change to dividend policy.  </li>\n</ul>\n<p><em>Note: Zero cash consideration (options issued as part of strategic agreement with Sonic Healthcare).</em>  </p>\n<p><strong>Trading Implication:</strong> Dilution risk (~46.2M shares if fully exercised, plus ~11.6M attaching options). Monitor shareholder vote outcome (8-Aug-2025).</p>",
+    "usage": {
+      "prompt_tokens": 1860,
+      "completion_tokens": 307,
+      "total_tokens": 2167,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:15.985733"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961000",
+    "id": "02961000",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dmksvg9k4g.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Structure</strong>: Securities Purchase Plan (SPP) with attached options (1 free option per 2 shares issued).  </li>\n<li><strong>Total Capital Proposed</strong>:  </li>\n<li><strong>Ordinary Shares (MAP)</strong>: 22,222,223 shares at <strong>AUD 0.09/share</strong> (max <strong>~AUD 2.0M</strong>).  </li>\n<li><strong>Options</strong>: 11,111,111 options (expiry <strong>13-Aug-2027</strong>, exercise price <strong>AUD 0.14</strong>).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Record Date</strong>: 20-Jun-2025.  </li>\n<li><strong>Offer Open/Close</strong>: 27-Jun-2025 to 06-Aug-2025.  </li>\n<li><strong>Issue Date</strong>: 13-Aug-2025.  </li>\n<li><strong>Conditions</strong>: Shareholder approval required (estimated determination by 08-Aug-2025).  </li>\n<li><strong>Use of Proceeds</strong>: Commercialization of MetaXplore/MetaPanel (R&amp;D, sales/marketing in AU/UK, working capital).  </li>\n<li><strong>Underwriting</strong>: 100% underwritten by Canaccord Genuity and Morgans (max AUD 2M; 6% fee).  </li>\n<li><strong>Scale-Back</strong>: Pro-rata if oversubscribed (based on shareholding at record date).  </li>\n<li><strong>Eligibility</strong>: Excludes holders outside Australia/NZ (e.g., US).  </li>\n</ul>\n<p><strong>Material Impact</strong>:<br />\n- Dilution (new shares + options), discounted pricing (9c vs current share price), and potential underwriting termination risks (e.g., 10% market drop, material adverse change).</p>",
+    "usage": {
+      "prompt_tokens": 3383,
+      "completion_tokens": 339,
+      "total_tokens": 3722,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:22:14.829401"
+  },
+  {
+    "ticker": "MAP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960998",
+    "id": "02960998",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1235",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0dhfgfhctnz.pdf",
+    "summary": "<p><strong>Capital Raising Announcement Summary (Placement with Attaching Options):</strong><br />\n- <strong>Structure:</strong> Placement (Tranche 2 of 2 tranches) with attaching options (1:2 ratio).<br />\n- <strong>Total Capital Raised:</strong> AUD 12.5 million (across both tranches; Tranche 2: 71,711,093 shares at AUD 0.09/share).<br />\n- <strong>Attaching Options:</strong> 69,444,444 options (exercise price AUD 0.14, expiry 13-Aug-2027).<br />\n- <strong>Key Dates:</strong><br />\n  - Shareholder approval date: 8-Aug-2025.<br />\n  - Proposed issue date: 13-Aug-2025.<br />\n- <strong>Use of Proceeds:</strong> Product development (MetaXplore/MetaPanel), sales/marketing (AU/UK), working capital, offer costs.<br />\n- <strong>Lead Managers:</strong> Canaccord Genuity and Morgans Corporate (3% management + 3% selling fee).  </p>\n<p><strong>Omitted:</strong> Non-material details (e.g., ISIN codes, escrow terms).</p>",
+    "usage": {
+      "prompt_tokens": 2381,
+      "completion_tokens": 229,
+      "total_tokens": 2610,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:05.064915"
+  },
+  {
+    "ticker": "MEC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960994",
+    "id": "02960994",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1231",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0d6f5srq579.pdf",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 643,934 ordinary fully paid shares (ASX: MEC) cancelled via on-market buy-back.  </li>\n<li><strong>Date of Cessation</strong>: 23 June 2025.  </li>\n<li><strong>Buy-back Consideration</strong>: AUD 677,461.21.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 33,743,908 ordinary shares remain outstanding.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1017,
+      "completion_tokens": 92,
+      "total_tokens": 1109,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:23:06.816778"
+  },
+  {
+    "ticker": "PCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960993",
+    "id": "02960993",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1219",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0d1sxd0frvg.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Update (20/06/2025):</strong> Net Tangible Asset (NTA) per unit = <strong>$1.099</strong> (unaudited, approximate).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 668,
+      "completion_tokens": 47,
+      "total_tokens": 715,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:33.107784"
+  },
+  {
+    "ticker": "VML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960992",
+    "id": "02960992",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1218",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0czlyx1gsvt.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Unlisted Options issuance (not a standard placement/SPP/entitlement offer)  </li>\n<li><strong>Number of Securities</strong>: 44,000,000 unlisted options (expiring 30 Dec 2026, exercise price AUD 0.001)  </li>\n<li><strong>Purpose</strong>: Interest payment on a $300k unsecured loan facility  </li>\n<li><strong>Issue Date</strong>: 30 June 2025  </li>\n<li><strong>Approval</strong>: Issued under 15% placement capacity (no shareholder approval required)  </li>\n<li><strong>Quotation</strong>: No ASX listing sought for options  </li>\n</ul>\n<p><em>(Note: No material impact on equity dilution given low exercise price and small loan size.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1766,
+      "completion_tokens": 140,
+      "total_tokens": 1906,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:25.268654"
+  },
+  {
+    "ticker": "JPM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960989",
+    "id": "02960989",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1214",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0crhghcy83g.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a fund profile document with no immediate trading or capital markets impact. It contains standard fund details but lacks material updates on NAV, capital movements, or liquidity events.)</em></p>",
+    "usage": {
+      "prompt_tokens": 607,
+      "completion_tokens": 43,
+      "total_tokens": 650,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:44.760487"
+  },
+  {
+    "ticker": "JPM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960988",
+    "id": "02960988",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1214",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cpdrs65s7y.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: This is a fund profile, not a trading or capital markets announcement. It contains general product details but no immediate market-moving or actionable information.)</em></p>",
+    "usage": {
+      "prompt_tokens": 543,
+      "completion_tokens": 40,
+      "total_tokens": 583,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:37.307020"
+  },
+  {
+    "ticker": "ABG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960990",
+    "id": "02960990",
+    "pages": 4,
+    "price_sensitive": true,
+    "date": "20250623",
+    "time": "1214",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0ctmsjjsf71.pdf",
+    "summary": "<h3>Summary (Dividend Announcement):</h3>\n<ul>\n<li><strong>Dividend Amount</strong>: AUD 0.0425 per ordinary stapled security (50% franked).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-date: 30/6/2025  </li>\n<li>Record date: 1/7/2025  </li>\n<li>Payment date: 29/8/2025  </li>\n<li><strong>Franking</strong>: 50% at 30% tax rate (franked amount: AUD 0.02125).  </li>\n<li><strong>DRP</strong>: Dividend Reinvestment Plan available (but not applicable to this distribution).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 1288,
+      "completion_tokens": 133,
+      "total_tokens": 1421,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:23:04.087079"
+  },
+  {
+    "ticker": "JPM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960991",
+    "id": "02960991",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1214",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cwpypjfzn4.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>[Note: Fund profiles typically provide standard product details but do not contain actionable trading or capital markets information. No updates impacting valuation, liquidity, or capital structure are present.]</em></p>",
+    "usage": {
+      "prompt_tokens": 575,
+      "completion_tokens": 43,
+      "total_tokens": 618,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:42.927334"
+  },
+  {
+    "ticker": "JPM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960987",
+    "id": "02960987",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1213",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cm5r7dm526.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a fund profile disclosure, not a trading or capital markets announcement. It contains operational details about the fund but nothing material for immediate equity/decision-making purposes.)</p>",
+    "usage": {
+      "prompt_tokens": 583,
+      "completion_tokens": 43,
+      "total_tokens": 626,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:36.941676"
+  },
+  {
+    "ticker": "RON",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960986",
+    "id": "02960986",
+    "pages": 13,
+    "price_sensitive": true,
+    "date": "20250623",
+    "time": "1210",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cjn2601x02.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>1. San Juan Project Update</strong></h4>\n<ul>\n<li>Mineral exploration licenses expected to be granted <strong>on or before 29 August 2025</strong>.  </li>\n<li>Post-grant, planned exploration includes geochemical sampling, geological mapping, and geophysical surveys.  </li>\n</ul>\n<h4><strong>2. Vetas Project Status</strong></h4>\n<ul>\n<li>Maiden drilling campaign delayed due to <strong>socio-political instability</strong> in Colombia since 2022.  </li>\n<li>Mining obligations <strong>suspended until August 2025</strong> (request pending ANM approval).  </li>\n<li>Company retains legal ownership and access rights but cannot operate safely yet.  </li>\n</ul>\n<h4><strong>3. Recent Project Disposals</strong></h4>\n<ul>\n<li><strong>Santa Rosa Gold Project</strong> relinquished (Nov 2023) after assays showed <strong>low gold prospectivity</strong> ($37k spent).  </li>\n<li><strong>Northern section of Hornby Lake Lithium Project</strong> relinquished (Feb 2024) due to <strong>no economic lithium mineralisation</strong>; renewal application pending for remaining claims.  </li>\n</ul>\n<h4><strong>4. Capital &amp; Expenditure</strong></h4>\n<ul>\n<li><strong>Total exploration spend (2 years): $418k</strong> vs. IPO commitment of $2.93M (12.4% spent).  </li>\n<li><strong>November 2024 capital raising</strong>: $461,500 (before costs) for San Juan exploration.  </li>\n<li><strong>Cash balance (March 2025): $3.39M</strong>.  </li>\n</ul>\n<h4><strong>5. ASX Compliance Risks</strong></h4>\n<ul>\n<li>ASX queries adequacy of operations for continued listing (Listing Rule 12.1).  </li>\n<li>Company asserts sufficient structure but acknowledges exploration delays.  </li>\n</ul>\n<h4><strong>6. Key Upcoming Catalyst</strong></h4>\n<ul>\n<li><strong>San Juan license grant by 29 Aug 2025</strong> \u2013 critical for exploration commencement.  </li>\n</ul>\n<p><strong>Conclusion</strong>: Operational execution hinges on San Juan license approval and Colombia stability. Low exploration spend vs. IPO commitments remains a compliance concern.  </p>\n<p><em>No material information omitted; prioritizes trading/capital impact.</em></p>",
+    "usage": {
+      "prompt_tokens": 9217,
+      "completion_tokens": 396,
+      "total_tokens": 9613,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:30.423752"
+  },
+  {
+    "ticker": "TGF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960985",
+    "id": "02960985",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1203",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cf3480691v.pdf",
+    "summary": "<ul>\n<li><strong>Estimated NTA Backing Per Share (20 June 2025):</strong>  </li>\n<li>Pre-tax: <strong>$2.06</strong>  </li>\n<li>Post-tax: <strong>$2.13</strong>  </li>\n</ul>\n<p><em>(Note: Estimates are indicative, exclude private credit/unlisted assets, and final figures will be released in the Monthly NTA Statement.)</em>  </p>\n<p><strong>No material trading or capital markets triggers identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 880,
+      "completion_tokens": 82,
+      "total_tokens": 962,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:19.612180"
+  },
+  {
+    "ticker": "ARN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960984",
+    "id": "02960984",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1203",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0cby8n1vcjx.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: This is an initial director's interest notice disclosing no current securities holdings or relevant interests\u2014routine compliance filing with no impact on trading or capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 725,
+      "completion_tokens": 42,
+      "total_tokens": 767,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:20:35.072127"
+  },
+  {
+    "ticker": "OB1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960983",
+    "id": "02960983",
+    "pages": 7,
+    "price_sensitive": true,
+    "date": "20250623",
+    "time": "1201",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0c8gqw449jg.pdf",
+    "summary": "<p><strong>Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Extended Drilling Program:</strong>  </li>\n<li>Targeting Majestic North Gold Project (39,700 oz at 1.61 g/t Au) near Kalgoorlie, WA.  </li>\n<li>\n<p>Two-stage plan:  </p>\n<ol>\n<li><strong>Stage 1:</strong> 3,000m aircore drilling (July 2025) to confirm current resource.  </li>\n<li><strong>Stage 2:</strong> Testing strike/down-dip extensions and untested exploration targets.  </li>\n</ol>\n</li>\n<li>\n<p><strong>Capital Raising:</strong>  </p>\n</li>\n<li><strong>Placement:</strong> Additional AUD $0.205m raised at AUD $0.001/share (205M new shares issued).  </li>\n<li>Funds allocated to drilling and working capital.  </li>\n<li>Settlement: ~25 June 2025 (via ASX Listing Rules 7.1/7.1A).  </li>\n</ul>\n<p><strong>Key Implications:</strong><br />\n- Potential resource expansion (open strike/depth targets).<br />\n- Near-term mining feasibility study likely post-drilling.  </p>\n<p><em>Omitted:</em> Operational details, director commentary, technical disclosures (JORC/competent persons).</p>",
+    "usage": {
+      "prompt_tokens": 2699,
+      "completion_tokens": 227,
+      "total_tokens": 2926,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:19:31.099056"
+  },
+  {
+    "ticker": "GW1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960982",
+    "id": "02960982",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1200",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0c69bc7gf5j.pdf",
+    "summary": "<ul>\n<li><strong>Director's Share Acquisition</strong>: Jeffrey Marvin acquired 1,400,000 ordinary shares at $0.03 per share.  </li>\n<li><strong>Post-Transaction Holdings</strong>: 3,656,501 ordinary shares; 500,000 options (exercisable at $0.60 by 30 June 2025); 350,000 options (exercisable at $0.725 by 31 December 2025).  </li>\n<li><strong>Nature of Change</strong>: Share issue via placement (approved by shareholders on 12 June 2025 as per 28 April 2025 announcement).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1062,
+      "completion_tokens": 126,
+      "total_tokens": 1188,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:29.729863"
+  },
+  {
+    "ticker": "GW1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960981",
+    "id": "02960981",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1200",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0c45k7wy4r2.pdf",
+    "summary": "<h3>Summary of Appendix 3Y - Change of Director\u2019s Interest Notice:</h3>\n<ul>\n<li><strong>Director:</strong> James Stuart Brown  </li>\n<li><strong>Transaction Date:</strong> 23 June 2025  </li>\n<li><strong>Shares Acquired:</strong> 1,400,000 ordinary shares at <strong>$0.03 per share</strong> (placement participation)  </li>\n<li><strong>Total Holdings Post-Transaction:</strong>  </li>\n<li><strong>3,051,667 ordinary shares</strong>  </li>\n<li><strong>500,000 options</strong> (exercise price $0.60, expiry 30 June 2025)  </li>\n<li><strong>350,000 options</strong> (exercise price $0.725, expiry 31 December 2025)  </li>\n<li><strong>Nature of Change:</strong> Share issuance via <strong>placement</strong> (approved by shareholders 12 June 2025).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 1061,
+      "completion_tokens": 167,
+      "total_tokens": 1228,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:34.648920"
+  },
+  {
+    "ticker": "GW1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960980",
+    "id": "02960980",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250623",
+    "time": "1159",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0c2172vfjf5.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>: Placement of 15,166,667 ordinary shares.  </li>\n<li><strong>Cleansing Statement Confirmation</strong>: Issued without Part 6D.2 disclosure; compliance with Chapter 2M and s674 of Corporations Act affirmed.  </li>\n</ul>\n<p><em>(No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 600,
+      "completion_tokens": 63,
+      "total_tokens": 663,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-23T03:21:21.900222"
+  },
+  {
     "ticker": "WCM",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960972",
     "id": "02960972",
