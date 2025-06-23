@@ -1,0 +1,19 @@
+{
+  "ticker": "JNS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961262",
+  "id": "02961262",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250624",
+  "time": "0831",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l170c56qxs6l.pdf",
+  "summary": "Understood. Please provide:  \n1. The **ASX announcement PDF** (or text excerpts if PDF unavailable).  \n2. The **announcement type** (if identifiable, e.g., \"Trading Halt,\" \"Capital Raise,\" \"Quarterly\").  \n\nI\u2019ll extract **only material information** per your guidelines, formatted as concise bullet points tailored to the document type.  \n\n*Example Outputs:*  \n\n**Trading Halt:**  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising (Placement + SPP):**  \n- AUD 50M raised (AUD 45M placement, AUD 5M SPP).  \n- Key dates: Ex-date 25/05, Record 28/05, Close 10/06.  \n\n**Quarterly (Appendix 4C):**  \n- Cash balance AUD 12.3M (QoQ -15%).  \n- Revenue AUD 4.1M (+22% YoY).  \n\n**Other:**  \n- Major asset sale: AUD 75M, settlement H2 2024.  \n- Debt restructuring: AUD 100M facility extended to 2026.  \n\nNo material information = \"No material information identified.\"  \n\nProvide the document or details, and I\u2019ll summarize accordingly.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 270,
+    "total_tokens": 498,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-23T22:36:45.084831"
+}
