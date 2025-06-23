@@ -1,0 +1,19 @@
+{
+  "ticker": "RHY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961105",
+  "id": "02961105",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250623",
+  "time": "1635",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0p61zcdbh8w.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will summarize it per your strict guidelines\u2014extracting **only** material information relevant for trading or capital markets decisions in concise bullet points.  \n\nFor example, if you share text like this:  \n\n> *\"XYZ Ltd requests a trading halt pending announcement of a capital raise. The halt is sought until 10th May or release of details.\"*  \n\nMy response will be:  \n- **Trading Halt Request:** Pending capital raise announcement.  \n\nOr for a capital raising:  \n- **Capital Raising Announcement:** Placement + SPP, AUD 50M. Ex-date: 15 May, Close: 30 May.  \n\nReady to analyze\u2014please paste the announcement text.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 158,
+    "total_tokens": 381,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-23T06:42:21.382447"
+}

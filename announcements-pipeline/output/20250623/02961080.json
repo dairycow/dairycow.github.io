@@ -7,13 +7,13 @@
   "date": "20250623",
   "time": "1547",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250623/pdf/06l0m6pp2kmtyk.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information relevant for trading or capital markets decisions in a concise bullet-point format, adhering strictly to the rules outlined.  \n\nIf you don\u2019t have the document but can describe its type and key details (e.g., \"Capital raising announcement: $50M placement, ex-date 15 Oct\"), I can format it accordingly.  \n\nOtherwise, if the document is unclear or lacks material info, I will state: **\"No material information identified.\"**  \n\nGo ahead when ready.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its key text content), and I will generate a concise, material-only summary following your strict formatting rules.  \n\nExample outputs based on common announcement types:  \n\n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Structure: A$50M placement (A$0.30/share) + A$10M SPP.  \n- Dates: Ex-date 15/04, Record 16/04, SPP close 30/04.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: A$12.3M (Q-end).  \n- Revenue: A$8.1M (+22% QoQ).  \n- Key operational highlight: Plant commissioning 80% complete.  \n\n**Other Announcement (Acquisition):**  \n- Acquiring 100% of TargetCo for A$25M (50% scrip, 50% cash).  \n- Implied FY24E EBITDA accretion: +A$4M.  \n\n**No Material Information Identified:**  \n- Announcement contains routine administrative updates only.  \n\n---  \nReady to analyze your document \u2013 share the text or key details.",
   "usage": {
-    "prompt_tokens": 223,
-    "completion_tokens": 120,
-    "total_tokens": 343,
+    "prompt_tokens": 225,
+    "completion_tokens": 272,
+    "total_tokens": 497,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-23T06:01:34.324296"
+  "processed_at": "2025-06-23T06:41:03.281686"
 }
