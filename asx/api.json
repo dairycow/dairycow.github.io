@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "SPR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961527",
+    "id": "02961527",
+    "pages": 9,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1549",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1whqdl38qnt.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Form 605):</strong>  </p>\n<ul>\n<li><strong>Substantial Holder Ceases:</strong> State Street Global Advisors (SSGA) and its subsidiaries ceased to be substantial holders in Spartan Resources Limited (ASX:SPR) on <strong>20/06/2025</strong>.  </li>\n<li><strong>Prior Holding:</strong> Last disclosure dated <strong>18/06/2025</strong> (no % holding or share quantity provided in this notice).  </li>\n<li><strong>Nature of Changes:</strong> Transactions primarily involve collateral transfers and stock borrows (no net change details disclosed).  </li>\n</ul>\n<p><strong>No material trading/Capital Markets impact identified</strong> (routine disclosure of institutional ownership cessation).</p>",
+    "usage": {
+      "prompt_tokens": 10047,
+      "completion_tokens": 132,
+      "total_tokens": 10179,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:01:30.169835"
+  },
+  {
+    "ticker": "SSM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961526",
+    "id": "02961526",
+    "pages": 46,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1547",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1wf32bn6f5z.pdf",
+    "summary": "<p>Based on the Form 603 Notice of Initial Substantial Holder, here are the material details:</p>\n<h3>Key Information:</h3>\n<ul>\n<li><strong>Substantial Holder</strong>: State Street Bank and Trust Company (and related entities including SSGA Funds Management, State Street Global Advisors entities).</li>\n<li><strong>Date Became Substantial Holder</strong>: 20/06/2025.</li>\n<li><strong>Holding Details</strong>:</li>\n<li><strong>Total Voting Power</strong>: 5.11% (31,447,283 ordinary shares).</li>\n<li><strong>Relevant Interests</strong>: Includes power to control voting/disposal rights as investment manager/trustee and collateral securities under lending agreements.</li>\n<li><strong>Recent Transactions</strong>:</li>\n<li>Extensive buying/selling activity (detailed in Annexure A) but no single material transaction stands out.</li>\n<li><strong>Nature of Interest</strong>:</li>\n<li>Primarily held through investment management roles and securities lending arrangements (collateral rights).</li>\n</ul>\n<h3>Additional Notes:</h3>\n<ul>\n<li>No capital raising or corporate action announced; this is a disclosure of substantial holdings.</li>\n<li>The disclosure reflects institutional ownership changes, not operational/financial developments.</li>\n</ul>\n<h3>Summary:</h3>\n<ul>\n<li>State Street Bank and related entities hold a 5.11% stake in Service Stream Limited as of 20/06/2025, primarily via investment mandates and securities lending.  </li>\n<li><strong>No material trading catalysts identified</strong>; this is a routine ownership disclosure.  </li>\n</ul>\n<p><em>Formatting note: Omitted granular transaction details (Annexure A) as they are routine for institutional holdings and lack immediate trading relevance.</em></p>",
+    "usage": {
+      "prompt_tokens": 67590,
+      "completion_tokens": 304,
+      "total_tokens": 67894,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T05:59:21.583740"
+  },
+  {
+    "ticker": "BPT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961524",
+    "id": "02961524",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1542",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1w80l57lfjr.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: State Street Group ceased to be a substantial holder in Beach Energy Limited (ASX: BPT) on <strong>20-Jun-2025</strong>.  </li>\n<li><strong>Key Changes in Holdings</strong>: Net reduction of <strong>~7.8 million shares</strong> (aggregating Annexure A transactions, including offsets).  </li>\n<li><strong>Reason for Change</strong>: Securities lending/borrowing activity via State Street Bank and Trust Company (standard institutional operations, no forced selling).  </li>\n<li><strong>Voting Rights</strong>: No immediate impact; collateralized shares retain contingent voting rights (only enforceable on default).  </li>\n</ul>\n<p><em>No material capital markets impact identified (routine institutional adjustment).</em></p>",
+    "usage": {
+      "prompt_tokens": 4895,
+      "completion_tokens": 134,
+      "total_tokens": 5029,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:00:45.701233"
+  },
+  {
     "ticker": "ASB",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961522",
     "id": "02961522",
@@ -8,15 +65,15 @@
     "date": "20250624",
     "time": "1539",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1w3cqm65h1b.pdf",
-    "summary": "<h3><strong>Material Information Summary (Form 603 - Initial Substantial Holder Disclosure)</strong></h3>\n<h4><strong>1. Substantial Holder Details</strong></h4>\n<ul>\n<li><strong>Entity Name:</strong> State Street Corporation and subsidiaries (State Street Bank and Trust Company, SSGA Funds Management, Inc., State Street Global Advisors entities)  </li>\n<li><strong>Date Became Substantial Holder:</strong> <strong>20/06/2025</strong>  </li>\n<li><strong>Total Voting Power:</strong> <strong>21,153,718 Ordinary shares (5.02%)</strong>  </li>\n</ul>\n<h4><strong>2. Relevant Interests</strong></h4>\n<ul>\n<li><strong>Breakdown of Holdings:</strong>  </li>\n<li><strong>Direct/Control:</strong> 189,093 Ordinary shares  </li>\n<li><strong>Securities Lending/Collateral Arrangements:</strong> 14,328,871 Ordinary shares  </li>\n<li><strong>Registered Holders Include:</strong> State Street Bank and Trust Co, Citibank NA, Northern Trust, UBS Securities Australia, etc.  </li>\n</ul>\n<h4><strong>3. Key Transactions (Annexure A Highlights)</strong></h4>\n<ul>\n<li><strong>Recent Acquisitions:</strong> Multiple transactions dated <strong>20/02/2025 to 20/06/2025</strong>, including:  </li>\n<li><strong>236,912 Ordinary shares</strong> acquired on <strong>07/03/2025</strong>  </li>\n<li><strong>300,000 Ordinary shares</strong> acquired on <strong>18/03/2025</strong>  </li>\n<li><strong>3,300,000 Ordinary shares</strong> acquired on <strong>18/06/2025</strong>  </li>\n</ul>\n<h4><strong>4. Nature of Relevant Interests</strong></h4>\n<ul>\n<li>Interests arise via:  </li>\n<li><strong>Investment management/trustee authority</strong> (power to vote/dispose).  </li>\n<li><strong>Securities lending agreements</strong> (State Street Bank acts as lender/borrower).  </li>\n<li><strong>Collateral rights</strong> (pledge arrangements under Global Master Securities Lending Agreements).  </li>\n</ul>\n<h4><strong>5. Voting Power Impact</strong></h4>\n<ul>\n<li><strong>Total Voting Power:</strong> <strong>5.02%</strong> (unchanged at disclosure date).  </li>\n</ul>\n<h3><strong>Actionable Insights for Traders/Capital Markets</strong></h3>\n<ol>\n<li><strong>Monitoring Required:</strong> Significant holdings via securities lending may imply liquidity risks if recalled.  </li>\n<li><strong>Price Sensitivity:</strong> Large block acquisitions (e.g., 3.3M shares on 18/06/2025) could influence near-term trading.  </li>\n<li><strong>Regulatory Follow-Up:</strong> ASIC may request copies of securities lending agreements (referenced in Annexures B/C).  </li>\n</ol>\n<p><strong>Conclusion:</strong> No immediate capital structure impact, but substantial holder\u2019s lending activities warrant surveillance for potential voting/market liquidity changes.  </p>\n<hr />\n<p><strong>Rules Applied:</strong><br />\n- Excluded repetitive transaction details (summarized instead).<br />\n- Focused on % ownership, voting power, and material transactions.<br />\n- Omitted legal boilerplate and non-material holdings.</p>",
+    "summary": "<p>Here is the extracted material information from the ASX Form 603 (Notice of Initial Substantial Holder) in concise bullet points:</p>\n<p><strong>Substantial Holding Disclosure</strong><br />\n- <strong>Holder:</strong> State Street Corporation and subsidiaries (including State Street Bank and Trust Company, SSGA Funds Management, Inc., and other subsidiaries)<br />\n- <strong>Date became substantial holder:</strong> 20/06/2025<br />\n- <strong>Total voting power:</strong> 5.02% (21,153,718 ordinary shares)  </p>\n<p><strong>Key Details:</strong><br />\n- <strong>Relevant interests:</strong> Includes holdings via investment management mandates, securities lending agreements, and collateral arrangements<br />\n- <strong>Associates:</strong> Subsidiaries of State Street Corporation  </p>\n<p><strong>Material Changes (from Annexures):</strong><br />\n- Multiple securities lending transactions with counterparties (dates and quantities in Annexure A)<br />\n- Voting rights are typically held by the lender unless a default occurs<br />\n- No scheduled return dates for securities loans; early recall/return rights exist  </p>\n<p><strong>No material trading or capital structure impacts identified beyond the disclosure of the substantial holding.</strong>  </p>\n<p>This is a standard substantial holding notice with no immediate trading implications.</p>",
     "usage": {
       "prompt_tokens": 54434,
-      "completion_tokens": 559,
-      "total_tokens": 54993,
+      "completion_tokens": 229,
+      "total_tokens": 54663,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:50:08.468565"
+    "processed_at": "2025-06-24T06:00:13.417412"
   },
   {
     "ticker": "KKO",
@@ -27,72 +84,15 @@
     "date": "20250624",
     "time": "1536",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1w0p2kzjl43.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising (Placement)</strong>:  </li>\n<li><strong>Securities issued</strong>: 47,325,000 ordinary shares (KKO)  </li>\n<li><strong>Issue price</strong>: AUD 0.04 per share  </li>\n<li><strong>Issue date</strong>: 24/06/2025  </li>\n<li>\n<p><strong>Total funds raised</strong>: AUD 1,893,000 (47,325,000 \u00d7 AUD 0.04)  </p>\n</li>\n<li>\n<p><strong>Upcoming Tranche</strong>:  </p>\n</li>\n<li>\n<p><strong>Tranche 2</strong>: 7,750,000 shares + 7,750,000 options, subject to shareholder approval (GM date TBA).  </p>\n</li>\n<li>\n<p><strong>Post-issuance capital structure</strong>:  </p>\n</li>\n<li><strong>Total ordinary shares on issue</strong>: 1,479,910,103 (KKO)  </li>\n<li><strong>Unquoted securities</strong>: Options/rights totaling 50,750,000 across multiple series.  </li>\n</ul>\n<p>Omitted: Distribution schedule (empty), boilerplate.</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Details</strong>:  </li>\n<li><strong>Structure</strong>: Placement (Part 1 of 2-tranche fundraising).  </li>\n<li><strong>Securities Issued</strong>: 47,325,000 new ordinary shares (ASX: KKO).  </li>\n<li><strong>Issue Price</strong>: AUD 0.04 per share.  </li>\n<li>\n<p><strong>Issue Date</strong>: 24 June 2025.  </p>\n</li>\n<li>\n<p><strong>Pending Tranche</strong>:  </p>\n</li>\n<li><strong>Details</strong>: Tranche 2 includes 7,750,000 shares and 7,750,000 options, subject to shareholder approval (ASX Listing Rule 10.11).  </li>\n<li>\n<p><strong>Next Steps</strong>: General meeting date to be advised.  </p>\n</li>\n<li>\n<p><strong>Post-Issue Capital Structure</strong>:  </p>\n</li>\n<li><strong>Total Ordinary Shares on Issue</strong>: 1,479,910,103 (quoted).  </li>\n<li>\n<p><strong>Unquoted Securities</strong>: Options and performance rights (details in announcement).  </p>\n</li>\n<li>\n<p><strong>Material Impact</strong>: Dilution from new issuance (~3.2% of pre-placement shares) at a 33% discount to last close (assuming AUD 0.06 prior price).  </p>\n</li>\n</ul>\n<p><em>Omitted: Legal boilerplate, distribution schedule (empty), and expired options.</em></p>",
     "usage": {
-      "prompt_tokens": 1540,
-      "completion_tokens": 199,
-      "total_tokens": 1739,
+      "prompt_tokens": 1538,
+      "completion_tokens": 251,
+      "total_tokens": 1789,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:52:13.302218"
-  },
-  {
-    "ticker": "SEC",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961520",
-    "id": "02961520",
-    "pages": 1,
-    "price_sensitive": false,
-    "date": "20250624",
-    "time": "1522",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vvkqcqzn0p.pdf",
-    "summary": "<ul>\n<li><strong>Pre-tax NTA per share (unaudited): AUD $2.389</strong>  </li>\n<li><strong>Post-tax NTA per share (unaudited): AUD $2.357</strong>  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
-    "usage": {
-      "prompt_tokens": 484,
-      "completion_tokens": 48,
-      "total_tokens": 532,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:43:10.459962"
-  },
-  {
-    "ticker": "PLS",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961519",
-    "id": "02961519",
-    "pages": 18,
-    "price_sensitive": false,
-    "date": "20250624",
-    "time": "1521",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vsb5d5jt1t.pdf",
-    "summary": "<h3>Material Information Summary (ASX:PLS Presentation)</h3>\n<p><strong>Strategic &amp; Financial Highlights:</strong><br />\n- <strong>Cash balance:</strong> $1.1B (as at 31 March 2025) + $625M undrawn credit facility.<br />\n- <strong>Operational milestones:</strong> Completed P680/P1000 expansions at Pilgangoora (~33-year mine life); drilling increased contained lithium by 23%.<br />\n- <strong>Diversification:</strong> Acquired Colina Project (Brazil) via Latin Resources acquisition; POSCO JV (18% stake, 43ktpa lithium hydroxide plant) ramping up with demand exceeding capacity.<br />\n- <strong>Resource upgrade:</strong> Pilgangoora Mineral Resource now 446Mt @ 1.28% Li2O (vs. 414Mt @ 1.15% in 2023).  </p>\n<p><strong>Market Context:</strong><br />\n- Lithium pricing near cyclical lows, but long-term demand CAGR of +15% p.a. (EV/BESS growth).<br />\n- Industry challenges: Volatility, ex-China supply chain bottlenecks, capital discipline.  </p>\n<p><strong>No material capital raising, trading halt, or financial results disclosed.</strong>  </p>\n<p><em>Note: Presentation is investor-facing; no new material trading or corporate action triggers identified.</em></p>",
-    "usage": {
-      "prompt_tokens": 7131,
-      "completion_tokens": 252,
-      "total_tokens": 7383,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:43:07.878361"
-  },
-  {
-    "ticker": "LDR",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961518",
-    "id": "02961518",
-    "pages": 2,
-    "price_sensitive": false,
-    "date": "20250624",
-    "time": "1516",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vpbg377f7r.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: SG Hiscock &amp; Company Limited increased its voting power in Lode Resources Limited from <strong>6.18% to 7.44%</strong> (12,000,000 shares).  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>BUY</strong> 10,000 shares ($29,118) on 06/05/25.  </li>\n<li><strong>BUY</strong> 600,000 shares ($116,175) on 11/06/25.  </li>\n<li><strong>BUY</strong> 382,226 shares ($70,714) on 17/06/25.  </li>\n<li><strong>Custodian Details</strong>: HSBC Custody Nominees holds the shares on behalf of SG Hiscock.  </li>\n</ul>\n<p><em>Prioritizes material ownership changes and transactions affecting liquidity/control.</em></p>",
-    "usage": {
-      "prompt_tokens": 1633,
-      "completion_tokens": 167,
-      "total_tokens": 1800,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:42:00.509087"
+    "processed_at": "2025-06-24T06:03:30.204697"
   },
   {
     "ticker": "KRM",
@@ -103,72 +103,72 @@
     "date": "20250624",
     "time": "1512",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vlfzfbz3q0.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: Appendix 3Z filings disclose routine director interest changes but rarely contain material trading or capital markets information. This notice solely reports a director\u2019s cessation and existing holdings, with no impact on liquidity, capital structure, or valuation.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a routine director's interest notice disclosing personal holdings upon cessation of directorship, with no impact on trading, capital structure, or valuation.)</em></p>",
     "usage": {
-      "prompt_tokens": 783,
-      "completion_tokens": 57,
-      "total_tokens": 840,
+      "prompt_tokens": 785,
+      "completion_tokens": 39,
+      "total_tokens": 824,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:51:20.907206"
+    "processed_at": "2025-06-24T06:01:55.293030"
   },
   {
-    "ticker": "WAF",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961513",
-    "id": "02961513",
-    "pages": 3,
+    "ticker": "GMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961516",
+    "id": "02961516",
+    "pages": 4,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1512",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vj9nppdg2g.pdf",
+    "summary": "<ul>\n<li><strong>Dividend Announcement (Appendix 3A.1)</strong>  </li>\n<li><strong>Security</strong>: GMG (Fully Paid Ordinary/Units Stapled Securities)  </li>\n<li><strong>Distribution Amount</strong>: AUD 0.15 per security (unfranked)  </li>\n<li><strong>Ex-Date</strong>: 27/6/2025  </li>\n<li><strong>Record Date</strong>: 30/6/2025  </li>\n<li><strong>Payment Date</strong>: 26/8/2025  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1294,
+      "completion_tokens": 105,
+      "total_tokens": 1399,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:01:14.935223"
+  },
+  {
+    "ticker": "MBL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961515",
+    "id": "02961515",
+    "pages": 5,
     "price_sensitive": false,
     "date": "20250624",
-    "time": "1459",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1v7gb8wwb17.pdf",
-    "summary": "<ul>\n<li><strong>Type</strong>: Change of Director\u2019s Interest Notice  </li>\n<li><strong>Director</strong>: Stewart Findlay  </li>\n<li><strong>Change</strong>: Indirect acquisition of <strong>37,310 ordinary shares (WAF)</strong> via exercise of performance rights (no cash consideration).  </li>\n<li><strong>Post-change holdings</strong>:  </li>\n<li><strong>156,042 ordinary shares</strong> (WAF) (indirect).  </li>\n<li><strong>26,413 performance rights</strong> (subject to service conditions, expiry 13 Feb 2027).  </li>\n<li><strong>No closed period breach</strong>: Confirmed no trading during restricted period.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest update).</p>",
+    "time": "1504",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vdpky7krlh.pdf",
+    "summary": "<ul>\n<li><strong>Security</strong>: MBLPC (CAP NOTE 3-BBSW+4.70% PERP NON-CUM RED T-12-25)  </li>\n<li><strong>Distribution Amount</strong>: AUD 1.8133 per security  </li>\n<li><strong>Ex Date</strong>: 4/9/2025  </li>\n<li><strong>Record Date</strong>: 5/9/2025  </li>\n<li><strong>Payment Date</strong>: 22/9/2025  </li>\n<li><strong>Franked Portion</strong>: 35% (AUD 0.6347 per security)  </li>\n<li><strong>Unfranked Conduit Foreign Income</strong>: AUD 1.1786 per security  </li>\n<li><strong>Distribution Period</strong>: 23/6/2025 \u2013 21/9/2025 (91 days)  </li>\n<li><strong>Distribution Rate (p.a.)</strong>: 7.273% (BBSW + 4.70% margin, adjusted for franking)  </li>\n</ul>\n<p><em>No material information omitted; all key dates and amounts relevant to holders included.</em></p>",
     "usage": {
-      "prompt_tokens": 1162,
-      "completion_tokens": 130,
-      "total_tokens": 1292,
+      "prompt_tokens": 1754,
+      "completion_tokens": 203,
+      "total_tokens": 1957,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:42:37.399053"
+    "processed_at": "2025-06-24T05:56:31.635553"
   },
   {
-    "ticker": "SOL",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961512",
-    "id": "02961512",
+    "ticker": "AFP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961514",
+    "id": "02961514",
     "pages": 4,
     "price_sensitive": false,
     "date": "20250624",
-    "time": "1459",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1v5c291m749.pdf",
-    "summary": "<ul>\n<li><strong>Type</strong>: Notification of cessation of securities  </li>\n<li><strong>Securities ceased</strong>: 360 unquoted performance rights (SOLAA)  </li>\n<li><strong>Reason</strong>: Lapse due to unmet performance conditions  </li>\n<li><strong>Date of cessation</strong>: 24/06/2025  </li>\n<li><strong>Impact on capital structure</strong>: Immaterial (360 rights vs. total 1,420,595 SOLAA rights outstanding; no consideration paid).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong></p>",
+    "time": "1504",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1vblbd7mn01.pdf",
+    "summary": "<h3><strong>Dividend Announcement Summary (Appendix 3A.1)</strong></h3>\n<ul>\n<li><strong>Dividend Type</strong>: Ordinary (unfranked)  </li>\n<li><strong>Amount per Share</strong>: <strong>NZD 0.018</strong> (AUD ~0.016632)  </li>\n<li><strong>Ex-Date</strong>: <strong>18/6/2025</strong>  </li>\n<li><strong>Record Date</strong>: <strong>19/6/2025</strong>  </li>\n<li><strong>Payment Date</strong>: <strong>4/7/2025</strong>  </li>\n<li><strong>Withholding Tax Rate</strong>: <strong>33%</strong> (applicable to unfranked distribution)  </li>\n<li><strong>Currency</strong>: NZD (AUD equivalent provided)  </li>\n</ul>\n<p>No other material capital structure or market-sensitive details identified.</p>",
     "usage": {
-      "prompt_tokens": 1031,
-      "completion_tokens": 96,
-      "total_tokens": 1127,
+      "prompt_tokens": 1351,
+      "completion_tokens": 143,
+      "total_tokens": 1494,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:46:28.058894"
-  },
-  {
-    "ticker": "CTW",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961511",
-    "id": "02961511",
-    "pages": 1,
-    "price_sensitive": false,
-    "date": "20250624",
-    "time": "1457",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1v2yp376r5b.pdf",
-    "summary": "<ul>\n<li><strong>Record date for SGP CitiFirst Instalment MINIs (SGPJOB &amp; SGPJOC) dividend entitlement:</strong> 30 June 2025 (unfranked AUD 0.172).  </li>\n<li><strong>Ex-dividend date:</strong> 27 June 2025.  </li>\n<li><strong>Expected dividend payment date:</strong> ~29 August 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
-    "usage": {
-      "prompt_tokens": 582,
-      "completion_tokens": 86,
-      "total_tokens": 668,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:51:01.528649"
+    "processed_at": "2025-06-24T06:03:12.498236"
   },
   {
     "ticker": "CTW",
@@ -179,7 +179,7 @@
     "date": "20250624",
     "time": "1455",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1v0j6fgdj1p.pdf",
-    "summary": "<ul>\n<li><strong>Dividend Details</strong>: AUD 0.2438 partially franked dividend declared for CHC CitiFirst Instalment MINIs (CHCJOA &amp; CHCJOC).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-dividend date: 27 June 2025.  </li>\n<li>Record date: 30 June 2025.  </li>\n<li>Payment date: ~31 August 2025.</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Dividend Record Date</strong>: 30 June 2025 (partial franking)  </li>\n<li><strong>Ex-Dividend Date</strong>: 27 June 2025  </li>\n<li><strong>Payment Date</strong>: ~31 August 2025 (aligned with CHC Stapled Security dividend receipt)  </li>\n</ul>\n<p><em>Note: Announcement pertains solely to dividend timing for CHCJOA/CHCJOC MINIs; no capital or liquidity impact.</em></p>",
     "usage": {
       "prompt_tokens": 577,
       "completion_tokens": 88,
@@ -187,26 +187,83 @@
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:44:34.871099"
+    "processed_at": "2025-06-24T05:54:56.308795"
   },
   {
-    "ticker": "MKA",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961503",
-    "id": "02961503",
-    "pages": 2,
-    "price_sensitive": true,
+    "ticker": "KMD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961509",
+    "id": "02961509",
+    "pages": 1,
+    "price_sensitive": false,
     "date": "20250624",
-    "time": "1431",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1td46m34sgc.pdf",
-    "summary": "<h3>Distribution Announcement Summary:</h3>\n<ul>\n<li><strong>Distribution per unit</strong>: 10.10 cents (estimated, subject to change).  </li>\n<li><strong>Key dates</strong>:  </li>\n<li>Ex-distribution date: <strong>01/07/2025</strong>  </li>\n<li>Record date: <strong>02/07/2025</strong>  </li>\n<li>DRP election deadline: <strong>03/07/2025</strong>  </li>\n<li>Payment date: <strong>18/07/2025</strong>.  </li>\n<li><strong>DRP default</strong>: Reinvestment (cash option available if elected by 03/07/2025).  </li>\n<li><strong>Tax status</strong>: Attribution Managed Investment Trust for FY25.  </li>\n</ul>\n<p>Omitted: Legal disclaimers, investor portal instructions, fund background.</p>",
+    "time": "1454",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ty5yrpz4vz.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director/senior manager shareholding disclosure without capital market or trading impact)</em></p>",
     "usage": {
-      "prompt_tokens": 1233,
-      "completion_tokens": 147,
-      "total_tokens": 1380,
+      "prompt_tokens": 679,
+      "completion_tokens": 27,
+      "total_tokens": 706,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:50:52.128289"
+    "processed_at": "2025-06-24T05:55:21.929387"
+  },
+  {
+    "ticker": "WAF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961507",
+    "id": "02961507",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1443",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1tqs3b7vjjd.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Conversion of performance rights to ordinary shares (Appendix 2A).  </li>\n<li><strong>Securities Issued</strong>: 37,310 new ordinary fully paid shares (WAF) from performance rights (WAFAA).  </li>\n<li><strong>Issue Date</strong>: 23 June 2025.  </li>\n<li><strong>Consideration</strong>: Nil (non-cash conversion).  </li>\n<li><strong>Issued Capital Post-Conversion</strong>:  </li>\n<li>Quoted ordinary shares: 1,139,927,509 (WAF).  </li>\n<li>Unquoted performance rights: 10,852,534 (WAFAA).  </li>\n<li><strong>Key Management Involvement</strong>: Stewart Findlay (via Calgus Nominees Pty Ltd) converted 37,310 performance rights.  </li>\n</ul>\n<p><em>Note: No material trading or capital markets impact (minor dilution from conversion).</em></p>",
+    "usage": {
+      "prompt_tokens": 1518,
+      "completion_tokens": 171,
+      "total_tokens": 1689,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T05:57:05.919101"
+  },
+  {
+    "ticker": "EDC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961506",
+    "id": "02961506",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1439",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1tn1gtdds2z.pdf",
+    "summary": "<p><strong>Dividend Announcement Summary (Appendix 3A.1):</strong>  </p>\n<ul>\n<li><strong>Dividend Amount:</strong> AUD 0.024 per share (unfranked)  </li>\n<li><strong>Ex-Date:</strong> 27/6/2025  </li>\n<li><strong>Record Date:</strong> 30/6/2025  </li>\n<li><strong>Payment Date:</strong> 22/7/2025  </li>\n<li><strong>DRP Election Deadline:</strong> 1/7/2025 (17:00 AEST)  </li>\n<li><strong>DRP Details:</strong> Full participation available; no discount, new shares rank pari passu. Default = cash payment.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1655,
+      "completion_tokens": 132,
+      "total_tokens": 1787,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T05:54:13.253679"
+  },
+  {
+    "ticker": "MOG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961505",
+    "id": "02961505",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1432",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1tjbq2v63y6.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement for Montaka Global Long Fund - Active ETF</strong>  </li>\n<li><strong>Ex-distribution Date</strong>: 01/07/2025  </li>\n<li><strong>Record Date</strong>: 02/07/2025  </li>\n<li><strong>DRP Election Deadline</strong>: 03/07/2025  </li>\n<li><strong>Payment Date</strong>: 18/07/2025  </li>\n<li><strong>Estimated Distribution</strong>: 13.09 cents per unit (subject to change).  </li>\n<li><strong>DRP Default</strong>: Reinvestment (cash option available if elected by 03/07/2025).  </li>\n<li><strong>Tax Status</strong>: Attribution Managed Investment Trust for 30 June 2025 income period.  </li>\n</ul>\n<p><em>(No other material information identified for trading or capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1226,
+      "completion_tokens": 157,
+      "total_tokens": 1383,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:00:30.942596"
   },
   {
     "ticker": "BLG",
@@ -217,15 +274,34 @@
     "date": "20250624",
     "time": "1431",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1tg801nc1qc.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 391,793,079 new ordinary fully paid shares (BLG) issued at AUD 0.00975 per share.  </li>\n<li><strong>Capital Raising Type</strong>: Shares issued under a Securities Purchase Plan (SPP) approved at EGM on 13 June 2025 (originally announced 1 May 2025).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total BLG ordinary shares on issue: 2,409,814,348.  </li>\n<li><strong>Additional Notes</strong>: Balance of Shortfall shares pending fund settlement.  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Securities Purchase Plan (SPP)  </li>\n<li><strong>Total Securities Issued</strong>: 391,793,079 ordinary shares (BLG)  </li>\n<li><strong>Issue Price</strong>: AUD $0.00975 per share  </li>\n<li><strong>Issue Date</strong>: 24 June 2025  </li>\n<li><strong>Approval</strong>: Shareholder-approved via EGM (13 June 2025)  </li>\n<li><strong>Outstanding Issuance</strong>: Balance of Shortfall shares pending fund receipt  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Quoted: 2,409,814,348 BLG ordinary shares  </li>\n<li>Unquoted: Performance rights (48,226,939) + Options (4,323,136 across two series)  </li>\n</ul>\n<p><em>No material trading or valuation-impacting operational/financial data identified.</em></p>",
     "usage": {
       "prompt_tokens": 1471,
-      "completion_tokens": 128,
-      "total_tokens": 1599,
+      "completion_tokens": 167,
+      "total_tokens": 1638,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:44:46.372382"
+    "processed_at": "2025-06-24T05:55:09.889984"
+  },
+  {
+    "ticker": "BLG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961502",
+    "id": "02961502",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1426",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1t90r7xhs7r.pdf",
+    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Placement<br />\n- <strong>Shares Issued:</strong> 3,384,616 new fully paid ordinary shares<br />\n- <strong>Issue Price:</strong> AUD $0.013 per share<br />\n- <strong>Total Capital Raised:</strong> AUD ~$43,999 (3,384,616 x $0.013)<br />\n- <strong>Prior Announcement Date:</strong> 1 May 2025  </p>\n<p><em>Note: No further material information (e.g., use of proceeds, timetable) disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 818,
+      "completion_tokens": 104,
+      "total_tokens": 922,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T05:55:16.255943"
   },
   {
     "ticker": "DXB",
@@ -236,15 +312,15 @@
     "date": "20250624",
     "time": "1419",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1t5hbxklzzb.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: New securities issuance (options conversion to ordinary shares)  </li>\n<li><strong>Security Details</strong>:  </li>\n<li><strong>New ordinary shares (DXB) issued</strong>: 4,039,351  </li>\n<li><strong>Issue date</strong>: 24/06/2025  </li>\n<li><strong>Exercise price</strong>: AUD 0.154 per share (options expiring 30-Jun-2025)  </li>\n<li><strong>Post-issuance capital structure</strong>:  </li>\n<li><strong>Total ordinary shares (DXB) on issue</strong>: 596,949,688  </li>\n<li><strong>Remaining options (DXBO)</strong>: 3,330,818  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Exercise of quoted options (DXBO) converting to ordinary shares (DXB)  </li>\n<li><strong>Securities Issued</strong>: 4,039,351 new DXB ordinary shares  </li>\n<li><strong>Issue Price</strong>: AUD 0.154 per share (total ~AUD 622,060)  </li>\n<li><strong>Option Details</strong>: Expired 30 June 2025, per Prospectus terms (ASIC lodgment: 4 May 2023 &amp; 26 June 2023)  </li>\n<li><strong>Post-Exercise Capital Structure</strong>:  </li>\n<li>DXB ordinary shares on issue: 596,949,688  </li>\n<li>Remaining DXBO options: 3,330,818</li>\n</ul>",
     "usage": {
       "prompt_tokens": 1530,
-      "completion_tokens": 139,
-      "total_tokens": 1669,
+      "completion_tokens": 145,
+      "total_tokens": 1675,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:44:09.162553"
+    "processed_at": "2025-06-24T05:54:32.518089"
   },
   {
     "ticker": "BLG",
@@ -255,34 +331,15 @@
     "date": "20250624",
     "time": "1417",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1t30swcrt6p.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 180,845,544 unquoted options issued on 19/06/2025.  </li>\n<li><strong>Option Terms</strong>: Exercise price <strong>AUD 0.013</strong>, expiry <strong>31 May 2026</strong>, convertible into ordinary shares (BLG).  </li>\n<li><strong>Context</strong>: Part of a placement approved at EGM (13/06/2025), as per Appendix 3B (01/05/2025).  </li>\n<li><strong>Post-Issue Capital</strong>: Total ordinary shares on issue: <strong>2,018,021,269</strong>; unquoted securities include performance rights and other options.  </li>\n</ul>\n<p><em>No material trading or valuation impact identified beyond dilution from potential future conversion.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 180,845,544 unquoted options issued on 19/06/2025, exercisable at AUD 0.013 each, expiring 31 May 2026.  </li>\n<li><strong>Purpose</strong>: Placement-attaching options as approved by shareholders (EGM 13/06/2025), part of a capital raising transaction announced 01/05/2025.  </li>\n<li><strong>Outstanding Securities</strong>: Total ordinary shares on issue: 2,018,021,269 (quoted); unquoted securities include newly issued options and other pre-existing instruments.  </li>\n</ul>\n<p><em>No material trading or valuation-impacting information beyond standard issuance disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1919,
-      "completion_tokens": 147,
-      "total_tokens": 2066,
+      "completion_tokens": 140,
+      "total_tokens": 2059,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:46:00.268867"
-  },
-  {
-    "ticker": "EOF",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961499",
-    "id": "02961499",
-    "pages": 2,
-    "price_sensitive": false,
-    "date": "20250624",
-    "time": "1415",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1t0my3tzp9l.pdf",
-    "summary": "<ul>\n<li><strong>Deed of Company Arrangement (DOCA) approved</strong>: Creditors resolved at the Second Meeting (6 June 2025) to execute a DOCA; further updates expected shortly.  </li>\n<li><strong>No recovery for shareholders</strong>: Administrators confirm no anticipated distributions to shareholders (per 30 May 2025 report).  </li>\n<li><strong>Worthless shares declaration</strong>: Administrators declare shares valueless under tax law (Section 104-145), enabling potential capital loss claims for eligible shareholders. Tax advice recommended.  </li>\n</ul>\n<p><em>No material trading or capital markets actions identified; liquidation scenario noted.</em></p>",
-    "usage": {
-      "prompt_tokens": 1082,
-      "completion_tokens": 120,
-      "total_tokens": 1202,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:44:25.459411"
+    "processed_at": "2025-06-24T05:55:43.553008"
   },
   {
     "ticker": "SOC",
@@ -293,15 +350,15 @@
     "date": "20250624",
     "time": "1414",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1sybrxy5ptp.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 1,415,513 unquoted performance rights (SOCAI) lapsed due to unmet conditions.  </li>\n<li><strong>Date of Cessation</strong>: 24/06/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary shares (SOC): 139,355,091 quoted.  </li>\n<li>Remaining unquoted securities:  <ul>\n<li>Performance rights (SOCAI): 3,024,997.  </li>\n<li>Options (SOCAD): 1,200,000 (expiring 18-Nov-2027, exercise $0.20).  </li>\n<li>Options (SOCAC): 3,125,000 (expiring 23-Dec-2026, exercise $0.30).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond dilution adjustment for lapsed rights.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities:</strong>  </li>\n<li><strong>1,415,513 PERFORMANCE RIGHTS (SOCAI)</strong> lapsed due to unmet conditions.  </li>\n<li><strong>Date</strong>: 24/06/2025.  </li>\n<li>\n<p><strong>Impact</strong>: Reduces unquoted performance rights to <strong>3,024,997</strong> (from 4,440,510).  </p>\n</li>\n<li>\n<p><strong>Issued Capital Update (Post-Cessation):</strong>  </p>\n</li>\n<li><strong>Ordinary Shares (SOC)</strong>: <strong>139,355,091</strong> (unchanged).  </li>\n<li><strong>Other Unquoted Securities</strong>:  <ul>\n<li><strong>1,200,000 OPTIONS (SOCAD)</strong> expiring 18-Nov-2027.  </li>\n<li><strong>3,125,000 OPTIONS (SOCAC)</strong> expiring 23-Dec-2026.  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading/capital markets impact identified (non-dilutive lapse of performance rights).</em></p>",
     "usage": {
       "prompt_tokens": 1062,
-      "completion_tokens": 179,
-      "total_tokens": 1241,
+      "completion_tokens": 192,
+      "total_tokens": 1254,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T05:51:36.280273"
+    "processed_at": "2025-06-24T06:02:55.448940"
   },
   {
     "ticker": "DCC",
