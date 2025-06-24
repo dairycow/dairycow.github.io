@@ -1,0 +1,19 @@
+{
+  "ticker": "PSL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961455",
+  "id": "02961455",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250624",
+  "time": "1150",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1p40b7q4v5c.pdf",
+  "summary": "Understood. Here's the strict, material-only summary format I'll apply to any ASX announcement you provide:  \n\n**Capital Raising Announcement Example (if applicable):**  \n- **Type:** [Placement / SPP / Entitlement Offer]  \n- **Amount Raised:** AUD [X] million (exclude non-underwritten components unless material)  \n- **Use of Proceeds:** [Top 1-2 priority uses, e.g., \"Debt reduction (XX%), growth capex (XX%)\"]  \n- **Key Dates:** Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n\n**Quarterly (4C) Example:**  \n- **Cash Balance:** AUD [X] million (as of [DD/MM])  \n- **Cash Burn (if applicable):** AUD [\u00b1X] million (quarterly/net)  \n- **Key Milestone:** [e.g., \"Production reached [X] oz/tons/units\"]  \n\n**Trading Halt Example:**  \n- **Reason:** [Single line, e.g., \"Pending capital raising announcement\"]  \n\n**Other Announcement Types:**  \n- **Material Impact:** [1-2 bullet points max, e.g., \"Asset sale: AUD [X]m proceeds expected Q4\" or \"Guidance downgrade: EBITDA revised to AUD [X]m-Xm (prior Xm-Xm)\"]  \n\n*No material information identified* [if irrelevant boilerplate]  \n\n**Provide the PDF text, and I'll extract accordingly.**  \n*(Note: For hypothetical/untargeted examples, I'll simulate based on common structures.)*",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 343,
+    "total_tokens": 568,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-24T03:14:55.209729"
+}

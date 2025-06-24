@@ -1,0 +1,19 @@
+{
+  "ticker": "ECT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961475",
+  "id": "02961475",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250624",
+  "time": "1249",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1qvd3qh3wb5.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key excerpts), and I will extract **only material information** relevant for trading/capital markets decisions, formatted as **strictly concise bullet points** tailored to the announcement type.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Reason: Pending capital raising announcement.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Structure: AUD 50M placement (+ AUD 10M SPP).  \n- Key dates: Ex-date 15/05, Record 17/05, Close 31/05.  \n\n**Appendix 4C (Quarterly):**  \n- Cash burn: AUD 2.1M (prior quarter: AUD 3.0M).  \n- Closing cash: AUD 8.4M (+AUD 10M undrawn facility).  \n\n**Other Announcement:**  \n- Major asset sale: AUD 75M (expected completion Q4 2024).  \n- FY24 guidance upgraded: EBITDA AUD 120M-AUD 135M (prior: AUD 100M-AUD 110M).  \n\n*If no material info:*  \n- No material information identified.  \n\nDrop the document or paste text, and I\u2019ll apply this framework.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 264,
+    "total_tokens": 492,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-24T03:13:41.612262"
+}
