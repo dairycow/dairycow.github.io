@@ -1,0 +1,19 @@
+{
+  "ticker": "GGP",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961577",
+  "id": "02961577",
+  "pages": 7,
+  "price_sensitive": false,
+  "date": "20250624",
+  "time": "1712",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l20chd88xpnj.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text/data from it), and I will extract **only material information** relevant for trading or capital markets decisions, formatted as concise bullet points per your strict guidelines.  \n\nExample outputs based on common announcement types:  \n\n### **Trading Halt Request**  \n- *Reason:* Pending release of capital raising details.  \n\n### **Capital Raising Announcement**  \n- *Structure:* Placement + SPP.  \n- *Total raised:* AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n- *Key dates:* Ex-date 15/03, Record 16/03, SPP closes 30/03.  \n\n### **Quarterly Report (Appendix 4C)**  \n- *Cash balance (end quarter):* AUD 12.7M.  \n- *Key highlight:* Quarterly revenue up 25% QoQ to AUD 5.4M.  \n\n### **Other Announcement**  \n- *Material change:* Major contract loss (AUD 30M annual revenue impact).  \n- *Liquidity impact:* Debt covenant breach risk flagged.  \n\n**Awaiting your document/data to proceed.** Let me refine further based on specifics.",
+  "usage": {
+    "prompt_tokens": 248,
+    "completion_tokens": 261,
+    "total_tokens": 509,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-24T07:30:38.533794"
+}
