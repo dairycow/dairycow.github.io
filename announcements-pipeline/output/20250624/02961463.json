@@ -1,0 +1,19 @@
+{
+  "ticker": "TMX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961463",
+  "id": "02961463",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250624",
+  "time": "1200",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1pqkjz0p2c0.pdf",
+  "summary": "Understood. When you provide the ASX announcement PDF (or its key details), I will analyze it and deliver a strictly concise, material-focused summary based on its type, following your specified format rules.  \n\n**Example Outputs (for reference):**  \n\n1. **Trading Halt Request:**  \n   - Halted pending announcement of a capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - Placement: AUD 50M at AUD 2.00/share (10% discount).  \n   - SPP: AUD 20M cap, same price. Key dates: Ex-date 15/03, SPP close 30/03.  \n\n3. **Appendix 4C (Quarterly Cash Flow):**  \n   - Cash balance: AUD 12.5M (vs. AUD 15.2M prior).  \n   - Quarterly burn: AUD 2.7M. Major receipt: AUD 3.1M R&D rebate.  \n\n4. **Other Announcement (Strategic Acquisition):**  \n   - Acquiring X Co for AUD 80M (50% cash, 50% scrip). Adds EPS of +15% in FY24.  \n\n*No material information identified* for non-material updates (e.g., minor director trades, generic presentations).  \n\n**Next Steps:** Share the announcement text or PDF, and I\u2019ll extract only what matters for trading/capital markets decisions.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 303,
+    "total_tokens": 533,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-24T03:11:40.060136"
+}
