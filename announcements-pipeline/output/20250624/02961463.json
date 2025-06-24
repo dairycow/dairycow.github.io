@@ -7,13 +7,13 @@
   "date": "20250624",
   "time": "1200",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1pqkjz0p2c0.pdf",
-  "summary": "Understood. When you provide the ASX announcement PDF (or its key details), I will analyze it and deliver a strictly concise, material-focused summary based on its type, following your specified format rules.  \n\n**Example Outputs (for reference):**  \n\n1. **Trading Halt Request:**  \n   - Halted pending announcement of a capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - Placement: AUD 50M at AUD 2.00/share (10% discount).  \n   - SPP: AUD 20M cap, same price. Key dates: Ex-date 15/03, SPP close 30/03.  \n\n3. **Appendix 4C (Quarterly Cash Flow):**  \n   - Cash balance: AUD 12.5M (vs. AUD 15.2M prior).  \n   - Quarterly burn: AUD 2.7M. Major receipt: AUD 3.1M R&D rebate.  \n\n4. **Other Announcement (Strategic Acquisition):**  \n   - Acquiring X Co for AUD 80M (50% cash, 50% scrip). Adds EPS of +15% in FY24.  \n\n*No material information identified* for non-material updates (e.g., minor director trades, generic presentations).  \n\n**Next Steps:** Share the announcement text or PDF, and I\u2019ll extract only what matters for trading/capital markets decisions.",
+  "summary": "Understood. Please upload or provide the ASX announcement PDF (or its text content), and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as ruthlessly concise bullet points tailored to the announcement type.  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement**  \n- Structure: 1-for-4 accelerated entitlement offer.  \n- Total raised: AUD $125M (placement) + AUD $25M (SPP).  \n- Key dates: Ex-date 15/03/24, record date 18/03/24, SPP close 05/04/24.  \n\n**Quarterly Report (4C)**  \n- Cash balance: AUD $12.4M (Q3-end).  \n- Quarterly cash burn: AUD $2.1M.  \n- Milestone: Phase 2 trial enrollment completed (85% target).  \n\n**Trading Halt Request**  \n- Pending material acquisition announcement.  \n\n**No Material Information Identified**  \n---  \n\nReady to proceed\u2014please share the document.",
   "usage": {
-    "prompt_tokens": 230,
-    "completion_tokens": 303,
-    "total_tokens": 533,
+    "prompt_tokens": 228,
+    "completion_tokens": 220,
+    "total_tokens": 448,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-24T03:11:40.060136"
+  "processed_at": "2025-06-24T03:58:37.189237"
 }
