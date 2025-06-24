@@ -1,5 +1,404 @@
 [
   {
+    "ticker": "MA1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961557",
+    "id": "02961557",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1645",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1yvsr37q9tp.pdf",
+    "summary": "<h3>Dividend Notification Summary (Appendix 3A.1)</h3>\n<ul>\n<li><strong>Security</strong>: MA1 (Ordinary Units)  </li>\n<li><strong>Distribution Amount</strong>: AUD 0.01342076 per unit (unfranked)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-Date: 27/6/2025  </li>\n<li>Record Date: 30/6/2025  </li>\n<li>Payment Date: 21/7/2025  </li>\n<li>DRP Election Deadline: 1/7/2025 17:00 AEST  </li>\n<li><strong>DRP Details</strong>:  </li>\n<li>Full DRP available (no discount; default opt-out).  </li>\n<li>Reinvestment price methodology as per DRP booklet (no price disclosed).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1647,
+      "completion_tokens": 161,
+      "total_tokens": 1808,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:52:33.992419"
+  },
+  {
+    "ticker": "AMI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961556",
+    "id": "02961556",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1644",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ysql2762k0.pdf",
+    "summary": "<p>Understood. Please upload or provide the text of the ASX announcement PDF you'd like me to review, and I will extract the material information in the concise, structured format outlined.  </p>\n<p>Without the specific document, here\u2019s how I\u2019d summarize common announcement types (for illustration only):  </p>\n<hr />\n<p><strong>Example 1: Trading Halt Request</strong><br />\n- <em>Reason</em>: Pending release of capital raising details.  </p>\n<p><strong>Example 2: Capital Raising (Placement + SPP)</strong><br />\n- <em>Structure</em>: AUD 50M placement (AUD 0.50/share) + AUD 10M SPP.<br />\n- <em>Key Dates</em>: Ex-date 15 Sep, Record 18 Sep, SPP close 30 Sep.  </p>\n<p><strong>Example 3: Appendix 4C (Quarterly Cash Flow)</strong><br />\n- <em>Cash Balance</em>: AUD 12.3M (prior quarter: AUD 15.1M).<br />\n- <em>Highlight</em>: Revenue AUD 5.2M (+22% QoQ), burn rate AUD 2.8M.  </p>\n<p><strong>Example 4: M&amp;A Announcement</strong><br />\n- <em>Deal</em>: Acquiring [Target] for AUD 100M (50% cash, 50% scrip).<br />\n- <em>Conditions</em>: Vendor earnout, shareholder approval required.  </p>\n<p><strong>Example 5: Governance Change (Non-Material)</strong><br />\n- No material information identified.  </p>\n<hr />\n<p>Submit the announcement, and I\u2019ll prioritize brevity and materiality.</p>",
+    "usage": {
+      "prompt_tokens": 235,
+      "completion_tokens": 315,
+      "total_tokens": 550,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:51:04.556935"
+  },
+  {
+    "ticker": "JRE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961554",
+    "id": "02961554",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1644",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ynj2rklj40.pdf",
+    "summary": "<ul>\n<li><strong>Estimated Distributions (cents per unit)</strong>:  </li>\n<li><strong>T3MP</strong>: 117.1995  </li>\n<li><strong>JREG</strong>: 196.6286  </li>\n<li><strong>JRHG</strong>: 83.2917  </li>\n<li><strong>JGLO</strong>: 70.8093  </li>\n<li>\n<p><strong>JHLO</strong>: Nil  </p>\n</li>\n<li>\n<p><strong>Key Timetable Dates</strong>:  </p>\n</li>\n<li><strong>Ex-Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li>\n<p><strong>Payment Date</strong>: 16 July 2025  </p>\n</li>\n<li>\n<p><strong>Note</strong>: Estimates may change due to market conditions; final confirmed distributions announced 2 July 2025. DRP (Distribution Reinvestment Plan) available if election submitted by Record Date.</p>\n</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 921,
+      "completion_tokens": 159,
+      "total_tokens": 1080,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:52:12.018159"
+  },
+  {
+    "ticker": "AEI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961555",
+    "id": "02961555",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1644",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1yqkr98vvcy.pdf",
+    "summary": "<ul>\n<li><strong>Change in Substantial Holding</strong>: Bernard Stang increased his voting power in Aeris Environmental Ltd (ASX:AEI) from <strong>9.66%</strong> (23,753,663 shares) to <strong>12.14%</strong> (29,870,329 shares).  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>10/04/2025</strong>: Off-market transfer of 50,000 shares at <strong>$0.17/share</strong>.  </li>\n<li><strong>09/05/2025</strong>: On-market purchase of 500,000 shares at <strong>$0.051/share</strong>.  </li>\n<li><strong>10/06/2025</strong>: Off-market sale of 2,500,000 shares at <strong>$0.03/share</strong>.  </li>\n<li><strong>23/06/2025</strong>: On-market purchase of 8,166,666 shares at <strong>$0.037/share</strong> (majority of increase).  </li>\n<li><strong>Current Holdings</strong>:  </li>\n<li><strong>Direct</strong>: 19,293,084 shares (registered to Bernard Stang).  </li>\n<li><strong>Associated Entities</strong>: 10,577,245 shares (via Epitek Corp, Stangcorp, Meditsuper, Stang Family Holding).  </li>\n</ul>\n<p><em>No other material trading or capital structure impacts identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2044,
+      "completion_tokens": 259,
+      "total_tokens": 2303,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:50:08.583952"
+  },
+  {
+    "ticker": "EQT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961553",
+    "id": "02961553",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1639",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ykbg337zj3.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 2,847 unquoted Performance Share Rights (EQTAA) lapsed due to unmet conditions (ceased 11/04/2025).  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li>Quoted: 26,760,004 ordinary shares (EQT).  </li>\n<li>Unquoted: 236,820 Performance Share Rights (EQTAA) &amp; 9,196 NED Share Rights (EQTAL).  </li>\n</ul>\n<p><em>No material impact on trading or capital structure identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1030,
+      "completion_tokens": 113,
+      "total_tokens": 1143,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:51:09.515486"
+  },
+  {
+    "ticker": "HE8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961552",
+    "id": "02961552",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1638",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1yh88nsjl7b.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (HE8):</strong>  </p>\n<ul>\n<li><strong>Convertible Note Conversion:</strong> 426,325 convertible notes converted into <strong>85,265,000 new ordinary shares</strong> (ASX: HE8) on 20 June 2025.  </li>\n<li><strong>Regulatory Disclosure Exemption:</strong> Shares issued without disclosure under Part 6D.2 of the Corporations Act (Section 708A(5)).  </li>\n<li><strong>Compliance Confirmed:</strong> Company confirms adherence to continuous disclosure (ASX Listing Rules) and financial reporting obligations.  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>(Omitted: Director details, contact info, boilerplate text.)</em></p>",
+    "usage": {
+      "prompt_tokens": 831,
+      "completion_tokens": 135,
+      "total_tokens": 966,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:49:45.345588"
+  },
+  {
+    "ticker": "AUN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961551",
+    "id": "02961551",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1638",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1yf18hs9q31.pdf",
+    "summary": "<p>Understood. Please provide the ASX announcement PDF (or its text), and I will generate a concise, material-only summary based on its type and content, adhering strictly to the rules above.  </p>\n<p>Example format for a <strong>Capital Raising Announcement</strong>:<br />\n- <strong>Type</strong>: Placement + SPP<br />\n- <strong>Amount</strong>: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)<br />\n- <strong>Key Dates</strong>: Ex-date: 15/06; Record: 16/06; SPP close: 30/06.  </p>\n<p>Upload or paste the document, and I\u2019ll reply immediately with the distilled summary.</p>",
+    "usage": {
+      "prompt_tokens": 223,
+      "completion_tokens": 135,
+      "total_tokens": 358,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:51:18.342451"
+  },
+  {
+    "ticker": "CGF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961550",
+    "id": "02961550",
+    "pages": 19,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1636",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ybl8xf4wkp.pdf",
+    "summary": "<h3><strong>ASX Announcement Summary (Form 604: Notice of Change in Substantial Holding)</strong></h3>\n<p><strong>Entity:</strong> Challenger Limited and associated entities<br />\n<strong>Target Company:</strong> Lynas Rare Earths Ltd (LYC)  </p>\n<h4><strong>Key Points:</strong></h4>\n<ol>\n<li><strong>Change in Voting Power:</strong>  </li>\n<li><strong>Previous Voting Interest:</strong> 5.08% (47,566,706 shares)  </li>\n<li><strong>Current Voting Interest:</strong> 6.12% (57,206,920 shares)  </li>\n<li>\n<p><strong>Net Increase:</strong> +1.04% (9,640,214 shares acquired).  </p>\n</li>\n<li>\n<p><strong>Transactions Overview (20/06/2025):</strong>  </p>\n</li>\n<li><strong>Total Shares Sold:</strong> 9,640,214 (weighted-average price not disclosed).  </li>\n<li>\n<p><strong>Substantial Holder:</strong> Challenger Limited and subsidiaries (listed in Annexure 2).  </p>\n</li>\n<li>\n<p><strong>Purpose:</strong> Disclosure of updated substantial holding per Section 671B of Corporations Act 2001.  </p>\n</li>\n</ol>\n<h4><strong>Material Impact:</strong></h4>\n<ul>\n<li>Indicates a <strong>bullish stance</strong> by Challenger on LYC, with a <strong>material increase in ownership</strong>. Potential signal for market sentiment.  </li>\n</ul>\n<p><strong>No other capital/operational updates identified.</strong>  </p>\n<hr />\n<p><strong>Note:</strong> Excluded boilerplate and non-material transaction breakdowns. Focused on voting power delta and headline figures.</p>",
+    "usage": {
+      "prompt_tokens": 35328,
+      "completion_tokens": 281,
+      "total_tokens": 35609,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:53:42.793753"
+  },
+  {
+    "ticker": "HE8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961549",
+    "id": "02961549",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1635",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1y8fd060wnt.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 85,265,000 ordinary fully paid shares (HE8) issued due to conversion of convertible notes (HE8AC).  </li>\n<li><strong>Issue Price</strong>: AUD 0.005 per share.  </li>\n<li><strong>Conversion Details</strong>: 426,325 convertible notes converted on 20/06/2025.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Total ordinary shares on issue: 3,210,478,648 (HE8).  </li>\n<li>Remaining unquoted securities: 265,000 HE8AC convertible notes + 56M options (HE8AO, HE8AQ).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Dilutive issuance at a deep discount (AUD 0.005/share) increases float by 85.3M shares (~2.7% of existing ordinary shares).</p>",
+    "usage": {
+      "prompt_tokens": 1470,
+      "completion_tokens": 195,
+      "total_tokens": 1665,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:54:30.217532"
+  },
+  {
+    "ticker": "CLG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961548",
+    "id": "02961548",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1634",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1y66xg4mpgl.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: Challenger Limited and its associated entities have ceased to be substantial holders in Close The Loop Limited (CLG).  </li>\n<li><strong>Shares Sold</strong>:  </li>\n<li>Total of <strong>5,070,706</strong> CLG ordinary shares sold on 20/06/2025 across four transactions.  </li>\n<li><strong>Impact</strong>: Reduction in Challenger's stake in CLG below substantial holding threshold (likely &lt;5%).  </li>\n</ul>\n<p><em>No other material information identified</em>.</p>",
+    "usage": {
+      "prompt_tokens": 4162,
+      "completion_tokens": 97,
+      "total_tokens": 4259,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:53:05.992907"
+  },
+  {
+    "ticker": "LYC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961547",
+    "id": "02961547",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1631",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1y3jwt5qd36.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Greencape Capital Pty Ltd ceased to be a substantial holder in Lynas Rare Earths Limited (LYC).  </li>\n<li><strong>Net Share Disposal</strong>: Sold a total of <strong>11,542,680 LYC shares</strong> between 5 June 2025 and 20 June 2025.  </li>\n<li><strong>Key Transaction Dates</strong>: Bulk sales occurred on <strong>11 June 2025</strong> (9.2M shares), <strong>17 June 2025</strong> (5.2M shares), and <strong>20 June 2025</strong> (2.9M shares).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 6702,
+      "completion_tokens": 131,
+      "total_tokens": 6833,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:50:28.253308"
+  },
+  {
+    "ticker": "MRE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961546",
+    "id": "02961546",
+    "pages": 4,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1629",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1y1063dwqyn.pdf",
+    "summary": "<h3><strong>Dividend Distribution Summary (Appendix 3A.1)</strong></h3>\n<ul>\n<li><strong>Security:</strong> MRE (Fully Paid Units Stapled Securities)  </li>\n<li><strong>Distribution Amount:</strong> AUD 0.0098 per unit  </li>\n<li><strong>Ex-Date:</strong> 30 June 2025  </li>\n<li><strong>Record Date:</strong> 1 July 2025  </li>\n<li><strong>Payment Date:</strong> 8 July 2025  </li>\n<li><strong>Franked:</strong> No (100% unfranked)  </li>\n<li><strong>Period Covered:</strong> One month (ending 30 June 2025)  </li>\n<li><strong>Actual Amount Confirmation Date:</strong> 4 July 2025  </li>\n</ul>\n<p><strong>Key Takeaway:</strong> Monthly unfranked distribution; no material tax or regulatory approvals required.</p>",
+    "usage": {
+      "prompt_tokens": 1213,
+      "completion_tokens": 148,
+      "total_tokens": 1361,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:52:17.625545"
+  },
+  {
+    "ticker": "MOT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961545",
+    "id": "02961545",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1627",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xyj376222z.pdf",
+    "summary": "<ul>\n<li><strong>Dividend Announcement</strong>  </li>\n<li><strong>Security</strong>: MOT (Ordinary Units Fully Paid)  </li>\n<li><strong>Distribution Amount</strong>: AUD 0.0145 per unit  </li>\n<li><strong>Ex-Date</strong>: 30 June 2025  </li>\n<li><strong>Record Date</strong>: 1 July 2025  </li>\n<li><strong>Payment Date</strong>: 8 July 2025  </li>\n<li><strong>DRP Election Deadline</strong>: 2 July 2025, 17:00 (AEST)  </li>\n<li><strong>DRP Applicable</strong>: Yes (Full DRP, no discount, default opt-out).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1611,
+      "completion_tokens": 131,
+      "total_tokens": 1742,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:48:43.279906"
+  },
+  {
+    "ticker": "TD1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961544",
+    "id": "02961544",
+    "pages": 9,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xw6d8dp48w.pdf",
+    "summary": "<h3><strong>Capital Raising Summary \u2013 TALI DIGITAL LIMITED (TD1)</strong></h3>\n<h4><strong>Capital Raising Structure</strong></h4>\n<ul>\n<li><strong>Non-renounceable entitlement offer</strong> (1-for-6 ratio) <strong>+ Placement</strong>  </li>\n<li><strong>Entitlement Offer Details</strong>:  </li>\n<li><strong>Offer Price</strong>: AUD 0.001 per share  </li>\n<li><strong>Maximum Entitlement Shares</strong>: 677,525,937  </li>\n<li><strong>Shortfall Facility</strong>: Eligible shareholders can apply for uncapped additional shares.  </li>\n<li>\n<p><strong>Fractional Entitlements</strong>: Rounded <strong>up</strong> to nearest whole number (updated from prior rounding-down policy).  </p>\n</li>\n<li>\n<p><strong>Placement Component</strong>:  </p>\n</li>\n<li><strong>Total Placement Securities</strong>: 800,000,000 shares  </li>\n<li><strong>Placement Price</strong>: AUD 0.001 per share  </li>\n<li><strong>Funding Use</strong>: Commercialization of TALi\u2019s products and expansion of YCDI! Education business.  </li>\n</ul>\n<h4><strong>Key Dates</strong></h4>\n<ul>\n<li><strong>Ex-Date</strong>: 19/6/2025  </li>\n<li><strong>Record Date</strong>: 20/6/2025  </li>\n<li><strong>Offer Closing Date</strong>: 8/7/2025  </li>\n<li><strong>Results Announcement</strong>: 11/7/2025  </li>\n<li><strong>Trading Starts (Normal T+2)</strong>: 14/7/2025  </li>\n</ul>\n<h4><strong>Funding Purpose</strong></h4>\n<ul>\n<li>Proceeds to support commercialization and partnership developments (including YCDI! Education acquisition).  </li>\n</ul>\n<h4><strong>Broker &amp; Fees</strong></h4>\n<ul>\n<li><strong>Lead Manager</strong>: Sequoia Corporate Finance Pty Ltd (6% fee).  </li>\n<li><strong>No Underwriting</strong>.  </li>\n</ul>\n<h4><strong>Additional Notes</strong></h4>\n<ul>\n<li>Eligible shareholders: <strong>Australia &amp; New Zealand only</strong> (excludes U.S. holders).  </li>\n<li>Cleansing notice reliance for secondary sales compliance.  </li>\n</ul>\n<p><strong>No material deviations from standard capital raising mechanics identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 3495,
+      "completion_tokens": 382,
+      "total_tokens": 3877,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:51:35.557953"
+  },
+  {
+    "ticker": "MXT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961543",
+    "id": "02961543",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xt34cw97hy.pdf",
+    "summary": "<p><strong>Dividend Distribution Announcement (Appendix 3A.1) \u2013 Key Material Information:</strong>  </p>\n<ul>\n<li><strong>Security:</strong> MXT (Ordinary Units)  </li>\n<li><strong>Distribution Amount:</strong> AUD 0.0122 per unit (unfranked)  </li>\n<li><strong>Ex-Date:</strong> 30/6/2025  </li>\n<li><strong>Record Date:</strong> 1/7/2025  </li>\n<li><strong>Payment Date:</strong> 8/7/2025  </li>\n<li><strong>DRP Election Deadline:</strong> 2/7/2025 (17:00 AEST)  </li>\n<li><strong>DRP Details:</strong> Full DRP available, no discount, defaults to cash if no election made.  </li>\n</ul>\n<p><em>Rule applied: Omitted non-material boilerplate (e.g., registry details, legal clauses).</em></p>",
+    "usage": {
+      "prompt_tokens": 1609,
+      "completion_tokens": 159,
+      "total_tokens": 1768,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:49:19.841797"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961540",
+    "id": "02961540",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1622",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xl50m5n39l.pdf",
+    "summary": "<ul>\n<li><strong>Stop Loss Trigger Event</strong>:  </li>\n<li>MINI Longs suspended due to Underlying Parcel Price falling <strong>at or below</strong> Stop Loss Level.  </li>\n<li>\n<p>MINI Shorts suspended due to Underlying Parcel Price rising <strong>at or above</strong> Stop Loss Level.  </p>\n</li>\n<li>\n<p><strong>Affected MINIs (ASX Code | Underlying Security | Stop Loss Level AUD)</strong>:  </p>\n</li>\n<li><strong>NSTKOC</strong>: Northern Star Resources Ltd \u2014 <strong>$19.8300</strong>  </li>\n<li><strong>WDSKOE</strong>: Woodside Energy Group Ltd \u2014 <strong>$24.6200</strong>  </li>\n<li><strong>WDSKOH</strong>: Woodside Energy Group Ltd \u2014 <strong>$23.6200</strong>  </li>\n<li>\n<p><strong>BGLKOA</strong>: Bellevue Gold Ltd \u2014 <strong>$0.8700</strong>  </p>\n</li>\n<li>\n<p><strong>Key Actions for Holders</strong>:  </p>\n</li>\n<li>Temporary trading resumption: Sell to Citi at <strong>Stop Loss Amount</strong> between 2pm\u20134pm next trading day.  </li>\n<li>If unsold, automatic payout of Stop Loss Amount within <strong>10 business days</strong>, followed by MINI expiry.  </li>\n</ul>\n<p><em>(No other material information identified)</em></p>",
+    "usage": {
+      "prompt_tokens": 850,
+      "completion_tokens": 238,
+      "total_tokens": 1088,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:48:50.707139"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961541",
+    "id": "02961541",
+    "pages": 36,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1622",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xnbj1d398b.pdf",
+    "summary": "<p>This appears to be a product catalogue/document for CitiFirst MINIs (structured equity derivative products) rather than a market-moving ASX announcement. </p>\n<p>Key takeaways:\n- Lists leveraged long/short single-stock MINIs on ASX-listed securities<br />\n- Shows Australian/international index MINIs, currency MINIs and commodity MINIs<br />\n- Details strike prices, stop-loss triggers, gearing levels and indicative valuations<br />\n- Effective date of 25-Jun-25 for all products  </p>\n<p>No material trading or capital markets information identified - this is a standard product offerings document. Would not typically trigger trading decisions or impact valuations directly.  </p>\n<p>For ECM purposes, note this doesn't contain announcements on:\n- Capital raisings<br />\n- Trading halts<br />\n- Financial results<br />\n- Material corporate actions  </p>\n<p>Recommend focusing ASX announcement reviews on actual company releases flagged with proper announcement types (e.g. Appendix 3B, 4C etc).</p>",
+    "usage": {
+      "prompt_tokens": 56780,
+      "completion_tokens": 189,
+      "total_tokens": 56969,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:53:02.357524"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961539",
+    "id": "02961539",
+    "pages": 10,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xhz33877d2.pdf",
+    "summary": "<h3>Summary of CitiFirst Instalment MINIs Announcement</h3>\n<ul>\n<li><strong>Instrument Type</strong>: Instalment MINIs (leveraged equity-linked products)  </li>\n<li><strong>Effective Date</strong>: 25-Jun-25  </li>\n<li><strong>Current Interest Rate</strong>: 8.30% p.a.  </li>\n<li><strong>Key Features</strong>:  </li>\n<li>Structured as leveraged investments with partial upfront payment (First Instalment) and final loan amount (Final Instalment).  </li>\n<li><strong>Stop Loss Trigger Level</strong>: Automatic exit if underlying share price falls to this level.  </li>\n<li><strong>Gearing</strong>: Loan-to-value ratio (% of underlying share price covered by loan).  </li>\n<li><strong>Dividend Treatment</strong>: Dividends typically paid to investors (unless stated as \"Pay down loan\").  </li>\n<li><strong>Expiry Dates</strong>: Range from 2025 to 2035.  </li>\n</ul>\n<h4>Notable Examples (Selected Highlights):</h4>\n<ol>\n<li><strong>A2M MINIs (A2MJOB)</strong>  </li>\n<li>Final Instalment: $4.04  </li>\n<li>Stop Loss: $7.83 (48.4% buffer)  </li>\n<li>Expiry: 26/05/2026  </li>\n<li>\n<p>Indicative Div Yield: 1.75%  </p>\n</li>\n<li>\n<p><strong>BHP MINIs (BHPJOA)</strong>  </p>\n</li>\n<li>Gearing: 68.87%  </li>\n<li>Stop Loss Buffer: 21.22% ($36.48 vs. $11.36 IM Price)  </li>\n<li>\n<p>Expiry: 21/01/2032  </p>\n</li>\n<li>\n<p><strong>CSL MINIs (CSLJOF)</strong>  </p>\n</li>\n<li>Highly geared (82.86%) with tight stop loss buffer (5.2%).  </li>\n<li>\n<p>Expiry: 26/05/2026  </p>\n</li>\n<li>\n<p><strong>RIO Tinto MINIs (RIOJOD)</strong>  </p>\n</li>\n<li>High gearing (82.5%) with minimal stop loss buffer (5.61%).  </li>\n<li>\n<p>Expiry: 06/02/2035  </p>\n</li>\n<li>\n<p><strong>WBC MINIs (WBCJOA)</strong>  </p>\n</li>\n<li>Gearing: 68.62%  </li>\n<li>Stop Loss Buffer: 23.53%  </li>\n<li>Expiry: 15/07/2032  </li>\n</ol>\n<hr />\n<p><strong>Material Risks</strong>:<br />\n- High leverage amplifies gains/losses.<br />\n- Stop loss triggers may force exits during volatility.<br />\n- Expiry dates vary (long-dated options extend to 2035).  </p>\n<p><strong>No capital raising or corporate action timetables identified</strong> \u2013 this is a product update for trading purposes.</p>",
+    "usage": {
+      "prompt_tokens": 23355,
+      "completion_tokens": 528,
+      "total_tokens": 23883,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:54:06.465259"
+  },
+  {
+    "ticker": "PIC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961538",
+    "id": "02961538",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1611",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1xcs7hs1nrs.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Perpetual Equity Investment Company Limited, ASX:PIC):</strong>  </p>\n<ul>\n<li><strong>NTA Update (as of 23 June 2025):</strong>  </li>\n<li><strong>Pre-tax NTA/share:</strong> $1.261  </li>\n<li><strong>Post-tax NTA/share:</strong> $1.227 (<em>unaudited, includes deferred tax provisions on unrealised portfolio gains/losses</em>).  </li>\n</ul>\n<p><strong>No material trading/capital markets actions identified.</strong> (No capital raising, trading halt, or material valuation catalysts disclosed.)</p>",
+    "usage": {
+      "prompt_tokens": 699,
+      "completion_tokens": 112,
+      "total_tokens": 811,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:51:49.766754"
+  },
+  {
+    "ticker": "ORI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961537",
+    "id": "02961537",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250624",
+    "time": "1610",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1x9krhf10cg.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 286,521 ORI ordinary shares cancelled via on-market buy-back.  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 5,486,558.52.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted ordinary shares (ORI): 481,945,588.  </li>\n<li>Unquoted deferred rights (ORIAA): 74,214.  </li>\n<li>Unquoted performance rights (ORIAB): 6,481,437.  </li>\n<li><strong>Date of Cessation</strong>: 20/06/2025.  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1035,
+      "completion_tokens": 134,
+      "total_tokens": 1169,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:48:58.497002"
+  },
+  {
+    "ticker": "BB1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961536",
+    "id": "02961536",
+    "pages": 3,
+    "price_sensitive": true,
+    "date": "20250624",
+    "time": "1609",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1x79p1b430d.pdf",
+    "summary": "<ul>\n<li><strong>ASX Price/Volume Query Response</strong>: BlinkLab Limited confirms no undisclosed material information explains recent trading activity.  </li>\n<li><strong>Key Update Pending</strong>: ADHD diagnostic accuracy results (previously expected Q2 2025) remain pending; company will update once available.  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rules 3.1 and continuous disclosure obligations.  </li>\n</ul>\n<p><em>No material capital markets or actionable trading information identified beyond delayed clinical results.</em></p>",
+    "usage": {
+      "prompt_tokens": 2092,
+      "completion_tokens": 96,
+      "total_tokens": 2188,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-24T06:49:52.119171"
+  },
+  {
     "ticker": "NCK",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961535",
     "id": "02961535",
@@ -8,15 +407,15 @@
     "date": "20250624",
     "time": "1607",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1x4rf3ccf9b.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: United Super Pty Ltd ceased to be a substantial holder in Nick Scali Limited on <strong>18/06/2025</strong>.  </li>\n<li><strong>Shares Sold</strong>: Disposed of <strong>539,692 ordinary shares</strong> on 18/06/2025 for <strong>$10.35M</strong> (implied price: ~$19.17/share).  </li>\n<li><strong>Net Change in Holding</strong>: Reduced stake from <strong>4,292,549 shares</strong> (prior notice on 09/04/2025) to <strong>3,918,883 shares</strong> (\u20138.7%).  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: United Super Pty Ltd ceased to be a substantial holder in Nick Scali Limited on <strong>18/06/2025</strong>.  </li>\n<li><strong>Shares Transacted</strong>: Disclosed net sales and purchases of ordinary shares between <strong>07/04/2025</strong> and <strong>18/06/2025</strong>, with a final <strong>closing balance of 3,918,883 shares</strong> (previously 4,292,549 shares).  </li>\n<li><strong>Material Transactions</strong>:  </li>\n<li>Large net sale of <strong>539,692 shares</strong> on 18/06/2025 (consideration: <strong>$10.3M</strong>).  </li>\n<li>Multiple other transactions, including a <strong>69,803-share sale</strong> on 09/04/2025 (consideration: <strong>$1.06M</strong>).  </li>\n</ul>\n<p><em>No further material information identified for trading/capital markets decisions.</em></p>",
     "usage": {
-      "prompt_tokens": 1805,
-      "completion_tokens": 135,
-      "total_tokens": 1940,
+      "prompt_tokens": 1807,
+      "completion_tokens": 184,
+      "total_tokens": 1991,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T06:22:26.391622"
+    "processed_at": "2025-06-24T06:49:12.200348"
   },
   {
     "ticker": "TLS",
@@ -27,15 +426,15 @@
     "date": "20250624",
     "time": "1605",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1x28b4bpl42.pdf",
-    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 34,471,311 ordinary fully paid shares (TLS) canceled due to an on-market buy-back.  </li>\n<li><strong>Cessation Date</strong>: 23 June 2025.  </li>\n<li><strong>Total Buy-back Cost</strong>: AUD 167.4 million.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 11,385,028,987 ordinary shares (TLS) remain quoted.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond reduced share count.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 34,471,311 TLS ordinary shares cancelled via on-market buy-back.  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 167,395,873.37.  </li>\n<li><strong>Cessation Date</strong>: 23 June 2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 11,385,028,987 TLS ordinary shares remain quoted.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1207,
-      "completion_tokens": 103,
-      "total_tokens": 1310,
+      "completion_tokens": 90,
+      "total_tokens": 1297,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-24T06:27:56.420110"
+    "processed_at": "2025-06-24T06:53:09.561649"
   },
   {
     "ticker": "ADN",
