@@ -7,13 +7,13 @@
   "date": "20250624",
   "time": "1638",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1yf18hs9q31.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will generate a concise, material-only summary based on its type and content, adhering strictly to the rules above.  \n\nExample format for a **Capital Raising Announcement**:  \n- **Type**: Placement + SPP  \n- **Amount**: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- **Key Dates**: Ex-date: 15/06; Record: 16/06; SPP close: 30/06.  \n\nUpload or paste the document, and I\u2019ll reply immediately with the distilled summary.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its contents), and I will extract the material information in the specified concise format, strictly adhering to the rules provided. If the announcement type is unclear or lacks material details, I will state: *No material information identified*.  \n\nExamples of how I\u2019d summarize:  \n\n**Trading Halt Request:**  \n- Requested pending release of capital raising details.  \n\n**Capital Raising Announcement (Placement):**  \n- AUD $50M placement at $0.20/share (10% discount to last close).  \n- Ex-date: [DD/MM], Record: [DD/MM], Close: [DD/MM].  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash receipts: AUD $2.1M (+15% QoQ).  \n- Closing cash: AUD $5.4M (covers 6 months runway).  \n\n**Other Announcement (Acquisition):**  \n- Acquires Asset X for AUD $30M (funded via cash/debt).  \n- Adds 20% to FY25 EBITDA forecast.  \n\nSubmit the document, and I\u2019ll parse it accordingly.",
   "usage": {
     "prompt_tokens": 223,
-    "completion_tokens": 135,
-    "total_tokens": 358,
+    "completion_tokens": 244,
+    "total_tokens": 467,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-24T06:51:18.342451"
+  "processed_at": "2025-06-24T07:04:13.983623"
 }
