@@ -7,13 +7,13 @@
   "date": "20250624",
   "time": "1644",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250624/pdf/06l1ysql2762k0.pdf",
-  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF you'd like me to review, and I will extract the material information in the concise, structured format outlined.  \n\nWithout the specific document, here\u2019s how I\u2019d summarize common announcement types (for illustration only):  \n\n---  \n**Example 1: Trading Halt Request**  \n- *Reason*: Pending release of capital raising details.  \n\n**Example 2: Capital Raising (Placement + SPP)**  \n- *Structure*: AUD 50M placement (AUD 0.50/share) + AUD 10M SPP.  \n- *Key Dates*: Ex-date 15 Sep, Record 18 Sep, SPP close 30 Sep.  \n\n**Example 3: Appendix 4C (Quarterly Cash Flow)**  \n- *Cash Balance*: AUD 12.3M (prior quarter: AUD 15.1M).  \n- *Highlight*: Revenue AUD 5.2M (+22% QoQ), burn rate AUD 2.8M.  \n\n**Example 4: M&A Announcement**  \n- *Deal*: Acquiring [Target] for AUD 100M (50% cash, 50% scrip).  \n- *Conditions*: Vendor earnout, shareholder approval required.  \n\n**Example 5: Governance Change (Non-Material)**  \n- No material information identified.  \n---  \n\nSubmit the announcement, and I\u2019ll prioritize brevity and materiality.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its material content) and I will extract **only** the most critical trading or capital markets information in the strict format you\u2019ve requested, omitting all non-material details.  \n\nExample outputs:  \n\n1. **Trading Halt Request**:  \n   - *Reason:* Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure:* 1-for-4 entitlement offer + placement.  \n   - *Total raised:* AUD 150M (AUD 100M placement, AUD 50M entitlement).  \n   - *Key dates:* Ex-date 15 Oct, record date 17 Oct, close date 31 Oct.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance:* AUD 12.5M (QoQ -15%).  \n   - *Key highlight:* Production +22% QoQ; cost/unit AUD 1.10.  \n\n4. **Other Announcement (Asset Sale)**:  \n   - *Proceeds:* AUD 75M (30% premium to book value).  \n   - *Impact:* Net debt reduced to AUD 20M (from AUD 95M).  \n\nIf no material information is present, I will state:  \n- *No material information identified.*  \n\nReady for your document.",
   "usage": {
     "prompt_tokens": 235,
-    "completion_tokens": 315,
-    "total_tokens": 550,
+    "completion_tokens": 285,
+    "total_tokens": 520,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-24T06:51:04.556935"
+  "processed_at": "2025-06-24T07:03:46.811934"
 }
