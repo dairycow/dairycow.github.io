@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "CTD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962087",
+    "id": "02962087",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1839",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3fdlbv9gkq2.pdf",
+    "summary": "<ul>\n<li><strong>Type of Buy-Back:</strong> On-market buy-back  </li>\n<li><strong>Total Securities Bought Back (as of previous day):</strong> 7,199,324 (+47,500 on previous day)  </li>\n<li><strong>Total Maximum Buy-Back:</strong> 14,000,000 shares (remaining: 6,753,176 as of 24/6/2025)  </li>\n<li><strong>Aggregate Buy-Back Value Cap:</strong> AUD $126.1 million  </li>\n<li><strong>Buy-Back Period:</strong> 15/11/2023 to 30/6/2025  </li>\n<li><strong>Recent Purchase Details (25/6/2025):</strong>  </li>\n<li>Price Range: AUD 13.35\u201313.67  </li>\n<li>Daily Consideration: AUD 643,606  </li>\n<li><strong>Broker:</strong> Morgans Financial Limited  </li>\n<li><strong>No Shareholder Approval Required</strong>  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1608,
+      "completion_tokens": 186,
+      "total_tokens": 1794,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T08:49:03.836357"
+  },
+  {
+    "ticker": "PSC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962086",
+    "id": "02962086",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1835",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3f9rhj7khr3.pdf",
+    "summary": "<p>Understood. Please provide the <strong>ASX announcement PDF</strong> (or its content), and I will extract <strong>only material trading/capital markets information</strong> in the strict, concise format you\u2019ve outlined.  </p>\n<p>Example outputs:  </p>\n<hr />\n<p><strong>1. Trading Halt Request:</strong><br />\n- Reason: Pending announcement of capital raising.  </p>\n<p><strong>2. Capital Raising (Placement + SPP):</strong><br />\n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap).<br />\n- Key dates: Ex-date: 15/09, Record: 18/09, SPP close: 30/09.  </p>\n<p><strong>3. Appendix 4C (Quarterly):</strong><br />\n- Cash balance: AUD 12.5M (QoQ -2.1M).<br />\n- Key highlight: Revenue up 15% QoQ to AUD 4.3M.  </p>\n<p><strong>4. Other Announcement:</strong><br />\n- Major contract signed (AUD 25M over 3 years).<br />\n- CEO resigns (effective immediately).  </p>\n<hr />\n<p>If no material info: <em>\"No material information identified.\"</em>  </p>\n<p>Attach/share the document, and I\u2019ll parse it immediately.</p>",
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 257,
+      "total_tokens": 487,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T08:47:43.111844"
+  },
+  {
+    "ticker": "CXU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962085",
+    "id": "02962085",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1827",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3f60mnntbpg.pdf",
+    "summary": "<p><strong>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice:</strong>  </p>\n<ul>\n<li><strong>Director 1: Ian Robert Mulholland</strong>  </li>\n<li><strong>Change:</strong> 2,500,000 Performance Rights lapsed due to unmet performance milestone.  </li>\n<li>\n<p><strong>Holding after change:</strong> 13,185,187 shares; 6,202,261 Options ($0.015 expiring 30 Dec 2025); 10,000,000 Performance Rights.  </p>\n</li>\n<li>\n<p><strong>Director 2: Michael Bernard Fry</strong>  </p>\n</li>\n<li><strong>Change:</strong> 6,000,000 Performance Rights lapsed (held indirectly via trusts/super fund) due to unmet performance milestone.  </li>\n<li><strong>Holding after change:</strong> 562,965 shares + 187,930 Options ($0.015 expiring 30 Dec 2025); 24,000,000 Performance Rights.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).</p>",
+    "usage": {
+      "prompt_tokens": 2126,
+      "completion_tokens": 199,
+      "total_tokens": 2325,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T08:50:18.065520"
+  },
+  {
     "ticker": "CXU",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962084",
     "id": "02962084",
@@ -8,15 +65,15 @@
     "date": "20250625",
     "time": "1814",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3f18jwnnvr1.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 16,500,000 performance rights (CXUAAF) lapsed due to unmet conditions (ceased 25/06/2025).  </li>\n<li><strong>Remaining Securities</strong>:  </li>\n<li><strong>Quoted</strong>: 1,791,161,007 ordinary shares (CXU); 263,720,707 options expiring 30-Dec-2025 (CXUO).  </li>\n<li><strong>Unquoted</strong>: 66,000,000 performance rights (CXUAAF) and 45,000,000 options across three tranches (expiry dates Feb-2027, Nov-2025, Nov-2026).  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Type</strong>: Cessation of securities (Performance Rights)  </li>\n<li><strong>Details</strong>: 16,500,000 CXUAAF Performance Rights lapsed due to unmet conditions.  </li>\n<li><strong>Date of cessation</strong>: 25/06/2025  </li>\n<li><strong>Impact</strong>: Remaining unquoted Performance Rights (CXUAAF) now total 66,000,000.  </li>\n<li>Issued capital remains unaffected (no material change to ordinary shares or other securities).  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1128,
-      "completion_tokens": 150,
-      "total_tokens": 1278,
+      "prompt_tokens": 1126,
+      "completion_tokens": 106,
+      "total_tokens": 1232,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:31.222674"
+    "processed_at": "2025-06-25T08:47:48.102257"
   },
   {
     "ticker": "IMA",
@@ -27,15 +84,15 @@
     "date": "20250625",
     "time": "1814",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dz593r6qqs.pdf",
-    "summary": "<h3>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice</h3>\n<ul>\n<li><strong>Director</strong>: Patrick Mutz  </li>\n<li><strong>Date of Change</strong>: 24 June 2025  </li>\n<li><strong>Securities Held Prior</strong>:  </li>\n<li>6,765,880 fully paid ordinary shares  </li>\n<li>13,855,955 Performance Rights  </li>\n<li><strong>New Performance Rights Granted</strong>: 11,428,686 (Breakdown: 701,514 STI (PY24), 362,993 STI (HY24), 3,764,948 LTI (HY24), 6,599,231 LTI (FY25))  </li>\n<li><strong>Total Securities Held After Change</strong>:  </li>\n<li>6,765,880 ordinary shares  </li>\n<li>25,284,641 Performance Rights  </li>\n<li><strong>Consideration</strong>: Nil  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3Y filings typically relate to routine director shareholding disclosures without immediate trading or capital markets impact. This notice only reports a grant of Performance Rights to a director under pre-approved incentive schemes.)</em></p>",
     "usage": {
       "prompt_tokens": 1074,
-      "completion_tokens": 179,
-      "total_tokens": 1253,
+      "completion_tokens": 48,
+      "total_tokens": 1122,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:25:09.765357"
+    "processed_at": "2025-06-25T08:50:21.835851"
   },
   {
     "ticker": "BIS",
@@ -46,18 +103,18 @@
     "date": "20250625",
     "time": "1804",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dv3r3w0v1n.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Form 604 - Change of Substantial Holding):</h3>\n<ul>\n<li><strong>Substantial Holder</strong>: Samuel Terry Asset Management Pty Ltd (trustee for Samuel Terry Absolute Return Fund).  </li>\n<li><strong>Change in Voting Power</strong>: Decreased from <strong>12.25%</strong> (5,769,463 shares) to <strong>11.06%</strong> (5,299,463 shares).  </li>\n<li><strong>Key Transactions</strong>: On-market sales of <strong>470,000+ ordinary shares</strong> between <strong>July\u2013December 2024</strong>, totaling <strong>~$1.7M AUD</strong> in proceeds.  </li>\n<li><strong>Current Holdings</strong>:  </li>\n<li>4,832,146 shares held via J.P. Morgan Nominees (direct interest).  </li>\n<li>Additional holdings by associates (Nigel Burgess and related super fund: 467,317 shares).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Reduced institutional ownership may affect liquidity; monitor for further sell-downs.</p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change Notice</strong>: Samuel Terry Asset Management reduced its stake in Bisalloy Steel Group (ASX: BIS).  </li>\n<li><strong>Previous Holding</strong>: 5,769,463 shares (12.25% voting power).  </li>\n<li><strong>Current Holding</strong>: 5,299,463 shares (11.06% voting power).  </li>\n<li><strong>Key Transactions</strong>: On-market sales totaling ~470,000 shares from 24/07/2024 to 03/12/2024, with proceeds exceeding <strong>$2M AUD</strong>.  </li>\n</ul>\n<p><em>No material capital markets or liquidity impact identified beyond reduced institutional ownership.</em></p>",
     "usage": {
-      "prompt_tokens": 2470,
-      "completion_tokens": 192,
-      "total_tokens": 2662,
+      "prompt_tokens": 2468,
+      "completion_tokens": 128,
+      "total_tokens": 2596,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:26:51.301788"
+    "processed_at": "2025-06-25T08:52:10.230962"
   },
   {
-    "ticker": "TEK",
+    "ticker": "RZI",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962080",
     "id": "02962080",
     "pages": 5,
@@ -65,15 +122,15 @@
     "date": "20250625",
     "time": "1800",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dp2y1ktw0m.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Update</strong>: Thorney Technologies Ltd and related entities increased their voting power in Raiz Invest Limited (ASX:RZI) from <strong>12.83% to 13.96%</strong>.  </li>\n<li><strong>Key Transaction Dates</strong>: Cumulative share purchases occurred between <strong>05-Sep-24 and 23-Jun-25</strong>, totaling <strong>1,529,801 additional RZI ordinary shares</strong> acquired via market purchases and a share purchase plan (SPP).  </li>\n<li><strong>Latest Purchase (23-Jun-25)</strong>: Acquired <strong>12,632 shares</strong> at nil stated consideration, plus <strong>390,750 shares</strong> via TIGA Trading Pty Ltd and <strong>130,250 shares</strong> via Thorney Technologies Ltd ($75,545).  </li>\n</ul>\n<p><em>No material capital raising, trading halt, or operational updates identified.</em></p>",
+    "summary": "<p><strong>Key Material Information from Substantial Holder Notice (Form 604):</strong><br />\n- <strong>Entity:</strong> Thorney Technologies Ltd and associated entities increased stake in <strong>Raiz Invest Limited (RZI)</strong>.<br />\n- <strong>Total Voting Power Change:</strong> Increased from <strong>12.83%</strong> (13,175,205 shares) to <strong>13.96%</strong> (14,704,825 shares).<br />\n- <strong>Recent Purchases:</strong><br />\n  - <strong>23-Jun-25:</strong> Acquired <strong>12,632 shares</strong> (market purchase).<br />\n  - <strong>20-Jun-25:</strong> Acquired <strong>31,776 shares</strong> (market purchase), plus <strong>10,592 shares</strong> by Thorney Technologies Ltd ($6,143.36 consideration).<br />\n- <strong>Key Holdings:</strong><br />\n  - <strong>TIGA Trading Pty Ltd:</strong> 10,851,160 shares.<br />\n  - <strong>Thorney Technologies Ltd:</strong> 3,853,665 shares (direct).  </p>\n<p><em>Summary: Material increase in substantial holding (+1.13% voting power), signaling continued accumulation of RZI shares.</em></p>",
     "usage": {
-      "prompt_tokens": 3178,
-      "completion_tokens": 166,
-      "total_tokens": 3344,
+      "prompt_tokens": 3176,
+      "completion_tokens": 218,
+      "total_tokens": 3394,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:50.020422"
+    "processed_at": "2025-06-25T08:48:47.555632"
   },
   {
     "ticker": "RZI",
@@ -84,15 +141,15 @@
     "date": "20250625",
     "time": "1800",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dr6qgb9wn0.pdf",
-    "summary": "<h3><strong>Material Information Summary \u2013 Substantial Holder Notice (Raiz Invest Ltd [RZI])</strong></h3>\n<ul>\n<li><strong>Substantial Holder</strong>: TIGA Trading Pty Ltd &amp; associates (controlled by Alex Waislitz).  </li>\n<li><strong>Change in Ownership</strong>:  </li>\n<li><strong>Total Holdings</strong>: Increased from <strong>12.83% (13,175,205 shares)</strong> to <strong>13.96% (14,704,825 shares)</strong>.  </li>\n<li><strong>Key Transactions</strong>:  <ul>\n<li><strong>Market Purchases</strong>: Aggregated <strong>590,847 shares</strong> via TIGA Trading and Thorney Technologies Ltd between Sep-2024 and Jun-2025.  </li>\n<li><strong>Share Purchase Plan (SPP)</strong>: <strong>73,171 shares</strong> acquired for $30,000 (20-Sep-24).  </li>\n</ul>\n</li>\n<li><strong>Current Interest</strong>:  </li>\n<li><strong>TIGA Trading</strong>: <strong>10,851,160 shares</strong> (directly held).  </li>\n<li><strong>Thorney Technologies Ltd</strong>: <strong>3,853,665 shares</strong> (beneficially held).  </li>\n</ul>\n<p><strong>No material capital structure or liquidity impact identified</strong>. Purely disclosure of incremental stake increase.</p>",
+    "summary": "<p><strong>Summary of Substantial Holder Notice (Form 604) for Raiz Invest Ltd [ASX:RZI]:</strong>  </p>\n<ul>\n<li><strong>Substantial Holder</strong>: TIGA Trading Pty Ltd (and associates under Thorney Investment Group).  </li>\n<li><strong>Change in Holdings</strong>: Increased stake from <strong>12.83% (13,175,205 shares)</strong> to <strong>13.96% (14,704,825 shares)</strong> as of 23-Jun-25.  </li>\n<li><strong>Key Purchases</strong>: Market purchases and Share Purchase Plan (SPP) participation between Sep-24 and Jun-25, totaling <strong>390,750 shares</strong> (TIGA Trading) and <strong>130,250 shares</strong> (Thorney Technologies Ltd).  </li>\n<li><strong>Recent Transaction (23-Jun-25)</strong>: Acquired <strong>390,750 shares</strong> for <strong>$226,635</strong> (TIGA Trading) + <strong>130,250 shares</strong> (Thorney Technologies Ltd at nil consideration).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Increased institutional ownership may signal confidence in RZI. No dilution or capital structure changes reported.  </p>\n<p><em>Omits non-material legal/entity details.</em></p>",
     "usage": {
       "prompt_tokens": 3196,
-      "completion_tokens": 236,
-      "total_tokens": 3432,
+      "completion_tokens": 229,
+      "total_tokens": 3425,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:09.601534"
+    "processed_at": "2025-06-25T08:47:18.560243"
   },
   {
     "ticker": "RIM",
@@ -103,15 +160,15 @@
     "date": "20250625",
     "time": "1758",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dlr4kr2g9h.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: Notification of 8,000,000 unlisted options (RIMAE) issued to Directors (or nominees) as part of a previously announced Tranche 2 Placement.  </li>\n<li><strong>Option Terms</strong>: Free attaching options exercisable at $0.03 each, expiring 31 March 2027.  </li>\n<li><strong>No Cash Consideration</strong>: Issued as part of a shareholder-approved transaction (General Meeting on 30 May 2025).  </li>\n<li><strong>Post-Issuance Unquoted Securities</strong>:  </li>\n<li>RIMAE: 97,650,000 options outstanding.  </li>\n<li>RIMAD: 15,266,665 options (expiring 31-Dec-2025).  </li>\n<li>RIMAB: 88,700,000 options (variable terms).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (non-dilutive, non-quoted issuance).</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 8,000,000 unlisted options (RIMAE) issued on 25/06/2025, expiring 31-Mar-2027 with an exercise price of $0.03.  </li>\n<li><strong>Reason for Issuance</strong>: Free attaching options issued to Directors (or nominees) as approved by shareholders at the 30-May-2025 General Meeting (part of Tranche 2 Placement).  </li>\n<li><strong>No Further Issuances</strong>: Confirmed no additional securities to be issued under this transaction.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li><strong>Quoted</strong>: 2,517,893,893 ordinary shares (RIM).  </li>\n<li><strong>Unquoted</strong>:  <ul>\n<li>97,650,000 RIMAE options.  </li>\n<li>15,266,665 RIMAD options (expiring 31-Dec-2025, $0.05 exercise).  </li>\n<li>88,700,000 RIMAB options (varying terms).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond standard disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1420,
-      "completion_tokens": 191,
-      "total_tokens": 1611,
+      "completion_tokens": 228,
+      "total_tokens": 1648,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:25:29.129980"
+    "processed_at": "2025-06-25T08:50:39.237942"
   },
   {
     "ticker": "IMA",
@@ -122,15 +179,15 @@
     "date": "20250625",
     "time": "1755",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dhyc55w7cm.pdf",
-    "summary": "<ul>\n<li><strong>Performance Rights Issuance</strong>: 10,912,219 unquoted performance rights (IMAAP) issued on 24/06/2025 under an employee incentive scheme.  </li>\n<li><strong>Allocation to KMP</strong>:  </li>\n<li>John McEvoy (via Pauline McEvoy): 5,179,536 performance rights.  </li>\n<li>Todd Colton (via Sasha Colton): 5,732,683 performance rights.  </li>\n<li><strong>Vesting Conditions</strong>: Terms disclosed in AGM notices (28/05/2024 and 30/05/2025).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Ordinary shares (IMA): 1,112,983,146 quoted.  </li>\n<li>Performance rights (IMAAP): 44,951,116 unquoted.  </li>\n<li><strong>No shareholder approval required</strong>: Issued under Listing Rule 7.2 exception (Employee Incentive Scheme).  </li>\n</ul>\n<p><strong>No material trading or capital structure impact identified (non-dilutive issuance to insiders under existing scheme).</strong></p>",
+    "summary": "<p><strong>Summary of Appendix 3G - Notification of Issue of Unquoted Securities (Performance Rights):</strong><br />\n- <strong>Security Type:</strong> Performance Rights (unquoted, under employee incentive scheme).<br />\n- <strong>Total Issued:</strong> 10,912,219 IMAAP performance rights (issued 24/06/2025).<br />\n- <strong>Key Management Personnel (KMP) Allocations:</strong><br />\n  - John McEvoy (via Pauline McEvoy): 5,179,536 rights.<br />\n  - Todd Colton (via Sasha Colton): 5,732,683 rights.<br />\n- <strong>Vesting Conditions:</strong> Subject to terms disclosed in AGM notices (28/05/2024 and 30/05/2025).<br />\n- <strong>Post-Issue Capital Structure:</strong><br />\n  - Ordinary shares (IMA): 1,112,983,146.<br />\n  - Total performance rights (IMAAP): 44,951,116.<br />\n- <strong>Listing Rule Exception:</strong> Issued under LR 7.2 exception 13 (no shareholder approval required).  </p>\n<p><strong>Material Impact:</strong><br />\n- Dilution risk from performance rights (3.9% of ordinary shares outstanding if fully vested).<br />\n- Significant allocation to KMPs (99.4% of this issue).  </p>\n<p><em>Omitted: Legal boilerplate, issuer background, non-KMP allocations (if any).</em></p>",
     "usage": {
-      "prompt_tokens": 1477,
-      "completion_tokens": 217,
-      "total_tokens": 1694,
+      "prompt_tokens": 1475,
+      "completion_tokens": 287,
+      "total_tokens": 1762,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:24:24.542198"
+    "processed_at": "2025-06-25T08:49:54.952601"
   },
   {
     "ticker": "ALD",
@@ -141,15 +198,15 @@
     "date": "20250625",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3d9m249xsdy.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing:</strong> Magellan Financial Group Ltd and related entities ceased to be a substantial holder in Ampol Limited on 23/06/2025.  </li>\n<li><strong>Net Change in Holdings:</strong>  </li>\n<li><strong>Total Purchases:</strong> ~2.22M shares for ~$58.74M (25/09/2024 to 02/06/2025).  </li>\n<li><strong>Total Sales:</strong> ~2.75M shares for ~$72.88M (16/01/2025 to 23/06/2025).  </li>\n<li><strong>Net Reduction:</strong> ~529,892 shares (net selling of ~$14.14M).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Magellan Financial Group Ltd and its affiliates ceased to be a substantial holder in Ampol Limited on <strong>23/06/2025</strong>.  </li>\n<li><strong>Net Share Transactions</strong>:  </li>\n<li><strong>Total Purchases</strong>: ~2.22M shares for <strong>AUD 58.74M</strong> (Sep 2024\u2013Jun 2025).  </li>\n<li><strong>Total Sales</strong>: ~2.75M shares for <strong>AUD 72.88M</strong> (Jan\u2013Jun 2025), resulting in a <strong>net reduction</strong> of ~529,892 shares.  </li>\n<li><strong>Final Stake</strong>: Zero shares held as of 23/06/2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 3010,
-      "completion_tokens": 149,
-      "total_tokens": 3159,
+      "prompt_tokens": 3012,
+      "completion_tokens": 150,
+      "total_tokens": 3162,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:26:09.884357"
+    "processed_at": "2025-06-25T08:51:43.241335"
   },
   {
     "ticker": "SSH",
@@ -160,15 +217,15 @@
     "date": "20250625",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dfv31rm5nt.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Details</strong>:  </li>\n<li><strong>Structure</strong>: Two-tranche placement  </li>\n<li><strong>Shares Issued (Tranche 1)</strong>: 8,440,433 fully paid ordinary shares at <strong>$0.105 per share</strong> (completed).  </li>\n<li><strong>Pending Issuance (Tranche 1)</strong>: 6,534,529 shares to be issued <strong>on or around 2 July 2025</strong>.  </li>\n<li><strong>Legal Compliance</strong>: Cleansing notice confirms no material undisclosed information under <strong>Corporations Act 708A(5)</strong>.  </li>\n</ul>\n<p><em>Omitted: Background, director names, and non-financial operational details.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising</strong>: Placement of 8,440,433 shares at $0.105 per share (total ~AUD $886,246).  </li>\n<li><strong>Additional Issuance</strong>: 6,534,529 shares under Tranche 1 to be issued around 2 July 2025.  </li>\n<li><strong>Cleansing Notice</strong>: Confirms compliance with disclosure exemptions under Section 708A(5) of the Corporations Act.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 828,
-      "completion_tokens": 138,
-      "total_tokens": 966,
+      "completion_tokens": 98,
+      "total_tokens": 926,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:16.598599"
+    "processed_at": "2025-06-25T08:47:26.131590"
   },
   {
     "ticker": "RIM",
@@ -179,15 +236,15 @@
     "date": "20250625",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3dcprwqs5tf.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Application for quotation of securities (Placement)  </li>\n<li><strong>Securities Issued</strong>: 8,000,000 ordinary shares (ASX: RIM)  </li>\n<li><strong>Issue Price</strong>: AUD 0.025 per share (AUD 200,000 total)  </li>\n<li><strong>Issue Date</strong>: 25/06/2025  </li>\n<li><strong>Escrow</strong>: 12-month escrow period for issued shares  </li>\n<li><strong>Attaching Options</strong>: 1 free unlisted option (exercise price AUD 0.03, expiry 31/03/2027) per share to be issued later (\"Tranche 2 Placement\")  </li>\n<li><strong>Post-Issue Capital</strong>: 2,525,893,893 RIM shares on issue; unlisted options outstanding as per Part 4.2.  </li>\n</ul>\n<p>No other material trading/capital structure impacts identified.</p>",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 8,000,000 fully paid ordinary shares issued at AUD 0.025 per share (total AUD 200,000).  </li>\n<li><strong>Recipients</strong>: Shares issued to directors/nominees, escrowed for 12 months (approved at 30 May 2025 General Meeting).  </li>\n<li><strong>Options Issuance</strong>: Tranche 2 placement includes 1 free unlisted option (exercise price AUD 0.03, expiry 31 March 2027) per new share issued.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Ordinary shares on issue: 2,525,893,893.  </li>\n<li>Unquoted options: 193,616,665 (across three series with varying expiry dates/exercise prices).  </li>\n</ul>\n<p><em>No additional material trading or capital markets impacts identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1524,
-      "completion_tokens": 181,
-      "total_tokens": 1705,
+      "prompt_tokens": 1522,
+      "completion_tokens": 177,
+      "total_tokens": 1699,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:26:02.734565"
+    "processed_at": "2025-06-25T08:51:38.141500"
   },
   {
     "ticker": "IMA",
@@ -198,15 +255,15 @@
     "date": "20250625",
     "time": "1752",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3d74hj4qf2j.pdf",
-    "summary": "<ul>\n<li><strong>Performance Rights Issuance</strong>: 11,428,686 unquoted performance rights (IMAAP) issued to CEO Patrick Mutz on 24/06/2025, approved by shareholders at 2024 &amp; 2025 AGMs.  </li>\n<li><strong>Total Outstanding Performance Rights</strong>: 45,467,583 IMAAP following this issuance.  </li>\n<li><strong>Ordinary Shares Outstanding</strong>: 1,112,983,146 quoted ordinary shares (IMA).  </li>\n</ul>\n<p><em>No material dilution or trading impact identified (issued under employee incentive scheme, not quoted).</em></p>",
+    "summary": "<ul>\n<li><strong>Performance Rights Issuance</strong>: 11,428,686 performance rights (IMAAP) issued to KMP Patrick Mutz on 24/06/2025.  </li>\n<li><strong>Shareholder Approval</strong>: Issuance approved at AGMs on 28 May 2024 and 30 May 2025.  </li>\n<li><strong>Total Securities Outstanding</strong>:  </li>\n<li>Ordinary shares (IMA): 1,112,983,146 (quoted).  </li>\n<li>Performance rights (IMAAP): 45,467,583 (unquoted post-issuance).  </li>\n<li><strong>Listing Rule Exception</strong>: Issued under LR 7.2 (employee incentive scheme exemption).  </li>\n</ul>\n<p><em>No material dilution or capital impact noted (0.7% of ordinary shares).</em></p>",
     "usage": {
       "prompt_tokens": 1418,
-      "completion_tokens": 116,
-      "total_tokens": 1534,
+      "completion_tokens": 158,
+      "total_tokens": 1576,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:21.140335"
+    "processed_at": "2025-06-25T08:47:33.125596"
   },
   {
     "ticker": "SSH",
@@ -217,15 +274,15 @@
     "date": "20250625",
     "time": "1748",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3d058yzdzbg.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Announcement Type:</strong> <em>Appendix 2A \u2013 Application for Quotation of Securities</em>  </p>\n<ul>\n<li><strong>Capital Raising Details:</strong>  </li>\n<li><strong>8,440,433 fully paid ordinary shares issued</strong> under a <strong>placement</strong> (previously announced 12-Jun-2025).  </li>\n<li><strong>Issue price:</strong> <strong>A$0.105 per share</strong>.  </li>\n<li><strong>Issue date:</strong> <strong>25-Jun-2025</strong>.  </li>\n<li>\n<p><strong>Additional tranche pending:</strong> <strong>6,534,529 shares</strong> to be issued <strong>on or around 2-Jul-2025</strong>.  </p>\n</li>\n<li>\n<p><strong>Post-Issue Capital Structure:</strong>  </p>\n</li>\n<li><strong>Total ordinary shares on issue (quoted):</strong> <strong>74,340,286</strong>.  </li>\n<li><strong>Unquoted securities:</strong>  <ul>\n<li><strong>7,000,000 performance rights</strong> (SSHAL).  </li>\n<li><strong>10,000,000 options</strong> (expiring 09-Sep-2025 @ A$0.35 strike, SSHAK).  </li>\n</ul>\n</li>\n</ul>\n<p><strong>Prioritized Data:</strong> Issues impacting liquidity (new shares), capital structure (post-issue ownership), and pending dilution (additional tranche). All boilerplate omitted.</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising</strong>: Issue of 8,440,433 new ordinary shares (SSH) via placement at AUD 0.105 per share.  </li>\n<li><strong>Additional Issuance</strong>: Further 6,534,529 shares to be issued under Tranche 1 around 2 July 2025.  </li>\n<li><strong>Post-Issue Capital</strong>: Total ordinary shares on issue post-quotation will be <strong>74,340,286</strong> (excluding unquoted securities).  </li>\n<li><strong>Unquoted Securities</strong>:  </li>\n<li>7,000,000 performance rights (SSHAL)  </li>\n<li>10,000,000 options expiring 09-Sep-2025 (SSHAK, exercise price AUD 0.35).  </li>\n</ul>\n<p><em>(Note: No material operational/financial data or trading halt rationale identified.)</em></p>",
     "usage": {
-      "prompt_tokens": 1394,
-      "completion_tokens": 252,
-      "total_tokens": 1646,
+      "prompt_tokens": 1396,
+      "completion_tokens": 171,
+      "total_tokens": 1567,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:25:55.632370"
+    "processed_at": "2025-06-25T08:50:49.760878"
   },
   {
     "ticker": "AEI",
@@ -236,15 +293,15 @@
     "date": "20250625",
     "time": "1748",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3d29m2yn7lf.pdf",
-    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Maurie Stang (indirect interests via Stangcorp Pty Ltd, Epitek Corporation Pty Ltd, Meditsuper Pty Ltd, Energy Trading Systems Pty Ltd, and Gryphon Capital Pty Ltd).  </li>\n<li><strong>Transaction Date</strong>: 23 June 2025.  </li>\n<li><strong>Activity</strong>: Indirect acquisition of <strong>8,166,667 fully paid ordinary shares</strong> on-market at <strong>$0.037 per share</strong> (total consideration: <strong>$302,166.66</strong>).  </li>\n<li><strong>Post-transaction Holdings</strong>:  </li>\n<li>Direct: 15,279,749 shares (unchanged).  </li>\n<li>Indirect: 16,808,738 shares (vs. prior 8,642,071).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period requiring clearance.  </li>\n</ul>\n<p><strong>Material Implications</strong>: Significant increase in director\u2019s indirect stake (+8.17M shares), potentially signaling confidence. Price may indicate market transactions at a discount.</p>",
+    "summary": "<ul>\n<li><strong>Director's Share Transaction</strong>: Maurie Stang indirectly acquired <strong>8,166,667 fully paid ordinary shares</strong> at <strong>$0.037 per share</strong> (total consideration: <strong>$302,166.66</strong>) via on-market trade.  </li>\n<li><strong>Post-Transaction Holdings</strong>:  </li>\n<li>Direct: <strong>15,279,749 shares</strong> (unchanged).  </li>\n<li>Indirect: <strong>16,808,738 shares</strong> (previously 8,642,071).  </li>\n<li><strong>No Closed Period Breach</strong>: Trade did not occur during a closed period requiring clearance.  </li>\n</ul>\n<p><em>Summary</em>: Material update involves <strong>director's significant share purchase</strong>, signaling potential confidence. No other actionable data for trading/capital decisions.</p>",
     "usage": {
-      "prompt_tokens": 1096,
-      "completion_tokens": 216,
-      "total_tokens": 1312,
+      "prompt_tokens": 1094,
+      "completion_tokens": 149,
+      "total_tokens": 1243,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:23:50.546363"
+    "processed_at": "2025-06-25T08:49:18.532357"
   },
   {
     "ticker": "AEI",
@@ -255,15 +312,15 @@
     "date": "20250625",
     "time": "1746",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3cvpq4yvqxk.pdf",
-    "summary": "<h3><strong>Material Information Summary (ASX Form 604 \u2013 Change in Substantial Holding)</strong></h3>\n<ul>\n<li><strong>Substantial Holder:</strong> Maurie Stang  </li>\n<li><strong>Entity:</strong> Aeris Environmental Ltd (ASX:AEI)  </li>\n<li><strong>Key Changes in Shareholding:</strong>  </li>\n<li><strong>Acquisition:</strong> 8,166,667 shares @ $0.037/share ($302,166.66 total) on 23 June 2025.  </li>\n<li><strong>Previous Holding:</strong> 23,881,819 shares (9.86% voting power).  </li>\n<li><strong>Revised Holding:</strong> 32,088,487 shares (13.04% voting power).  </li>\n<li><strong>Transfer:</strong> 5,529,411 shares moved from Maurie Stang to Energy Trading Systems Pty Ltd.  </li>\n</ul>\n<p><strong>No other material trading or capital markets information identified.</strong>  </p>\n<p><em>[Summary excludes boilerplate, legal notes, and non-material administrative details.]</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Maurie Stang's voting power in Aeris Environmental Ltd (ASX:AEI) increased to <strong>13.04%</strong> (from 9.86% previously).  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>Off-market transfer</strong>: 50,000 shares acquired for <strong>$8,587</strong> ($0.17/share) on 10/04/2025.  </li>\n<li><strong>On-market purchase</strong>: 8,166,667 shares acquired for <strong>$302,166.66</strong> ($0.037/share) on 23/06/2025.  </li>\n<li><strong>Current Holdings</strong>:  </li>\n<li><strong>Direct</strong>: 15,279,749 shares.  </li>\n<li><strong>Associated entities</strong>: 16,808,738 shares (detailed in Annexure A).  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
       "prompt_tokens": 2019,
-      "completion_tokens": 191,
-      "total_tokens": 2210,
+      "completion_tokens": 180,
+      "total_tokens": 2199,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:21:53.275030"
+    "processed_at": "2025-06-25T08:47:07.039798"
   },
   {
     "ticker": "ALK",
@@ -274,15 +331,15 @@
     "date": "20250625",
     "time": "1746",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3csjv6b9y79.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Structure</strong>: Securities issuance for acquisition (Plan of Arrangement), not a cash raise.  </li>\n<li><strong>Number of Shares Issued</strong>: 768,031,285 ALK ordinary shares.  </li>\n<li><strong>Key Approvals Pending</strong>:  </li>\n<li>Shareholder approval (General Meeting on <strong>28 July 2025</strong>).  </li>\n<li>FIRB approval (expected by <strong>1 July 2025</strong>).  </li>\n<li>Court approval (Supreme Court of British Columbia, expected by <strong>1 August 2025</strong>).  </li>\n<li><strong>Issue Date</strong>: <strong>5 August 2025</strong> (subject to approvals).  </li>\n<li><strong>Consideration</strong>: Shares issued at implied AUD <strong>$0.732020</strong> per share for Mandalay acquisition.  </li>\n<li><strong>No Underwriting/Lead Manager</strong>: Transaction not underwritten; customary advisory fees apply.  </li>\n</ul>\n<p><em>Omitted: Routine legal boilerplate, non-material conditions, and general meeting logistics.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Update to previous announcement (Appendix 3B - Proposed issue of securities)  </li>\n<li><strong>Key Updates</strong>:  </li>\n<li><strong>General Meeting Date</strong>: Alkane Resources Limited General Meeting scheduled for <strong>28 July 2025</strong>.  </li>\n<li><strong>Special Meeting Date</strong>: Mandalay Resources Corporation Special Meeting scheduled for <strong>28 July 2025</strong>.  </li>\n<li><strong>Regulatory Approval</strong>: Swedish Inspectorate of Strategic Products approval received on <strong>17 July 2025</strong>.  </li>\n<li><strong>Proposed Issue Details</strong>:  </li>\n<li><strong>Existing Class</strong>: ALK ordinary fully paid shares.  </li>\n<li><strong>Number of Shares</strong>: <strong>768,031,285</strong> to be issued (as part of Mandalay acquisition via Plan of Arrangement).  </li>\n<li><strong>Implied Consideration</strong>: ~AUD <strong>0.7320/share</strong>.  </li>\n<li><strong>Key Conditions Pending</strong>:  <ul>\n<li>Shareholder approval (both entities) \u2013 <strong>28 July 2025</strong>.  </li>\n<li>Court approval (Supreme Court of British Columbia) \u2013 <strong>1 August 2025</strong> (estimated).  </li>\n<li>FIRB approval \u2013 <strong>1 July 2025</strong> (estimated).  </li>\n</ul>\n</li>\n<li><strong>Expected Issue Date</strong>: <strong>5 August 2025</strong> (if approvals obtained).  </li>\n</ul>\n<p><strong>Priority Note</strong>: No new capital raising or trading halt requested; focus is on pending approvals for merger-related share issuance.</p>",
     "usage": {
-      "prompt_tokens": 1909,
-      "completion_tokens": 192,
-      "total_tokens": 2101,
+      "prompt_tokens": 1907,
+      "completion_tokens": 286,
+      "total_tokens": 2193,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:26:22.618757"
+    "processed_at": "2025-06-25T08:51:59.353481"
   },
   {
     "ticker": "MKR",
@@ -293,15 +350,15 @@
     "date": "20250625",
     "time": "1741",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3cpdtg5lqbr.pdf",
-    "summary": "<ul>\n<li><strong>Issue of Unlisted Options</strong>: 1,000,000 unlisted options issued (exercise price $0.06, expiry 29 May 2026) as payment for financial advisory services.  </li>\n<li><strong>Capital Structure Impact</strong>: Adds to existing unquoted options; total ordinary shares remain 833,567,669.  </li>\n<li><strong>Approval</strong>: Issued under 15% placement capacity (no shareholder approval required).  </li>\n</ul>\n<p><em>No material trading or valuation catalysts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Unlisted Options Issuance</strong>: 1,000,000 unlisted options issued (expiry 29 May 2026, exercise price <strong>A$0.06</strong>).  </li>\n<li><strong>Purpose</strong>: Issued in lieu of financial advisory services (no cash consideration).  </li>\n<li><strong>ASX Capacity</strong>: Issued under 15% placement capacity (Listing Rule 7.1; no shareholder approval required).  </li>\n<li><strong>Total Options Outstanding</strong>: 1,000,000 added to existing unquoted options (see Part 4.2 for details).  </li>\n</ul>\n<p><em>Note: No material impact on capital structure or liquidity identified (minor dilution via non-cash settlement).</em></p>",
     "usage": {
-      "prompt_tokens": 2050,
-      "completion_tokens": 98,
-      "total_tokens": 2148,
+      "prompt_tokens": 2048,
+      "completion_tokens": 139,
+      "total_tokens": 2187,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:24:28.897214"
+    "processed_at": "2025-06-25T08:50:01.952111"
   },
   {
     "ticker": "BIO",
@@ -312,15 +369,15 @@
     "date": "20250625",
     "time": "1740",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3cmb3ssqxd4.pdf",
-    "summary": "<h3><strong>Capital Raising Announcement (Placement)</strong></h3>\n<ul>\n<li><strong>Structure</strong>: Placement (issuance in lieu of cash for advisory services)  </li>\n<li><strong>Total securities issued</strong>: 244,442 ordinary shares (ASX: BIO)  </li>\n<li><strong>Issue date</strong>: 27 June 2025  </li>\n<li><strong>Consideration</strong>: AUD 110,000 (estimated value of advisory services)  </li>\n<li><strong>Key approval</strong>: Utilizes 15% placement capacity (Listing Rule 7.1) \u2013 no shareholder approval required.  </li>\n<li><strong>Purpose</strong>: Payment for advisory services; no change to dividend policy.  </li>\n</ul>\n<p><strong>Note</strong>: No material dilution impact (small issuance relative to typical placement sizes).</p>",
+    "summary": "<h3><strong>Capital Raising Announcement Summary - Biome Australia Limited (BIO)</strong></h3>\n<ul>\n<li><strong>Type of Issue</strong>: Placement (shares issued for advisory services)  </li>\n<li><strong>Total Securities Issued</strong>: 244,442 ordinary shares (BIO)  </li>\n<li><strong>Issue Price Equivalent</strong>: ~AUD $110,000 (estimated consideration)  </li>\n<li><strong>Issue Date</strong>: 27 June 2025  </li>\n<li><strong>Key Conditions</strong>:  </li>\n<li>No security holder approval required (utilizes 15% placement capacity under ASX Listing Rule 7.1).  </li>\n<li>No escrow restrictions or underwriting.  </li>\n<li><strong>Purpose</strong>: Issuance in lieu of cash payment for advisory services.  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing securities.  </li>\n</ul>\n<p><strong>No material dilution or trading impact noted.</strong></p>",
     "usage": {
-      "prompt_tokens": 1596,
-      "completion_tokens": 138,
-      "total_tokens": 1734,
+      "prompt_tokens": 1594,
+      "completion_tokens": 164,
+      "total_tokens": 1758,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:23:40.122086"
+    "processed_at": "2025-06-25T08:49:12.694926"
   },
   {
     "ticker": "CBY",
@@ -331,15 +388,15 @@
     "date": "20250625",
     "time": "1736",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3cj9bxfpchm.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Investor Presentation Key Highlights:</strong><br />\n- <strong>Briggs Copper Project (QLD, CBY 49%):</strong><br />\n  - Scoping Study results due <strong>August 2025</strong> (potential large-scale open pit, low strip ratio).<br />\n  - Updated <strong>Mineral Resource Estimate (April 2025)</strong>: 932Mt at 0.21% Cu, 36ppm Mo, 0.6ppm Ag (2.0Mt Cu, 73Mlb Mo, 16.5Moz Ag).<br />\n  - Metallurgical recoveries: <strong>94\u201395% Cu</strong>, 62\u201373% Mo.<br />\n  - Drilling resumes <strong>July 2025</strong> (VTEM target testing, 8,000m planned).  </p>\n<ul>\n<li><strong>Capital Structure (June 2025):</strong>  </li>\n<li><strong>Market cap:</strong> $6M ($0.03/share).  </li>\n<li><strong>Cash:</strong> $0.9M (March 2025).  </li>\n<li>\n<p><strong>Debt:</strong> $0.3M.  </p>\n</li>\n<li>\n<p><strong>Catalysts:</strong>  </p>\n</li>\n<li><strong>August 2025:</strong> Briggs Scoping Study (mine plan, financial metrics).  </li>\n<li>\n<p><strong>2025\u20132026:</strong> Pre-feasibility studies, further drilling.  </p>\n</li>\n<li>\n<p><strong>Other Projects:</strong>  </p>\n</li>\n<li><strong>Peenam (QLD, 100%):</strong> Undrilled porphyry Cu-Au target; scout drilling planned.  </li>\n<li><strong>PNG (Wamum/Idzan Creek):</strong> Inferred Resources of <strong>3.2Moz Au + 792kt Cu</strong>.  </li>\n</ul>\n<p><strong>Strategic Context:</strong><br />\n- High leverage to copper/gold prices; partnerships (Rio Tinto, Alma Metals) fund exploration.<br />\n- <strong>Corporate activity noted in sector</strong> (BHP, Newmont bids for similar assets).  </p>\n<p><strong>Omitted:</strong> Routine ops, director details, disclaimers.</p>",
+    "summary": "<ul>\n<li><strong>Briggs Copper Project (QLD)</strong>:  </li>\n<li>Scoping Study results due August 2025; potential for large-scale, low-cost open pit with high copper recoveries (&gt;94%).  </li>\n<li>Updated MRE (April 2025): 932Mt at 0.21% Cu (2.0Mt contained Cu) and 73Mlb Mo at 0.15% Cu cutoff.  </li>\n<li>\n<p>Partner-funded (Alma Metals 51%, covering costs); drilling resumes July 2025.  </p>\n</li>\n<li>\n<p><strong>Capital Structure</strong>:  </p>\n</li>\n<li>Market cap: $6M (207.4M shares @ $0.03).  </li>\n<li>\n<p>Cash: $0.9M (March 2025); debt: $0.3M.  </p>\n</li>\n<li>\n<p><strong>PNG Assets</strong>:  </p>\n</li>\n<li>Wamum Project: 3.16Moz Au &amp; 792kt Cu across Idzan Creek/Wamum Creek (open-pit potential near Wafi-Golpu).  </li>\n<li>\n<p>Ekuti Range: High-grade Cu-Au lodes underexplored.  </p>\n</li>\n<li>\n<p><strong>Catalysts</strong>:  </p>\n</li>\n<li>Briggs Scoping Study (August 2025), drill results (2H 2025), and pre-feasibility transition.  </li>\n</ul>\n<p><strong>Omit</strong>: Background on copper demand, director names, JV boilerplate. Focused on near-term material drivers.</p>",
     "usage": {
       "prompt_tokens": 4999,
-      "completion_tokens": 400,
-      "total_tokens": 5399,
+      "completion_tokens": 289,
+      "total_tokens": 5288,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:23:31.474938"
+    "processed_at": "2025-06-25T08:48:57.455144"
   },
   {
     "ticker": "ADR",
@@ -350,15 +407,15 @@
     "date": "20250625",
     "time": "1735",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3cg2tx85s00.pdf",
-    "summary": "<h3>Summary of Form 605 \u2013 Notice of Ceasing to be a Substantial Holder:</h3>\n<ul>\n<li><strong>Holder:</strong> FIL Limited and its entities (formerly a substantial holder in Adherium Limited).  </li>\n<li><strong>Ceased to be substantial holder on:</strong> 23 June 2025 (previously held 4.34% voting power).  </li>\n<li><strong>Prior holding:</strong> 38,991,036 shares (disclosed in last notice dated 29 May 2024).  </li>\n<li><strong>Reason for cessation:</strong> No longer meets 5% voting power threshold (current holding remains at 4.34%).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine disclosure of reduced stake below substantial holder level).</p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing:</strong> FIL Limited and its entities ceased to be a substantial holder in Adherium Limited on <strong>23 June 2025</strong>.  </li>\n<li><strong>Previous Holding:</strong> Held <strong>38,991,036 shares</strong> (4.34% voting power) as of last notice (29 May 2024).  </li>\n<li><strong>Reason for Ceasing:</strong> Disposal or reduction below 5% threshold (implied).  </li>\n</ul>\n<p><em>No material capital markets or trading impact inferred; no filings suggest further immediate actions.</em></p>",
     "usage": {
-      "prompt_tokens": 779,
-      "completion_tokens": 144,
-      "total_tokens": 923,
+      "prompt_tokens": 777,
+      "completion_tokens": 107,
+      "total_tokens": 884,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:24:52.037016"
+    "processed_at": "2025-06-25T08:50:09.981746"
   },
   {
     "ticker": "BDT",
@@ -369,15 +426,15 @@
     "date": "20250625",
     "time": "1733",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3c9k351y2wt.pdf",
-    "summary": "<h3>Summary of Form 603 (Notice of Initial Substantial Holder):</h3>\n<ul>\n<li><strong>Substantial Holder</strong>: Harvest Lane Asset Management Pty Ltd (ACN 158 314 697)  </li>\n<li><strong>Date Became Substantial Holder</strong>: 16 October 2025  </li>\n<li><strong>Holding Details</strong>:  </li>\n<li><strong>Total Ordinary Shares Held</strong>: 11,983,928 (9.28% of issued shares)  </li>\n<li><strong>Breakdown</strong>:  <ul>\n<li>6,057,094 shares via Palm Beach Nominees  </li>\n<li>8,218,063 shares via BNP Paribas Nominees  </li>\n<li>708,769 shares via BNP Paribas Nominees  </li>\n</ul>\n</li>\n<li><strong>Consideration Paid</strong>: $0.046 \u2013 $0.068 per share (acquired between 17 June 2025 and 16 October 2025).  </li>\n</ul>\n<h3>Material Impact:</h3>\n<ul>\n<li>New substantial holder (9.28% stake) may signal institutional confidence or strategic interest in BDI.ASX.  </li>\n<li>Historical purchase price range provides context for recent trading levels.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<h3><strong>Material Information Summary (Form 603 \u2013 Notice of Initial Substantial Holder \u2013 ASX:BDI)</strong></h3>\n<ul>\n<li><strong>Substantial Holder:</strong> Harvest Lane Asset Management Pty Ltd (ACN: 158 314 697)  </li>\n<li><strong>Date Became Substantial Holder:</strong> 16/10/2025  </li>\n<li><strong>Total Holdings:</strong> 11,983,928 ordinary shares (<strong>9.28%</strong> voting power*)  </li>\n<li><strong>Breakdown of Holdings:</strong>  </li>\n<li>6,057,094 shares held via <strong>Palm Beach Nominees Pty Ltd</strong>  </li>\n<li>8,218,063 shares held via <strong>BNP Paribas Nominees Pty Ltd</strong>  </li>\n<li>708,769 shares held via <strong>BNP Paribas Nominees Pty Ltd</strong>  </li>\n<li><strong>Consideration Paid:</strong> $0.046 \u2013 $0.068 per share (acquired <strong>3/06/2025 \u2013 15/10/2025</strong>)  </li>\n</ul>\n<p>*Based on 161,486,018 shares on issue.  </p>\n<p><strong>Treatment:</strong> Passive institutional stake (investment manager holding via nominee accounts). No control intentions disclosed.  </p>\n<p><em>Note:</em> No material impact on capital structure or liquidity unless further accumulation disclosed. Monitoring for follow-up filings advised.</p>",
     "usage": {
       "prompt_tokens": 1557,
-      "completion_tokens": 229,
-      "total_tokens": 1786,
+      "completion_tokens": 257,
+      "total_tokens": 1814,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:24:11.181438"
+    "processed_at": "2025-06-25T08:49:31.358005"
   },
   {
     "ticker": "FRS",
@@ -388,15 +445,15 @@
     "date": "20250625",
     "time": "1733",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3ccr1dx89dt.pdf",
-    "summary": "<ul>\n<li><strong>Unmarketable Parcel Sale Completion</strong>: 698,376 shares sold at $0.07 per share via tender process.  </li>\n<li><strong>Participation</strong>: 328 shareholders (out of 390 eligible) monetized holdings with no fees.  </li>\n<li><strong>Purpose</strong>: Reduces administrative/share registry costs by cutting small holdings.  </li>\n<li><strong>Next Steps</strong>: Proceeds to be disbursed via direct bank transfer; instructions provided to participants.  </li>\n</ul>\n<p><em>No further material trading or capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Unmarketable Parcels Share Sale Completion</strong>:  </li>\n<li>Sale price achieved: <strong>$0.07 per share</strong>.  </li>\n<li><strong>328 shareholders</strong> participated, selling <strong>698,376 shares</strong> (from original 390 shareholders holding 2,213,862 shares).  </li>\n<li><strong>Rationale</strong>: Reduced shareholder count lowers administrative/registry costs; no brokerage fees for participants.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
     "usage": {
-      "prompt_tokens": 854,
-      "completion_tokens": 101,
-      "total_tokens": 955,
+      "prompt_tokens": 852,
+      "completion_tokens": 92,
+      "total_tokens": 944,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:22:39.038769"
+    "processed_at": "2025-06-25T08:47:54.197981"
   },
   {
     "ticker": "HVY",
@@ -407,15 +464,15 @@
     "date": "20250625",
     "time": "1730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3c6xprgf5q8.pdf",
-    "summary": "<p><strong>Summary of Appendix 3G - Heavy Minerals Limited (ASX: HVY)</strong>  </p>\n<ul>\n<li><strong>Unquoted options exercised</strong>: 100,000 HVYAL options (expiring 20-Oct-2025, exercise price $0.25) converted into ordinary fully paid shares (HVY).  </li>\n<li><strong>New ordinary shares issued</strong>: 100,000 HVY shares on 25-Jun-2025.  </li>\n<li><strong>Post-issue capital structure</strong>:  </li>\n<li><strong>Quoted securities</strong>: 67,568,592 HVY ordinary shares.  </li>\n<li><strong>Unquoted securities</strong>: 9,355,408 options across multiple series (see codes/expiry details) + 2,940,408 performance rights.  </li>\n</ul>\n<p><em>No material trading or capital-raising implications identified beyond standard dilution from option conversion.</em></p>",
+    "summary": "<ul>\n<li><strong>Unquoted Option Exercise</strong>: 100,000 HVYAL options (expiring 20-Oct-2025, exercise price $0.25) converted to ordinary shares (HVY).  </li>\n<li><strong>Ordinary Shares Issued</strong>: 100,000 new HVY shares issued on 25-Jun-2025.  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Ordinary shares (HVY) on issue: <strong>67,568,592</strong> (listed).  </li>\n<li>Unquoted options/rights: <strong>8,755,408</strong> (details in announcement).  </li>\n</ul>\n<p><em>No material trading or capital-raising impacts identified (routine option conversion).</em></p>",
     "usage": {
-      "prompt_tokens": 1847,
-      "completion_tokens": 169,
-      "total_tokens": 2016,
+      "prompt_tokens": 1845,
+      "completion_tokens": 140,
+      "total_tokens": 1985,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:25:42.755455"
+    "processed_at": "2025-06-25T08:50:45.685386"
   },
   {
     "ticker": "HVY",
@@ -426,15 +483,15 @@
     "date": "20250625",
     "time": "1729",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3c4pnxztkgf.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 100,000 new ordinary fully paid shares (HVY) issued at AUD 0.25 per share, resulting from the exercise of HVYAL options.  </li>\n<li><strong>Exercise Details</strong>: Options (HVYAL) exercised on 25/06/2025; 550,000 HVYAL options remain outstanding.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue: 67,668,592.  </li>\n<li><strong>Unquoted Securities</strong>: Multiple unlisted options outstanding, with varying expiry dates and exercise prices (see Part 4.2 for details).  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 100,000 new ordinary fully paid shares (HVY) issued from conversion of options (HVYAL) at AUD 0.25 per share.  </li>\n<li><strong>Exercise Details</strong>: Options converted on 25/06/2025; 550,000 HVYAL options remain outstanding.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue <strong>67,668,592</strong>; unquoted options/rights <strong>9,455,408</strong> (details in announcement).  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified (routine option conversion).</em></p>",
     "usage": {
-      "prompt_tokens": 1869,
-      "completion_tokens": 140,
-      "total_tokens": 2009,
+      "prompt_tokens": 1867,
+      "completion_tokens": 126,
+      "total_tokens": 1993,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T08:26:28.063860"
+    "processed_at": "2025-06-25T08:52:04.223864"
   },
   {
     "ticker": "HVY",
