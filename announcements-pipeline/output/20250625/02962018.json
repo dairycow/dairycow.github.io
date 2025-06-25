@@ -7,13 +7,13 @@
   "date": "20250625",
   "time": "1629",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l37yvl4rskgy.pdf",
-  "summary": "This appears to be a product disclosure document for CitiFirst MINIs (leveraged equity derivatives) rather than an ASX company announcement. Key points:\n\n- **Product Type**: Lists leveraged long/short MINI contracts on ASX stocks, indices, currencies and commodities  \n- **Key Details per MINI**:  \n  - Strike price  \n  - Stop loss trigger level  \n  - Current underlying price  \n  - Gearing ratio (leverage)  \n  - Approximate value  \n  - Distance to stop loss  \n\n- **Effective Date**: 26-Jun-25  \n- **Interest Rates**:  \n  - MINI Longs: 8.45% p.a.  \n  - MINI Shorts: -0.15% p.a.  \n\nNo material corporate actions or capital markets disclosures are present in this document. The content is purely product specifications for structured derivatives.  \n\nIf you need analysis of an actual ASX company announcement, please provide the correct document. For trading MINIs, the key data points above would inform leveraged positioning decisions.",
+  "summary": "This appears to be a product disclosure document for CitiFirst MINIs (leveraged single stock/index/commodity products), not a standard ASX announcement. Below is my concise extraction of key trading-relevant information:\n\n**Product Features Summary:**\n- **Structure**: Leveraged MINI Long/Short contracts on ASX-listed stocks, indices, currencies & commodities  \n- **Effective Date**: 26-Jun-25 for all instruments  \n- **Stop Loss Mechanism**: Each MINI has a preset Stop Loss Trigger Level where positions are automatically closed  \n- **Gearing Range**: Varies from ~10% to 95% for different underlyings  \n- **Interest Rates**:  \n  - MINI Longs: 8.45% p.a.  \n  - MINI Shorts: -0.15% p.a.  \n\n**Key Trading Parameters (Example for Major Stocks):**  \n*BHP Group Ltd (Long MINI):*  \n- Strike $30.81 | Stop $34.93 | Current $36.11  \n- Gearing 85.33% | MINI Value $5.30 | Buffer to Stop 3.27%  \n\n*CSL Ltd (Short MINI):*  \n- Strike $293.20 | Stop $249.23 | Current $238.45  \n- Gearing 81.33% | MINI Value $54.75 | Buffer to Stop 4.52%  \n\n**Index MINIs Highlights:**  \n- *ASX 200 (XJO):*  \n  - Long MINI Strike 7176.00 | Stop 7583 | Current 8535  \n  - Short MINI Strike 11267.27 | Stop 10624 | Current 8535  \n\n**Material Considerations:**  \n1. All MINIs have fixed expiration (26-Jun-25) - time decay risk  \n2. Stop losses are mechanical and non-negotiable  \n3. Wide dispersion in gearing ratios (35%-95%) materially impacts risk/reward  \n\nThis is a derivative product disclosure, not a corporate action. No capital markets events (capital raises, M&A, etc.) are identified in the document.  \n\n*Conclusion: 'No material corporate actions or capital market events identified. Document outlines leveraged product parameters for trading purposes only.'*",
   "usage": {
     "prompt_tokens": 56612,
-    "completion_tokens": 214,
-    "total_tokens": 56826,
+    "completion_tokens": 473,
+    "total_tokens": 57085,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-25T06:53:32.159571"
+  "processed_at": "2025-06-25T07:05:18.588823"
 }
