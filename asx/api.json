@@ -1,5 +1,423 @@
 [
   {
+    "ticker": "IMD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961972",
+    "id": "02961972",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1435",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l344qxdy97zg.pdf",
+    "summary": "<h3><strong>Substantial Holder Notice Summary - IMDEX Ltd (ASX:IMD)</strong></h3>\n<ul>\n<li><strong>Holder:</strong> Australian Retirement Trust (ceased to be substantial holder on 23/06/2025)  </li>\n<li><strong>Key Transactions (Annexure A):</strong>  </li>\n<li><strong>Net sell-down:</strong> Multiple disposals totaling <strong>~12.9M shares</strong> (majority executed April\u2013June 2025).  </li>\n<li><strong>Largest single sale:</strong> <strong>1,994,161 shares</strong> (17/04/2025, $5.38M).  </li>\n<li><strong>Final holding context:</strong> Ceased substantial holding after <strong>final sale of 96,287 shares</strong> (23/06/2025).  </li>\n</ul>\n<p><strong>Material Implication:</strong> Significant reduction in institutional ownership (liquidity/volatility factor). Post-holding below 5% threshold.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3051,
+      "completion_tokens": 185,
+      "total_tokens": 3236,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:28.331665"
+  },
+  {
+    "ticker": "LCL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961971",
+    "id": "02961971",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1433",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3428wdm257g.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities)</h3>\n<ul>\n<li><strong>Security Issue</strong>: <strong>4,444,444 fully paid ordinary shares (LCL)</strong> to be quoted on ASX.  </li>\n<li><strong>Issue Type</strong>: Placement (previously announced via Appendix 3B on 13-Nov-2024).  </li>\n<li><strong>Issue Price</strong>: <strong>A$0.009 per share</strong>.  </li>\n<li><strong>Issue Date</strong>: <strong>25-Jun-2025</strong>.  </li>\n<li><strong>Recipients</strong>: Allocated to two directors (shareholder approval obtained on 9-Jun-2025).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li><strong>Ordinary Shares (LCL)</strong>: 1,199,257,151  </li>\n<li><strong>Options (LCLO)</strong>: 105,263,146 (expiring 11-Feb-2026).  </li>\n<li><strong>Unquoted Securities</strong>: Performance rights (LCLAAB) and options (LCLAAD) outstanding.  </li>\n</ul>\n<p><strong>No further material information identified.</strong>  </p>\n<p>(Note: Excluded boilerplate, distribution schedule breakdowns, and issuer background.)</p>",
+    "usage": {
+      "prompt_tokens": 1369,
+      "completion_tokens": 232,
+      "total_tokens": 1601,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:52.982720"
+  },
+  {
+    "ticker": "TOK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961970",
+    "id": "02961970",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1433",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l340531q35g6.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Appendix 3G - Employee incentive scheme issuance  </li>\n<li><strong>Securities Issued</strong>: 2,000,000 performance rights (TOKAE)  </li>\n<li><strong>Issue Date</strong>: 25/06/2025  </li>\n<li><strong>Recipient</strong>: Larry Andagali (Key Management Personnel)  </li>\n<li><strong>Total Unquoted Performance Rights Outstanding</strong>: 15,350,000 (TOKAE)  </li>\n<li><strong>Listing Rule Exception</strong>: Issued under LR 7.2 Exception 14 (employee incentive scheme, no shareholder approval required)  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine equity incentive issuance).</em></p>",
+    "usage": {
+      "prompt_tokens": 1565,
+      "completion_tokens": 133,
+      "total_tokens": 1698,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:39:47.965402"
+  },
+  {
+    "ticker": "GRX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961969",
+    "id": "02961969",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1429",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33xbrn7l566.pdf",
+    "summary": "<ul>\n<li><strong>Type</strong>: Employee incentive scheme option issuance (unquoted securities)  </li>\n<li><strong>Options issued</strong>:  </li>\n<li><strong>4.4m $1.05 options</strong>, expiry 31 May 2029  </li>\n<li><strong>4.4m $1.20 options</strong>, expiry 31 May 2030  </li>\n<li><strong>Key management participation</strong>:  </li>\n<li>Simon Kersey: 600,000 options each type  </li>\n<li>Dylan Browne (via Vino Capital): 600,000 options each type  </li>\n<li><strong>Underlying security</strong>: GRX ordinary shares  </li>\n<li><strong>Total ordinary shares on issue</strong>: 287.1m  </li>\n<li><strong>Other unquoted securities</strong>: Includes 11m performance rights and ~12.3m existing options (various strikes)  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified (non-dilutive until exercised).</em></p>",
+    "usage": {
+      "prompt_tokens": 2320,
+      "completion_tokens": 175,
+      "total_tokens": 2495,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:38:23.412024"
+  },
+  {
+    "ticker": "EML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961968",
+    "id": "02961968",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250625",
+    "time": "1425",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33tfrb0nbws.pdf",
+    "summary": "<ul>\n<li><strong>Class Action Settlement</strong>: EML Payments has agreed to settle a shareholder class action for <strong>AUD 37.36 million</strong> (inclusive of interest and costs).  </li>\n<li><strong>Conditions</strong>: Settlement depends on (a) final deed execution and (b) court approval. No admission of liability.  </li>\n<li><strong>Funding</strong>: To be covered by existing cash and debt facilities.  </li>\n<li><strong>Impact</strong>: Resolves legal uncertainty, allowing focus on strategic priorities (EML2.0 strategy).  </li>\n</ul>\n<p>No material trading or capital markets actions required.</p>",
+    "usage": {
+      "prompt_tokens": 759,
+      "completion_tokens": 110,
+      "total_tokens": 869,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:39:35.728719"
+  },
+  {
+    "ticker": "IVX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961966",
+    "id": "02961966",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1423",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33ntw13l125.pdf",
+    "summary": "<h3>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice</h3>\n<ul>\n<li><strong>Director</strong>: Alan Yamashita  </li>\n<li><strong>Transaction</strong>: Exercise of 41,411 unlisted share options (zero consideration) into ordinary shares (issued in lieu of director fees, approved at 2024 AGM).  </li>\n<li><strong>Post-Transaction Holdings</strong>:  </li>\n<li>150,053 ordinary shares (previously 108,642).  </li>\n<li>0 unlisted share options (previously 41,411).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period.  </li>\n</ul>\n<p><strong>Material Impact</strong>: No material liquidity/capital structure impact (minor dilution from options exercise).  </p>\n<p><strong>Rules Applied</strong>: Omitted legal boilerplate, non-financial details. Focused on equity change and dilution context.</p>",
+    "usage": {
+      "prompt_tokens": 1015,
+      "completion_tokens": 162,
+      "total_tokens": 1177,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:01.328461"
+  },
+  {
+    "ticker": "IVX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961967",
+    "id": "02961967",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1423",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33qzqpj69hr.pdf",
+    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change</strong>: Thian Chew exercised <strong>68,086 unlisted share options</strong> (zero consideration) for <strong>68,086 ordinary shares</strong> (issued in lieu of director fees).  </li>\n<li><strong>Post-Transaction Holdings</strong>:  </li>\n<li>Direct: <strong>246,706 ordinary shares</strong> (+68,086) and <strong>1,605,024 unlisted options</strong> (-68,086).  </li>\n<li>Indirect (via Polar Ventures): <strong>5,468,578 ordinary shares</strong> (unchanged).  </li>\n<li><strong>No closed period trading</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1089,
+      "completion_tokens": 122,
+      "total_tokens": 1211,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:07.262843"
+  },
+  {
+    "ticker": "IVX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961965",
+    "id": "02961965",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1421",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33lhmb102vg.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Alistair Bennallack exercised 37,647 unlisted share options (zero cost) for 37,647 ordinary shares.  </li>\n<li><strong>Post-Transaction Holdings</strong>: 235,147 ordinary shares held (previously 197,500). Options reduced to 0 (from 37,647).  </li>\n<li><strong>Closed Period Compliance</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1020,
+      "completion_tokens": 92,
+      "total_tokens": 1112,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:32.765033"
+  },
+  {
+    "ticker": "ALM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961964",
+    "id": "02961964",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1417",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33hkhz5xlr9.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Change of Director\u2019s Interest Notice (Appendix 3Y)  </li>\n<li><strong>Director</strong>: Valentine Chitalu  </li>\n<li><strong>Key Changes</strong>:  </li>\n<li><strong>On-market purchase</strong> of <strong>5,000,000 ordinary shares</strong> at <strong>$20,100 total consideration</strong> (~$0.004/share).  </li>\n<li><strong>Post-transaction holdings</strong>: <strong>19,834,758 ordinary shares</strong> + <strong>2,000,000 options</strong> (exercise price: 1.5c, expiry: 31 Oct 2027).  </li>\n<li><strong>No closed period breach</strong>: Trade did not occur during a restricted period.  </li>\n</ul>\n<p><strong>Material Relevance</strong>: Signals director confidence via personal share acquisition, though minimal immediate trading impact due to small transaction size. No changes to capital structure or dilution.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 970,
+      "completion_tokens": 182,
+      "total_tokens": 1152,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:39:32.942677"
+  },
+  {
+    "ticker": "RBX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961962",
+    "id": "02961962",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1414",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33br5gh0f1m.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 3G):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 13,695,465 unquoted options (Code: RBXAO) issued at AUD 0.003 per option.  </li>\n<li><strong>Expiry</strong>: 26-Mar-2028 | <strong>Exercise Price</strong>: AUD 0.06.  </li>\n<li><strong>Purpose</strong>: Shortfall options under prior underwriting agreement (originally disclosed in Appendix 3B on 25-Feb-2025).  </li>\n<li><strong>Total Securities on Issue</strong>:  </li>\n<li><strong>Quoted</strong>: 115,184,485 ordinary shares (RBX).  </li>\n<li><strong>Unquoted Options</strong>:  <ul>\n<li>RBXAN: 2,000,000 (exp 03-Dec-2027 @ AUD 0.10).  </li>\n<li>RBXAO: 13,695,465 (new issuance).  </li>\n<li>RBXAE: 7,185,640 (exp 05-Jul-2026, restricted).  </li>\n<li>RBXAM: 2,000,000 (exp 01-May-2026 @ AUD 0.20).  </li>\n<li>RBXAL: 3,000,000 (exp 14-Dec-2027 @ AUD 0.20).  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material liquidity or capital structure impact identified</strong> (routine notification of pre-announced issuance).</p>",
+    "usage": {
+      "prompt_tokens": 1421,
+      "completion_tokens": 287,
+      "total_tokens": 1708,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:41:45.845480"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961961",
+    "id": "02961961",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1413",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l338md1vzhy8.pdf",
+    "summary": "<p><strong>Capital Raising Announcement Summary:</strong>  </p>\n<ul>\n<li><strong>Structure &amp; Amount Raised:</strong> Successful issuance of <strong>50,000,000 shares at $0.20 each</strong>, raising <strong>$10 million</strong> (pre-costs).  </li>\n<li><strong>Capital Structure Post-Listing:</strong>  </li>\n<li><strong>175.8 million</strong> ordinary shares.  </li>\n<li><strong>16.9 million</strong> unquoted options ($0.30 exercise, 3-year expiry).  </li>\n<li><strong>1.3 million</strong> unquoted options ($0.20 exercise, 3-year expiry).  </li>\n<li><strong>Restricted Securities:</strong>  </li>\n<li><strong>67.4%</strong> of securities (fully diluted) under escrow (24 months for 58.1% shares, 12 months for 0.6% shares, 24 months for options).  </li>\n<li><strong>Pro-Forma Cash Balance:</strong> <strong>$9.9 million</strong> (post-Offer, as of 31-Dec-2024).  </li>\n<li><strong>Exploration Commitments:</strong> <strong>$5.5 million</strong> allocated to drilling/exploration across Gilmore Project tenements.  </li>\n</ul>\n<p><strong>No material impediments</strong> to exploration activities (ASX Listing Rule 1.3.2(b) compliance).  </p>\n<p><em>Omitted: Director names, legal boilerplate, non-financial operational details.</em></p>",
+    "usage": {
+      "prompt_tokens": 1763,
+      "completion_tokens": 269,
+      "total_tokens": 2032,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:38:31.123551"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961959",
+    "id": "02961959",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1408",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l333bhfwdsq3.pdf",
+    "summary": "<ul>\n<li><strong>Top Shareholders (LNQ Ordinary Shares)</strong>:  </li>\n<li><strong>Woodcross Holdings Pty Ltd</strong>: 47.84% (84,074,478 shares)  </li>\n<li><strong>Michael George Gibson</strong>: 11.70% (20,562,161 shares)  </li>\n<li><strong>Sam Investors Pty Ltd</strong>: 11.57% (20,333,335 shares)  </li>\n<li><strong>Total Issued Capital</strong>: 175,751,019 shares.  </li>\n<li><strong>Top 20 Holders' Aggregate Ownership</strong>: 86.97% of total issued capital.  </li>\n</ul>\n<p><em>No material trading or capital markets decisions identified (standard shareholding disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 1442,
+      "completion_tokens": 134,
+      "total_tokens": 1576,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:41:07.716370"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961960",
+    "id": "02961960",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1408",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l335jzfjb2w1.pdf",
+    "summary": "<p><strong>Issued Capital Report Summary (LinQ Minerals Limited \u2013 LNQ) \u2013 20-Jun-2025</strong>  </p>\n<ul>\n<li><strong>Fully Paid Ordinary Shares (LNQ)</strong>:  </li>\n<li><strong>Total shares on issue</strong>: 61,850,001  </li>\n<li><strong>CHESS holdings</strong>: 44,404,300 shares (71.79%)  </li>\n<li>\n<p><strong>Issuer holdings</strong>: 17,445,701 shares (28.21%)  </p>\n</li>\n<li>\n<p><strong>Escrowed Shares</strong>:  </p>\n</li>\n<li><strong>LNQESC12 (12-month escrow until 08-Jan-2026)</strong>: 1,152,215 shares (100% issuer-held)  </li>\n<li>\n<p><strong>LNQESC24 (24-month escrow)</strong>: 112,748,803 shares (100% issuer-held)  </p>\n</li>\n<li>\n<p><strong>Unlisted Options</strong>:  </p>\n</li>\n<li><strong>LNQOPT2 ($0.30 strike, expiring 3Y from quotation)</strong>: 16,898,355 options (100% issuer-held)  </li>\n<li>\n<p><strong>LNQOPT3 ($0.20 strike, expiring 3Y from quotation)</strong>: 1,333,334 options (100% issuer-held)  </p>\n</li>\n<li>\n<p><strong>Total Securities</strong>: 193,982,708 (includes shares + options).  </p>\n</li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine ownership breakdown).</em></p>",
+    "usage": {
+      "prompt_tokens": 801,
+      "completion_tokens": 275,
+      "total_tokens": 1076,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:42.143986"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961958",
+    "id": "02961958",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1407",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l33140fj4k36.pdf",
+    "summary": "<p><strong>Holdings Range Report Summary (LinQ Minerals Limited - LNQ):</strong><br />\n- <strong>Ownership Concentration:</strong> 93.82% of shares held by 96 holders with positions &gt;100,000 units.<br />\n- <strong>Retail Holdings:</strong> Minimal retail participation (6.18% of shares held by 317 holders with positions \u2264100,000 units).<br />\n- <strong>Liquidity Risk:</strong> High concentration suggests potential liquidity constraints in trading.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 553,
+      "completion_tokens": 99,
+      "total_tokens": 652,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:14.140901"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961957",
+    "id": "02961957",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1406",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32yym959540.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Reason: The document is a standard securities trading policy outlining internal compliance rules for directors/employees. No actionable market data or capital structure impacts.)</em></p>",
+    "usage": {
+      "prompt_tokens": 3910,
+      "completion_tokens": 38,
+      "total_tokens": 3948,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:54.918430"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961956",
+    "id": "02961956",
+    "pages": 48,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1406",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32wrp2qp36q.pdf",
+    "summary": "<h3><strong>Summary of ASX Announcement: LINQ MINERALS LIMITED \u2013 INCENTIVE AWARDS PLAN</strong></h3>\n<h4><strong>Key Material Information</strong></h4>\n<ol>\n<li><strong>Plan Purpose</strong>  </li>\n<li>Designed to reward, retain, and motivate <strong>eligible participants</strong> (employees, directors, service providers).  </li>\n<li>\n<p>Aligns participant incentives with shareholder value creation through long-term equity awards.  </p>\n</li>\n<li>\n<p><strong>Award Types</strong>  </p>\n</li>\n<li><strong>Performance Rights</strong>: Right to receive shares (or cash equivalent at Board discretion) upon meeting vesting conditions.  </li>\n<li><strong>Options</strong>: Right to acquire shares at a pre-set exercise price (if applicable).  </li>\n<li>\n<p><strong>Shares</strong>: Direct equity issuance, subject to restrictions.  </p>\n</li>\n<li>\n<p><strong>Key Terms</strong>  </p>\n</li>\n<li><strong>Vesting Conditions</strong>: Determined by the Board (e.g., performance targets, tenure).  </li>\n<li><strong>Restrictions</strong>:  <ul>\n<li><strong>Restriction Period</strong>: Minimum holding period (e.g., 3 years for tax deferral).  </li>\n<li><strong>Disposal Restrictions</strong>: Awards/Shares cannot be sold/hedged except in specified circumstances (e.g., hardship, death).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Expiry</strong>: Maximum 15-year term for convertible securities (subject to ASX rules).  </p>\n</li>\n<li>\n<p><strong>Tax Deferral</strong>  </p>\n</li>\n<li>\n<p>Subdivision 83A-C of the Tax Act applies (taxation deferred until vesting/exercise or end of restriction period).  </p>\n</li>\n<li>\n<p><strong>Cap on Issuances</strong>  </p>\n</li>\n<li>\n<p>ESS Provisions limit equity issuances under the plan to <strong>5% of total shares</strong> over 3 years (where participant pays for awards).  </p>\n</li>\n<li>\n<p><strong>Material Risks</strong>  </p>\n</li>\n<li>Awards may lapse if vesting conditions fail.  </li>\n<li>No guaranteed value; subject to market/share price fluctuations.  </li>\n<li>\n<p>Illiquidity due to disposal restrictions.  </p>\n</li>\n<li>\n<p><strong>Clawback Provisions</strong>  </p>\n</li>\n<li>Awards may be forfeited for misconduct or financial misstatements.  </li>\n</ol>\n<h4><strong>No Trading or Capital Raising Impact</strong></h4>\n<ul>\n<li>No immediate trading halt or capital raising details disclosed.  </li>\n<li>Operational/financial metrics (e.g., cash balance) not applicable here.  </li>\n</ul>\n<p><strong>Conclusion</strong>: The announcement outlines an equity incentive plan framework but lacks immediate trading-sensitive data. For investment decisions, monitor future award grants (size, dilution) and vesting outcomes.  </p>\n<p><strong>Final Note</strong>: \"No material information identified\" for short-term trading. Focus on long-term dilution and participant alignment.  </p>\n<hr />\n<p><strong>Formatting</strong>: Strictly adhered to brevity, excluded legal/operational boilerplate, and prioritized capital markets relevance. Let me know if further refinement is needed.</p>",
+    "usage": {
+      "prompt_tokens": 28046,
+      "completion_tokens": 544,
+      "total_tokens": 28590,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:39:01.040050"
+  },
+  {
+    "ticker": "GCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961955",
+    "id": "02961955",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1405",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32tl8w06t1v.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Update (Gryphon Capital Income Trust - ASX: GCI)</strong>:  </li>\n<li><strong>NTA per unit (24 June 2025)</strong>: AUD $2.0167 (unaudited).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 454,
+      "completion_tokens": 57,
+      "total_tokens": 511,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:39:04.157224"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961954",
+    "id": "02961954",
+    "pages": 16,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1404",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32r931p984f.pdf",
+    "summary": "<p>Here\u2019s the material information extracted from the ASX announcement, formatted concisely for capital markets purposes:</p>\n<h3><strong>Capital Raising &amp; Corporate Actions</strong></h3>\n<ul>\n<li><strong>Placement</strong>: Raised <strong>$550,000</strong> via issuance of 66,265,060 shares at <strong>$0.0083/share</strong> (allotted post-period on 8 Jan 2025). Directors participated with <strong>$141,511</strong>.  </li>\n<li><strong>Share Consolidation</strong>: 15:1 consolidation effective <strong>10 January 2025</strong>.  </li>\n<li><strong>Corporate Restructure</strong>: Transition to public unlisted company (post-reporting period) with name change to <em>LinQ Minerals Limited</em>; new constitution adopted.  </li>\n</ul>\n<h3><strong>Financials (Half-Year to 31 Dec 2024)</strong></h3>\n<ul>\n<li><strong>Net Loss</strong>: <strong>($280,766)</strong> (vs. $158,822 loss in prior period).  </li>\n<li><strong>Cash Balance</strong>: <strong>$760,933</strong> (up from $373,872 at 30 Jun 2024).  </li>\n<li><strong>Exploration Spend</strong>: <strong>$67,825</strong> (Gilmore Project JORC Report finalized; new tenement ELA6832 granted post-period).  </li>\n</ul>\n<h3><strong>Post-Period Events</strong></h3>\n<ul>\n<li><strong>New Tenement</strong>: ELA6832 granted as <strong>EL 9738</strong> (6-year term) on 7 Jan 2025.  </li>\n<li><strong>Board Changes</strong>: Two non-executive directors appointed (15 Jan 2025).  </li>\n</ul>\n<h3><strong>Going Concern Risk</strong></h3>\n<ul>\n<li>Reliant on upcoming <strong>IPO</strong> or further funding to sustain operations (noted in auditor\u2019s report).  </li>\n</ul>\n<p><strong>Omitted</strong>: Routine operational details, director names, and standard legal disclosures.</p>",
+    "usage": {
+      "prompt_tokens": 5805,
+      "completion_tokens": 346,
+      "total_tokens": 6151,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:38:05.347107"
+  },
+  {
+    "ticker": "CRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961953",
+    "id": "02961953",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1402",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32nvm2482gf.pdf",
+    "summary": "<ul>\n<li><strong>Cleansing Notice for Director Share Issuance</strong>: Issued 3,800,002 CDIs to directors at $0.65 per CDI on 24 June 2025 (total ~A$2.47m).  </li>\n<li><strong>Trading Exemption</strong>: Enables immediate on-sale of these CDIs under Section 708A(5) of Corporations Act.  </li>\n<li><strong>No Material Disclosure</strong>: Issuance bypassed standard Part 6D.2 disclosure requirements.  </li>\n</ul>\n<p><em>No other material information identified</em>.</p>",
+    "usage": {
+      "prompt_tokens": 808,
+      "completion_tokens": 111,
+      "total_tokens": 919,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:21.235238"
+  },
+  {
+    "ticker": "CRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961952",
+    "id": "02961952",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1400",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32l9wsbb2ws.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Details</strong>:  </li>\n<li><strong>Type</strong>: Placement (previously announced via Appendix 3B on 05-May-2025).  </li>\n<li><strong>Securities Issued</strong>: 3,800,002 CDIs (1:1) at <strong>AUD 0.65 per security</strong> (total ~AUD 2.47m).  </li>\n<li>\n<p><strong>Remaining Securities to Issue</strong>: 707,693 (pending completion).  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Total Quoted CDIs</strong>: 192,366,173.  </li>\n<li><strong>Unquoted Securities</strong>:  <ul>\n<li>Warrants (expiring 25-Sep-2027): 1,760,000.  </li>\n<li>Share Rights: 80,000.  </li>\n<li>Warrants (expiring 14-Jun-2026): 6,769,232.  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material operational or financial updates disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 1427,
+      "completion_tokens": 196,
+      "total_tokens": 1623,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:37:05.771905"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961951",
+    "id": "02961951",
+    "pages": 24,
+    "price_sensitive": false,
+    "date": "20250625",
+    "time": "1400",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32j7qx3zp1c.pdf",
+    "summary": "<p>Based on the ASX announcement (Annual Report for XavierLinQ Pty Ltd), here is the material information for capital markets decisions:</p>\n<p><strong>Key Financials &amp; Operations:</strong><br />\n- <strong>Loss after tax:</strong> ($337,215) for the period.<br />\n- <strong>Cash balance (30 June 2024):</strong> $373,872.<br />\n- <strong>Exploration assets:</strong> $2.38M (Temora tenements acquired from Sandfire Resources, with deferred payments outstanding).  </p>\n<p><strong>Capital Structure:</strong><br />\n- <strong>Shares issued during period:</strong> 1.82B ordinary shares raised totaling $1.82M.<br />\n- <strong>Outstanding options:</strong> 220M unissued ordinary shares under option.  </p>\n<p><strong>Commitments &amp; Liabilities:</strong><br />\n- <strong>Deferred payments (non-current):</strong> $1.33M payable to Sandfire (due in 24\u201336 months post-acquisition).<br />\n- <strong>Contingent liabilities:</strong> $1.5M tied to future commercial production milestones.<br />\n- <strong>Exploration commitments:</strong> $1.35M (short- and long-term).  </p>\n<p><strong>Going Concern Uncertainty:</strong><br />\n- Reliant on future IPO or equity/debt funding for operations; material uncertainty noted by auditor.  </p>\n<p><strong>Post-Period Event:</strong><br />\n- New tenement (ELA6832) granted on 3 December 2024 (6-year term).  </p>\n<p><strong>Omitted:</strong> Non-material operational details, director names, and routine disclosures.  </p>\n<p><em>Summary tailored for capital markets relevance, focusing on liquidity, valuation, and structural impacts.</em></p>",
+    "usage": {
+      "prompt_tokens": 10611,
+      "completion_tokens": 314,
+      "total_tokens": 10925,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:41:35.001385"
+  },
+  {
+    "ticker": "MOZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961950",
+    "id": "02961950",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250625",
+    "time": "1359",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32g1sggkd6y.pdf",
+    "summary": "<p><strong>Key Points:</strong><br />\n- <strong>Reconvened Second Meeting of Creditors</strong>: Scheduled for <strong>1 July 2025 at 2:00 PM AEST</strong> for Mosaic Brands Limited (MOZ) and related entities under administration.<br />\n- <strong>Context</strong>: Follows adjournment of the initial meeting (per 20 June 2025 ASX notice).  </p>\n<p><strong>Additional Note</strong>: No material financial or operational updates provided; solely an administrative notice regarding creditor proceedings.  </p>\n<p><strong>Action</strong>: Monitor outcomes of the creditors' meeting for potential impacts on MOZ's capital structure or liquidation process.  </p>\n<p><strong>Omitted</strong>: Routine contact details and company schedule (non-material).</p>",
+    "usage": {
+      "prompt_tokens": 801,
+      "completion_tokens": 136,
+      "total_tokens": 937,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T04:40:45.575957"
+  },
+  {
     "ticker": "ATR",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961947",
     "id": "02961947",
@@ -8,15 +426,15 @@
     "date": "20250625",
     "time": "1351",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l3267qkdx0kr.pdf",
-    "summary": "<ul>\n<li><strong>Work Plan Approval</strong>: Victorian Government approves Work Plan for Donald Rare Earths and Mineral Sands Project, final major regulatory hurdle cleared for Phase 1 construction/operation.  </li>\n<li><strong>Project Financing Progress</strong>: Draft Independent Technical Expert\u2019s Report completed; expressions of interest received from potential financiers.  </li>\n<li><strong>Offtake Agreements</strong>: Non-binding offtake secured for ~70% of Phase 1 heavy mineral concentrate; rare earth concentrate offtake discussions ongoing with JV partner Energy Fuels.  </li>\n<li><strong>Key Milestones</strong>: Final Investment Decision (FID) targeted in 2025, contingent on satisfactory project financing.  </li>\n<li><strong>Operational Prep</strong>: Land acquisitions finalized, process plant design completed, updated financial model and capex/opex estimates prepared.  </li>\n</ul>\n<p><em>Omitted: JV partner commentary, routine engagement details, historical background.</em></p>",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>Work Plan Approval:</strong> Final major regulatory approval received for Phase 1 of the Donald Rare Earths and Mineral Sands Project (Victoria).  </li>\n<li><strong>Key Developments:</strong>  </li>\n<li>Non-binding offtake secured for ~70% of Phase 1 heavy mineral concentrate production.  </li>\n<li>Rare earth concentrate offtake discussions ongoing with JV partner <strong>Energy Fuels</strong>.  </li>\n<li>Land acquisitions, plant design, and EPC contracts finalized; revised capex/opex estimates prepared.  </li>\n<li><strong>Next Catalyst:</strong> Final Investment Decision (FID) targeted in <strong>2025</strong>, contingent on project financing.  </li>\n</ul>\n<p><em>Omitted: JV partner quotes, community engagement details, operational history.</em></p>",
     "usage": {
       "prompt_tokens": 1166,
-      "completion_tokens": 172,
-      "total_tokens": 1338,
+      "completion_tokens": 146,
+      "total_tokens": 1312,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T03:59:57.802894"
+    "processed_at": "2025-06-25T04:37:44.983992"
   },
   {
     "ticker": "LNQ",
@@ -27,15 +445,15 @@
     "date": "20250625",
     "time": "1351",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l32450n27d0k.pdf",
-    "summary": "<h3>Summary of ASX Listing Information Form (LinQ Minerals Limited)</h3>\n<ul>\n<li><strong>Document Type</strong>: Mining entity listing application checklist (Annexure 1).  </li>\n<li><strong>Key Disclosures</strong>:  </li>\n<li><strong>Mineral Resources</strong>: JORC-compliant reporting confirmed (ITAR pages 69\u201373).  </li>\n<li><strong>Competent Person</strong>: Independent technical assessment by a named professional (ITAR pages 70\u201371).  </li>\n<li><strong>Drill Data</strong>: Material drill-hole details provided (ITAR Appendix 1, page 94).  </li>\n<li><strong>Tenements</strong>: Schedule of mining tenements disclosed (ITAR page 14).  </li>\n<li><strong>Exploration Program</strong>: Timetable and expenditure plan outlines (ITAR pages 63\u201367).  </li>\n</ul>\n<p><strong>No material capital markets or trading impacts identified</strong> (standard compliance documentation for listing).  </p>\n<p><em>Note: No actionable trading or capital-raising information (e.g., issue structure, pricing, or dates) is included.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (LinQ Minerals Limited \u2013 Listing Application)</h3>\n<p><strong>Document Type:</strong> <strong>Listing Application (Mining Entity)</strong>  </p>\n<h4><strong>Material Information Extracted:</strong></h4>\n<ul>\n<li><strong>JORC Compliance Confirmed:</strong>  </li>\n<li>Mineral resource estimates prepared in accordance with JORC (2012 Edition) (ITAR report, pages 69\u201373).  </li>\n<li>Competent person(s) identified with relevant qualifications and consent (ITAR pages 70\u201372).  </li>\n<li>\n<p>No exploration targets or ore reserves disclosed.  </p>\n</li>\n<li>\n<p><strong>Mineral Resources:</strong>  </p>\n</li>\n<li>Reasonable prospects for economic extraction discussed (ITAR page 29).  </li>\n<li>Cut-off grade, geology, drilling/sampling methods, and estimation methodology detailed (ITAR pages 27\u201329, Appendix 2).  </li>\n<li>\n<p>Resource classification (inferred/indicated/measured) and rounding conventions confirmed.  </p>\n</li>\n<li>\n<p><strong>Tenement &amp; Exploration:</strong>  </p>\n</li>\n<li>Maps and schedules of mining tenements provided (ITAR pages 6, 13\u201314).  </li>\n<li>Exploration program timetable and expenditure outlined (ITAR pages 63\u201367).  </li>\n<li>\n<p>Recent tenement acquisitions disclosed (Section 9.2, page 52).  </p>\n</li>\n<li>\n<p><strong>No Material Disclosures:</strong>  </p>\n</li>\n<li>No production targets, scoping studies, or financial forecasts.  </li>\n<li>No historical/foreign estimates or joint ventures.  </li>\n</ul>\n<p><strong>Omitted:</strong> Legal boilerplate, director names, non-material operational details.  </p>\n<p><strong>Conclusion:</strong> Filing confirms JORC-compliant mineral resources and tenement status for ASX listing. No immediate trading catalysts (e.g., capital raising, reserves) identified.  </p>\n<p><em>Note:</em> For trading decisions, monitor future announcements post-listing for exploration updates or resource upgrades.</p>",
     "usage": {
-      "prompt_tokens": 9194,
-      "completion_tokens": 200,
-      "total_tokens": 9394,
+      "prompt_tokens": 9196,
+      "completion_tokens": 364,
+      "total_tokens": 9560,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T04:02:16.906346"
+    "processed_at": "2025-06-25T04:39:23.518709"
   },
   {
     "ticker": "LNQ",
@@ -46,15 +464,15 @@
     "date": "20250625",
     "time": "1350",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l321xg4k43zn.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong>:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: <strong>ASX Listing Application</strong> (LinQ Minerals Limited)  </li>\n<li><strong>Business Activity</strong>: Mineral exploration (Australia-focused).  </li>\n<li><strong>Capital Structure</strong>:  </li>\n<li><strong>Existing Options</strong>: 14,666,669 (13.3M @ $0.30 exercise; 1.3M @ $0.20 exercise; expiry 3 years post-listing).  </li>\n<li><strong>Lead Manager/Broker Options</strong>: Up to 4,015,020 (@ $0.30 exercise; expiry 3 years post-listing).  </li>\n<li><strong>Free Float</strong>: \u226520% post-listing.  </li>\n<li><strong>Use of Funds</strong>: Exploration projects (Gilmore Project).  </li>\n<li><strong>Key Risks</strong>: Disclosed in prospectus (Sections 3A &amp; 8).  </li>\n<li><strong>Directors\u2019 Interests</strong>: Related-party transactions detailed (Section 3B of prospectus).  </li>\n<li><strong>Working Capital</strong>: \u2265$1.5M confirmed (refer Independent Limited Assurance Report).  </li>\n</ul>\n<p>No material trading or capital-raising events identified.  </p>\n<p><em>(Note: This is a listing application; no immediate trading impact until admission.)</em></p>",
+    "summary": "<p><strong>Summary of Material Information (ASX Listing Application - LinQ Minerals Limited):</strong>  </p>\n<ul>\n<li><strong>Entity Type</strong>: Mineral exploration company (new listing).  </li>\n<li><strong>Capital Structure</strong>:  </li>\n<li>Existing Options: 14,666,669 (13,333,335 @ $0.30, 1,333,334 @ $0.20; 3-year expiry).  </li>\n<li>Lead Manager/Broker Options: Up to 4,015,020 (@ $0.30; 3-year expiry).  </li>\n<li><strong>Free Float</strong>: \u226520% post-listing (Listing Rule 1.1 Condition 7).  </li>\n<li><strong>Price Compliance</strong>: Issue price \u2265$0.20 (Listing Rule 2.1 Condition 2).  </li>\n<li><strong>Use of Funds</strong>: Exploration focus (Gilmore Project); no near-term dividends.  </li>\n<li><strong>Key Risks</strong>: Operational and exploration risks disclosed (Prospectus Sections 3A &amp; 8).  </li>\n<li><strong>Material Contracts</strong>: Related-party transactions noted (Directors\u2019 interests in Prospectus Section 3B).  </li>\n</ul>\n<p><strong>No material trading or capital-raising details identified</strong>. Document is primarily a compliance checklist for listing admission.</p>",
     "usage": {
       "prompt_tokens": 13130,
-      "completion_tokens": 241,
-      "total_tokens": 13371,
+      "completion_tokens": 240,
+      "total_tokens": 13370,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T04:00:45.367001"
+    "processed_at": "2025-06-25T04:38:13.481531"
   },
   {
     "ticker": "LNQ",
@@ -65,15 +483,15 @@
     "date": "20250625",
     "time": "1349",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l31zncdt5mtm.pdf",
-    "summary": "<ul>\n<li><strong>Listing Application</strong>: LinQ Minerals Limited applies for ASX official listing.  </li>\n<li><strong>Securities to be Quoted</strong>: 175,751,019 fully paid ordinary shares (FPOS).  </li>\n<li><strong>Type</strong>: Initial public offering (IPO) or direct listing (structure not detailed in provided text).  </li>\n</ul>\n<p><em>No material capital raising details (e.g., price, timetable) or operational/financial data identified.</em></p>",
+    "summary": "<ul>\n<li><strong>IPO Application</strong>: LinQ Minerals Limited applies for ASX listing.  </li>\n<li><strong>Securities to be Quoted</strong>: 175,751,019 fully paid ordinary shares (FPOS).  </li>\n<li><strong>Expected Listing Date</strong>: Not specified (check supplementary documents for timetable).  </li>\n</ul>\n<p>No other material information (e.g., capital raised, pricing, or key dates) provided in this snippet.</p>",
     "usage": {
-      "prompt_tokens": 572,
-      "completion_tokens": 86,
-      "total_tokens": 658,
+      "prompt_tokens": 570,
+      "completion_tokens": 79,
+      "total_tokens": 649,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T04:00:18.733217"
+    "processed_at": "2025-06-25T04:37:47.842309"
   },
   {
     "ticker": "LNQ",
@@ -84,15 +502,15 @@
     "date": "20250625",
     "time": "1348",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250625/pdf/06l31xgymvn4lb.pdf",
-    "summary": "<h3><strong>LinQ Minerals Limited (ASX: LNQ) \u2013 Admission and Quotation Summary</strong></h3>\n<h4><strong>Capital Raising &amp; Listing Details</strong></h4>\n<ul>\n<li><strong>Listing Type</strong>: New admission to ASX (official list).  </li>\n<li><strong>Capital Raised</strong>: <strong>$10M</strong> via IPO (50M shares issued at <strong>$0.20/share</strong>).  </li>\n<li><strong>Quotation Starts</strong>: <strong>27 June 2025, 12:00 PM AEST</strong>.  </li>\n<li><strong>Total Quoted Shares</strong>: <strong>61,850,001</strong> ordinary shares (code: <strong>LNQ</strong>).  </li>\n</ul>\n<h4><strong>Restricted Securities (Escrow)</strong></h4>\n<ul>\n<li><strong>112.75M shares</strong> locked until <strong>27 June 2027</strong> (24-month escrow).  </li>\n<li><strong>1.15M shares</strong> locked until <strong>8 January 2026</strong> (12-month escrow).  </li>\n<li><strong>16.9M unquoted options</strong> ($0.30 exercise, expiring 27 June 2028) under 24-month escrow.  </li>\n</ul>\n<h4><strong>Other Key Data</strong></h4>\n<ul>\n<li><strong>Cash Balance</strong>: Not disclosed (post-raise cash based on $10M raise, net of costs).  </li>\n<li><strong>Sector</strong>: Mineral exploration.  </li>\n</ul>\n<p><strong>No further material trading or capital-impacting details identified.</strong>  </p>\n<p><em>(Note: Omitted boilerplate, registry, and prospectus referral.)</em></p>",
+    "summary": "<ul>\n<li><strong>IPO Admission &amp; Quotation</strong>: LinQ Minerals Limited (LNQ) admitted to ASX on 25 June 2025, with trading commencing <strong>27 June 2025 at 12:00 PM AEST</strong>.  </li>\n<li><strong>Capital Raising</strong>: Raised <strong>$10M</strong> via placement (50M shares at <strong>$0.20/share</strong>). Total quoted shares: <strong>61,850,001</strong>.  </li>\n<li><strong>Restricted Securities</strong>:  </li>\n<li><strong>112,748,803 shares</strong> escrowed until <strong>27 June 2027</strong> (24 months).  </li>\n<li><strong>1,152,215 shares</strong> escrowed until <strong>8 January 2026</strong> (12 months).  </li>\n<li><strong>16.9M unquoted options</strong> ($0.30 exercise price) escrowed until <strong>27 June 2027</strong>.  </li>\n<li><strong>Other Securities</strong>: 1,333,334 unquoted options ($0.20 exercise price, expiry 27 June 2028).  </li>\n</ul>\n<p><em>No material operational/financial data or timetable dates beyond listing identified.</em></p>",
     "usage": {
       "prompt_tokens": 967,
-      "completion_tokens": 282,
-      "total_tokens": 1249,
+      "completion_tokens": 220,
+      "total_tokens": 1187,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T04:04:07.572546"
+    "processed_at": "2025-06-25T04:41:02.656026"
   },
   {
     "ticker": "CTW",
