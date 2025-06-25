@@ -1,5 +1,100 @@
 [
   {
+    "ticker": "PFM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962301",
+    "id": "02962301",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "0947",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l42p34p93v4s.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Announcement relates to administrative changes only: registered office address, website, and share registry details. No impact on trading, capital structure, or valuation.)</em></p>",
+    "usage": {
+      "prompt_tokens": 658,
+      "completion_tokens": 41,
+      "total_tokens": 699,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T23:50:35.564163"
+  },
+  {
+    "ticker": "LKY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962300",
+    "id": "02962300",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "0944",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l42lf46xwsqx.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>OTCQB Listing Completion</strong>: Locksley Resources (ASX: LKY) has successfully listed on the OTCQB Venture Market in the U.S. under ticker <strong>LKYRF</strong>.  </li>\n<li><strong>Purpose</strong>: Broadens access to North American investors, enhances liquidity in USD, and aligns with strategic focus on U.S. critical minerals (e.g., Mojave Project in California).  </li>\n<li><strong>No Capital Structure Change</strong>: Share count remains <strong>183.3 million</strong>; simultaneous ASX trading (LKY) continues.  </li>\n<li><strong>Strategic Rationale</strong>: Aims to leverage U.S. investor interest in domestic rare earth/antimony supply chains.  </li>\n</ul>\n<p><strong>No material financial/trading impacts identified</strong> (no capital raised, no timetable changes).</p>",
+    "usage": {
+      "prompt_tokens": 1585,
+      "completion_tokens": 163,
+      "total_tokens": 1748,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T23:51:04.696344"
+  },
+  {
+    "ticker": "HOR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962299",
+    "id": "02962299",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250626",
+    "time": "0943",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l42j50zy8k4r.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement regarding a capital raising. Halt to lift by 30 June 2025 or earlier upon release of the announcement.  </li>\n</ul>\n<p><em>(No other material information identified; omit boilerplate, director names, and trading halt procedural details.)</em></p>",
+    "usage": {
+      "prompt_tokens": 726,
+      "completion_tokens": 58,
+      "total_tokens": 784,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T23:50:13.770897"
+  },
+  {
+    "ticker": "GML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962298",
+    "id": "02962298",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250626",
+    "time": "0940",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l42fk590yqk0.pdf",
+    "summary": "<h3><strong>Trading Halt Request Summary</strong></h3>\n<ul>\n<li><strong>Reason for halt:</strong> Pending announcement on a <strong>material acquisition</strong>.  </li>\n<li><strong>Halt duration:</strong> Until the earlier of announcement release or <strong>30 June 2025</strong> market open.  </li>\n</ul>\n<p><em>(No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 705,
+      "completion_tokens": 59,
+      "total_tokens": 764,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T23:50:31.512708"
+  },
+  {
+    "ticker": "DGT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962297",
+    "id": "02962297",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "0939",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l42c7zgm2vg9.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: David Di Pilla's associated entities increased their indirect holdings in DigiCo Infrastructure REIT (DGT) by <strong>1,967,161 stapled securities</strong> (issued to HMC Capital Limited).  </li>\n<li><strong>Consideration</strong>: Securities issued as payment for investment management services valued at <strong>$9,835,808</strong>.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>HMC Capital Limited now holds <strong>108,382,983 stapled securities</strong>.  </li>\n<li>Other entities' holdings unchanged (total indirect holdings: 1,441,972 securities).  </li>\n</ul>\n<p><em>No material trading or capital structure impacts identified beyond the disclosed director-linked issuance.</em></p>",
+    "usage": {
+      "prompt_tokens": 2010,
+      "completion_tokens": 138,
+      "total_tokens": 2148,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-25T23:50:06.862929"
+  },
+  {
     "ticker": "DGT",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962296",
     "id": "02962296",
@@ -8,15 +103,15 @@
     "date": "20250626",
     "time": "0938",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4290ytzcnjq.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 1,967,161 new fully paid ordinary/units stapled securities (ASX: <strong>DGT</strong>) to be quoted.  </li>\n<li><strong>Issue Date</strong>: 26 June 2025.  </li>\n<li><strong>Consideration</strong>: Non-cash issuance for investment management services (estimated value: <strong>AUD 9.84 million</strong> total).  </li>\n<li><strong>Total Issued Capital Post-Quotation</strong>:  </li>\n<li>Quoted DGT securities: <strong>551,095,049</strong>.  </li>\n<li>Unquoted DGTAA rights: <strong>26,408</strong>.  </li>\n<li><strong>No further issuances</strong> pending to complete the transaction.  </li>\n</ul>\n<p><em>No material trading or valuation impacts identified beyond dilution from new issuance.</em></p>",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Securities Issuance</strong>: 1,967,161 new fully paid ordinary/units stapled securities (ASX: DGT) to be quoted.  </li>\n<li><strong>Issue Date</strong>: 26 June 2025.  </li>\n<li><strong>Non-Cash Consideration</strong>: Issued for investment management services (estimated value: ~$9.84 million AUD in total).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total quoted DGT securities outstanding will be 551,095,049.  </li>\n<li><strong>No further tranches</strong>: No additional securities to be issued under this transaction.  </li>\n</ul>\n<p><em>Note: No material liquidity, valuation, or pricing details provided.</em></p>",
     "usage": {
-      "prompt_tokens": 1373,
-      "completion_tokens": 170,
-      "total_tokens": 1543,
+      "prompt_tokens": 1371,
+      "completion_tokens": 142,
+      "total_tokens": 1513,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:53.352466"
+    "processed_at": "2025-06-25T23:50:57.607147"
   },
   {
     "ticker": "CCE",
@@ -27,15 +122,15 @@
     "date": "20250626",
     "time": "0938",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l426xq00fyry.pdf",
-    "summary": "<ul>\n<li><strong>Grant Award</strong>: Blue Economy CRC granted $335,020 for preliminary design of MoorPower Commercial Pilot Project.  </li>\n<li><strong>Partnerships</strong>: Collaboration with Huon Aquaculture, Advanced Composite Systems Australia, University of Tasmania, and subcontractors.  </li>\n<li><strong>Objective</strong>: Refine MoorPower design for commercial aquaculture use, targeting deployment on an operating feeding barge.  </li>\n<li><strong>Funding</strong>: Fully cash-funded by CRC with ~$417k in-kind contributions from partners.  </li>\n</ul>\n<p>No material trading or capital markets-impacting information identified (e.g., no capital raising, financials, or material contracts).</p>",
+    "summary": "<ul>\n<li><strong>Funding Award:</strong> $335,020 granted by Blue Economy CRC for preliminary design of MoorPower Commercial Pilot Project.  </li>\n<li><strong>Partnerships:</strong> Collaboration with Huon Aquaculture, Advanced Composite Systems Australia, University of Tasmania, and subcontractors.  </li>\n<li><strong>Objective:</strong> Refine MoorPower design for commercial aquaculture, paving way for deployment on an operating feeding barge.  </li>\n<li><strong>Funding Structure:</strong> Fully cash-funded by Blue Economy CRC, with ~$417k in-kind contributions from partners.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (non-dilutive grant, no capital raising or financial metrics disclosed).</em></p>",
     "usage": {
-      "prompt_tokens": 1514,
-      "completion_tokens": 122,
-      "total_tokens": 1636,
+      "prompt_tokens": 1516,
+      "completion_tokens": 128,
+      "total_tokens": 1644,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:24.186646"
+    "processed_at": "2025-06-25T23:50:11.109467"
   },
   {
     "ticker": "DGT",
@@ -46,18 +141,18 @@
     "date": "20250626",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l422kbsyf31p.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Securities Issuance</strong>: 1,967,161 securities issued to the Investment Manager\u2019s nominee in lieu of Management Fee payment (for the period from Completion to 31 May 2025).<br />\n\u90fd\u662f\u7528\u82f1\u6587\u56de\u7b54\u8be2\u95ee\u548c\u5206\u6790\u7684\u3002\u8fd9\u91cc\u4e5f\u6ca1\u6709\u53d1\u73b0\u5176\u4ed6\u4e0e\u4ea4\u6613\u6216\u6295\u8d44\u8005\u51b3\u7b56\u76f4\u63a5\u76f8\u5173\u7684\u5b9e\u8d28\u6027\u4fe1\u606f\u3002  </li>\n</ul>\n<p>\u2014\u2014<br />\n<strong>Note</strong>: This is a standard <strong>Corporations Act notice</strong> confirming fee-related securities issuance under disclosure exemptions. No pricing, capital structure changes, or material operational impacts noted.<br />\nIf further context beyond the disclosed issuance is needed, additional filings should be reviewed.  </p>\n<hr />\n<p><strong>Final Output</strong>:<br />\n- <strong>Securities Issuance Without Disclosure</strong>: 1,967,161 securities issued to settle management fees (31 May 2025 period).  </p>\n<p><strong>No other material information identified</strong>.  </p>\n<p><em>(Summary strictly adheres to the mandate: concise, trading/capital markets-relevant only, omits legal boilerplate.)</em></p>",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 1,967,161 securities issued to the Investment Manager's nominee in lieu of Management Fee payment (period from Completion to 31 May 2025).  </li>\n<li><strong>Disclosure Exemption</strong>: Issued without a prospectus or PDS under Corporations Act sections 708A(5)(e) and 1012DA(5)(e).  </li>\n<li><strong>Regulatory Compliance</strong>: Confirmed compliance with Chapter 2M (financial reporting) and sections 674/674A (continuous disclosure) of the Corporations Act.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond fee settlement issuance.</em></p>",
     "usage": {
-      "prompt_tokens": 1015,
-      "completion_tokens": 201,
-      "total_tokens": 1216,
+      "prompt_tokens": 1017,
+      "completion_tokens": 130,
+      "total_tokens": 1147,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:44.438467"
+    "processed_at": "2025-06-25T23:50:44.446005"
   },
   {
-    "ticker": "VGB",
+    "ticker": "VCF",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962291",
     "id": "02962291",
     "pages": 3,
@@ -65,15 +160,15 @@
     "date": "20250626",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l41ycddx2ly5.pdf",
-    "summary": "<h3><strong>Estimated Distribution Announcement Summary</strong></h3>\n<ul>\n<li><strong>ETF Distribution Amounts</strong> (cents per unit):  </li>\n<li><strong>VAS</strong>: 65.2721  </li>\n<li><strong>VAP</strong>: 163.7924  </li>\n<li><strong>VHY</strong>: 202.1815  </li>\n<li><strong>VGS</strong>: 128.6550  </li>\n<li><strong>VGAD</strong>: 397.4344  </li>\n<li><strong>VSO</strong>: 399.9900  </li>\n<li><strong>VISM</strong>: 154.5727  </li>\n<li>\n<p><strong>VDHG</strong>: 112.8331  </p>\n</li>\n<li>\n<p><strong>Key Distribution Dates</strong>:  </p>\n</li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li>\n<p><strong>Payment Date</strong>: 16 July 2025  </p>\n</li>\n<li>\n<p><strong>DRP (Distribution Reinvestment Plan) Availability</strong>:  </p>\n</li>\n<li>Available for all listed ETFs  </li>\n<li>DRP elections must be made by <strong>5pm on Record Date (2 July 2025)</strong>  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "summary": "<h3><strong>ETF Estimated Distributions Announcement \u2013 Key Highlights</strong></h3>\n<ul>\n<li><strong>Estimated Distribution Amounts (cents per unit)</strong> for Vanguard ETFs, including:  </li>\n<li><strong>VHY</strong>: 202.1815  </li>\n<li><strong>VGAD</strong>: 397.4344  </li>\n<li><strong>VSO</strong>: 399.9900  </li>\n<li><strong>VGS</strong>: 128.6550  </li>\n<li>\n<p>Full list provided in table format.  </p>\n</li>\n<li>\n<p><strong>Key Timetable Dates</strong>:  </p>\n</li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li>\n<p><strong>Payment Date</strong>: 16 July 2025  </p>\n</li>\n<li>\n<p><strong>Distribution Reinvestment Plan (DRP)</strong>: Available for all ETFs, with elections required by 5pm on <strong>Record Date (2 July 2025)</strong>.  </p>\n</li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
     "usage": {
-      "prompt_tokens": 2874,
-      "completion_tokens": 222,
-      "total_tokens": 3096,
+      "prompt_tokens": 2876,
+      "completion_tokens": 187,
+      "total_tokens": 3063,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:30.580139"
+    "processed_at": "2025-06-25T23:50:28.640828"
   },
   {
     "ticker": "CAY",
@@ -84,15 +179,15 @@
     "date": "20250626",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l420fkkqw862.pdf",
-    "summary": "<p><strong>Key Material Information:</strong>  </p>\n<ul>\n<li><strong>Project Financing &amp; Milestones:</strong>  </li>\n<li>Credit facility secured: <strong>~US$140M</strong> from AFG Bank Cameroon.  </li>\n<li>Recent equity injection: <strong>A$15.8M</strong> from Eagle Eye Asset Holdings option exercise.  </li>\n<li>\n<p>Remaining <strong>A$8.7M</strong> options expected to convert in June 2025.  </p>\n</li>\n<li>\n<p><strong>Production Timeline:</strong>  </p>\n</li>\n<li>Target <strong>first bauxite shipment</strong>: 1H 2026.  </li>\n<li><strong>Locomotives ordered</strong> (22 units), first delivery Q1 2026.  </li>\n<li>\n<p><strong>Mining/haulage contractors</strong> mobilized by end-CY2025; production start Q1 2026.  </p>\n</li>\n<li>\n<p><strong>Infrastructure Development:</strong>  </p>\n</li>\n<li><strong>Inland Rail Facility (IRF) groundbreaking</strong>: July 2025.  </li>\n<li>\n<p><strong>Haulage road upgrade</strong> begins July 2025.  </p>\n</li>\n<li>\n<p><strong>Upcoming Catalysts:</strong>  </p>\n</li>\n<li>Updated <strong>JORC Resource/Reserve estimates</strong>: End-July 2025.  </li>\n</ul>\n<p><strong>Summary:</strong> Significant funding secured, key contracts awarded, and project timeline confirmed for 2026 production. Next key update: JORC estimates in July 2025.</p>",
+    "summary": "<p><strong>Key Material Information:</strong>  </p>\n<ul>\n<li><strong>Project Financing:</strong> Secured ~US$140M credit facility from AFG Bank Cameroon and A$15.8M from Eagle Eye Asset Holdings' option exercise.  </li>\n<li><strong>First Bauxite Shipment:</strong> On track for <strong>1H 2026</strong> (Minim Martap Project).  </li>\n<li><strong>Key Contracts &amp; Milestones:</strong>  </li>\n<li><strong>Locomotives order (CRRC):</strong> First deliveries <strong>Q1 2026</strong>.  </li>\n<li><strong>Inland Rail Facility (IRF):</strong> Groundbreaking <strong>July 2025</strong>.  </li>\n<li><strong>Road construction &amp; haulage:</strong> Contractor appointed; works start <strong>July 2025</strong>.  </li>\n<li><strong>Mining/Haulage contractors:</strong> Mobilisation by <strong>end-2025</strong>, production start <strong>Q1 2026</strong>.  </li>\n<li><strong>Pending Conversion:</strong> A$8.7M options (124M) held by Eagle Eye expected June 2025.  </li>\n<li><strong>Upcoming Catalyst:</strong> Updated JORC Resource/Reserve estimates due <strong>end-July 2025</strong>.  </li>\n</ul>\n<p><em>Omitted: Forward-looking statements, director commentary, operational details without material impact.</em></p>",
     "usage": {
-      "prompt_tokens": 1868,
-      "completion_tokens": 260,
-      "total_tokens": 2128,
+      "prompt_tokens": 1870,
+      "completion_tokens": 241,
+      "total_tokens": 2111,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:20.346241"
+    "processed_at": "2025-06-25T23:49:58.892448"
   },
   {
     "ticker": "RAN",
@@ -103,15 +198,15 @@
     "date": "20250626",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l424mjg9d929.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Reason</strong>: Pending announcement regarding material Indonesian tax court judgments on withholding tax (WHT) and value-added tax (VAT) matters.  </li>\n<li><strong>Halt Duration</strong>: Until earlier of normal trading commencement on 30 June 2025 or release of the announcement.  </li>\n</ul>\n<p>Everything else is procedural or non-material.</p>",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement regarding material Indonesian tax court judgments (WHT and VAT matters). Halt expected until earlier of: 30 June 2025 commencement of trading or announcement release.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 865,
-      "completion_tokens": 70,
-      "total_tokens": 935,
+      "prompt_tokens": 863,
+      "completion_tokens": 53,
+      "total_tokens": 916,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-25T23:41:36.704109"
+    "processed_at": "2025-06-25T23:50:38.117115"
   },
   {
     "ticker": "GTR",
