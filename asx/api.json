@@ -1,5 +1,43 @@
 [
   {
+    "ticker": "GW1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962468",
+    "id": "02962468",
+    "pages": 21,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "1510",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hxcqtprgh4.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: The document appears to be a corporate presentation primarily focused on project overviews, resources, and forward-looking statements. It does not contain immediate trading-sensitive information, capital raising details, quarterly financials, or specific catalysts requiring action. The content is informational rather than materially actionable for capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 7587,
+      "completion_tokens": 69,
+      "total_tokens": 7656,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T05:15:13.686792"
+  },
+  {
+    "ticker": "RFX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962467",
+    "id": "02962467",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "1502",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hsjlws3f7k.pdf",
+    "summary": "<ul>\n<li><strong>Liquidation Update</strong>: Creditors approved the sale of Redflow Group's assets and intellectual property on 23 June 2025.  </li>\n<li><strong>Next Steps</strong>: Liquidators to proceed with transaction completion and value realisation for creditors.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 784,
+      "completion_tokens": 57,
+      "total_tokens": 841,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T05:15:07.168734"
+  },
+  {
     "ticker": "LOC",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962466",
     "id": "02962466",
@@ -8,15 +46,15 @@
     "date": "20250626",
     "time": "1445",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hm2g0y5vpf.pdf",
-    "summary": "<ul>\n<li><strong>Price Query Response</strong>: LOC confirms no undisclosed material information exists to explain recent trading activity.  </li>\n<li><strong>Recent Trading Context</strong>: Notes recent capital raising and treasury updates as possible market influences.  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rules, including continuous disclosure (Listing Rule 3.1).  </li>\n</ul>\n<p><em>No material trading or capital markets actions identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Price Query Response</strong>: LOC confirms no undisclosed material information explaining recent trading activity.  </li>\n<li><strong>Recent Announcements Cited</strong>: Notes previously disclosed capital raisings and treasury updates as potential factors.  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rules, including continuous disclosure obligations.  </li>\n</ul>\n<p><strong>No material new information identified</strong>; reiterates prior disclosures. Trading activity likely reflects market reaction to known capital-raising events.</p>",
     "usage": {
       "prompt_tokens": 2505,
-      "completion_tokens": 77,
-      "total_tokens": 2582,
+      "completion_tokens": 87,
+      "total_tokens": 2592,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:00.414199"
+    "processed_at": "2025-06-26T05:16:42.591721"
   },
   {
     "ticker": "HIQ",
@@ -27,15 +65,15 @@
     "date": "20250626",
     "time": "1442",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hjb8cgml88.pdf",
-    "summary": "<ul>\n<li><strong>Loan Drawdown</strong>: Additional $200,000 drawn under existing R&amp;D incentive loan facility.  </li>\n<li><strong>Total Drawn to Date</strong>: $1,220,000 (cumulative).  </li>\n<li><strong>Repayment Timeline</strong>: Expected by 31 December 2025, aligned with R&amp;D Tax Incentive refund receipt.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Additional Drawdown</strong>: $200,000 under existing R&amp;D Incentive Loan Facility (total drawn now $1,220,000).  </li>\n<li><strong>Repayment Timing</strong>: Expected on or before 31 December 2025, aligned with receipt of 2025 RDTI refund.  </li>\n<li><strong>No material changes to terms</strong> (per prior announcement 14 April 2025).  </li>\n</ul>\n<p><em>Note: No impact on capital structure or liquidity beyond incremental debt drawdown.</em></p>",
     "usage": {
-      "prompt_tokens": 550,
-      "completion_tokens": 74,
-      "total_tokens": 624,
+      "prompt_tokens": 548,
+      "completion_tokens": 97,
+      "total_tokens": 645,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:30.589927"
+    "processed_at": "2025-06-26T05:15:04.509467"
   },
   {
     "ticker": "FAU",
@@ -46,15 +84,15 @@
     "date": "20250626",
     "time": "1440",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hfsk4309s1.pdf",
-    "summary": "<p><strong>Capital Raising Announcement (Cleansing Notice):</strong><br />\n- <strong>Structure:</strong> Tranche One of a Two-Tranche Placement<br />\n- <strong>Shares Issued:</strong> 4,298,000 fully paid ordinary shares<br />\n- <strong>Issue Price:</strong> A$0.0035 per share<br />\n- <strong>Previous Announcement Date:</strong> 18 June 2025 (as referenced)  </p>\n<p><em>No additional material information (timetable, use of proceeds, etc.) disclosed in this notice.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising (Placement - Tranche One)</strong>: Issued 4,298,000 shares at AUD $0.0035 per share.  </li>\n<li><strong>Cleansing Notice</strong>: Compliance with Corporations Act (no disclosure under Part 6D.2).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 605,
-      "completion_tokens": 99,
-      "total_tokens": 704,
+      "completion_tokens": 64,
+      "total_tokens": 669,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:45.749525"
+    "processed_at": "2025-06-26T05:15:23.558058"
   },
   {
     "ticker": "PVL",
@@ -65,15 +103,15 @@
     "date": "20250626",
     "time": "1437",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4hc7tlttgjp.pdf",
-    "summary": "<ul>\n<li><strong>Meeting Outcome</strong>: All resolutions passed by a significant majority (97.34%, 97.10%, 96.26%, and 97.34% respectively).  </li>\n<li><strong>Key Resolutions</strong>:  </li>\n<li>Related party participation in Placement (James Kruger, David McNamee, Doron Eldar).  </li>\n<li>Performance Rights issuance to Doron Eldar.  </li>\n</ul>\n<p>No material capital markets or trading impact identified beyond routine governance approvals.</p>",
+    "summary": "<ul>\n<li><strong>General Meeting Results</strong>: All resolutions passed via poll.  </li>\n<li><strong>Resolution Details</strong>:  </li>\n<li>Approval for related party participation in Placement (James Kruger, David McNamee, Doron Eldar) \u2013 all passed with &gt;96% support.  </li>\n<li>Approval to issue Performance Rights to Doron Eldar \u2013 passed with 97.10% support.  </li>\n</ul>\n<p>No material impact on trading or capital structure identified beyond routine governance approvals.</p>",
     "usage": {
       "prompt_tokens": 972,
-      "completion_tokens": 94,
-      "total_tokens": 1066,
+      "completion_tokens": 91,
+      "total_tokens": 1063,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:06.408175"
+    "processed_at": "2025-06-26T05:14:18.774165"
   },
   {
     "ticker": "PTR",
@@ -84,15 +122,15 @@
     "date": "20250626",
     "time": "1434",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4h8j5ydq247.pdf",
-    "summary": "<ul>\n<li><strong>Type:</strong> Section 708A Notice \u2013 Share Issue  </li>\n<li><strong>Key Detail:</strong> Issued 1,000,000 fully paid ordinary shares without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li><strong>Material Implication:</strong> No immediate capital raising or dilution disclosed; confirms compliance with regulatory requirements.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Section 708A Notice \u2013 Share Issue  </li>\n<li><strong>Material Information</strong>:  </li>\n<li>Issued <strong>1,000,000 fully paid ordinary shares</strong> without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li>No excluded information disclosed (as per sections 708A(7)-(8)).  </li>\n<li>Appendix 2A lodged on <strong>26 June 2025</strong>.  </li>\n</ul>\n<p><em>Note: No material trading/capital impact beyond the share issue.</em></p>",
     "usage": {
-      "prompt_tokens": 588,
-      "completion_tokens": 77,
-      "total_tokens": 665,
+      "prompt_tokens": 586,
+      "completion_tokens": 102,
+      "total_tokens": 688,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:51.254168"
+    "processed_at": "2025-06-26T05:14:44.844271"
   },
   {
     "ticker": "NOV",
@@ -103,15 +141,15 @@
     "date": "20250626",
     "time": "1431",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4h5tmp2jtzz.pdf",
-    "summary": "<ul>\n<li><strong>Type</strong>: Options exercised into ordinary shares  </li>\n<li><strong>Details</strong>: 1,303,235 NOV ordinary shares issued from conversion of NOVAAQ options (expiring 31-Jan-2028).  </li>\n<li><strong>Issue Date</strong>: 26/06/2025.  </li>\n<li><strong>Exercise Price</strong>: Nil consideration (implied value: ~$0.0294 per share).  </li>\n<li><strong>Post-Issue Capital</strong>: 544,567,108 NOV ordinary shares on issue (+ other options/unquoted securities listed).  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond dilution from options conversion.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Conversion</strong>: 1,303,235 NOVAAQ options exercised into ordinary shares (NOV) on 26/06/2025.  </li>\n<li><strong>Conversion Terms</strong>: Nil cash consideration; implied value per share: AUD 0.0294.  </li>\n<li><strong>Post-Issue Capital</strong>: 544,567,108 NOV ordinary shares on issue post-conversion.  </li>\n<li><strong>Outstanding Options</strong>: Significant remaining options (e.g., 254.8M NOVOA, 85.6M NOVAAR) may create future dilution.  </li>\n</ul>\n<p><em>Note: No material changes to capital structure or liquidity beyond routine option conversion.</em></p>",
     "usage": {
       "prompt_tokens": 1934,
-      "completion_tokens": 125,
-      "total_tokens": 2059,
+      "completion_tokens": 135,
+      "total_tokens": 2069,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:11.053466"
+    "processed_at": "2025-06-26T05:14:25.085787"
   },
   {
     "ticker": "VNG",
@@ -122,15 +160,15 @@
     "date": "20250626",
     "time": "1427",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4h0st9qbl6x.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li>Estimated distribution: <strong>3.5273 cents per unit</strong> (12 months to 30 June 2025).  </li>\n<li><strong>Timetable</strong>:  <ul>\n<li>Ex-date: <strong>1 July 2025</strong>.  </li>\n<li>Record date: <strong>2 July 2025</strong>.  </li>\n<li>DRP election deadline: <strong>3 July 2025</strong>.  </li>\n<li>Payment date: <strong>21 July 2025</strong>.  </li>\n</ul>\n</li>\n<li>DRP active for this distribution.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Estimated Distribution:</strong> 3.5273 cents per unit for the 12-month period ending 30 June 2025.  </li>\n<li><strong>Key Timetable Dates:</strong>  </li>\n<li><strong>Ex-Distribution Date:</strong> 1 July 2025  </li>\n<li><strong>Record Date:</strong> 2 July 2025  </li>\n<li><strong>DRP Election Date:</strong> 3 July 2025  </li>\n<li><strong>Payment Date:</strong> 21 July 2025  </li>\n<li><strong>DRP Participation:</strong> Distribution Reinvestment Plan (DRP) available, election deadline 3 July 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 541,
-      "completion_tokens": 113,
-      "total_tokens": 654,
+      "prompt_tokens": 543,
+      "completion_tokens": 136,
+      "total_tokens": 679,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:40.345511"
+    "processed_at": "2025-06-26T05:15:11.331831"
   },
   {
     "ticker": "CUP",
@@ -141,15 +179,15 @@
     "date": "20250626",
     "time": "1427",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4h2x1ybkj22.pdf",
-    "summary": "<p><strong>Appendix 3Y Summary (Change of Director\u2019s Interest Notice)</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Raymond Kellerman (indirect interest via RK Sydney Pty Ltd accounts).  </li>\n<li><strong>Transaction</strong>: On-market purchase of <strong>52,704 ordinary shares</strong> at <strong>$52,679.00</strong> (AUD).  </li>\n<li><strong>Post-transaction holding</strong>: <strong>3,700,000 ordinary shares</strong> (previously 3,647,296).  </li>\n<li><strong>Closed period</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Director\u2019s Shareholding Change</strong>: Indirect acquisition of 52,704 ordinary shares via on-market trade by Raymond Kellerman (through RK Sydney Pty Ltd).  </li>\n<li><strong>Transaction Details</strong>:  </li>\n<li>Purchase price: <strong>$52,679.00</strong> (implied <strong>~$1.00/share</strong>).  </li>\n<li>Post-transaction holdings: <strong>3,700,000 ordinary shares</strong> (previously 3,647,296).  </li>\n<li><strong>Closed Period Compliance</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
       "prompt_tokens": 975,
-      "completion_tokens": 116,
-      "total_tokens": 1091,
+      "completion_tokens": 119,
+      "total_tokens": 1094,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:44.360266"
+    "processed_at": "2025-06-26T05:14:41.821250"
   },
   {
     "ticker": "LSG",
@@ -160,15 +198,15 @@
     "date": "20250626",
     "time": "1425",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gyg0jdc2tr.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Distribution Estimate  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution Date: 1 July 2025  </li>\n<li>Record Date: 2 July 2025  </li>\n<li>DRP Election Date: 3 July 2025  </li>\n<li>Payment Date: 21 July 2025  </li>\n<li><strong>Estimated Distribution</strong>: 154.9687 cents per unit for 12-month period ending 30 June 2025  </li>\n<li><strong>DRP Participation</strong>: Plan active; election deadline 3 July 2025</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: 154.9687 cents per unit for the 12-month period ending 30 June 2025.  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li><strong>DRP Election Date</strong>: 3 July 2025  </li>\n<li><strong>Payment Date</strong>: 21 July 2025  </li>\n<li><strong>DRP Operational</strong>: Yes, with election deadline on 3 July 2025.</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 537,
-      "completion_tokens": 112,
-      "total_tokens": 649,
+      "prompt_tokens": 539,
+      "completion_tokens": 100,
+      "total_tokens": 639,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:37.273326"
+    "processed_at": "2025-06-26T05:16:23.767224"
   },
   {
     "ticker": "XAL",
@@ -179,15 +217,15 @@
     "date": "20250626",
     "time": "1424",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gt0hw42bdk.pdf",
-    "summary": "<ul>\n<li><strong>Estimated Annual Distribution</strong>: 100.8737 cents per unit  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-Distribution Date: 01/07/2025  </li>\n<li>Record Date: 02/07/2025  </li>\n<li>DRP Election Date: 30/06/2025  </li>\n<li>Payment Date: 08/07/2025  </li>\n<li><strong>Note</strong>: Estimated distribution is subject to change. DRP details available on Fidante\u2019s website.</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li><strong>Estimated Distribution</strong>: 100.8737 cents per unit (AUD).  </li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Ex-Distribution Date: 01/07/2025  </li>\n<li>Record Date: 02/07/2025  </li>\n<li>DRP Election Date: 30/06/2025  </li>\n<li>Payment Date: 08/07/2025  </li>\n</ul>\n</li>\n</ul>\n<p><em>Note: No material capital markets or trading impact beyond the distribution details.</em></p>",
     "usage": {
       "prompt_tokens": 573,
-      "completion_tokens": 101,
-      "total_tokens": 674,
+      "completion_tokens": 105,
+      "total_tokens": 678,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:15.620431"
+    "processed_at": "2025-06-26T05:14:59.917102"
   },
   {
     "ticker": "XAS",
@@ -198,7 +236,7 @@
     "date": "20250626",
     "time": "1424",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gw25shfbp7.pdf",
-    "summary": "<ul>\n<li><strong>Estimated Annual Distribution</strong>: 38.2672 cents per unit (XASG)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-Distribution Date: 01/07/2025  </li>\n<li>Record Date: 02/07/2025  </li>\n<li>DRP Election Date: 30/06/2025  </li>\n<li>Payment Date: 08/07/2025  </li>\n</ul>\n<p><em>Note: Distribution estimate subject to change.</em></p>",
+    "summary": "<ul>\n<li><strong>Estimated Annual Distribution</strong>: 38.2672 cents per unit  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-Distribution Date: 01/07/2025  </li>\n<li>Record Date: 02/07/2025  </li>\n<li>DRP Election Date: 30/06/2025  </li>\n<li>Payment Date: 08/07/2025  </li>\n</ul>\n<p>(No other material information identified relevant to trading or capital markets decisions.)</p>",
     "usage": {
       "prompt_tokens": 578,
       "completion_tokens": 92,
@@ -206,7 +244,7 @@
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:42.973497"
+    "processed_at": "2025-06-26T05:17:29.644898"
   },
   {
     "ticker": "MA1",
@@ -217,15 +255,15 @@
     "date": "20250626",
     "time": "1423",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gqrdg4y8dg.pdf",
-    "summary": "<p><strong>NTA Update:</strong><br />\n- Unaudited NTA per unit of MA Credit Income Trust (ASX: MA1) as of 25 June 2025: <strong>$2.0125</strong>.  </p>\n<p>(No other material information identified.)</p>",
+    "summary": "<ul>\n<li><strong>NTA Update</strong>: Unaudited Net Tangible Asset (NTA) per unit of MA Credit Income Trust (ASX: MA1) as of 25 June 2025: <strong>$2.0125</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 440,
-      "completion_tokens": 51,
-      "total_tokens": 491,
+      "prompt_tokens": 438,
+      "completion_tokens": 56,
+      "total_tokens": 494,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:59.949730"
+    "processed_at": "2025-06-26T05:14:46.575575"
   },
   {
     "ticker": "BOC",
@@ -236,15 +274,15 @@
     "date": "20250626",
     "time": "1422",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gnmm5q8tdb.pdf",
-    "summary": "<ul>\n<li><strong>Major Shareholding Transfer</strong>: Autonomous Bougainville Government (ABG) and people of Bougainville now hold a <strong>72.9% majority stake</strong> in BOC (previously 36.45%), acquired from PNG government at no cost.  </li>\n<li><strong>Remaining Free Float</strong>: Public/institutional investors retain <strong>27.2%</strong> of shares.  </li>\n<li><strong>Strategic Implication</strong>: Transfer aligns with Bougainville\u2019s economic independence goals, potentially affecting future mine ownership/operations.  </li>\n</ul>\n<p><em>[Omitted: Ceremony details, historical context, leadership commentary as non-material to trading.]</em></p>",
+    "summary": "<h3>Summary of ASX Announcement</h3>\n<ul>\n<li><strong>Share Transfer Completed</strong>: The Autonomous Bougainville Government (ABG) and people of Bougainville now hold a <strong>72.9% majority stake</strong> in Bougainville Copper Limited (BOC), following the transfer of PNG's 36.45% ownership.  </li>\n<li><strong>Remaining Ownership</strong>: Public and institutional investors retain <strong>27.2%</strong> of shares.  </li>\n<li><strong>Strategic Impact</strong>: Transfer aligns with Bougainville\u2019s economic independence and future benefits from the Panguna Mine. No cost incurred by ABG.  </li>\n</ul>\n<p><em>No other material trading/financial information identified.</em></p>",
     "usage": {
       "prompt_tokens": 771,
-      "completion_tokens": 124,
-      "total_tokens": 895,
+      "completion_tokens": 130,
+      "total_tokens": 901,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:32.137610"
+    "processed_at": "2025-06-26T05:16:01.757697"
   },
   {
     "ticker": "MEZ",
@@ -255,15 +293,15 @@
     "date": "20250626",
     "time": "1421",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gld1lsmc80.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: The announcement only specifies the date for the annual results release, which is a routine scheduling update with no immediate impact on trading or capital structure.)</em></p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: The announcement only confirms the date of the annual results release (27 August 2025) without disclosing any financial or operational data. No trading or capital markets impact.)</em></p>",
     "usage": {
       "prompt_tokens": 411,
-      "completion_tokens": 40,
-      "total_tokens": 451,
+      "completion_tokens": 46,
+      "total_tokens": 457,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:26.738555"
+    "processed_at": "2025-06-26T05:16:58.666356"
   },
   {
     "ticker": "IML",
@@ -274,15 +312,15 @@
     "date": "20250626",
     "time": "1421",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gj880qrqr4.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li>Estimated distribution: <strong>6.0511 cents per unit</strong> for 6-month period ending 30 June 2025.  </li>\n<li><strong>Timetable</strong>:  <ul>\n<li>Ex-date: <strong>1 July 2025</strong>  </li>\n<li>Record date: <strong>2 July 2025</strong>  </li>\n<li>DRP election date: <strong>3 July 2025</strong>  </li>\n<li>Payment date: <strong>21 July 2025</strong>  </li>\n</ul>\n</li>\n<li>DRP (Distribution Reinvestment Plan) available; election deadline: <strong>3 July 2025</strong>.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>  </li>\n<li>Estimated distribution: <strong>6.0511 cents per unit</strong> (6-month period ending 30 June 2025).  </li>\n<li><strong>Timetable</strong>:  <ul>\n<li>Ex-date: <strong>1 July 2025</strong>  </li>\n<li>Record date: <strong>2 July 2025</strong>  </li>\n<li>DRP election deadline: <strong>3 July 2025</strong>  </li>\n<li>Payment date: <strong>21 July 2025</strong>.  </li>\n</ul>\n</li>\n<li><strong>DRP active</strong> for this distribution.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 540,
-      "completion_tokens": 128,
-      "total_tokens": 668,
+      "prompt_tokens": 538,
+      "completion_tokens": 116,
+      "total_tokens": 654,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:00.250107"
+    "processed_at": "2025-06-26T05:14:10.934978"
   },
   {
     "ticker": "XAR",
@@ -293,15 +331,15 @@
     "date": "20250626",
     "time": "1415",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4gdw4y6sdc7.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement:</strong></p>\n<ul>\n<li><strong>Ticker:</strong> XARO  </li>\n<li><strong>Announcement Type:</strong> Distribution Notice  </li>\n<li><strong>Key Information:</strong> No distribution for period ending 30 June 2025 (income already fully distributed).  </li>\n<li><strong>Forward Guidance:</strong> Quarterly distributions expected to resume normally.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong>  </p>\n<p><em>(Note: No capital raising, financials, or operational updates disclosed.)</em></p>",
+    "summary": "<p><strong>Notification: Nil distribution - 30 June 2025</strong>  </p>\n<ul>\n<li><strong>No distribution</strong> for Ardea Real Outcome Bond Complex ETF (XARO) for period ending 30 June 2025 (income already fully distributed).  </li>\n<li><strong>Future distributions</strong> expected to resume quarterly.  </li>\n</ul>\n<p><strong>No material information identified</strong> beyond distribution update.</p>",
     "usage": {
-      "prompt_tokens": 498,
-      "completion_tokens": 91,
-      "total_tokens": 589,
+      "prompt_tokens": 496,
+      "completion_tokens": 70,
+      "total_tokens": 566,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:48.223981"
+    "processed_at": "2025-06-26T05:16:30.311922"
   },
   {
     "ticker": "FAU",
@@ -312,15 +350,15 @@
     "date": "20250626",
     "time": "1401",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4g5xkts5ky0.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising (Placement)</strong>:  </li>\n<li><strong>Shares issued</strong>: 4,298,000 ordinary fully paid shares (FAU).  </li>\n<li><strong>Issue price</strong>: AUD 0.0035 per share.  </li>\n<li>\n<p><strong>Issue date</strong>: 26/06/2025.  </p>\n</li>\n<li>\n<p><strong>Pending Issuances Subject to Shareholder Approval</strong>:  </p>\n</li>\n<li><strong>Tranche Two</strong>: 424,273,429 ordinary shares (AGM approval required).  </li>\n<li>\n<p><strong>Performance Rights</strong>: 571,428,572 (AGM approval required).  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Quoted ordinary shares (FAU)</strong>: 2,076,291,277.  </li>\n<li><strong>Unquoted options</strong>: Various tranches totaling 50,000,000 (details in announcement).  </li>\n</ul>\n<p><strong>No other material trading or financial information disclosed.</strong></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 4,298,000 new ordinary fully paid shares (FAU) issued at AUD 0.0035 per share.  </li>\n<li><strong>Placement Details</strong>: Part of a broader transaction previously announced (Appendix 3B); further issuances pending shareholder approval (424,273,429 Tranche Two shares and 571,428,572 Performance Rights).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total quoted ordinary shares on issue will be 2,076,291,277; unquoted securities include various options.  </li>\n</ul>\n<p><em>No other material trading or capital structure impacts identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1495,
-      "completion_tokens": 185,
-      "total_tokens": 1680,
+      "prompt_tokens": 1493,
+      "completion_tokens": 127,
+      "total_tokens": 1620,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:32.363450"
+    "processed_at": "2025-06-26T05:17:12.740674"
   },
   {
     "ticker": "WBC",
@@ -331,15 +369,15 @@
     "date": "20250626",
     "time": "1401",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4g81x2bwr36.pdf",
-    "summary": "<p><strong>Dividend/Distribution Notification (WBCPL - Westpac Capital Notes 9):</strong><br />\n- <strong>Distribution Amount:</strong> AUD 1.2463 per security (fully franked)<br />\n- <strong>Ex-Date:</strong> 11/9/2025<br />\n- <strong>Record Date:</strong> 12/9/2025<br />\n- <strong>Payment Date:</strong> 22/9/2025<br />\n- <strong>Distribution Rate:</strong> 4.9447% p.a. (calculated as (3.6639% BBSW + 3.40% margin) \u00d7 0.70 tax adjustment)<br />\n- <strong>Key Terms:</strong> Perpetual, non-cumulative, redeemable. Conditions and mechanics per WCN 9 Prospectus.  </p>\n<p><strong>No material capital structure or liquidity impacts identified.</strong></p>",
+    "summary": "<p><strong>Summary of ASX Announcement - Dividend Distribution (WBCPL Capital Notes 9):</strong>  </p>\n<ul>\n<li><strong>Security:</strong> WBCPL (Westpac Capital Notes 9)  </li>\n<li><strong>Distribution Amount:</strong> AUD 1.2463 per note (fully franked)  </li>\n<li><strong>Distribution Rate:</strong> 4.9447% p.a. (calculated as (3-month BBSW + 3.40% margin) \u00d7 0.70)  </li>\n<li><strong>Key Dates:</strong>  </li>\n<li><strong>Ex-Date:</strong> 11/9/2025  </li>\n<li><strong>Record Date:</strong> 12/9/2025  </li>\n<li><strong>Payment Date:</strong> 22/9/2025  </li>\n<li><strong>Underlying Rate Components:</strong>  </li>\n<li>3-month BBSW (23/6/2025): 3.6639%  </li>\n<li>Fixed Margin: 3.40%  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 2271,
-      "completion_tokens": 162,
-      "total_tokens": 2433,
+      "completion_tokens": 193,
+      "total_tokens": 2464,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:53:36.675845"
+    "processed_at": "2025-06-26T05:14:37.210923"
   },
   {
     "ticker": "IAL",
@@ -350,15 +388,15 @@
     "date": "20250626",
     "time": "1359",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4g3fgkxny31.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: The provided data appears to be a routine <strong>mFund redemption report</strong>, showing unit redemptions for various funds. This does not materially impact trading decisions, capital structure, or liquidity for Invesco or the broader market. No actionable capital markets information is present.)</p>",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>Fund Redemptions (May 2025):</strong>  </li>\n<li><strong>IAL02 (GTU0102AU):</strong> 3,668,405 units redeemed ($2,465,177 AUD).  </li>\n<li><strong>IAL05 (CNA0805AU):</strong> 9,318,211 units redeemed ($9,579,801 AUD).  </li>\n<li><strong>IAL08 (GTU0008AU):</strong> 616,394 units redeemed ($817,252 AUD).  </li>\n<li><strong>IAL11 (CNA0811AU):</strong> 2,268,391 units redeemed ($3,256,522 AUD).  </li>\n<li><strong>IAL12 (CNA0812AU):</strong> 469,531 units redeemed ($1,182,240 AUD).  </li>\n<li><strong>IAL18 (GTU0109AU):</strong> 918,285 units redeemed ($992,613 AUD).  </li>\n</ul>\n<p><strong>Note:</strong> No other material trading or capital markets information identified.</p>",
     "usage": {
       "prompt_tokens": 507,
-      "completion_tokens": 63,
-      "total_tokens": 570,
+      "completion_tokens": 202,
+      "total_tokens": 709,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:42.614266"
+    "processed_at": "2025-06-26T05:15:21.033948"
   },
   {
     "ticker": "WBC",
@@ -369,15 +407,15 @@
     "date": "20250626",
     "time": "1359",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4g1br7yn54r.pdf",
-    "summary": "<p><strong>Dividend/Distribution Announcement Summary (WBCPJ - Westpac Capital Notes 7):</strong><br />\n- <strong>Security:</strong> WBCPJ (CAP NOTE 3-BBSW+3.40% PERP NON-CUM RED T-03-27)<br />\n- <strong>Distribution Amount:</strong> AUD 1.2463 per security (fully franked)<br />\n- <strong>Key Dates:</strong><br />\n  - <strong>Ex-Date:</strong> 11/09/2025<br />\n  - <strong>Record Date:</strong> 12/09/2025<br />\n  - <strong>Payment Date:</strong> 22/09/2025<br />\n- <strong>Distribution Rate:</strong> 4.9447% p.a. (based on 3-month BBSW + 3.40% margin, post-tax).  </p>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<h3><strong>Dividend/Distribution Announcement Summary (Appendix 3A.1)</strong></h3>\n<ul>\n<li><strong>Security</strong>: WBCPJ (Westpac Capital Notes 7)  </li>\n<li><strong>Distribution Rate (Annualized)</strong>: <strong>4.9447%</strong> (based on 3m BBSW + 3.40% margin, after tax adjustment)  </li>\n<li><strong>Distribution Amount per Security</strong>: <strong>AUD 1.2463</strong> (fully franked)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Ex-Date</strong>: 11/9/2025  </li>\n<li><strong>Record Date</strong>: 12/9/2025  </li>\n<li><strong>Payment Date</strong>: 22/9/2025  </li>\n<li><strong>Calculation Basis</strong>:  </li>\n<li><strong>3m BBSW Rate (23/06/2025)</strong>: 3.6639%  </li>\n<li><strong>Fixed Margin</strong>: +3.40%  </li>\n<li><strong>Tax Adjustment (30%)</strong>: \u00d70.70  </li>\n<li><strong>Reference</strong>: <a href=\"https://www.westpac.com.au/westpaccapnotes7\">WCN 7 Prospectus</a>  </li>\n</ul>\n<p><em>No other material information for trading/capital markets decisions.</em></p>",
     "usage": {
       "prompt_tokens": 2268,
-      "completion_tokens": 168,
-      "total_tokens": 2436,
+      "completion_tokens": 243,
+      "total_tokens": 2511,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:25.953370"
+    "processed_at": "2025-06-26T05:15:58.408443"
   },
   {
     "ticker": "FAU",
@@ -388,15 +426,15 @@
     "date": "20250626",
     "time": "1358",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4fx5b2q57wf.pdf",
-    "summary": "<p><strong>Capital Raising Announcement (Two-Tranche Private Placement):</strong><br />\n- <strong>Structure:</strong> Two-tranche private placement<br />\n- <strong>Total Capital Raised (Tranche One):</strong> AUD ~$1.5 million (total), AUD ~$0.015 million (Tranche One: 4,298,000 shares at AUD $0.0035/share)<br />\n- <strong>Tranche Two:</strong> Pending shareholder approval at AGM (by 31 July 2025) for 424,273,429 shares (exact amount raised not specified). Includes AUD $0.12 million from a director (34,285,714 shares).<br />\n- <strong>ASX Listing Rules:</strong> Tranche One issued under Listing Rule 7.1 (no capacity remaining under 7.1A).  </p>\n<p><strong>Key Dates:</strong> AGM for shareholder approval on/before 31 July 2025.  </p>\n<p><strong>Omitted:</strong> Director names, project details (non-capital markets relevant).</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Two-tranche Private Placement.  </li>\n<li><strong>Total Capital Raised (Tranche One)</strong>: AUD $1.5 million (AUD $0.0035/share).  </li>\n<li><strong>Shares Issued (Tranche One)</strong>: 4,298,000 new shares (under ASX Listing Rule 7.1).  </li>\n<li><strong>Tranche Two</strong>: 424,273,429 new shares pending shareholder approval at AGM (on/before 31 July 2025).  </li>\n<li><strong>Director Participation</strong>: Mr. Lei Shi to subscribe AUD $0.12 million (34,285,714 shares) in Tranche Two, subject to approval.  </li>\n<li>\n<p><strong>Key Condition</strong>: Shareholder approval required for Tranche Two issuance.  </p>\n</li>\n<li>\n<p><strong>Additional Note</strong>: No remaining capacity under ASX Listing Rule 7.1A.  </p>\n</li>\n</ul>\n<p><em>Omitted: Director contacts, project details, boilerplate.</em></p>",
     "usage": {
-      "prompt_tokens": 848,
-      "completion_tokens": 204,
+      "prompt_tokens": 846,
+      "completion_tokens": 206,
       "total_tokens": 1052,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:56.661217"
+    "processed_at": "2025-06-26T05:15:31.311383"
   },
   {
     "ticker": "IAL",
@@ -407,15 +445,15 @@
     "date": "20250626",
     "time": "1358",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4fz6zk1trf6.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p>(The provided text appears to be a fund distribution notice without material trading or capital markets impact. No actionable details for ECM decisions are present.)</p>",
+    "summary": "<p>Based on the provided content, this appears to be a <strong>fund distribution notice</strong> which typically does not contain material trading or capital markets information. Here\u2019s the distilled summary:  </p>\n<ul>\n<li><strong>No material information identified</strong> for trading or capital markets decisions (routine distribution update).  </li>\n</ul>\n<p><strong>Rationale</strong>: Fund distribution notices are administrative and do not impact valuation, liquidity, or capital structure unless accompanied by exceptional items (e.g., fund closure, fee changes, or material performance shifts). None are present here.  </p>\n<p><em>Note for ECM context</em>: Such documents are rarely material unless part of a broader capital event (e.g., fund launch/termination impacting AUM).</p>",
     "usage": {
-      "prompt_tokens": 458,
-      "completion_tokens": 35,
-      "total_tokens": 493,
+      "prompt_tokens": 456,
+      "completion_tokens": 134,
+      "total_tokens": 590,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:33.878580"
+    "processed_at": "2025-06-26T05:16:06.056089"
   },
   {
     "ticker": "PGF",
@@ -426,15 +464,15 @@
     "date": "20250626",
     "time": "1356",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4ftq9drbns0.pdf",
-    "summary": "<p><strong>Appendix 3Y Summary</strong><br />\n- <strong>Director</strong>: Michael Ryan<br />\n- <strong>Interest Change</strong>: Indirect (via BT Panorama Superannuation Fund)<br />\n- <strong>Transaction</strong>: On-market purchase of 32,500 ordinary shares<br />\n- <strong>Value</strong>: $80,600<br />\n- <strong>Post-Change Holding</strong>: 32,500 shares<br />\n- <strong>No closed period breach</strong>.  </p>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: Appendix 3Y filings disclose routine director shareholding changes, which rarely impact trading or capital markets decisions unless the transaction is exceptionally large, involves insider trading concerns, or signals a strategic shift. This filing shows a standard on-market purchase of 32,500 shares by a director\u2019s superannuation fund, with no closed-period violation.)</p>",
     "usage": {
       "prompt_tokens": 944,
-      "completion_tokens": 88,
-      "total_tokens": 1032,
+      "completion_tokens": 78,
+      "total_tokens": 1022,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:39.864415"
+    "processed_at": "2025-06-26T05:16:28.055913"
   },
   {
     "ticker": "WBC",
@@ -445,15 +483,15 @@
     "date": "20250626",
     "time": "1356",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4frlhmn17x2.pdf",
-    "summary": "<ul>\n<li><strong>Security</strong>: WBCPK (CAP NOTE 3-BBSW+2.90% PERP NON-CUM RED T-09-29)  </li>\n<li><strong>Distribution Amount</strong>: AUD 1.1581 per security (fully franked)  </li>\n<li><strong>Ex-Date</strong>: 11/9/2025  </li>\n<li><strong>Record Date</strong>: 12/9/2025  </li>\n<li><strong>Payment Date</strong>: 22/9/2025  </li>\n<li><strong>Distribution Rate</strong>: 4.5947% p.a. (based on 3M BBSW + 2.90% margin, adjusted for tax)  </li>\n<li><strong>Key Calculation</strong>: (3.6639% BBSW + 2.90% margin) \u00d7 0.70 (1-tax rate) = 4.5947% p.a.</li>\n</ul>",
+    "summary": "<h3><strong>Dividend/Distribution Notification Summary (WBCPK)</strong></h3>\n<ul>\n<li><strong>Security</strong>: WBCPK (Capital Note 3 \u2013 BBSW + 2.90% Perpetual)  </li>\n<li><strong>Distribution Amount</strong>: AUD <strong>1.1581</strong> per security (fully franked)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Ex-Date</strong>: <strong>11/9/2025</strong>  </li>\n<li><strong>Record Date</strong>: <strong>12/9/2025</strong>  </li>\n<li><strong>Payment Date</strong>: <strong>22/9/2025</strong>  </li>\n<li><strong>Distribution Rate</strong>: <strong>4.5947% p.a.</strong> (based on 3m BBSW <strong>3.6639%</strong> + <strong>2.90%</strong> margin, adjusted for 30% tax rate).  </li>\n<li><strong>Conditions</strong>: Payment subject to Westpac\u2019s discretion and terms in the <a href=\"https://www.westpac.com.au/westpaccapnotes8\">WCN 8 Prospectus</a>.  </li>\n</ul>\n<p><em>No material capital structure or liquidity impacts identified.</em></p>",
     "usage": {
       "prompt_tokens": 2293,
-      "completion_tokens": 171,
-      "total_tokens": 2464,
+      "completion_tokens": 213,
+      "total_tokens": 2506,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:55:55.446781"
+    "processed_at": "2025-06-26T05:16:36.754062"
   },
   {
     "ticker": "WBC",
@@ -464,15 +502,15 @@
     "date": "20250626",
     "time": "1353",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4fny0p3gn7r.pdf",
-    "summary": "<ul>\n<li><strong>Security</strong>: WBCPM - CAP NOTE 3-BBSW+3.10% PERP NON-CUM RED T-09-31  </li>\n<li><strong>Distribution Amount</strong>: AUD 1.1934 (fully franked) per security  </li>\n<li><strong>Distribution Rate</strong>: 4.7347% p.a. (based on 3m BBSW + 3.10% margin, tax-adjusted)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Ex-Date</strong>: 11/9/2025  </li>\n<li><strong>Record Date</strong>: 12/9/2025  </li>\n<li><strong>Payment Date</strong>: 22/9/2025  </li>\n<li><strong>Calculation Basis</strong>: 92-day period (23/6/2025\u201322/9/2025) at 3m BBSW (3.6639%) + fixed margin (3.10%), tax rate 30%.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<p><strong>Dividend Notification (WBCPM - Perpetual Capital Notes):</strong><br />\n- <strong>Security:</strong> WBCPM (Westpac Capital Note 10)<br />\n- <strong>Distribution Amount (per security):</strong> AUD 1.1934 (fully franked)<br />\n- <strong>Ex-Date:</strong> 11/9/2025<br />\n- <strong>Record Date:</strong> 12/9/2025<br />\n- <strong>Payment Date:</strong> 22/9/2025<br />\n- <strong>Distribution Rate (p.a.):</strong> 4.7347% (calculated as [3-month BBSW (3.6639%) + Margin (3.10%)] \u00d7 0.70).  </p>\n<p><em>No material deviations from expected terms.</em></p>",
     "usage": {
-      "prompt_tokens": 2256,
-      "completion_tokens": 194,
-      "total_tokens": 2450,
+      "prompt_tokens": 2258,
+      "completion_tokens": 148,
+      "total_tokens": 2406,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:37.753690"
+    "processed_at": "2025-06-26T05:17:19.540263"
   },
   {
     "ticker": "WBC",
@@ -483,15 +521,15 @@
     "date": "20250626",
     "time": "1350",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4fl59fyj4w6.pdf",
-    "summary": "<ul>\n<li><strong>Security</strong>: WBCPH (Westpac Capital Notes 5)  </li>\n<li><strong>Distribution Amount</strong>: AUD 1.2110 per security (fully franked)  </li>\n<li><strong>Ex-Date</strong>: 11/9/2025  </li>\n<li><strong>Record Date</strong>: 12/9/2025  </li>\n<li><strong>Payment Date</strong>: 22/9/2025  </li>\n<li><strong>Distribution Rate</strong>: 4.8047% p.a. (calculated as (3m BBSW + 3.20% margin) \u00d7 0.70)  </li>\n<li><strong>Key Terms</strong>: Perpetual, non-cumulative, redeemable  </li>\n<li><strong>BBSW Reference Rate</strong>: 3.6639% (as of 23/6/2025)  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<h3>Summary (Dividend Announcement - Preference Security):</h3>\n<ul>\n<li><strong>Security</strong>: WBCPH (Westpac Capital Notes 5 - Perpetual, Non-Cumulative)  </li>\n<li><strong>Distribution Amount</strong>: <strong>AUD 1.2110 per security</strong> (fully franked).  </li>\n<li><strong>Ex-Date</strong>: <strong>11/9/2025</strong>  </li>\n<li><strong>Record Date</strong>: <strong>12/9/2025</strong>  </li>\n<li><strong>Payment Date</strong>: <strong>22/9/2025</strong>  </li>\n<li><strong>Distribution Rate</strong>: <strong>4.8047% p.a.</strong> (based on 3m BBSW + 3.20% margin, tax-adjusted).  </li>\n<li><strong>Key Calculation</strong>:  </li>\n<li>Base Rate (3m BBSW as of 23/6/2025): <strong>3.6639%</strong>  </li>\n<li>Margin: <strong>+3.20%</strong>  </li>\n<li>Tax Rate Adjustment: <strong>\u00d70.70</strong> (30% corporate tax rate).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 2263,
-      "completion_tokens": 164,
-      "total_tokens": 2427,
+      "prompt_tokens": 2261,
+      "completion_tokens": 211,
+      "total_tokens": 2472,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:19.643329"
+    "processed_at": "2025-06-26T05:16:47.678495"
   },
   {
     "ticker": "RAC",
@@ -502,15 +540,15 @@
     "date": "20250626",
     "time": "1349",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4ffvkl6pb43.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Conversion of options to ordinary shares  </li>\n<li><strong>Security Details</strong>:  </li>\n<li><strong>ASX Code</strong>: RAC (Ordinary Fully Paid)  </li>\n<li><strong>Number of Shares Issued</strong>: 3,300  </li>\n<li><strong>Issue Date</strong>: 26/06/2025  </li>\n<li>\n<p><strong>Exercise Price</strong>: AUD 1.25 per share  </p>\n</li>\n<li>\n<p><strong>Underlying Options</strong>:  </p>\n</li>\n<li>\n<p><strong>Converted Option Class</strong>: RACAAA (Expiring 29-May-2026, Exercise Price AUD 1.25)  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Total Ordinary Shares Outstanding</strong>: 173,744,385  </li>\n<li><strong>Outstanding Unquoted Options</strong>: Multiple tranches with varying expiries/exercise prices (details omitted for brevity).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Minor dilution from small conversion (3,300 shares), no material capital raising or timetable disclosed.</p>",
+    "summary": "<ul>\n<li><strong>Type of Issuance</strong>: Exercise of options (3,300 RACAAA options expiring 29-May-2026 at $1.25 strike price)  </li>\n<li><strong>Equity Impact</strong>: 3,300 new ordinary shares (RAC) issued, ranking equally with existing shares  </li>\n<li><strong>Cash Proceeds</strong>: AUD $4,125 (3,300 shares \u00d7 AUD 1.25)  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li><strong>Ordinary Shares (RAC)</strong>: 173,744,385 (quoted)  </li>\n<li><strong>Outstanding Options</strong>: Multiple unquoted option classes (~32.7M total) remain outstanding  </li>\n</ul>\n<p><em>Note: Minimal liquidity/capital structure impact due to small issuance size (~0.02% dilution).</em></p>",
     "usage": {
-      "prompt_tokens": 1860,
-      "completion_tokens": 194,
-      "total_tokens": 2054,
+      "prompt_tokens": 1862,
+      "completion_tokens": 163,
+      "total_tokens": 2025,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:54:11.104945"
+    "processed_at": "2025-06-26T05:14:56.596899"
   },
   {
     "ticker": "VML",
@@ -521,15 +559,15 @@
     "date": "20250626",
     "time": "1349",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4fj0yz8gg3t.pdf",
-    "summary": "<ul>\n<li><strong>General Meeting Results</strong>:  </li>\n<li>All resolutions approved, including:  <ol>\n<li><strong>Ratification of Convertible Loan Agreement</strong> (69.42% FOR).  </li>\n<li><strong>Ratification of Prior Issue of Convertible Loan Options</strong> (75.05% FOR).  </li>\n<li><strong>Capital Consolidation</strong> (71.82% FOR).  </li>\n</ol>\n</li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>General Meeting Results</strong>: All resolutions approved (ratification of convertible loan agreement, prior issue of convertible loan options, and capital consolidation).  </li>\n<li><strong>Capital Consolidation Approved</strong>: Share consolidation passed, likely to impact share structure/liquidity (exact ratio not specified).  </li>\n</ul>\n<p><em>No material trading or capital raising details identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1039,
-      "completion_tokens": 82,
-      "total_tokens": 1121,
+      "prompt_tokens": 1041,
+      "completion_tokens": 67,
+      "total_tokens": 1108,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T04:56:45.907968"
+    "processed_at": "2025-06-26T05:17:36.721900"
   },
   {
     "ticker": "LU7",
