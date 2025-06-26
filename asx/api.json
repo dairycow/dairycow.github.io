@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "ACM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962612",
+    "id": "02962612",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "1856",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vz12hqqgfy.pdf",
+    "summary": "<ul>\n<li><strong>Restricted securities released from escrow on 3 July 2025</strong>:  </li>\n<li>8,205,010 ordinary fully paid shares  </li>\n<li>12,450,000 unlisted options ($0.30 strike, expiring 29 June 2026)  </li>\n<li>4,200,000 performance rights (no quotation sought).  </li>\n<li><strong>No remaining ASX escrow restrictions</strong> post-release.  </li>\n<li><strong>Quotation application</strong> for shares and options within 5 business days post-escrow expiry.  </li>\n</ul>\n<p><em>Note: No material impact on capital structure or liquidity expected (held by long-term insiders).</em></p>",
+    "usage": {
+      "prompt_tokens": 635,
+      "completion_tokens": 132,
+      "total_tokens": 767,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T09:01:45.503136"
+  },
+  {
+    "ticker": "KSN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962611",
+    "id": "02962611",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "1851",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vvy4829zk1.pdf",
+    "summary": "<ul>\n<li><strong>New Options Issued</strong>:  </li>\n<li><em>Misima Sale Price Maximisation Incentive Options</em>: <strong>3,357,770</strong> issued (expiry 20/05/2028, zero exercise price).  </li>\n<li><em>Mineral Hill Project Goal Performance Options</em>: <strong>6,475,152</strong> issued (expiry 31/07/2028, zero exercise price).  </li>\n<li><strong>Key Management Personnel (KMP) Allocation</strong>:  </li>\n<li><strong>Andrew Corbett</strong>: 3,357,770 Misima Options &amp; 1,618,788 Mineral Hill Options (via Milamar Group Pty Ltd).  </li>\n<li><strong>Total Securities on Issue</strong>:  </li>\n<li><strong>Ordinary Shares (KSN)</strong>: 823,514,251 (quoted).  </li>\n<li><strong>Unquoted Securities</strong>: Includes warrants/options totaling ~191.2M across multiple tranches (see codes KSNAAA-KSNAAM).  </li>\n</ul>\n<p><em>No material dilution or trading impact expected due to zero exercise price and unquoted status of new options.</em></p>",
+    "usage": {
+      "prompt_tokens": 2561,
+      "completion_tokens": 216,
+      "total_tokens": 2777,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T09:00:01.276887"
+  },
+  {
+    "ticker": "BUR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962610",
+    "id": "02962610",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250626",
+    "time": "1844",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vrjh4p539z.pdf",
+    "summary": "<ul>\n<li><strong>General Meeting Outcome</strong>: All resolutions (1-5) passed, including:  </li>\n<li>Ratification of prior securities issuance (Listing Rule 7.1)  </li>\n<li>Approval for directors (Dan Bahen, Bryan Dixon, Stewart McCallion) to participate in a placement.  </li>\n<li>Approval of lead manager options issuance.  </li>\n<li><strong>Voting Results</strong>: All resolutions carried with ~99.99% approval (minor abstentions).  </li>\n</ul>\n<p><strong>Material Implication</strong>: Confirms capital raising approvals (placement and options), likely indicating imminent or recent equity issuance. No further details on raising size or pricing.  </p>\n<p><em>Note: Proxy vote counts omitted as non-material to trading decisions.</em></p>",
+    "usage": {
+      "prompt_tokens": 949,
+      "completion_tokens": 141,
+      "total_tokens": 1090,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T09:01:15.191540"
+  },
+  {
     "ticker": "FSM",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962607",
     "id": "02962607",
@@ -8,15 +65,15 @@
     "date": "20250626",
     "time": "1839",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vj5ds69qqm.pdf",
-    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: $0.00116347 per unit for Firetrail Australian Small Companies Fund (FSML) for period ending 30 June 2025 (subject to change).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>Payment date: 11 July 2025  </li>\n<li><strong>DRP Details</strong>: Distributions automatically reinvested unless cash election made by 5pm on 3 July 2025.  </li>\n<li><strong>Cash Distribution</strong>: Direct crediting required; unitholders without bank details on file will have payments withheld.  </li>\n</ul>\n<p><em>Omitted boilerplate, legal terms, and non-material procedural details.</em></p>",
+    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: $0.00116347 per unit for Firetrail Australian Small Companies Fund \u2013 Active ETF (FSML) (period ending 30 June 2025).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>DRP election cutoff: 3 July 2025 (5pm)  </li>\n<li>Payment date: 11 July 2025  </li>\n<li><strong>DRP Default</strong>: Unitholders without a cash election by the deadline will have distributions reinvested.  </li>\n<li><strong>NAV Impact</strong>: Distribution will reduce FSML\u2019s net asset value from ex-date.  </li>\n</ul>\n<p><em>Omitted boilerplate and procedural details (e.g., payment methods, registry instructions).</em></p>",
     "usage": {
       "prompt_tokens": 788,
-      "completion_tokens": 153,
-      "total_tokens": 941,
+      "completion_tokens": 166,
+      "total_tokens": 954,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:18.203041"
+    "processed_at": "2025-06-26T09:00:50.931371"
   },
   {
     "ticker": "FLN",
@@ -27,15 +84,15 @@
     "date": "20250626",
     "time": "1839",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vl9qz3kl30.pdf",
-    "summary": "<ul>\n<li><strong>Director's Share Purchase</strong>: Robert Matthew Barrie acquired <strong>80,846</strong> fully paid ordinary shares via on-market trade at <strong>A$0.21</strong> per share.  </li>\n<li><strong>Total Holdings Post-Transaction</strong>:  </li>\n<li>Direct: <strong>192,183,157</strong> shares (unchanged)  </li>\n<li>Indirect: <strong>6,475,641</strong> shares (via Infilsec Pty Ltd and Taipan Investment Management Pty Ltd).  </li>\n<li><strong>No Closed Period Violation</strong>: Trade did not occur during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Director Trading Activity</strong>:  </li>\n<li>Director <strong>Robert Matthew Barrie</strong> increased indirect holdings via <strong>80,846 fully paid ordinary shares</strong> purchased on-market at <strong>A$0.21 per share</strong>.  </li>\n<li>Total indirect holdings post-trade: <strong>6,475,641 shares</strong> (via Infilsec Pty Ltd and Taipan Investment Management Pty Ltd).  </li>\n<li>\n<p>No closed-period trading violations.  </p>\n</li>\n<li>\n<p><strong>No material impact on capital structure or liquidity</strong> (minor volume relative to total holdings).  </p>\n</li>\n</ul>\n<p><em>Summary: Routine director interest update; no actionable capital markets impact.</em></p>",
     "usage": {
-      "prompt_tokens": 1116,
-      "completion_tokens": 120,
-      "total_tokens": 1236,
+      "prompt_tokens": 1114,
+      "completion_tokens": 121,
+      "total_tokens": 1235,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:45:39.495061"
+    "processed_at": "2025-06-26T09:00:11.543122"
   },
   {
     "ticker": "FRI",
@@ -46,15 +103,15 @@
     "date": "20250626",
     "time": "1839",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vnfjn9kfv8.pdf",
-    "summary": "<ul>\n<li><strong>Change of Director\u2019s Interest Notice</strong>:  </li>\n<li><strong>Director</strong>: Melissa Siew Ching Chan (indirect interest).  </li>\n<li><strong>Transaction</strong>: Off-market purchase of <strong>342,364 ordinary shares</strong> (indirect).  </li>\n<li><strong>Consideration</strong>: <strong>$239,654.80</strong>.  </li>\n<li><strong>Post-transaction holding</strong>: <strong>24,060,691 indirect shares</strong> (+107,133 direct).  </li>\n<li><strong>No closed-period trading</strong>.  </li>\n</ul>\n<p><em>No other material information identified</em>.</p>",
+    "summary": "<p><strong>Summary of Appendix 3Y - Director\u2019s Interest Change Notice</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Melissa Siew Ching Chan  </li>\n<li><strong>Transaction Type</strong>: Indirect off-market purchase  </li>\n<li><strong>Securities Acquired</strong>: 342,364 ordinary shares (indirect)  </li>\n<li><strong>Consideration</strong>: AUD 239,654.80  </li>\n<li><strong>Holdings Post-Transaction</strong>:  </li>\n<li>Direct: 107,133 shares  </li>\n<li>Indirect: 24,060,691 shares  </li>\n<li><strong>Closed Period Trade</strong>: No  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).  </p>\n<p><em>Omitted: Legal boilerplate, non-material trust/corporate interest details.</em></p>",
     "usage": {
-      "prompt_tokens": 957,
-      "completion_tokens": 104,
-      "total_tokens": 1061,
+      "prompt_tokens": 955,
+      "completion_tokens": 141,
+      "total_tokens": 1096,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:26.029162"
+    "processed_at": "2025-06-26T09:02:15.255155"
   },
   {
     "ticker": "FRI",
@@ -65,15 +122,15 @@
     "date": "20250626",
     "time": "1837",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vfvpld5c95.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Ronald Chan increased indirect holdings in Finbar Group Limited by <strong>342,364 ordinary shares</strong> (off-market purchase).  </li>\n<li><strong>Value</strong>: Consideration of <strong>$239,654.80</strong>.  </li>\n<li><strong>Total Holdings Post-Change</strong>:  </li>\n<li>Direct: <strong>242,584 shares</strong> (unchanged).  </li>\n<li>Indirect: <strong>24,060,691 shares</strong>.  </li>\n<li><strong>Closed Period Trading</strong>: No trading during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: Director's shareholding changes are routine disclosures with no direct impact on valuation, liquidity, or capital structure.)</p>",
     "usage": {
-      "prompt_tokens": 952,
-      "completion_tokens": 108,
-      "total_tokens": 1060,
+      "prompt_tokens": 950,
+      "completion_tokens": 31,
+      "total_tokens": 981,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:49:16.992407"
+    "processed_at": "2025-06-26T09:04:34.790448"
   },
   {
     "ticker": "CGU",
@@ -84,15 +141,15 @@
     "date": "20250626",
     "time": "1834",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4vc41lx0g6y.pdf",
-    "summary": "<ul>\n<li><strong>ETF Distribution Announcement</strong>:  </li>\n<li><strong>Estimated distribution</strong>: 13.092804 cents per unit (subject to change).  </li>\n<li><strong>Key dates</strong>:  <ul>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>DRP election date: 3 July 2025  </li>\n<li>Payment date: 18 July 2025  </li>\n</ul>\n</li>\n<li><strong>DRP</strong>: Reinvestment plan active for this distribution.</li>\n</ul>",
+    "summary": "<p><strong>Claremont Global Fund Active ETF (ASX: CGUN) \u2013 Distribution Announcement:</strong>  </p>\n<ul>\n<li><strong>Ex-distribution date:</strong> 1 July 2025  </li>\n<li><strong>Record date:</strong> 2 July 2025  </li>\n<li><strong>Payment date:</strong> 18 July 2025  </li>\n<li><strong>Estimated distribution:</strong> 13.092804 cents per unit (subject to adjustments).  </li>\n<li><strong>DRP election deadline:</strong> 3 July 2025 (DRP active for this distribution).</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 563,
-      "completion_tokens": 103,
-      "total_tokens": 666,
+      "prompt_tokens": 565,
+      "completion_tokens": 100,
+      "total_tokens": 665,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:35.100055"
+    "processed_at": "2025-06-26T09:02:19.907167"
   },
   {
     "ticker": "CGH",
@@ -103,15 +160,15 @@
     "date": "20250626",
     "time": "1833",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4v8y36mp150.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Announcement Type: Estimated Distribution Notice</strong>  </p>\n<ul>\n<li><strong>Ex-distribution Date:</strong> 1 July 2025  </li>\n<li><strong>Record Date:</strong> 2 July 2025  </li>\n<li><strong>DRP Election Deadline:</strong> 3 July 2025  </li>\n<li><strong>Payment Date:</strong> 18 July 2025  </li>\n<li><strong>Estimated Distribution:</strong> 0.00 cents per unit (subject to change based on units on issue and FX movements).  </li>\n<li><strong>DRP Operative:</strong> Yes, with elections due by 3 July 2025.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (nil distribution, routine DRP operation).</p>",
+    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: 0.00 cents per unit (subject to change).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution Date: 1 July 2025  </li>\n<li>Record Date: 2 July 2025  </li>\n<li>DRP Election Date: 3 July 2025  </li>\n<li>Payment Date: 18 July 2025  </li>\n<li><strong>DRP Participation</strong>: Distribution Reinvestment Plan (DRP) available, election deadline 3 July 2025.  </li>\n</ul>\n<p><em>No material impact on trading/capital structure; distribution is nil.</em></p>",
     "usage": {
-      "prompt_tokens": 578,
-      "completion_tokens": 139,
-      "total_tokens": 717,
+      "prompt_tokens": 576,
+      "completion_tokens": 118,
+      "total_tokens": 694,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:45.328543"
+    "processed_at": "2025-06-26T09:01:30.003508"
   },
   {
     "ticker": "GCQ",
@@ -122,15 +179,15 @@
     "date": "20250626",
     "time": "1822",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4v2cwwr3k9f.pdf",
-    "summary": "<ul>\n<li><strong>ETF Distribution Announcement</strong>:  </li>\n<li><strong>Estimated Distribution</strong>: 0.2500 cents per unit (subject to change).  </li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Ex-distribution Date: 1 July 2025  </li>\n<li>Record Date: 2 July 2025  </li>\n<li>DRP Election Date: 3 July 2025  </li>\n<li>Payment Date: 15 July 2025  </li>\n</ul>\n</li>\n<li><strong>DRP</strong>: Operates for this distribution; election deadline 3 July 2025.</li>\n</ul>",
+    "summary": "<p><strong>Distribution Announcement (ETF):</strong><br />\n- <strong>Estimated distribution:</strong> 0.2500 cents per unit (subject to change).<br />\n- <strong>Key dates:</strong><br />\n  - Ex-distribution date: 1 July 2025<br />\n  - Record date: 2 July 2025<br />\n  - DRP election date: 3 July 2025<br />\n  - Payment date: 15 July 2025.<br />\n- <strong>DRP applies</strong>, with elections due by 3 July 2025.  </p>\n<p><em>Note: No material impact on capital structure or valuation beyond distribution timeline/amount.</em></p>",
     "usage": {
-      "prompt_tokens": 566,
-      "completion_tokens": 109,
-      "total_tokens": 675,
+      "prompt_tokens": 564,
+      "completion_tokens": 123,
+      "total_tokens": 687,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:22.480484"
+    "processed_at": "2025-06-26T09:00:58.991665"
   },
   {
     "ticker": "TGP",
@@ -141,15 +198,15 @@
     "date": "20250626",
     "time": "1822",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4v4h4q6jhrt.pdf",
-    "summary": "<p><strong>Summary of Appendix 3H - Cessation of Securities (360 Capital Group - TGP):</strong>  </p>\n<ul>\n<li><strong>Securities Ceased:</strong> 220,322 TGP ordinary stapled securities (on-market buy-back).  </li>\n<li><strong>Cessation Date:</strong> 26/06/2025.  </li>\n<li><strong>Total Consideration Paid:</strong> AUD 143,053.29.  </li>\n<li><strong>Post-Cessation Issued Capital:</strong> 197,296,690 TGP securities quoted; 3,900,768 TGPAA rights unquoted.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 220,322 TGP stapled securities cancelled via on-market buy-back (26/06/2025).  </li>\n<li><strong>Buyback Cost</strong>: AUD 143,053.29 total consideration paid.  </li>\n<li><strong>Post-Cessation Capital</strong>:  </li>\n<li>Quoted securities: 197,296,690 TGP.  </li>\n<li>Unquoted securities: 3,900,768 TGPAA rights.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1069,
-      "completion_tokens": 123,
-      "total_tokens": 1192,
+      "completion_tokens": 101,
+      "total_tokens": 1170,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:22.173728"
+    "processed_at": "2025-06-26T09:02:10.731917"
   },
   {
     "ticker": "LLL",
@@ -160,15 +217,15 @@
     "date": "20250626",
     "time": "1819",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tzpvzvkc80.pdf",
-    "summary": "<ul>\n<li><strong>Final payment of US$171.2 million (+ accrued interest) for sale of Goulamina Lithium Project (Tranche 2) to be received next week.</strong>  </li>\n<li><strong>Potential return of Tranche 2 proceeds to shareholders tied to ongoing M&amp;A activity</strong> (refer to 12 May 2025 announcement).  </li>\n</ul>\n<p><em>No further material trading or capital markets details provided.</em></p>",
+    "summary": "<ul>\n<li><strong>Final proceeds for sale of Goulamina Lithium Project</strong>: US$171.2 million (+ accrued interest) to be received next week (Tranche 2).  </li>\n<li><strong>Potential shareholder returns</strong>: Decision on capital return linked to ongoing M&amp;A activity.  </li>\n<li><strong>Corporate strategy</strong>: Refer to ASX announcement dated 12 May 2025 for details on use of Tranche 2 funds.  </li>\n</ul>\n<p>(Note: No material trading/financial impact until funds confirmed received.)</p>",
     "usage": {
       "prompt_tokens": 647,
-      "completion_tokens": 80,
-      "total_tokens": 727,
+      "completion_tokens": 99,
+      "total_tokens": 746,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:30.765791"
+    "processed_at": "2025-06-26T09:01:25.408763"
   },
   {
     "ticker": "XST",
@@ -179,15 +236,15 @@
     "date": "20250626",
     "time": "1818",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4txhcykdg6t.pdf",
-    "summary": "<ul>\n<li><strong>Security Consolidation</strong>:  </li>\n<li><strong>Ordinary Shares (XST)</strong>: 223 pre-consolidation shares \u2192 100 post-consolidation shares.  <ul>\n<li>Pre-consolidation: 321,519,150 shares \u2192 Post-consolidation: 144,178,992 shares.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Options (XSTAP)</strong>: Exercise price adjusted from AUD 0.03 to AUD 0.067 post-consolidation.  </p>\n<ul>\n<li>Pre-consolidation: 14,750,000 options \u2192 Post-consolidation: 6,614,350 options.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Key Dates</strong>:  </p>\n</li>\n<li><strong>Last day trading pre-consolidation</strong>: 30/7/2025.  </li>\n<li><strong>Deferred settlement trading starts</strong>: 31/7/2025.  </li>\n<li><strong>Record Date</strong>: 1/8/2025.  </li>\n<li><strong>Issue Date (register update)</strong>: 8/8/2025.  </li>\n<li>\n<p><strong>Normal T+2 trading resumes</strong>: 11/8/2025.  </p>\n</li>\n<li>\n<p><strong>Security Holder Approval</strong>: Obtained on 28/7/2025.  </p>\n</li>\n</ul>\n<p><em>Note: Fractional entitlements rounded up to nearest whole number.</em></p>",
+    "summary": "<p><strong>Security Consolidation Announcement (XST &amp; XSTAP)</strong>  </p>\n<ul>\n<li><strong>Consolidation Ratio</strong>: 223 pre-consolidation shares \u2192 100 post-consolidation shares  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Last trading day (pre-consolidation)</strong>: 30/07/2025  </li>\n<li><strong>Deferred trading (post-consolidation) starts</strong>: 31/07/2025  </li>\n<li><strong>Record Date</strong>: 01/08/2025  </li>\n<li><strong>Issue Date</strong>: 08/08/2025  </li>\n<li><strong>Normal (T+2) trading resumes</strong>: 11/08/2025  </li>\n<li><strong>Post-Consolidation Shares</strong>:  </li>\n<li><strong>Ordinary (XST)</strong>: 144.2m (from 321.5m)  </li>\n<li><strong>Options (XSTAP)</strong>: 6.6m (from 14.8m), adjusted exercise price <strong>A$0.067</strong> (from A$0.03).  </li>\n<li><strong>Securityholder Approval</strong>: Granted on 28/07/2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1443,
-      "completion_tokens": 262,
-      "total_tokens": 1705,
+      "prompt_tokens": 1445,
+      "completion_tokens": 240,
+      "total_tokens": 1685,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:44.647246"
+    "processed_at": "2025-06-26T09:02:34.207983"
   },
   {
     "ticker": "XST",
@@ -198,15 +255,15 @@
     "date": "20250626",
     "time": "1818",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tvdq2f5bry.pdf",
-    "summary": "<p>Here\u2019s the material information extracted from the ASX announcement, formatted concisely as per your guidelines:</p>\n<p><strong>General Meeting \u2013 Key Resolutions &amp; Capital Raising</strong><br />\n1. <strong>Capital Raising Structure</strong>:<br />\n   - <strong>Public Offer</strong>: Up to 150M Shares at A$0.02 (post-consolidation).<br />\n   - <strong>Target</strong>: A$3M (min. A$2M).<br />\n   - <strong>Use of Funds</strong>: Drilling Diona-1 well (A$2.65M), working capital (A$1.65M\u2013A$2.53M).  </p>\n<ol>\n<li><strong>Shareholder Approvals Required</strong>:  </li>\n<li><strong>Resolution 1</strong>: Approval for significant change in scale of activities (acquisition of 51% Diona Gas Project).  </li>\n<li><strong>Resolution 2</strong>: Capital consolidation (2.23:1 ratio).  </li>\n<li><strong>Resolution 3</strong>: Issue of Public Offer Shares (Listing Rule 7.1).  </li>\n<li><strong>Resolutions 4\u20136</strong>: Director participation in Public Offer (up to 2.5M shares each).  </li>\n<li>\n<p><strong>Resolution 7</strong>: Issue 25M Lead Manager Options (exercise A$0.04, 18-month expiry).  </p>\n</li>\n<li>\n<p><strong>Key Dates</strong>:  </p>\n</li>\n<li><strong>General Meeting</strong>: 28 July 2025.  </li>\n<li><strong>Offer Close</strong>: 24 July 2025.  </li>\n<li>\n<p><strong>Reinstatement to ASX</strong>: Target 13 August 2025 (subject to approvals).  </p>\n</li>\n<li>\n<p><strong>Prospective Resources (Diona Project, net to Xstate)</strong>:  </p>\n</li>\n<li><strong>Unrisked Mean</strong>: 2.6 Bscfe (gas), 0.09 MMstb (condensate).  </li>\n<li>\n<p><strong>Risked</strong>: 55% chance of discovery, 85% development chance.  </p>\n</li>\n<li>\n<p><strong>Post-Transaction Capital Structure</strong>:  </p>\n</li>\n<li><strong>Shares</strong>: 294.2M (max. subscription).  </li>\n<li>\n<p><strong>Market Cap</strong>: A$5.9M (max. raise).  </p>\n</li>\n<li>\n<p><strong>Conditions</strong>:  </p>\n</li>\n<li>All resolutions inter-conditional; failure to pass any halts the Transaction.  </li>\n<li>ASX re-compliance required for reinstatement.  </li>\n</ol>\n<p><strong>Material Risks</strong>:<br />\n- <strong>Dilution</strong>: Existing shareholders reduced to 49% undiluted (max. raise).<br />\n- <strong>Exploration Risk</strong>: No guarantee of commercial gas reserves at Diona.<br />\n- <strong>Regulatory</strong>: Must secure permits and meet ASX readmission criteria.  </p>\n<p><strong>Omitted</strong>: Routine operational updates, director bios, legal boilerplate.  </p>\n<p><strong>Priority</strong>: Trading, capital structure, and valuation-impacting details only.</p>",
+    "summary": "<p>Here\u2019s a concise summary of material information from the ASX announcement, tailored for trading or capital markets decisions:</p>\n<hr />\n<h3><strong>General Meeting Notice \u2013 Key Points</strong></h3>\n<ol>\n<li><strong>Meeting Details</strong>  </li>\n<li><strong>Date/Time:</strong> 28 July 2025, 10:00 AM (AWST).  </li>\n<li><strong>Location:</strong> Vibe Hotel, Subiaco, WA.  </li>\n<li>\n<p><strong>Record Date:</strong> 26 July 2025 (5:00 PM AWST).  </p>\n</li>\n<li>\n<p><strong>Resolutions Summary</strong>  </p>\n</li>\n<li><strong>Resolution 1:</strong> Approval for significant change in activities via acquisition of 51% in Diona Gas Project (ATP 2077) from Elixir Energy (ASX:EXR). Requires ASX re-compliance.  </li>\n<li><strong>Resolution 2:</strong> Capital consolidation (2.23:1) for shares and options.  </li>\n<li><strong>Resolution 3:</strong> Capital raising via public offer (Prospectus) to raise <strong>$2M\u2013$3M</strong> (min. 100M shares, max. 150M shares at <strong>$0.02/share</strong> post-consolidation).  </li>\n<li><strong>Resolutions 4\u20136:</strong> Director participation in public offer (up to 2.5M shares each for Childs, Bald, Channon).  </li>\n<li><strong>Resolution 7:</strong> Issue <strong>25M unlisted options</strong> to Joint Lead Managers (PAC Partners &amp; BW Equities) at <strong>$0.04 strike</strong>, expiring 18 months post-issue (Black-Scholes value: <strong>$0.0039/option</strong>).  </li>\n<li>\n<p><strong>Resolution 8:</strong> Constitutional amendments (ASX Listing Rule 15 compliance, director remuneration cap, small parcel provisions).  </p>\n</li>\n<li>\n<p><strong>Strategic Rationale</strong>  </p>\n</li>\n<li><strong>Diona Project:</strong> Conventional gas prospect in Queensland (Surat-Bowen Basin). Unrisked mean net prospective resources: <strong>2.6 Bscfe</strong> (55% discovery chance).  </li>\n<li><strong>Funding Use:</strong>  <ul>\n<li><strong>$2.65M</strong> for Diona-1 well drilling (within 18 months post-acquisition).  </li>\n<li><strong>$1.65\u2013$2.53M</strong> working capital.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Post-Transaction Capital Structure</strong> (Max Subscription):  </p>\n<ul>\n<li>Shares: <strong>294.2M</strong> (51% new issuance).  </li>\n<li>Market cap: <strong>$5.88M</strong> (at $0.02/share).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Key Risks</strong>  </p>\n</li>\n<li>ASX re-compliance failure (suspension persists).  </li>\n<li>Dilution (existing shareholders reduced to <strong>49%</strong> undiluted).  </li>\n<li>Exploration risk (Diona prospect unproven).  </li>\n<li>\n<p>Commodity price volatility.  </p>\n</li>\n<li>\n<p><strong>Timetable Highlights</strong>  </p>\n</li>\n<li>Public Offer opens: <strong>3 July 2025</strong>.  </li>\n<li>Public Offer closes: <strong>24 July 2025</strong>.  </li>\n<li>\n<p>Expected ASX reinstatement: <strong>13 August 2025</strong>.  </p>\n</li>\n<li>\n<p><strong>Voting Exclusions</strong>  </p>\n</li>\n<li>Elixir Energy and related parties excluded from voting on Resolutions 1, 3\u20137.  </li>\n</ol>\n<hr />\n<p><strong>Next Steps for Investors:</strong><br />\n- Review Prospectus (lodged 24 June 2025) for detailed terms.<br />\n- Monitor ASX re-compliance progress post-meeting.<br />\n- Assess dilution impact and drilling timeline for Diona-1.  </p>\n<p><em>Brevity prioritized; legal/boilerplate omitted.</em></p>",
     "usage": {
       "prompt_tokens": 28340,
-      "completion_tokens": 558,
-      "total_tokens": 28898,
+      "completion_tokens": 728,
+      "total_tokens": 29068,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:48:48.164906"
+    "processed_at": "2025-06-26T09:04:17.105115"
   },
   {
     "ticker": "CTD",
@@ -217,15 +274,15 @@
     "date": "20250626",
     "time": "1808",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tn79mmypgl.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back type:</strong> On-market  </li>\n<li><strong>Total shares on issue:</strong> 144,648,936 (as of 21 Aug 24)  </li>\n<li><strong>Maximum buy-back value:</strong> AUD 126.1 million  </li>\n<li><strong>Maximum shares to buy-back:</strong> 14,000,000  </li>\n<li><strong>Shares bought back previously:</strong> 7,246,824  </li>\n<li><strong>Shares bought back on previous day (26/6/2025):</strong> 47,000  </li>\n<li><strong>Consideration paid on previous day:</strong> AUD 640,863.80  </li>\n<li><strong>Price range (previous day):</strong> AUD 13.40 - AUD 13.80  </li>\n<li><strong>Remaining shares to buy-back:</strong> 6,706,176</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Buy-back Program Update</strong> (On-market)  </li>\n<li><strong>Total shares bought back as of 25/06/2025</strong>: 7,246,824  </li>\n<li><strong>Shares bought back on 26/06/2025</strong>: 47,000 (AUD 640,863.80)  </li>\n<li><strong>Maximum buy-back cap</strong>: 14M shares (AUD 126.1M total value)  </li>\n<li><strong>Remaining shares to buy back</strong>: 6,706,176 (as of 26/06/2025)  </li>\n<li><strong>Price range (latest day)</strong>: AUD 13.40\u201313.80  </li>\n<li><strong>Program end date</strong>: 30/06/2025  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1610,
-      "completion_tokens": 151,
-      "total_tokens": 1761,
+      "completion_tokens": 161,
+      "total_tokens": 1771,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:49:25.386511"
+    "processed_at": "2025-06-26T09:04:48.561359"
   },
   {
     "ticker": "BC8",
@@ -236,15 +293,15 @@
     "date": "20250626",
     "time": "1807",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tl1cfjy66w.pdf",
-    "summary": "<h3>Summary of Appendix 2A - Application for Quotation of Securities:</h3>\n<ul>\n<li><strong>Security Type</strong>: Conversion of options (BC8O) to ordinary fully paid shares (BC8).  </li>\n<li><strong>Number of Shares Issued</strong>: 44,444 new ordinary shares.  </li>\n<li><strong>Issue Date</strong>: 26 June 2025.  </li>\n<li><strong>Issue Price</strong>: AUD 0.3375 per share (cash consideration).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Ordinary shares (BC8): 707,546,922 (quoted).  </li>\n<li>Options (BC8O): 15,799,367 (quoted) + multiple unquoted option classes (details in doc).  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>(Note: Excluded boilerplate and non-material details like unquoted option breakdowns unless affecting liquidity/dilution.)</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 44,444 new ordinary fully paid shares (BC8) issued from conversion of options (BC8O).  </li>\n<li><strong>Issue Price</strong>: AUD 0.3375 per share.  </li>\n<li><strong>Issue Date</strong>: 26/06/2025.  </li>\n<li><strong>Capital Structure Update</strong>: Post-issuance, total ordinary shares on issue: <strong>707,546,922</strong>.  </li>\n<li><strong>Outstanding Options</strong>: Multiple tranches remain unquoted (see Part 4.2 for details).  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond standard dilution from option conversion.</em></p>",
     "usage": {
-      "prompt_tokens": 1821,
-      "completion_tokens": 181,
-      "total_tokens": 2002,
+      "prompt_tokens": 1819,
+      "completion_tokens": 126,
+      "total_tokens": 1945,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:53.876803"
+    "processed_at": "2025-06-26T09:02:51.323891"
   },
   {
     "ticker": "VTX",
@@ -255,15 +312,15 @@
     "date": "20250626",
     "time": "1807",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4thyn25hnzv.pdf",
-    "summary": "<ul>\n<li><strong>Late Director Interest Disclosure</strong>: Appendix 3Y forms for Directors Roger Jackson and Tully Richards were filed late due to oversight regarding their participation in the <strong>Share Purchase Plan (SPP)</strong> announced on 12 May 2025.  </li>\n<li><strong>SPP Participation</strong>: Each director acquired 71,428 shares at $0.21 per share on 16 June 2025.  </li>\n<li><strong>No Closed Period Breach</strong>: Trading occurred outside prohibited periods under the company\u2019s policy.  </li>\n</ul>\n<p>No material capital markets or trading impact identified. Focus is on compliance delay.</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Change of Director\u2019s Interest Notice (Appendix 3Y) \u2013 Late lodgement.  </li>\n<li><strong>Material Information</strong>:  </li>\n<li>Directors Roger Jackson and Tully Richards participated in the Company\u2019s <strong>Share Purchase Plan (SPP)</strong> announced 12 May 2025.  </li>\n<li><strong>SPP issue price</strong>: $0.21 per share.  </li>\n<li><strong>Shares acquired</strong>:  <ul>\n<li>Jackson: 71,428 shares (total holding now 1,468,428).  </li>\n<li>Richards: 71,428 shares (total holding now 1,490,096).  </li>\n</ul>\n</li>\n<li><strong>Reason for late lodgement</strong>: Oversight by directors in notifying the Company Secretary per internal policies.  </li>\n</ul>\n<p>No other material trading or capital structure impacts noted.</p>",
     "usage": {
-      "prompt_tokens": 2641,
-      "completion_tokens": 116,
-      "total_tokens": 2757,
+      "prompt_tokens": 2639,
+      "completion_tokens": 164,
+      "total_tokens": 2803,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:13.912154"
+    "processed_at": "2025-06-26T09:01:59.156536"
   },
   {
     "ticker": "SEC",
@@ -274,15 +331,15 @@
     "date": "20250626",
     "time": "1806",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tfmxww6x9n.pdf",
-    "summary": "<ul>\n<li><strong>Daily NTA Estimate</strong>: Pre-tax Net Tangible Assets (NTA) per share as at 25 June 2025 = <strong>$2.392</strong> (unaudited).  </li>\n</ul>\n<p>(No other material information identified.)</p>",
+    "summary": "<ul>\n<li><strong>Estimated Pre-tax NTA per share (25 June 2025): AUD 2.392</strong>  </li>\n<li><em>Unaudited and approximate figure, excludes deferred tax assets/unrealised gains</em>.  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
     "usage": {
       "prompt_tokens": 517,
-      "completion_tokens": 48,
-      "total_tokens": 565,
+      "completion_tokens": 54,
+      "total_tokens": 571,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:00.418915"
+    "processed_at": "2025-06-26T09:01:38.189258"
   },
   {
     "ticker": "HYG",
@@ -293,15 +350,15 @@
     "date": "20250626",
     "time": "1805",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4t99n152x3l.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Announcement for HYGG (Quarter ending 30 June 2025)</strong>:  </li>\n<li>Distribution amount: <strong>$0.0000 (NIL)</strong>  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong></p>",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>: No distribution ($0.0000) for Hyperion Global Growth Companies Fund \u2013 Active ETF (HYGG) for the quarter ending 30 June 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 407,
-      "completion_tokens": 47,
-      "total_tokens": 454,
+      "prompt_tokens": 409,
+      "completion_tokens": 48,
+      "total_tokens": 457,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:08.260166"
+    "processed_at": "2025-06-26T09:00:46.492678"
   },
   {
     "ticker": "BC8",
@@ -312,15 +369,15 @@
     "date": "20250626",
     "time": "1805",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4tcgj6xjf9n.pdf",
-    "summary": "<ul>\n<li><strong>Exercise of Listed Options</strong>: 44,444 ordinary shares issued from early exercise of listed options ($0.3375, expiring 14 Nov 2025).  </li>\n<li><strong>Updated Capital Structure</strong>:  </li>\n<li><strong>Fully Paid Ordinary Shares</strong>: 707,546,922 (including 19,739,439 escrowed).  </li>\n<li><strong>Listed Options (BC8O)</strong>: 15,799,367 ($0.3375, expiring 14 Nov 2025).  </li>\n<li><strong>Unlisted Options/Performance Rights</strong>: 26,087,675 (various terms).  </li>\n<li><strong>Total Issued Capital</strong>: 749,433,964 securities.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Exercise of Listed Options</strong>: 44,444 ordinary shares issued via early exercise of listed options ($0.3375, expiring 14 Nov 2025).  </li>\n<li><strong>Updated Capital Structure</strong>: Total issued shares now 707,546,922 (fully paid ordinary) + 41,887,042 (options/rights).  </li>\n<li><strong>Key Option Details</strong>:  </li>\n<li>Listed options (BC8O): 15,799,367 remaining ($0.3375, expiry 14 Nov 2025).  </li>\n</ul>\n<p><em>No other material trading or capital markets impacts identified.</em></p>",
     "usage": {
-      "prompt_tokens": 999,
-      "completion_tokens": 151,
-      "total_tokens": 1150,
+      "prompt_tokens": 997,
+      "completion_tokens": 121,
+      "total_tokens": 1118,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:47:06.242523"
+    "processed_at": "2025-06-26T09:01:41.983338"
   },
   {
     "ticker": "MYX",
@@ -331,15 +388,15 @@
     "date": "20250626",
     "time": "1802",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4t6mmpk3dfc.pdf",
-    "summary": "<h3><strong>Substantial Holder Notice Summary \u2013 Mayne Pharma Group Ltd</strong></h3>\n<ul>\n<li><strong>Substantial Holder:</strong> First Sentier Investors Holdings Pty Ltd (controlled by Mitsubishi UFJ Financial Group, Inc. <em>[MUFG]</em>)  </li>\n<li><strong>Date of Becoming Substantial Holder:</strong> 24/06/2025  </li>\n<li><strong>Total Voting Power:</strong> 5.05% (4,105,099 ordinary shares)  </li>\n<li><strong>Breakdown:</strong>  <ul>\n<li>Direct/controlled by First Sentier: 1,010,146 shares  </li>\n<li>Indirect (via MUFG): 3,094,953 shares  </li>\n</ul>\n</li>\n<li><strong>Key Registered Holders:</strong> Citibank N.A. Hong Kong, National Australia Bank, others (see annexures).  </li>\n<li><strong>Relevant Interest Basis:</strong> Power to control voting/disposal via investment mandates (Corporations Act <em>s608(1)(b/c)</em>).  </li>\n<li><strong>Recent Acquisitions:</strong> Mixed cash/non-cash transactions (detailed in Annexure B).  </li>\n</ul>\n<p><strong>Material Impact:</strong> Increased institutional ownership (MUFG-linked entity) may signal long-term strategic positioning. Disclosure confirms compliance without immediate capital structure changes.  </p>\n<p><em>No material trading timetable or capital actions identified.</em></p>",
+    "summary": "<h3><strong>Substantial Holder Notice Summary</strong></h3>\n<ul>\n<li><strong>Substantial Holder:</strong> First Sentier Investors Holdings Pty Ltd (part of Mitsubishi UFJ Financial Group, Inc.)  </li>\n<li><strong>Date Became Substantial Holder:</strong> 24/06/2025  </li>\n<li><strong>Total Voting Power:</strong> 5.05% (4,105,099 fully paid ordinary shares)  </li>\n<li><strong>Breakdown:</strong>  <ul>\n<li><strong>First Sentier Investors (direct/indirect):</strong> 1,010,146 shares  </li>\n<li><strong>Mitsubishi UFJ Financial Group (MUFG) stake:</strong> 3,094,953 shares  </li>\n</ul>\n</li>\n<li><strong>Recent Acquisitions:</strong>  </li>\n<li>Multiple transactions between 24/02/2025 and 19/06/2025 (see Annexure B for details).  </li>\n<li><strong>Securities Borrowing:</strong>  </li>\n<li>82,430 shares borrowed from Citigroup Global Markets under a prime brokerage agreement (recallable at any time).  </li>\n</ul>\n<p><strong>Material Impact:</strong> New substantial holding disclosure indicating MUFG-linked entities\u2019 increased stake (&gt;5%), potentially signaling strategic interest or passive investment. No transaction pricing disclosed.  </p>\n<p><strong>Note:</strong> No capital structure changes or corporate actions announced. Focus on liquidity implications from reported holdings.  </p>\n<p><em>Rule applied: 'Other Announcement' \u2013 summarised only material ownership changes.</em></p>",
     "usage": {
-      "prompt_tokens": 3451,
-      "completion_tokens": 253,
-      "total_tokens": 3704,
+      "prompt_tokens": 3453,
+      "completion_tokens": 276,
+      "total_tokens": 3729,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:02.084001"
+    "processed_at": "2025-06-26T09:00:44.180802"
   },
   {
     "ticker": "TOT",
@@ -350,15 +407,15 @@
     "date": "20250626",
     "time": "1801",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4t2byr6w0mb.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3Y - Change of Director\u2019s Interest Notice):</strong>  </p>\n<p>-X <strong>Director</strong>: Tony Robert Pitt (360 Capital REIT - TOT)<br />\n-X <strong>Changes in Holdings</strong>:<br />\n  - <strong>Indirect acquisition</strong>: 806,608 fully paid ordinary securities via TT Trust (on-market trades) at varying prices ($0.3950 to $0.4000 per security).<br />\n  - <strong>Total post-change holdings</strong>:<br />\n    - 4,892,227 securities (TT Investments)<br />\n    - 93,361,253 securities (360 Capital Group - TGP)<br />\n    - <strong>Total</strong>: 98,253,480 securities.<br />\n-X <strong>No closed period trading</strong>: Trades did not occur during a closed period requiring clearance.  </p>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Tony Robert Pitt indirectly acquired <strong>806,608</strong> TOT stapled securities via on-market trades at <strong>$0.3950\u2013$0.4000</strong> per security between <strong>19-26 June 2025</strong>.  </li>\n<li><strong>Total Holdings Post-Change</strong>:  </li>\n<li><strong>TT Investments</strong>: 4,892,227 securities  </li>\n<li><strong>360 Capital Group (TGP)</strong>: 93,361,253 securities  </li>\n<li><strong>Combined</strong>: 98,253,480 securities (vs. 97,446,872 prior).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1301,
-      "completion_tokens": 170,
-      "total_tokens": 1471,
+      "prompt_tokens": 1299,
+      "completion_tokens": 147,
+      "total_tokens": 1446,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:45:02.986310"
+    "processed_at": "2025-06-26T09:00:08.302812"
   },
   {
     "ticker": "YOW",
@@ -369,15 +426,15 @@
     "date": "20250626",
     "time": "1800",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4t03dcm3087.pdf",
-    "summary": "<ul>\n<li><strong>Panel Decision</strong>: Takeovers Panel declined to review Yowie Group Ltd's application regarding Keybridge Capital Limited's board composition changes.  </li>\n<li><strong>Key Takeaway</strong>: No reasonable prospect of declaration of unacceptable circumstances; Yowie was aware of Keybridge's actions prior to its takeover bid.  </li>\n</ul>\n<p>(Note: No material trading or capital markets impact identified beyond regulatory outcome.)</p>",
+    "summary": "<ul>\n<li><strong>Takeover Panel Decision</strong>: Panel declined to review proceedings regarding Yowie Group Ltd's application against Keybridge Capital Limited.  </li>\n<li><strong>Key Takeaway</strong>: No declaration of unacceptable circumstances; Keybridge\u2019s board composition actions were deemed not likely to be unacceptable.  </li>\n</ul>\n<p><em>No material trading or capital markets-impacting information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 533,
-      "completion_tokens": 75,
-      "total_tokens": 608,
+      "prompt_tokens": 531,
+      "completion_tokens": 67,
+      "total_tokens": 598,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:48:00.600561"
+    "processed_at": "2025-06-26T09:03:22.085020"
   },
   {
     "ticker": "NUZ",
@@ -388,15 +445,15 @@
     "date": "20250626",
     "time": "1757",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4sxcrnhljg7.pdf",
-    "summary": "<ul>\n<li><strong>Employee Incentive Securities Issuance</strong>:  </li>\n<li><strong>2,949,472 options</strong> (NUZAR) issued, expiring 30-Jun-2032, exercise price $0.20.  </li>\n<li><strong>790,030 performance rights</strong> (NUZAG) issued.  </li>\n<li><strong>Key Management Personnel (KMP) allocation</strong>:  <ul>\n<li>Dan O\u2019Connell: 1,848,088 options (NUZAR) + 495,020 performance rights (NUZAG).  </li>\n</ul>\n</li>\n<li>\n<p>Vesting conditions apply (terms linked in announcement).  </p>\n</li>\n<li>\n<p><strong>Post-issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Ordinary shares (NUZ)</strong>: 492.3M.  </li>\n<li><strong>Quoted options (NUZOA)</strong>: 116.3M.  </li>\n<li><strong>Unquoted securities</strong>: Includes 15.5M NUZAR options and 4.1M NUZAG performance rights.  </li>\n</ul>\n<p><strong>No material trading or valuation impact</strong> (routine employee incentive issuance under Listing Rule 7.2 exception).</p>",
+    "summary": "<ul>\n<li><strong>Securities Issued:</strong>  </li>\n<li><strong>Options:</strong> 2,949,472 NUZAR (Expiring 30-Jun-2032, Exercise Price $0.20)  </li>\n<li><strong>Performance Rights:</strong> 790,030 NUZAG  </li>\n<li>\n<p><strong>Issue Date:</strong> 26-Jun-2025  </p>\n</li>\n<li>\n<p><strong>Key Management Personnel (KMP) Allocations:</strong>  </p>\n</li>\n<li>\n<p><strong>Dan O'Connell:</strong>  </p>\n<ul>\n<li>1,848,088 NUZAR Options  </li>\n<li>495,020 NUZAG Performance Rights  </li>\n</ul>\n</li>\n<li>\n<p><strong>Total Unquoted Securities Post-Issue:</strong>  </p>\n</li>\n<li>NUZAR Options: 15,514,272  </li>\n<li>\n<p>NUZAG Performance Rights: 4,077,030  </p>\n</li>\n<li>\n<p><strong>Listing Rule Compliance:</strong> Issued under Listing Rule 7.2 Exception 13 (employee incentive scheme, no shareholder approval required).  </p>\n</li>\n</ul>\n<p><em>No material trading or capital structure impact (routine employee incentive issuance).</em></p>",
     "usage": {
       "prompt_tokens": 2056,
-      "completion_tokens": 222,
-      "total_tokens": 2278,
+      "completion_tokens": 201,
+      "total_tokens": 2257,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:49:08.802285"
+    "processed_at": "2025-06-26T09:04:31.447602"
   },
   {
     "ticker": "S3G",
@@ -407,15 +464,15 @@
     "date": "20250626",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4stq8fjz0vx.pdf",
-    "summary": "<p><strong>Key Points from ETF Distribution Announcement:</strong>  </p>\n<ul>\n<li><strong>Estimated distribution</strong>: $0.77206912 per unit for half-year ending 30 June 2025 (subject to change).  </li>\n<li><strong>Key dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>DRP election deadline: 3 July 2025 (5pm)  </li>\n<li>Payment date: 11 July 2025  </li>\n<li><strong>DRP default</strong>: Unitholders without a cash election by the deadline will automatically reinvest distributions.  </li>\n<li><strong>Cash payments</strong>: Direct crediting preferred; missing account details may delay payments.  </li>\n<li><strong>NAV impact</strong>: Distribution will reduce net asset value from ex-date.  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, administrative contact details.</em></p>",
+    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: $0.77206912 per unit for half-year ending 30 June 2025 (subject to change).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025.  </li>\n<li>Record date: 2 July 2025.  </li>\n<li>DRP Election Deadline: 3 July 2025 (5pm).  </li>\n<li>Payment date: 11 July 2025.  </li>\n<li><strong>DRP Default</strong>: Unitholders without a cash election by the deadline will automatically participate in DRP.  </li>\n<li><strong>Direct Crediting</strong>: Cash distributions require provided bank details; delays may occur if not submitted by record date.</li>\n</ul>",
     "usage": {
-      "prompt_tokens": 799,
-      "completion_tokens": 172,
-      "total_tokens": 971,
+      "prompt_tokens": 801,
+      "completion_tokens": 143,
+      "total_tokens": 944,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:50.528317"
+    "processed_at": "2025-06-26T09:01:36.242381"
   },
   {
     "ticker": "PGA",
@@ -426,15 +483,15 @@
     "date": "20250626",
     "time": "1749",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250626/pdf/06l4sqpgsvbb2s.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>: Plato Global Alpha Fund Complex ETF (PGA1) estimated distribution for H1 2025 is <strong>$0.00176002 per unit</strong> (subject to change).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: <strong>1 July 2025</strong>  </li>\n<li>Record date: <strong>2 July 2025</strong>  </li>\n<li>DRP Election cutoff: <strong>3 July 2025 (5pm)</strong>  </li>\n<li>Payment date: <strong>11 July 2025</strong>.  </li>\n<li><strong>DRP Default</strong>: Unitholders without a cash election by the deadline will have distributions <strong>automatically reinvested</strong>.  </li>\n<li><strong>Cash Distribution</strong>: Requires provision of bank details by the record date to avoid delays.  </li>\n</ul>\n<p>(<em>Omitted: administrative boilerplate, registry details, and general terms.</em>)</p>",
+    "summary": "<ul>\n<li><strong>Estimated Distribution</strong>: $0.00176002 per unit for half-year ending 30 June 2025.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>DRP Election deadline: 3 July 2025 (5pm)  </li>\n<li>Final distribution announcement: 3 July 2025  </li>\n<li>Payment date: 11 July 2025  </li>\n<li><strong>Distribution Reinvestment Plan (DRP)</strong>: Default reinvestment unless cash election made by Election Date.  </li>\n<li><strong>Cash Distributions</strong>: Direct crediting requires prior bank details submission; undelivered payments retained.  </li>\n</ul>\n<p><em>Summary tailored as ETF distribution announcement.</em></p>",
     "usage": {
-      "prompt_tokens": 794,
-      "completion_tokens": 170,
-      "total_tokens": 964,
+      "prompt_tokens": 792,
+      "completion_tokens": 155,
+      "total_tokens": 947,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T08:46:28.092647"
+    "processed_at": "2025-06-26T09:01:09.818347"
   },
   {
     "ticker": "AGX",
