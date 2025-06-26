@@ -1,5 +1,24 @@
 [
   {
+    "ticker": "SUN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962622",
+    "id": "02962622",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "0806",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l51y8q15xmrp.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a board leadership transition announcement with no direct impact on trading, capital structure, or financial performance.)</p>",
+    "usage": {
+      "prompt_tokens": 1175,
+      "completion_tokens": 31,
+      "total_tokens": 1206,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-26T22:15:26.300198"
+  },
+  {
     "ticker": "AFP",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962621",
     "id": "02962621",
@@ -8,15 +27,15 @@
     "date": "20250627",
     "time": "0731",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l51mt4ngvpc7.pdf",
-    "summary": "<ul>\n<li><strong>Director's Shareholding Update</strong>: Hartley Campbell Atkinson (Director) increased indirect holdings via the Atkinson Family Trust by <strong>17,755 ordinary shares</strong> (at zero consideration), inherited from an estate.  </li>\n<li><strong>Total Holdings After Transaction</strong>:  </li>\n<li><strong>Atkinson Family Trust</strong>: <strong>72,059,496 ordinary shares</strong> (previously 72,041,741).  </li>\n<li><strong>Direct Beneficial Holdings</strong>: <strong>867,826 ordinary shares</strong> (unchanged).  </li>\n</ul>\n<p><em>No material impact on liquidity, capital structure, or trading decisions identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Change in Director's Holding</strong>: Hartley Atkinson (Director) increased holdings in AFT Pharmaceuticals via inheritance:  </li>\n<li><strong>Shares Acquired</strong>: 17,755 ordinary shares (at zero consideration).  </li>\n<li><strong>Total Held Post-Transaction</strong>: 72,059,496 shares (Atkinson Family Trust).  </li>\n</ul>\n<p><em>Note: No material impact on trading/capital structure (passive transfer, non-market transaction).</em></p>",
     "usage": {
-      "prompt_tokens": 1382,
-      "completion_tokens": 114,
-      "total_tokens": 1496,
+      "prompt_tokens": 1380,
+      "completion_tokens": 88,
+      "total_tokens": 1468,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T21:58:52.561245"
+    "processed_at": "2025-06-26T22:15:29.395875"
   },
   {
     "ticker": "AFP",
@@ -27,14 +46,14 @@
     "date": "20250627",
     "time": "0730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l51kqf5nf1x1.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a routine annual meeting notice with no capital markets or trading-relevant information, such as capital actions, material financial updates, or governance changes that impact valuation or liquidity.)</em></p>",
+    "summary": "<ul>\n<li><strong>Annual Meeting Announcement</strong>: No material trading or capital markets information identified. Routine AGM notice with standard resolutions (auditor remuneration, director re-election/election). No financial or operational updates provided.</li>\n</ul>",
     "usage": {
       "prompt_tokens": 1826,
-      "completion_tokens": 44,
-      "total_tokens": 1870,
+      "completion_tokens": 42,
+      "total_tokens": 1868,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-26T21:58:58.803185"
+    "processed_at": "2025-06-26T22:15:35.367620"
   }
 ]
