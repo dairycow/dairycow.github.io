@@ -7,13 +7,13 @@
   "date": "20250627",
   "time": "1723",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67gj7t8fx61.pdf",
-  "summary": "Understood. Here\u2019s the strictly concise, material-information-only template for ASX announcements:  \n\n---  \n\n### **Trading Halt Request**  \n- Reason: [Single-line reason, e.g., \"Pending capital raising announcement\"]  \n\n### **Capital Raising Announcement**  \n- **Structure**: [Placement/SPP/Entitlement Offer]  \n- **Amount**: [$X AUD] ([Y]% discount to last close)  \n- **Use of Funds**: [e.g., \"Debt reduction + growth initiatives\"]  \n- **Key Dates**: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n\n### **Quarterly (Appendix 4C)**  \n- **Cash Balance**: [$X AUD] (Prior quarter: $Y AUD)  \n- **Burn Rate**: [$X AUD/month] (if material)  \n- **Key Highlights**: [e.g., \"Revenue +15% QoQ\", \"Mine production Z oz\"]  \n\n### **Other Material Announcements**  \n1. [Critical point 1: e.g., \"Asset sale for $X AUD\"]  \n2. [Critical point 2: e.g., \"Regulatory approval received for Project Y\"]  \n\n---  \n\n**For ambiguous/irrelevant announcements**:  \n- *No material information identified*  \n\n**Example Outputs**:  \n- *Trading Halt*: \"Pending material acquisition announcement.\"  \n- *Capital Raising*: \"Entitlement Offer @ $0.50/share (20% discount), raising $50M. Ex-date 15/03, Record 18/03.\"  \n- *4C*: \"Cash $12.5M (QoQ: $15.1M), revenue $3.2M (+10% QoQ).\"  \n- *Other*: \"JV signed for lithium project; upfront payment $5M.\"  \n\nLet me know the announcement type/content, and I\u2019ll extract accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I\u2019ll extract **only** the material information in the requested concise format, omitting all fluff.  \n\n*Example Outputs:*  \n**Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**Capital Raising Announcement**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap).  \n- Dates: Ex-date DD/MM/YY, Record DD/MM/YY, SPP close DD/MM/YY.  \n\n**Appendix 4C (Quarterly)**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Key highlight: Gold production up 12% QoQ to 8,000oz.  \n\n**Other Announcement**  \n- Key point 1: Major contract signed with [Client], AUD 100M revenue over 3 years.  \n- Key point 2: CFO resigns; successor TBA.  \n\n**No material information identified** (if irrelevant/disclosure lacks actionable data).  \n\n**Note:** I\u2019ll strictly adhere to your rules\u2014no summaries, no filler. Ready for your upload/details.",
   "usage": {
-    "prompt_tokens": 243,
-    "completion_tokens": 411,
-    "total_tokens": 654,
+    "prompt_tokens": 245,
+    "completion_tokens": 285,
+    "total_tokens": 530,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-27T07:32:23.029277"
+  "processed_at": "2025-06-27T07:46:37.555958"
 }
