@@ -1,0 +1,19 @@
+{
+  "ticker": "BOT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963088",
+  "id": "02963088",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250627",
+  "time": "1655",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65c67xmd6hy.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or key details from it) for review, and I will extract **only material information** relevant for trading or capital markets decisions, formatted per your guidelines.  \n\nIf you don't provide specifics, here's how I will structure responses based on common scenarios:  \n\n### **Examples of Outputs:**  \n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: $50M Placement + $10M SPP.  \n   - *Key Dates*: Ex-date 15/10, Record 18/10, Close 25/10.  \n\n3. **Quarterly Report (4C)**  \n   - *Cash Balance*: $12.5M (QoQ -$2.1M).  \n   - *Key Highlights*: Revenue $8.3M (+25% QoQ), free cash burn $-1.9M.  \n\n4. **M&A / Material Contract**  \n   - *Deal*: Acquisition of [Target] for $200M (20% EPS accretive).  \n   - *Funding*: $150M debt + $50M equity.  \n\n5. **No Material Information Identified**  \n   - (If announcement contains only routine updates or boilerplate).  \n\n**Now, share the announcement (or paste text extracts), and I\u2019ll distill it accordingly.**",
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 312,
+    "total_tokens": 557,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-27T07:03:31.419608"
+}
