@@ -1,5 +1,385 @@
 [
   {
+    "ticker": "PVL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963119",
+    "id": "02963119",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1724",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67lxpw4k6qn.pdf",
+    "summary": "<h3>Summary of ASX Appendix 3Y (Change of Director\u2019s Interest Notice)</h3>\n<ul>\n<li><strong>Entity</strong>: Powerhouse Ventures Limited  </li>\n<li><strong>Directors/Changes</strong>:  </li>\n<li><strong>James Kruger</strong>:  <ul>\n<li>Acquired 166,667 ordinary shares (total now 2,395,513 shares + 4,500,000 performance rights).  </li>\n<li>Consideration: $15,000.  </li>\n<li>Approved by shareholders 26 June 2025.  </li>\n</ul>\n</li>\n<li><strong>David McNamee</strong>:  <ul>\n<li>Indirect (via Eclipse White Noise Pty Ltd): Acquired 101,117 ordinary shares (total now 20,500,000 shares + 4,500,000 performance rights).  </li>\n<li>Direct (via super fund): Acquired 65,550 ordinary shares (total now 565,550 shares).  </li>\n<li>Consideration: $15,000.  </li>\n<li>Approved by shareholders 26 June 2025.  </li>\n</ul>\n</li>\n<li><strong>Doron Eldar</strong>:  <ul>\n<li>Indirect: Acquired 1,333,333 ordinary shares and 4,500,000 performance rights (total now 1,350,000 + 1,333,333 shares + 4,500,000 rights).  </li>\n<li>No cash consideration disclosed; linked to Notice of Meeting (27 May 2025).  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material trading impact</strong> (all changes approved, no closed-period trades).</p>",
+    "usage": {
+      "prompt_tokens": 2728,
+      "completion_tokens": 294,
+      "total_tokens": 3022,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:31:13.497956"
+  },
+  {
+    "ticker": "MCE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963117",
+    "id": "02963117",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1723",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67gj7t8fx61.pdf",
+    "summary": "<p>Understood. Here\u2019s the strictly concise, material-information-only template for ASX announcements:  </p>\n<hr />\n<h3><strong>Trading Halt Request</strong></h3>\n<ul>\n<li>Reason: [Single-line reason, e.g., \"Pending capital raising announcement\"]  </li>\n</ul>\n<h3><strong>Capital Raising Announcement</strong></h3>\n<ul>\n<li><strong>Structure</strong>: [Placement/SPP/Entitlement Offer]  </li>\n<li><strong>Amount</strong>: [$X AUD] ([Y]% discount to last close)  </li>\n<li><strong>Use of Funds</strong>: [e.g., \"Debt reduction + growth initiatives\"]  </li>\n<li><strong>Key Dates</strong>: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  </li>\n</ul>\n<h3><strong>Quarterly (Appendix 4C)</strong></h3>\n<ul>\n<li><strong>Cash Balance</strong>: [$X AUD] (Prior quarter: $Y AUD)  </li>\n<li><strong>Burn Rate</strong>: [$X AUD/month] (if material)  </li>\n<li><strong>Key Highlights</strong>: [e.g., \"Revenue +15% QoQ\", \"Mine production Z oz\"]  </li>\n</ul>\n<h3><strong>Other Material Announcements</strong></h3>\n<ol>\n<li>[Critical point 1: e.g., \"Asset sale for $X AUD\"]  </li>\n<li>[Critical point 2: e.g., \"Regulatory approval received for Project Y\"]  </li>\n</ol>\n<hr />\n<p><strong>For ambiguous/irrelevant announcements</strong>:<br />\n- <em>No material information identified</em>  </p>\n<p><strong>Example Outputs</strong>:<br />\n- <em>Trading Halt</em>: \"Pending material acquisition announcement.\"<br />\n- <em>Capital Raising</em>: \"Entitlement Offer @ $0.50/share (20% discount), raising $50M. Ex-date 15/03, Record 18/03.\"<br />\n- <em>4C</em>: \"Cash $12.5M (QoQ: $15.1M), revenue $3.2M (+10% QoQ).\"<br />\n- <em>Other</em>: \"JV signed for lithium project; upfront payment $5M.\"  </p>\n<p>Let me know the announcement type/content, and I\u2019ll extract accordingly.</p>",
+    "usage": {
+      "prompt_tokens": 243,
+      "completion_tokens": 411,
+      "total_tokens": 654,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:32:23.029277"
+  },
+  {
+    "ticker": "EMR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963118",
+    "id": "02963118",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1723",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67jlfg05mp7.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>Security Code</strong>: EMRAT (Option Expiring 31-Jul-2029, Exercise Price $4.43)  </li>\n<li><strong>Number of Securities Ceased</strong>: 100,000  </li>\n<li><strong>Reason</strong>: Lapse due to unmet vesting conditions (former employees).  </li>\n<li>\n<p><strong>Date of Cessation</strong>: 27-Jun-2025.  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Total Quoted Securities</strong>: 657,417,418 ordinary shares (EMR).  </li>\n<li><strong>Unquoted Options</strong>: Remainder of EMRAT options (3,185,000 on issue post-cessation).  </li>\n</ul>\n<p><em>No material impact on liquidity, valuation, or capital structure identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1389,
+      "completion_tokens": 163,
+      "total_tokens": 1552,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:41.590353"
+  },
+  {
+    "ticker": "BTC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963116",
+    "id": "02963116",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1721",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67d60hhkfcv.pdf",
+    "summary": "<p><strong>Substantial Holder Notice (Form 604) \u2013 BTC Health Limited (ASX:BTC)</strong>  </p>\n<ul>\n<li><strong>Substantial Holder</strong>: NAOS Asset Management Limited &amp; related parties.  </li>\n<li><strong>Change in Holding</strong>: Sold <strong>3,469,939</strong> shares (on-market) on <strong>25 June 2025</strong> for <strong>$181,802.95</strong>.  </li>\n<li><strong>Current Holding</strong>: <strong>83,427,758</strong> ordinary shares (<strong>25.65%</strong> voting power), down from 86,897,697 shares (26.81%).  </li>\n<li><strong>Key Impact</strong>: Reduction in NAOS' stake by ~1.16% of total voting power.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2102,
+      "completion_tokens": 145,
+      "total_tokens": 2247,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:29:58.284167"
+  },
+  {
+    "ticker": "EMR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963115",
+    "id": "02963115",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1720",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l679tnfm0dnt.pdf",
+    "summary": "<ul>\n<li><strong>Option Exercise &amp; Cancellation</strong>:  </li>\n<li>Issued 172,705 shares via cashless exercise of 250,000 unlisted $1.40 options (expired 14 June 2025).  </li>\n<li>Cancelled 100,000 unvested $4.43 options (expiring 31 July 2029) held by former employees.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (minor dilution from option exercise).</em></p>",
+    "usage": {
+      "prompt_tokens": 1185,
+      "completion_tokens": 95,
+      "total_tokens": 1280,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:01.679441"
+  },
+  {
+    "ticker": "M2R",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963114",
+    "id": "02963114",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1720",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l677qdcflm8h.pdf",
+    "summary": "<p>Here\u2019s the concise summary of material information from the <strong>Appendix 3Y - Change of Director\u2019s Interest Notices</strong> for Miramar Resources Limited:  </p>\n<h3><strong>Key Points:</strong></h3>\n<ul>\n<li><strong>Directors\u2019 Options Expiry:</strong>  </li>\n<li><strong>Allan Kelly</strong>: Let 1,000,000 unlisted options (exercise price $0.20) expire on 26 June 2025.  </li>\n<li><strong>Marion Bush</strong>: Let 1,000,000 unlisted options (exercise price $0.20) expire on 26 June 2025.  </li>\n<li><strong>Terry Gadenne</strong>: Let 1,000,000 unlisted options (exercise price $0.20) expire on 26 June 2025.  </li>\n<li><strong>No Trading During Closed Period</strong>: All changes occurred outside a closed period; no prior clearance required.  </li>\n<li><strong>No Capital Impact</strong>: No options were exercised; no new shares issued or capital raised.  </li>\n</ul>\n<h3><strong>Conclusion:</strong></h3>\n<p>Non-material event\u2014routine expiry of out-of-the-money director options. No immediate trading or valuation implications.  </p>\n<p><strong>Format Note:</strong> Appendix 3Y filings primarily track insider holdings; only significant trades/exercises (e.g., large volumes, in-the-money actions) typically warrant attention. Here, expiries are neutral.</p>",
+    "usage": {
+      "prompt_tokens": 3464,
+      "completion_tokens": 271,
+      "total_tokens": 3735,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:31:58.838519"
+  },
+  {
+    "ticker": "MOT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963113",
+    "id": "02963113",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1719",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l675hcmkk4cg.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: The announcement provides only a routine daily NTA update, which alone does not materially impact trading or capital markets decisions.)</p>",
+    "usage": {
+      "prompt_tokens": 577,
+      "completion_tokens": 33,
+      "total_tokens": 610,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:46.642817"
+  },
+  {
+    "ticker": "WBT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963112",
+    "id": "02963112",
+    "pages": 16,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1719",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l673d3v2rg9p.pdf",
+    "summary": "<h3>Summary of Material Information (Directors' Interest Changes):</h3>\n<ul>\n<li><strong>David Perlmutter</strong>:  </li>\n<li>Converted <strong>68,750 Restricted Stock Units (RSUs)</strong> to <strong>68,750 ordinary shares</strong> (no cash consideration).  </li>\n<li>\n<p>Post-conversion holdings: <strong>293,750 RSUs</strong> (direct), <strong>1.6M ordinary shares</strong> (indirect).  </p>\n</li>\n<li>\n<p><strong>Jacob Hanoch</strong>:  </p>\n</li>\n<li>Converted <strong>81,875 RSUs</strong> to <strong>81,875 ordinary shares</strong> (no cash consideration).  </li>\n<li>\n<p>Post-conversion holdings: <strong>1.1M RSUs</strong> (indirect), <strong>963,125 ordinary shares</strong> (indirect).  </p>\n</li>\n<li>\n<p><strong>Ashley Krongold</strong>:  </p>\n</li>\n<li>Converted <strong>13,125 RSUs</strong> to <strong>13,125 ordinary shares</strong> (no cash consideration).  </li>\n<li>\n<p>Post-conversion holdings: <strong>69,375 RSUs</strong>, <strong>909,775 ordinary shares</strong> (indirect).  </p>\n</li>\n<li>\n<p><strong>S. Atiq Raza</strong>:  </p>\n</li>\n<li>Converted <strong>13,125 RSUs</strong> to <strong>13,125 ordinary shares</strong> (no cash consideration).  </li>\n<li>\n<p>Post-conversion holdings: <strong>69,375 RSUs</strong> (direct), <strong>384,737 ordinary shares</strong> (indirect).  </p>\n</li>\n<li>\n<p><strong>Naomi Simson</strong>:  </p>\n</li>\n<li>Converted <strong>5,625 RSUs</strong> to <strong>5,625 ordinary shares</strong> (no cash consideration).  </li>\n<li>Transferred <strong>11,250 ordinary shares</strong> and <strong>56,250 RSUs</strong> to her corporate entity.  </li>\n<li>\n<p>Post-conversion holdings: <strong>50,625 RSUs</strong> (indirect), <strong>39,375 ordinary shares</strong> (indirect).  </p>\n</li>\n<li>\n<p><strong>Yoav Nissan-Cohen</strong>:  </p>\n</li>\n<li>Converted <strong>19,375 RSUs</strong> to <strong>19,375 ordinary shares</strong> (no cash consideration).  </li>\n<li>Post-conversion holdings: <strong>109,375 RSUs</strong> (direct), <strong>120,625 ordinary shares</strong> (indirect).  </li>\n</ul>\n<p><strong>Key Takeaways</strong>:<br />\n- No new capital issued (conversion of vested RSUs only).<br />\n- No trading during closed periods.<br />\n- No material dilution or valuation impact identified.  </p>\n<p><em>No further action required for trading/capital markets decisions.</em></p>",
+    "usage": {
+      "prompt_tokens": 6189,
+      "completion_tokens": 484,
+      "total_tokens": 6673,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:30:36.266400"
+  },
+  {
+    "ticker": "MXT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963111",
+    "id": "02963111",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1718",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67177bfzbnt.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Update</strong>:  </li>\n<li>NTA per unit as of 26/06/2025: <strong>$2.0106</strong>  </li>\n</ul>\n<p><em>No other material information identified (routine NTA disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 584,
+      "completion_tokens": 46,
+      "total_tokens": 630,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:30:07.507780"
+  },
+  {
+    "ticker": "IFN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963109",
+    "id": "02963109",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1717",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66wt7n99zqm.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: Eastcote Pty Ltd (Van Lieshout Family Trust) acquired a 5.68% stake (12.5m shares) in Infragreen Group on 25 June 2025.  </li>\n<li><strong>Source of Shares</strong>: Acquired via conversion of convertible notes (no cash consideration; notes held &gt;4 months prior).  </li>\n<li><strong>Voting Power</strong>: 12.5m votes (5.68% of 219,891,248 shares on issue).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (passive stake change).</em></p>",
+    "usage": {
+      "prompt_tokens": 1661,
+      "completion_tokens": 122,
+      "total_tokens": 1783,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:29:31.419164"
+  },
+  {
+    "ticker": "HTG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963108",
+    "id": "02963108",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1716",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66tncp741m4.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Type</strong>: Convertible Notes issuance (ASX code: HTGAG)  </li>\n<li><strong>Amount</strong>: 255 notes at AUD 1,000 each (total AUD 255,000)  </li>\n<li><strong>Issue Date</strong>: 30 June 2025  </li>\n<li><strong>Purpose</strong>: Funds for investment purposes  </li>\n<li><strong>Key Condition</strong>: Shareholder approval required prior to conversion (no date set; maturity 20 December 2025).  </li>\n</ul>\n<p><em>Omitted: Boilerplate, fees (none material), escrow/restriction details (not applicable).</em></p>",
+    "usage": {
+      "prompt_tokens": 1503,
+      "completion_tokens": 126,
+      "total_tokens": 1629,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:32:34.746722"
+  },
+  {
+    "ticker": "IFN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963107",
+    "id": "02963107",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1713",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66qw3mhgn2d.pdf",
+    "summary": "<ul>\n<li><strong>New substantial holder</strong>: Declan Andrew Sherman and Silver Square Investments Pty Ltd acquired a 24.63% stake in Infragreen Group Limited on 25 June 2025.  </li>\n<li><strong>Total shares held</strong>: 54,156,677 fully paid ordinary shares (comprising 46,380,953 via DAS Family Trust and 7,775,724 via Silver Square Investment Trust 3).  </li>\n<li><strong>Consideration</strong>: Shares acquired via convertible note conversion (no cash outflow) and nominal cash payment ($10 for initial holdings).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond the disclosure of a new substantial holder.</em></p>",
+    "usage": {
+      "prompt_tokens": 2483,
+      "completion_tokens": 131,
+      "total_tokens": 2614,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:29:51.630584"
+  },
+  {
+    "ticker": "IFN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963106",
+    "id": "02963106",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1712",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66nr9wnwqrw.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: Infragreen Group Limited has obtained a 39.46% voting power (86,765,442 shares) in the company as of 25 June 2025.  </li>\n<li><strong>Relevant Interest</strong>: Shares are subject to a voluntary escrow deed as per the replacement prospectus dated 4 June 2025. No control over voting rights or disposal.  </li>\n<li><strong>No consideration paid</strong>: No acquisition or payment details provided for the relevant interest.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1581,
+      "completion_tokens": 108,
+      "total_tokens": 1689,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:29:39.514244"
+  },
+  {
+    "ticker": "FPC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963105",
+    "id": "02963105",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1711",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66lj8w7g57w.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement \u2013 Fat Prophets Global Contrarian Fund (FPC)</strong>  </p>\n<ul>\n<li><strong>Pre-Tax NTA Update (25th June 2025):</strong>  </li>\n<li><strong>A$1.5457 per share</strong> (pre-tax).  </li>\n<li><strong>Previous NTA (31st May 2025):</strong> A$1.5314.  </li>\n<li><strong>Monthly Change:</strong> <strong>+0.93%</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em>  </p>\n<p>(Note: NTA disclosures are routine for listed investment companies; material only if deviation exceeds typical volatility or accompanies capital actions.)</p>",
+    "usage": {
+      "prompt_tokens": 450,
+      "completion_tokens": 127,
+      "total_tokens": 577,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:29.202053"
+  },
+  {
+    "ticker": "MTO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963102",
+    "id": "02963102",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250627",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66by607flwd.pdf",
+    "summary": "<ul>\n<li><strong>Acquisition Announcement</strong>: MTO acquires select assets of Peter Stevens Motorcycles and Harley Heaven (in administration).  </li>\n<li><strong>Purchase Price</strong>: $7M\u2013$9M (cash, plus inventory via bailment financing).  </li>\n<li><strong>Funding</strong>: Cash reserves and bailment facilities.  </li>\n<li><strong>Key Assets</strong>: 7 dealership sites, brand rights, and digital businesses.  </li>\n<li><strong>Strategic Impact</strong>: Expands into Perth/Adelaide; expected to be earnings accretive. Post-acquisition, MTO will represent ~20% of national motorcycle sales.  </li>\n<li><strong>Conditions/Settlement</strong>: Pending regulatory approvals; completion expected in July 2025 (store-by-store).  </li>\n</ul>\n<p><em>Omitted: Operational transition details, CEO commentary, routine legal disclaimers.</em></p>",
+    "usage": {
+      "prompt_tokens": 1302,
+      "completion_tokens": 157,
+      "total_tokens": 1459,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:31:44.342174"
+  },
+  {
+    "ticker": "RPG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963103",
+    "id": "02963103",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66f1g4ywjw7.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interests Change</strong>  </li>\n<li><strong>Director</strong>: James Raptis  </li>\n<li><strong>Date of Change</strong>: 20 June 2025  </li>\n<li><strong>Transaction Type</strong>: Entitlement Offer (12,587,073 shares) + Acquisition from Underwriter (2,000,000 shares)  </li>\n<li><strong>Total Shares Acquired</strong>: 14,587,073  </li>\n<li><strong>Consideration</strong>: AUD $145,870.73  </li>\n<li><strong>Total Holdings Post-Transaction</strong>: 112,097,010 ordinary shares (direct/indirect via trusts).  </li>\n</ul>\n<p>No material impact on capital structure or liquidity identified.  </p>\n<p><em>(Note: Appendix 3Y disclosures are typically routine; only material if significant dilution or alignment with capital-raising events.)</em></p>",
+    "usage": {
+      "prompt_tokens": 986,
+      "completion_tokens": 156,
+      "total_tokens": 1142,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:24.263265"
+  },
+  {
+    "ticker": "FHS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963104",
+    "id": "02963104",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l66h4q8n8vm0.pdf",
+    "summary": "<ul>\n<li><strong>Director's Change in Securities Holdings</strong> (Ben Jarvis):  </li>\n<li><strong>Acquired</strong>:  <ul>\n<li>Direct: 149,999 Ordinary Shares + 75,000 Unlisted Options.  </li>\n<li>Indirect: 52,130,718 Ordinary Shares + 14,500,000 Unlisted Options.  </li>\n</ul>\n</li>\n<li><strong>Total Holdings Post-Change</strong>:  <ul>\n<li>Direct: 1,599,999 Ordinary Shares + 75,000 Unlisted Options.  </li>\n<li>Indirect: 86,380,704 Ordinary Shares + 14,500,000 Unlisted Options.  </li>\n</ul>\n</li>\n<li><strong>Nature of Change</strong>: Rights Issue/Additional Allotment.  </li>\n<li><strong>Consideration</strong>: $200,701.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1082,
+      "completion_tokens": 162,
+      "total_tokens": 1244,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:28:18.928908"
+  },
+  {
+    "ticker": "FHS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963101",
+    "id": "02963101",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1704",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l668nkctnmvv.pdf",
+    "summary": "<p><strong>Appendix 3Y Summary: Change of Director\u2019s Interest Notice</strong><br />\n- <strong>Director</strong>: Paul Davies<br />\n- <strong>Indirect Interest Change</strong>: Acquired 1,555,555 ordinary shares via Hillroad Investments Pty Ltd.<br />\n- <strong>Transaction Type</strong>: Placement of securities.<br />\n- <strong>Consideration</strong>: $9,333 (implied price ~$0.006/share).<br />\n- <strong>Post-Change Holdings</strong>:<br />\n  - Direct: 38,404,806 ordinary shares (unchanged).<br />\n  - Indirect: 1,555,555 ordinary shares (new).  </p>\n<p><em>Note: No material trading or capital markets impact identified; routine disclosure.</em></p>",
+    "usage": {
+      "prompt_tokens": 991,
+      "completion_tokens": 136,
+      "total_tokens": 1127,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:30:04.303857"
+  },
+  {
+    "ticker": "FHS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963100",
+    "id": "02963100",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250627",
+    "time": "1700",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l665xx1sr5v4.pdf",
+    "summary": "<p><strong>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Peter Williams (indirect interest via PAW Super Pty Ltd).  </li>\n<li><strong>Transaction</strong>: Acquired <strong>1,555,555 ordinary shares</strong> via <strong>placement</strong> at <strong>$0.006/share</strong> (total consideration: <strong>$9,333</strong>).  </li>\n<li><strong>Post-transaction holding</strong>: <strong>30,135,914 ordinary shares</strong> (indirect).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine disclosure of director interest change).</p>",
+    "usage": {
+      "prompt_tokens": 986,
+      "completion_tokens": 114,
+      "total_tokens": 1100,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:31:33.946030"
+  },
+  {
+    "ticker": "AOH",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963099",
+    "id": "02963099",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250627",
+    "time": "1659",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l663lmy8rg79.pdf",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Responsible Entity Change</strong>: Assetora Australia Limited officially appointed as Responsible Entity of the DomaCom Fund (ARSN 167 020 626), replacing Melbourne Securities Corporation Limited.  </li>\n<li><strong>Operational Impact</strong>:  </li>\n<li>Restrictions on <strong>new business activity and capital raising</strong> to be lifted.  </li>\n<li><strong>Secondary market trading</strong> reactivation underway, improving liquidity for unitholders.  </li>\n</ul>\n<p>No material capital raising, financial, or trading halt details identified.</p>",
+    "usage": {
+      "prompt_tokens": 759,
+      "completion_tokens": 104,
+      "total_tokens": 863,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-27T07:30:43.027215"
+  },
+  {
     "ticker": "KAT",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963098",
     "id": "02963098",
@@ -8,15 +388,15 @@
     "date": "20250627",
     "time": "1657",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l6615p9mm7pq.pdf",
-    "summary": "<p><strong>ASX Announcement Summary \u2013 KATANA CAPITAL LIMITED (KAT)</strong><br />\n<strong>Appendix 3C \u2013 Daily Buy-back Notification</strong>  </p>\n<ul>\n<li><strong>Buy-back Type:</strong> On-market buy-back  </li>\n<li><strong>Total Securities Bought Back to Date:</strong> 668,285 (653,285 + 15,000 on previous day)  </li>\n<li><strong>Maximum Buy-back Permitted:</strong> 3,142,313 (10% of total issued securities)  </li>\n<li><strong>Remaining Buy-back Capacity:</strong> 2,474,028  </li>\n<li><strong>Price Range (Previous Day):</strong> AUD 1.215 (flat high/low)  </li>\n<li><strong>Buy-back Period:</strong> 2 Jan 2025 \u2013 31 Dec 2025  </li>\n<li><strong>Broker:</strong> Canaccord Genuity  </li>\n<li><strong>Cash Consideration:</strong> Yes (AUD), no disclosed price ceiling.  </li>\n</ul>\n<p><em>No material deviations or new catalysts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Buy-back type</strong>: On-market buy-back  </li>\n<li><strong>Total shares bought back (cumulative)</strong>: 653,285  </li>\n<li><strong>Shares bought back (previous day)</strong>: 15,000  </li>\n<li><strong>Remaining buy-back capacity</strong>: 2,474,028 (out of 3,142,313 maximum)  </li>\n<li><strong>Buy-back period</strong>: 2 Jan 2025 \u2013 31 Dec 2025  </li>\n<li><strong>Previous day purchase details</strong>:  </li>\n<li><strong>Consideration paid</strong>: AUD 18,225  </li>\n<li><strong>Price paid</strong>: AUD 1.215 (both highest and lowest for the day)  </li>\n<li><strong>Highest allowable price (ASX Rule 7.33)</strong>: AUD 1.276  </li>\n<li><strong>Broker facilitating buy-back</strong>: Canaccord Genuity  </li>\n</ul>\n<p><em>No shareholder approval required.</em></p>",
     "usage": {
-      "prompt_tokens": 1498,
-      "completion_tokens": 184,
-      "total_tokens": 1682,
+      "prompt_tokens": 1496,
+      "completion_tokens": 171,
+      "total_tokens": 1667,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:01:14.534230"
+    "processed_at": "2025-06-27T07:28:09.220580"
   },
   {
     "ticker": "CTD",
@@ -27,15 +407,15 @@
     "date": "20250627",
     "time": "1656",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65tsrdzmyxb.pdf",
-    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Shares Bought Back</strong>:  </li>\n<li>Cumulative: 7,340,824 (7,293,824 + 47,000)  </li>\n<li><strong>Maximum Buy-back Cap</strong>:  </li>\n<li><strong>Shares</strong>: 14,000,000 (remaining: 6,659,176 as of 27/6/2025)  </li>\n<li><strong>Value</strong>: AUD $126.1 million  </li>\n<li><strong>Daily Activity (26/6/2025)</strong>:  </li>\n<li>Shares bought: 47,000  </li>\n<li>Total consideration: AUD $645,253.60  </li>\n<li>Price range: AUD $13.54\u2013$13.89 (highest allowed: $13.89)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Start date</strong>: 15/11/2023  </li>\n<li><strong>End date</strong>: 30/6/2025 (imminent)  </li>\n<li><strong>Cash Outlay</strong>: Total spent to date: AUD $98.38 million ($97.74m cumulative + $0.65m daily)  </li>\n</ul>\n<p><strong>Context</strong>: Buy-back nearing completion (~53% of maximum shares repurchased; ~78% of budget utilized). Prices suggest recent repurchases at a discount to peak (AUD $19.10 high in Nov 2023).</p>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market  </li>\n<li><strong>Total Shares Bought Back (Previously)</strong>: 7,293,824  </li>\n<li><strong>Shares Bought Back (Previous Day)</strong>: 47,000  </li>\n<li><strong>Maximum Buy-back Cap</strong>: 14,000,000 shares (~AUD 126.1M)  </li>\n<li><strong>Remaining Shares to Buy Back</strong>: 6,659,176  </li>\n<li><strong>Previous Day Buy-back Details</strong>:  </li>\n<li><strong>Total Consideration</strong>: AUD 645,253.60  </li>\n<li><strong>Price Range</strong>: AUD 13.54 (low) to AUD 13.89 (high)  </li>\n<li><strong>Program End Date</strong>: 30/6/2025 (imminent closure).  </li>\n</ul>\n<p><strong>Note</strong>: No material new information; routine daily update on ongoing buy-back.</p>",
     "usage": {
       "prompt_tokens": 1608,
-      "completion_tokens": 277,
-      "total_tokens": 1885,
+      "completion_tokens": 167,
+      "total_tokens": 1775,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:04:22.292818"
+    "processed_at": "2025-06-27T07:31:51.137427"
   },
   {
     "ticker": "RPG",
@@ -46,15 +426,15 @@
     "date": "20250627",
     "time": "1656",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65mk4mt76wh.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Malcolm Cory increased indirect holdings via Heron Alliance Pty Ltd and Cory Accounting Services Pty Ltd (as trustees).  </li>\n<li><strong>Transaction Details</strong>:  </li>\n<li><strong>Shares Acquired</strong>: 5,601,956 (1-for-1 entitlement offer) + 5,000,000 (from underwriter).  </li>\n<li><strong>Total Holdings After Change</strong>: 16,203,912 ordinary shares.  </li>\n<li><strong>Consideration</strong>: $106,019.56.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).</p>",
+    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change (Indirect):</strong> Malcolm Cory increased indirect holdings via Heron Alliance Pty Ltd and Cory Accounting Services Pty Ltd (as trustees) from 5,601,956 to 16,203,912 ordinary shares.  </li>\n<li><strong>Reason:</strong> Participation in 1-for-1 entitlement offer (5,601,956 shares) and acquisition of 5,000,000 shares from underwriter.  </li>\n<li><strong>Consideration:</strong> $106,019.56.  </li>\n</ul>\n<p>(No material impact on capital structure or liquidity; routine disclosure.)</p>",
     "usage": {
-      "prompt_tokens": 1003,
-      "completion_tokens": 118,
-      "total_tokens": 1121,
+      "prompt_tokens": 1005,
+      "completion_tokens": 114,
+      "total_tokens": 1119,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:02:47.962790"
+    "processed_at": "2025-06-27T07:29:20.322873"
   },
   {
     "ticker": "PU9",
@@ -65,15 +445,15 @@
     "date": "20250627",
     "time": "1656",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65rqkxg3gzz.pdf",
-    "summary": "<p>This appears to be a Note Deed Poll documentation for <strong>Pepper SPARKZ Trust No.9</strong>, outlining the terms of securitized notes issuance. Below is the material information extracted:</p>\n<h3><strong>Key Details</strong></h3>\n<ol>\n<li><strong>Issuer</strong>:  </li>\n<li>\n<p>BNY Trust Company of Australia Limited (Trustee for Pepper SPARKZ Trust No.9).</p>\n</li>\n<li>\n<p><strong>Notes Structure</strong>:  </p>\n</li>\n<li>Multiple classes of notes issued:  <ul>\n<li>Class A1-a, A1-x, B, C, D, E, F, G1, G2, and L Notes.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Seniority Ranking</strong>: As per Series Notice (not fully detailed here).  </p>\n</li>\n<li>\n<p><strong>Maturity Date</strong>:  </p>\n</li>\n<li>\n<p><strong>January 2033</strong> (for all Notes).  </p>\n</li>\n<li>\n<p><strong>Interest Rate</strong>:  </p>\n</li>\n<li>Floating rate based on <strong>BBSW (Bank Bill Swap Rate)</strong> + fixed margin:  <ul>\n<li>Class A1-a: BBSW + <strong>1.00%</strong> (steps up to +1.25% after Call Option Date).  </li>\n<li>Other Classes: Margins range from <strong>1.00% to 4.50%</strong> (e.g., Class B: +1.35%, Class F: +4.50%).  </li>\n</ul>\n</li>\n<li>\n<p>Benchmark fallback provisions (e.g., switch to AONIA if BBSW discontinued).  </p>\n</li>\n<li>\n<p><strong>Redemption Terms</strong>:  </p>\n</li>\n<li><strong>Call Option</strong>: Trustee may redeem Notes early on any Payment Date after Aggregate Invested Amount falls below 20% of initial issuance.  </li>\n<li>\n<p><strong>Tax Redemption</strong>: Trustee may redeem Notes if withholding tax applies.  </p>\n</li>\n<li>\n<p><strong>Payments</strong>:  </p>\n</li>\n<li><strong>Payment Dates</strong>: As per Series Notice (unspecified here).  </li>\n<li>\n<p><strong>Currency</strong>: AUD.  </p>\n</li>\n<li>\n<p><strong>US Investor Restrictions</strong>:  </p>\n</li>\n<li>\n<p>Notes <strong>not registered</strong> under US Securities Act; cannot be offered/sold to US persons (per Regulation S and Dodd-Frank risk retention rules).  </p>\n</li>\n<li>\n<p><strong>Security</strong>:  </p>\n</li>\n<li>\n<p>Notes are <strong>secured obligations</strong> of the Trustee, backed by assets under the Master Security Trust Deed.  </p>\n</li>\n<li>\n<p><strong>Limited Recourse</strong>:  </p>\n</li>\n<li>\n<p>Noteholder claims are limited to trust assets; no recourse to Trustee beyond this.  </p>\n</li>\n<li>\n<p><strong>Notable Risks/Obligations</strong>:  </p>\n</li>\n<li><strong>FATCA Compliance</strong>: Potential withholding for non-compliant investors.  </li>\n<li><strong>Benchmark Transition</strong>: Fallback rates apply if BBSW/AONIA are discontinued.  </li>\n</ol>\n<h3><strong>Material Omissions</strong>:</h3>\n<ul>\n<li><strong>Capital Raised</strong>: Not disclosed (typically in Series Notice).  </li>\n<li><strong>Specific Payment Dates</strong>: Refer to Series Notice.  </li>\n<li><strong>Credit Enhancement Details</strong>: Not provided here.  </li>\n</ul>\n<h3><strong>Summary</strong>:</h3>\n<ul>\n<li><strong>Structure</strong>: Securitization with multi-tranche notes.  </li>\n<li><strong>Pricing</strong>: BBSW + fixed margins (1.00\u20134.50%).  </li>\n<li><strong>Key Dates</strong>: Maturity (2033), Call Option triggers.  </li>\n<li><strong>Legal</strong>: US restrictions, limited recourse, secured notes.  </li>\n</ul>\n<p><strong>Action</strong>: Review Series Notice for tranche sizes, payment waterfall, and credit enhancement. Monitor benchmark fallback risks (BBSW transition).  </p>\n<p><em>Format: Concise bullet points per analyst guidelines.</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<h4><strong>Structure &amp; Key Terms:</strong></h4>\n<ul>\n<li><strong>Issuer:</strong> BNY Trust Company of Australia Limited as trustee of Pepper SPARKZ Trust No.9.</li>\n<li><strong>Notes Offered:</strong> Multiple classes (A1-a, A1-x, B, C, D, E, F, G1, G2, L Notes), each with distinct terms.</li>\n<li><strong>Ranking:</strong> Notes of each class rank equally; priority between classes is determined by the Series Notice.</li>\n<li><strong>Denomination:</strong> AUD.</li>\n</ul>\n<h4><strong>Interest &amp; Payment Terms:</strong></h4>\n<ul>\n<li><strong>Interest Rate:</strong> BBSW Rate + Class-specific margin (e.g., Class A1-a: BBSW + 1.00%, Class F: BBSW + 4.50%).</li>\n<li><strong>Step-Up Margin:</strong> Class A1-a Notes include a 0.25% step-up margin after the second Payment Date post-first Call Option Date.</li>\n<li><strong>Payment Dates:</strong> Monthly (subject to Business Day Convention).</li>\n<li><strong>Day Count:</strong> Actual/365.</li>\n<li><strong>Interest Calculation:</strong> Compounded daily for fallback rates (e.g., AONIA Fallback Rate if BBSW unavailable).</li>\n</ul>\n<h4><strong>Benchmark Fallbacks:</strong></h4>\n<ul>\n<li><strong>Primary Rate:</strong> BBSW (1-month tenor).</li>\n<li><strong>Fallback Hierarchy:</strong>  </li>\n<li>Temporary disruptions: Administrator/Supervisor Recommended Rate or last published rate.  </li>\n<li>Permanent discontinuation: AONIA Fallback Rate (compounded AONIA + Adjustment Spread) or RBA Recommended Rate. Final Fallback Rate if others fail.</li>\n</ul>\n<h4><strong>Redemption:</strong></h4>\n<ul>\n<li><strong>Maturity:</strong> January 2033 (full principal + accrued interest).</li>\n<li><strong>Call Option:</strong> Trust Manager may redeem all (not partial) Notes on any Payment Date where aggregate Invested Amount drops below 20% of initial. 10-day notice required.</li>\n<li><strong>Tax Redemption:</strong> Optional early redemption if withholding tax applies (15-day notice).</li>\n</ul>\n<h4><strong>Transfer Restrictions:</strong></h4>\n<ul>\n<li><strong>Eligibility:</strong> Not registered under U.S. Securities Act. No offerings to U.S. persons or \"retail clients\" under Australian law.</li>\n<li><strong>Clearing Systems:</strong> Austraclear or others per Series Notice; transfers must comply with system rules.</li>\n</ul>\n<h4><strong>Risk Factors:</strong></h4>\n<ul>\n<li><strong>Limited Recourse:</strong> Trustee obligations are secured but limited to Trust assets.</li>\n<li><strong>Withholding Tax:</strong> No additional amounts paid for FATCA or other mandatory withholdings.</li>\n</ul>\n<h4><strong>Key Dates:</strong></h4>\n<ul>\n<li><strong>Record Date:</strong> 3 Business Days before Payment Date.</li>\n<li><strong>Settlement:</strong> Payments made via Clearing Systems or direct credit (cheque if no account provided).</li>\n</ul>\n<hr />\n<h3><strong>Conclusion:</strong></h3>\n<p>This is a <strong>Note Deed Poll</strong> outlining terms for a structured note issuance under the Pepper SPARKZ Trust. Key takeaways include the interest rate mechanics (BBSW-based with fallbacks), redemption options, and transfer restrictions. No capital raising or trading halt details are present.  </p>\n<p><strong>Final Note:</strong> For trading decisions, cross-reference with the Series Notice (not provided here) for class-specific pricing, sizes, and exact payment waterfalls.</p>",
     "usage": {
       "prompt_tokens": 17358,
-      "completion_tokens": 680,
-      "total_tokens": 18038,
+      "completion_tokens": 637,
+      "total_tokens": 17995,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:02:19.913406"
+    "processed_at": "2025-06-27T07:29:16.782694"
   },
   {
     "ticker": "RPG",
@@ -84,15 +464,15 @@
     "date": "20250627",
     "time": "1656",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65wxkj1nckd.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Helen Raptis increased holdings via <strong>indirect acquisition (12,538,568 shares)</strong> and <strong>direct acquisition (5,000,000 shares)</strong> in Raptis Group Limited.  </li>\n<li><strong>Total Holdings After Change</strong>: <strong>115,000,000 ordinary shares</strong>.  </li>\n<li><strong>Nature of Change</strong>: <strong>1-for-1 entitlement offer</strong> (12,538,568 shares) and <strong>underwriter allocation</strong> (5,000,000 shares).  </li>\n<li><strong>Value</strong>: Total consideration <strong>$175,385.68</strong>.  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<p><strong>Appendix 3Y Summary:</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Helen Raptis  </li>\n<li><strong>Change in Holdings:</strong>  </li>\n<li><strong>Indirect acquisition:</strong> 12,538,568 shares (via Hanslow Holdings Pty Ltd Trust)  </li>\n<li><strong>Direct acquisition:</strong> 5,000,000 shares  </li>\n<li><strong>Total post-change holding:</strong> 115,000,000 ordinary shares  </li>\n<li><strong>Consideration:</strong> $175,385.68  </li>\n<li><strong>Nature of Change:</strong> Entitlement (1 for 1) and underwriter allocation.  </li>\n<li><strong>No closed period trading.</strong>  </li>\n</ul>\n<p>No further material information identified.</p>",
     "usage": {
-      "prompt_tokens": 983,
+      "prompt_tokens": 981,
       "completion_tokens": 127,
-      "total_tokens": 1110,
+      "total_tokens": 1108,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:04:11.342755"
+    "processed_at": "2025-06-27T07:30:56.199419"
   },
   {
     "ticker": "CDM",
@@ -103,15 +483,15 @@
     "date": "20250627",
     "time": "1656",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65pnd35zv3n.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Change of Director\u2019s Interest Notice  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Director</strong>: Karl Siegling (indirect interest via Esselmont Pty Ltd &amp; KTAP Pty Ltd).  </li>\n<li><strong>Change</strong>: On-market acquisition of <strong>84,046 Ordinary Shares</strong> at <strong>$53,604.04</strong> (AUD).  </li>\n<li><strong>Post-Change Holding</strong>: <strong>34,855,720 Ordinary Shares</strong> (total indirect holdings).  </li>\n<li><strong>No closed period trading</strong> occurred.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Change of Director\u2019s Interest Notice</strong>:  </li>\n<li><strong>Director</strong>: Karl Siegling (indirect via Esselmont Pty Ltd and KTAP Pty Ltd).  </li>\n<li><strong>Change</strong>: On-market purchase of <strong>84,046 Ordinary Shares</strong> at <strong>$53,604.04</strong> (AUD).  </li>\n<li><strong>Holding post-change</strong>: <strong>34,855,720 Ordinary Shares</strong>.  </li>\n<li><strong>Closed period trade</strong>: No.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
     "usage": {
-      "prompt_tokens": 908,
-      "completion_tokens": 118,
-      "total_tokens": 1026,
+      "prompt_tokens": 910,
+      "completion_tokens": 104,
+      "total_tokens": 1014,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:03:39.363819"
+    "processed_at": "2025-06-27T07:30:48.280406"
   },
   {
     "ticker": "PU9",
@@ -160,15 +540,15 @@
     "date": "20250627",
     "time": "1655",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65kfw1btrt4.pdf",
-    "summary": "<ul>\n<li><strong>Cleansing Notice</strong>: Issued 109,959,038 new shares under Section 708A of the Corporations Act (no disclosure under Part 6D.2).  </li>\n<li><strong>Compliance</strong>: Confirms adherence to Chapter 2M and Sections 674/674A of the Corporations Act; no excluded information under Sections 708A(7)-(8).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond share issuance disclosure.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Issuance</strong>: dorsaVi (ASX: DVL) issued <strong>109,959,038 fully paid ordinary shares</strong> under Section 708A of the Corporations Act (cleansing notice).  </li>\n<li><strong>Disclosure Waiver</strong>: Issued without Part 6D.2 disclosure; confirms compliance with ongoing reporting obligations.  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
     "usage": {
-      "prompt_tokens": 980,
-      "completion_tokens": 92,
-      "total_tokens": 1072,
+      "prompt_tokens": 978,
+      "completion_tokens": 83,
+      "total_tokens": 1061,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-27T07:02:56.525996"
+    "processed_at": "2025-06-27T07:29:23.200110"
   },
   {
     "ticker": "MPW",
