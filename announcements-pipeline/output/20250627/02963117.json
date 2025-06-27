@@ -1,0 +1,19 @@
+{
+  "ticker": "MCE",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963117",
+  "id": "02963117",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250627",
+  "time": "1723",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l67gj7t8fx61.pdf",
+  "summary": "Understood. Here\u2019s the strictly concise, material-information-only template for ASX announcements:  \n\n---  \n\n### **Trading Halt Request**  \n- Reason: [Single-line reason, e.g., \"Pending capital raising announcement\"]  \n\n### **Capital Raising Announcement**  \n- **Structure**: [Placement/SPP/Entitlement Offer]  \n- **Amount**: [$X AUD] ([Y]% discount to last close)  \n- **Use of Funds**: [e.g., \"Debt reduction + growth initiatives\"]  \n- **Key Dates**: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n\n### **Quarterly (Appendix 4C)**  \n- **Cash Balance**: [$X AUD] (Prior quarter: $Y AUD)  \n- **Burn Rate**: [$X AUD/month] (if material)  \n- **Key Highlights**: [e.g., \"Revenue +15% QoQ\", \"Mine production Z oz\"]  \n\n### **Other Material Announcements**  \n1. [Critical point 1: e.g., \"Asset sale for $X AUD\"]  \n2. [Critical point 2: e.g., \"Regulatory approval received for Project Y\"]  \n\n---  \n\n**For ambiguous/irrelevant announcements**:  \n- *No material information identified*  \n\n**Example Outputs**:  \n- *Trading Halt*: \"Pending material acquisition announcement.\"  \n- *Capital Raising*: \"Entitlement Offer @ $0.50/share (20% discount), raising $50M. Ex-date 15/03, Record 18/03.\"  \n- *4C*: \"Cash $12.5M (QoQ: $15.1M), revenue $3.2M (+10% QoQ).\"  \n- *Other*: \"JV signed for lithium project; upfront payment $5M.\"  \n\nLet me know the announcement type/content, and I\u2019ll extract accordingly.",
+  "usage": {
+    "prompt_tokens": 243,
+    "completion_tokens": 411,
+    "total_tokens": 654,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-27T07:32:23.029277"
+}
