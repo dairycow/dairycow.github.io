@@ -1,0 +1,19 @@
+{
+  "ticker": "PU9",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963094",
+  "id": "02963094",
+  "pages": 33,
+  "price_sensitive": false,
+  "date": "20250627",
+  "time": "1656",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250627/pdf/06l65rqkxg3gzz.pdf",
+  "summary": "This appears to be a Note Deed Poll documentation for **Pepper SPARKZ Trust No.9**, outlining the terms of securitized notes issuance. Below is the material information extracted:\n\n### **Key Details**\n1. **Issuer**:  \n   - BNY Trust Company of Australia Limited (Trustee for Pepper SPARKZ Trust No.9).\n\n2. **Notes Structure**:  \n   - Multiple classes of notes issued:  \n     - Class A1-a, A1-x, B, C, D, E, F, G1, G2, and L Notes.  \n   - **Seniority Ranking**: As per Series Notice (not fully detailed here).  \n\n3. **Maturity Date**:  \n   - **January 2033** (for all Notes).  \n\n4. **Interest Rate**:  \n   - Floating rate based on **BBSW (Bank Bill Swap Rate)** + fixed margin:  \n     - Class A1-a: BBSW + **1.00%** (steps up to +1.25% after Call Option Date).  \n     - Other Classes: Margins range from **1.00% to 4.50%** (e.g., Class B: +1.35%, Class F: +4.50%).  \n   - Benchmark fallback provisions (e.g., switch to AONIA if BBSW discontinued).  \n\n5. **Redemption Terms**:  \n   - **Call Option**: Trustee may redeem Notes early on any Payment Date after Aggregate Invested Amount falls below 20% of initial issuance.  \n   - **Tax Redemption**: Trustee may redeem Notes if withholding tax applies.  \n\n6. **Payments**:  \n   - **Payment Dates**: As per Series Notice (unspecified here).  \n   - **Currency**: AUD.  \n\n7. **US Investor Restrictions**:  \n   - Notes **not registered** under US Securities Act; cannot be offered/sold to US persons (per Regulation S and Dodd-Frank risk retention rules).  \n\n8. **Security**:  \n   - Notes are **secured obligations** of the Trustee, backed by assets under the Master Security Trust Deed.  \n\n9. **Limited Recourse**:  \n   - Noteholder claims are limited to trust assets; no recourse to Trustee beyond this.  \n\n10. **Notable Risks/Obligations**:  \n   - **FATCA Compliance**: Potential withholding for non-compliant investors.  \n   - **Benchmark Transition**: Fallback rates apply if BBSW/AONIA are discontinued.  \n\n### **Material Omissions**:  \n- **Capital Raised**: Not disclosed (typically in Series Notice).  \n- **Specific Payment Dates**: Refer to Series Notice.  \n- **Credit Enhancement Details**: Not provided here.  \n\n### **Summary**:  \n- **Structure**: Securitization with multi-tranche notes.  \n- **Pricing**: BBSW + fixed margins (1.00\u20134.50%).  \n- **Key Dates**: Maturity (2033), Call Option triggers.  \n- **Legal**: US restrictions, limited recourse, secured notes.  \n\n**Action**: Review Series Notice for tranche sizes, payment waterfall, and credit enhancement. Monitor benchmark fallback risks (BBSW transition).  \n\n*Format: Concise bullet points per analyst guidelines.*",
+  "usage": {
+    "prompt_tokens": 17358,
+    "completion_tokens": 680,
+    "total_tokens": 18038,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-27T07:02:19.913406"
+}
