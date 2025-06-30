@@ -7,13 +7,13 @@
   "date": "20250630",
   "time": "1305",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l890dvtxzpf2.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (document type, issuer, headline, and relevant content), and I\u2019ll generate a concise summary adhering strictly to your guidelines.  \n\nFor example:  \n- **If it's a Trading Halt Request**:  \n  \u2192 Reason: Pending capital raising announcement.  \n\n- **If it's a Capital Raising**:  \n  \u2192 Type: Placement + SPP. Amount: AUD 50M. Key dates: Ex-date 15 Oct, Record 16 Oct, Close 30 Oct.  \n\n- **If Appendix 4C**:  \n  \u2192 Cash balance: AUD 12.3M (QoQ -5%). Highlights: Production up 8%, costs down 10%.  \n\n- **Other Announcements**: Only highlight material items (e.g., major asset sale, litigation outcome, or change in capital structure).  \n\nLet me know the document or paste the text, and I\u2019ll extract only what\u2019s actionable.",
+  "summary": "Understood. Below is the template response format I will follow for any ASX announcement you provide, strictly adhering to your rules:\n\n---\n\n**Capital Raising Announcement**  \n- Type: [Placement/SPP/Entitlement Offer, etc.]  \n- Amount: AUD [X] million (or equivalent if multi-tranche)  \n- Key Dates: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n- Use of Proceeds: [1-line summary if material]  \n\n**Trading Halt Request**  \n- Reason: [One-line e.g., \"Pending capital raising announcement\"]  \n\n**Appendix 4C (Quarterly Cash Flow)**  \n- Cash Balance: AUD [X] million at quarter-end  \n- Burn Rate: [Net operating cash outflow of AUD [X]m if material]  \n- Milestones: [1-2 key operational achievements or delays]  \n\n**Other Material Announcements**  \n1. [Critical point 1, e.g., \"Merger agreement signed at AUD [X]/share\"]  \n2. [Critical point 2, e.g., \"Debt facility amended to AUD [X]m, covenants waived\"]  \n\n**No Material Information Identified**  \n[If the document lacks actionable updates]  \n\n---\n\nProvide the PDF (or paste text), and I\u2019ll extract only what matters for trading/capital decisions.",
   "usage": {
-    "prompt_tokens": 225,
-    "completion_tokens": 204,
-    "total_tokens": 429,
+    "prompt_tokens": 223,
+    "completion_tokens": 291,
+    "total_tokens": 514,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T03:20:52.424377"
+  "processed_at": "2025-06-30T04:07:30.358915"
 }
