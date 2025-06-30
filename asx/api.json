@@ -1,5 +1,556 @@
 [
   {
+    "ticker": "BPP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963617",
+    "id": "02963617",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1136",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l859hrbrh2v0.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 10,256,400 Class F Performance Rights (BPPAJ) lapsed due to unmet conditions (30/06/2025).  </li>\n<li><strong>Issued Capital Update</strong>:  </li>\n<li>Ordinary Shares (BPP): 3,374,390,974  </li>\n<li>Unquoted Performance Rights:  <ul>\n<li>Class H (BPPAL): 29,495,668  </li>\n<li>Class G (BPPAK): 12,641,000  </li>\n<li>Class D (BPPAH): 130,000,000  </li>\n<li>Other Classes (A-F, E): ~1.1m\u201355.7m each.  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material impact on liquidity/capital structure identified (lapse of unquoted rights).</em></p>",
+    "usage": {
+      "prompt_tokens": 1143,
+      "completion_tokens": 164,
+      "total_tokens": 1307,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:08.686717"
+  },
+  {
+    "ticker": "EOS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963615",
+    "id": "02963615",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1135",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l85526r4b7nv.pdf",
+    "summary": "<ul>\n<li><strong>Cash receipt</strong>: Received ~US$40M (~A$60M) from a longstanding customer.  </li>\n<li><strong>Closing cash balance</strong>: A$130M as of 30 June 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 822,
+      "completion_tokens": 51,
+      "total_tokens": 873,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:02.625926"
+  },
+  {
+    "ticker": "BPP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963616",
+    "id": "02963616",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1135",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8573wnfj30z.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 4,395,600 Class E Performance Rights (BPPAI) lapsed due to unmet conditions.  </li>\n<li><strong>Date of Cessation</strong>: 30/06/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary Shares (BPP): 3,374,390,974.  </li>\n<li>Remaining Unquoted Performance Rights (various classes): See table in Part 3.2.  </li>\n</ul>\n<p>No material impact on trading or capital structure identified (routine lapse of performance rights).  </p>\n<p><em>Note: No capital raising, financials, or liquidity impacts disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 1145,
+      "completion_tokens": 134,
+      "total_tokens": 1279,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:29.464006"
+  },
+  {
+    "ticker": "MTM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963614",
+    "id": "02963614",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1135",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l85300pjvpy9.pdf",
+    "summary": "<p><strong>No material information identified</strong><br />\n<em>(Announcement is an invitation to an investor webinar with no disclosed operational/financial updates or capital markets actions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 549,
+      "completion_tokens": 33,
+      "total_tokens": 582,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:15.451970"
+  },
+  {
+    "ticker": "MGA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963613",
+    "id": "02963613",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1134",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l850qd98j8zk.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 1,000,000 unexercised options (MGAAD) expired on 22/12/2024.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted: 52,710,000 options (MGAO), 105,420,000 ordinary shares (MGA).  </li>\n<li>Unquoted: 0 expired options (MGAAD), 6,250,000 performance rights (MGAAE).  </li>\n</ul>\n<p><em>No material impact on trading or capital structure identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1066,
+      "completion_tokens": 116,
+      "total_tokens": 1182,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:25.504866"
+  },
+  {
+    "ticker": "LPE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963612",
+    "id": "02963612",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1134",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84ynqgnv91p.pdf",
+    "summary": "<ul>\n<li><strong>Key Update on Bundaberg BioHub Agreement</strong>:  </li>\n<li>Repayment of outstanding facility delayed beyond extended deadline of 30 June 2025.  </li>\n<li>Settlement now expected before release of FY25 Annual Accounts (August 2025).  </li>\n<li>No immediate resolution but refinancing process still progressing.  </li>\n</ul>\n<p><em>No material financial/operational details or trading impacts disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 522,
+      "completion_tokens": 79,
+      "total_tokens": 601,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:53.907689"
+  },
+  {
+    "ticker": "XRO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963611",
+    "id": "02963611",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1129",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84vmwzpjznc.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Total Capital Raised</strong>: AUD 176.00 per share \u00d7 10,511,364 shares = ~AUD 1.85 billion (excluding SPP).  </li>\n<li><strong>SPP Details</strong>: Additional 1,136,364 shares proposed under Share Purchase Plan (previously announced 25 June 2025).  </li>\n<li>\n<p><strong>Issue Date for Placement Shares</strong>: 1 July 2025.  </p>\n</li>\n<li>\n<p><strong>Post-Issue Capital Structure</strong>:  </p>\n</li>\n<li><strong>Total Ordinary Shares (Quoted)</strong>: 164,618,630.  </li>\n<li><strong>Unquoted Securities</strong>: Restricted Stock Units (1,682,497) and Options (1,121,409).  </li>\n</ul>\n<p>Omitted: Non-material details (e.g., ARBN, legal boilerplate).</p>",
+    "usage": {
+      "prompt_tokens": 1240,
+      "completion_tokens": 177,
+      "total_tokens": 1417,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:16.983751"
+  },
+  {
+    "ticker": "FCT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963610",
+    "id": "02963610",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1129",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84sk5gry7yv.pdf",
+    "summary": "<ul>\n<li><strong>Agreement with Claro Dominican Republic</strong>: Licensing of NMIS v9 software suite.  </li>\n<li><strong>Financial Impact</strong>: Upfront fee of <strong>USD 250k (~AUD 400k)</strong>, 100% gross profit (no associated costs).  </li>\n<li><strong>Strategic Significance</strong>: Claro is a subsidiary of Am\u00e9rica M\u00f3vil (NYSE: AMX), a major telco conglomerate.  </li>\n<li><strong>Technology Highlights</strong>: Includes access to AI Model Context Protocol (in testing) and high-availability Message Bus tech.  </li>\n<li><strong>Market Focus</strong>: Reinforces FirstWave\u2019s expansion in North America and Latin America.  </li>\n</ul>\n<p><em>No capital raising, trading halt, or financial reporting details identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 882,
+      "completion_tokens": 142,
+      "total_tokens": 1024,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:56.956630"
+  },
+  {
+    "ticker": "PRM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963609",
+    "id": "02963609",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1125",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84pqtjrfhf9.pdf",
+    "summary": "<ul>\n<li><strong>1215 Capital Pty Ltd ceased to be a substantial holder in Prominence Energy Limited (ASX: PEZ)</strong> on <strong>26 June 2025</strong>.  </li>\n<li><strong>Reason for cessation</strong>: Dilution and on-market sales.  </li>\n<li><strong>Previous substantial holding notice date</strong>: 22 May 2025.  </li>\n</ul>\n<p><em>No other material information identified for trading or capital markets decisions.</em></p>",
+    "usage": {
+      "prompt_tokens": 1624,
+      "completion_tokens": 78,
+      "total_tokens": 1702,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:34.210246"
+  },
+  {
+    "ticker": "AGE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963608",
+    "id": "02963608",
+    "pages": 4,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1125",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84mkycmtt3x.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: This is an executive succession update with no direct impact on trading, capital structure, or liquidity. Compensation details and leadership changes are routine unless tied to strategic shifts or material cost impacts.)</p>",
+    "usage": {
+      "prompt_tokens": 1634,
+      "completion_tokens": 46,
+      "total_tokens": 1680,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:44.445481"
+  },
+  {
+    "ticker": "RDY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963607",
+    "id": "02963607",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1122",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84jwwxv8fkz.pdf",
+    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Security Issuance</strong>:  </li>\n<li><strong>Type</strong>: Issue of 1,424,032 ordinary fully paid shares (ASX: RDY) as deferred consideration for the acquisition of Open Windows (refer to ASX announcement dated 17 December 2021).  </li>\n<li><strong>Issue Date</strong>: 30 June 2025.  </li>\n<li>\n<p><strong>Issue Price</strong>: AUD 2.26208850 per share (non-cash consideration).  </p>\n</li>\n<li>\n<p><strong>Capital Impact</strong>:  </p>\n</li>\n<li>Post-issuance, total ordinary shares on issue: <strong>123,564,107</strong>.  </li>\n<li>\n<p>No shareholder approval required (issued under Listing Rule 7.2 exception).  </p>\n</li>\n<li>\n<p><strong>Key Context</strong>:  </p>\n</li>\n<li>Part of previously disclosed acquisition terms; no new material dilution or capital raising.  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, director details, and non-material procedural information.</em></p>",
+    "usage": {
+      "prompt_tokens": 1656,
+      "completion_tokens": 186,
+      "total_tokens": 1842,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:24.663830"
+  },
+  {
+    "ticker": "EQR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963606",
+    "id": "02963606",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1117",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84fx4vqt918.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(The announcement pertains only to the retirement of a non-executive director, which is not typically material for trading or capital markets decisions unless accompanied by significant strategic changes or board conflicts. No financial, operational, or capital structure impacts noted.)</em></p>",
+    "usage": {
+      "prompt_tokens": 940,
+      "completion_tokens": 55,
+      "total_tokens": 995,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:21.169271"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963605",
+    "id": "02963605",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1111",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l84bnb901wzw.pdf",
+    "summary": "<p><strong>Capital Distribution Announcement (Self-Funding Instalments):</strong><br />\n- <strong>Record date:</strong> 2 July 2025 (unfranked estimated distribution of <strong>AUD 2.010911</strong> per instalment).<br />\n- <strong>Ex-distribution date:</strong> 1 July 2025.<br />\n- <strong>Loan adjustments:</strong> Distribution reduces outstanding loan amounts across all warrant series (e.g., VHYSOA loan reduced from <strong>AUD 22.0618</strong> to <strong>AUD 20.0509</strong>).  </p>\n<p><em>Omitted: Non-material warrant series details, legal boilerplate.</em></p>",
+    "usage": {
+      "prompt_tokens": 766,
+      "completion_tokens": 124,
+      "total_tokens": 890,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:29.377161"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963604",
+    "id": "02963604",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1111",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l848f8y4vh89.pdf",
+    "summary": "<h3>Summary of CitiFirst Self-Funding Instalment Distribution Announcement:</h3>\n<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (for entitlement to unfranked distribution).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Estimated Distribution</strong>: AUD <strong>0.651416</strong> per instalment (unfranked).  </li>\n<li><strong>Purpose</strong>: Reduces outstanding loan amount for each instalment series (VASSOA to VASSOO). See table for updated loan amounts.  </li>\n<li><strong>Key Impact</strong>: Adjusts loan balances for self-funding instalment holders; aligns with VAS ETF ex/distribution dates.  </li>\n</ul>\n<p>(No other material information identified.)</p>",
+    "usage": {
+      "prompt_tokens": 962,
+      "completion_tokens": 144,
+      "total_tokens": 1106,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:41.211175"
+  },
+  {
+    "ticker": "ELS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963603",
+    "id": "02963603",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1111",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l846c397j637.pdf",
+    "summary": "<p><strong>No material information identified.</strong>  </p>\n<p><em>(Note: The announcement is a routine administrative update on office relocation, with no impact on trading, valuation, or capital structure.)</em></p>",
+    "usage": {
+      "prompt_tokens": 616,
+      "completion_tokens": 35,
+      "total_tokens": 651,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:25.145293"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963602",
+    "id": "02963602",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1109",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8441c8p4qm2.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> <strong>Distribution Announcement (Self-Funding Instalments)</strong>  </p>\n<ul>\n<li><strong>Estimated Distribution:</strong> AUD 0.38067248 (unfranked) per instalment.  </li>\n<li><strong>Ex-Distribution Date:</strong> 1 July 2025.  </li>\n<li><strong>Record Date:</strong> 2 July 2025.  </li>\n<li><strong>Key Terms Adjustment:</strong> Distribution applied to reduce loan amounts for instalment holders:  </li>\n<li><strong>QOZSOA:</strong> Loan reduced from <strong>$5.8278</strong> to <strong>$5.4471</strong>.  </li>\n<li><strong>QOZSOB:</strong> Loan reduced from <strong>$7.0798</strong> to <strong>$6.6991</strong>.  </li>\n<li><strong>QOZSOC:</strong> Loan reduced from <strong>$8.3318</strong> to <strong>$7.9511</strong>.  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 651,
+      "completion_tokens": 185,
+      "total_tokens": 836,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:04.556942"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963600",
+    "id": "02963600",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1108",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83znzkw6nt0.pdf",
+    "summary": "<h3>Distribution Announcement for CitiFirst iShares Self-Funding Instalment (IOZ Series)</h3>\n<ul>\n<li><strong>Estimated distribution</strong>: AUD 0.28004199 per instalment (unfranked).  </li>\n<li><strong>Ex-distribution date</strong>: 1 July 2025.  </li>\n<li><strong>Record date</strong>: 2 July 2025 (aligned with iShares Core S&amp;P/ASX 200 ETF).  </li>\n<li><strong>Distribution use</strong>: Automatically reduces outstanding loan amounts for each warrant (table provided).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 913,
+      "completion_tokens": 114,
+      "total_tokens": 1027,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:42.880809"
+  },
+  {
+    "ticker": "GSS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963599",
+    "id": "02963599",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1108",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83xkpzm4vnz.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3H - Cessation of Securities):</strong>  </p>\n<ul>\n<li><strong>Cessation Details:</strong> 240,000 unquoted options (GSSAB) lapsed due to unmet conditions.  </li>\n<li><strong>Date of Cessation:</strong> 30 June 2025.  </li>\n<li><strong>Remaining Options Outstanding:</strong>  </li>\n<li>GSSAB: 7,567,000 (unquoted, various expiry dates/prices).  </li>\n<li>GSSAC: 602,750 (unquoted, expiring 11-Nov-2035 @ 98c).  </li>\n<li><strong>Ordinary Shares Outstanding:</strong> 227,138,828 (GSS).  </li>\n</ul>\n<p><strong>Impact:</strong> Non-material dilution risk removed (no consideration paid for lapse). No adjustment to issued capital.  </p>\n<p><em>Note: Standard expiry event; no trading or capital structure implications.</em></p>",
+    "usage": {
+      "prompt_tokens": 1068,
+      "completion_tokens": 181,
+      "total_tokens": 1249,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:20.154457"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963601",
+    "id": "02963601",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1108",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l841ssh40gpr.pdf",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Distribution Details</strong>:  </li>\n<li><strong>Record Date</strong>: 2 July 2025 (aligned with IVV iShares S&amp;P 500 ETF).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li>\n<p><strong>Unfranked Distribution</strong>: AUD <strong>0.17385253</strong> per warrant.  </p>\n</li>\n<li>\n<p><strong>Loan Adjustment</strong>:  </p>\n</li>\n<li>Distribution proceeds applied to reduce the loan amount for each warrant series.  </li>\n<li><strong>New Loan Amounts</strong>: See table (precision-adjusted reductions apply uniformly).  </li>\n</ul>\n<p><strong>Relevance</strong>: Key for warrant holders regarding cash flows and leverage implications. No broader capital markets impact.  </p>\n<p><em>Note: No material trading or capital-raising decisions are influenced by this announcement.</em></p>",
+    "usage": {
+      "prompt_tokens": 1003,
+      "completion_tokens": 156,
+      "total_tokens": 1159,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:42.884391"
+  },
+  {
+    "ticker": "A4N",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963596",
+    "id": "02963596",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1107",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83q5rf7wfyd.pdf",
+    "summary": "<h3>Summary of ASX Appendix 3G Announcement:</h3>\n<p><strong>Entity:</strong> Alpha HPA Limited  </p>\n<ul>\n<li><strong>Security Issue:</strong> 1,080,000 unquoted Performance Rights (ASX code: A4NAD).  </li>\n<li><strong>Issue Date:</strong> 30 June 2025.  </li>\n<li><strong>Vesting Schedule:</strong>  </li>\n<li>360,000 vest on 14 Dec 2025,  </li>\n<li>360,000 vest on 14 Dec 2026,  </li>\n<li>360,000 vest on 14 Dec 2027.  </li>\n<li><strong>Conditions:</strong> Subject to continued employment. Issued to Stage 2 construction key hires.  </li>\n<li><strong>Total Outstanding Performance Rights:</strong> 10,213,403 (post-issue).  </li>\n</ul>\n<p><strong>No material dilution impact</strong> (issued under 15% placement capacity, no shareholder approval required).  </p>\n<p><strong>No material information identified</strong> beyond equity incentive update.</p>",
+    "usage": {
+      "prompt_tokens": 1630,
+      "completion_tokens": 188,
+      "total_tokens": 1818,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:52.649815"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963598",
+    "id": "02963598",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1107",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83vfx51w1dn.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Dividend/Distribution Announcement (Self-Funding Instalment)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Record Date</strong>: 2 July 2025 for estimated AUD 1.44788408 un-franked distribution per instalment.  </li>\n<li><strong>Ex-Dividend Date</strong>: 1 July 2025 (aligned with IOO ETF's ex-distribution date).  </li>\n<li><strong>Loan Adjustment</strong>: Distribution applied to reduce loan amounts:  <ul>\n<li><strong>IOOSOA</strong>: Loan reduced from AUD 47.9624 to AUD 46.5145.  </li>\n<li><strong>IOOSOB</strong>: Loan reduced from AUD 53.9095 to AUD 52.4616.  </li>\n</ul>\n</li>\n</ul>\n<p><em>Note: No material capital markets or trading impact beyond the distribution mechanics and loan adjustments.</em></p>",
+    "usage": {
+      "prompt_tokens": 615,
+      "completion_tokens": 170,
+      "total_tokens": 785,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:12.899339"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963597",
+    "id": "02963597",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1107",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83s9k8ycpf5.pdf",
+    "summary": "<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (unfranked distribution of AUD 0.35888912 per warrant).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025 (aligned with iShares S&amp;P/ASX 20 ETF).  </li>\n<li><strong>Loan Adjustment</strong>: Distribution applied to reduce outstanding loan amounts across six warrant series (ILCSOA-ILCSOF), with new loan amounts provided for each.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 697,
+      "completion_tokens": 99,
+      "total_tokens": 796,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:49.756433"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963595",
+    "id": "02963595",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1106",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83n2h3pjmlj.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>: CitiFirst Self-Funding Instalments (IHDSOA &amp; IHDSOB) declared estimated unfranked distribution of <strong>AUD 0.12476076</strong>, to reduce outstanding loan amounts.  </li>\n<li><strong>Ex-Date</strong>: 1 July 2025.  </li>\n<li><strong>Record Date</strong>: 2 July 2025.  </li>\n<li><strong>Loan Adjustments</strong>:  </li>\n<li><strong>IHDSOA</strong>: Loan reduced from <strong>$5.3943</strong> to <strong>$5.2695</strong>.  </li>\n<li><strong>IHDSOB</strong>: Loan reduced from <strong>$6.3121</strong> to <strong>$6.1873</strong>.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 625,
+      "completion_tokens": 136,
+      "total_tokens": 761,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:08.590958"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963594",
+    "id": "02963594",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1106",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83kyp0yx96v.pdf",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>Distribution Details</strong>:  </li>\n<li><strong>Record Date</strong>: 2 July 2025 (aligned with IEU iShares Europe ETF).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025 (aligned with IEU iShares Europe ETF).  </li>\n<li>\n<p><strong>Distribution Amount</strong>: AUD <strong>2.01329885</strong> per instalment (unfranked).  </p>\n</li>\n<li>\n<p><strong>Loan Adjustments</strong>:  </p>\n</li>\n<li>Distribution proceeds will be used to reduce the loan amounts across all IEU CitiFirst Self-Funding Instalment warrants (IEUSOA to IEUSOK).  </li>\n<li>New loan amounts provided for each warrant series (see table for specifics).  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 861,
+      "completion_tokens": 155,
+      "total_tokens": 1016,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:23.356506"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963593",
+    "id": "02963593",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1105",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83hr5gqscw7.pdf",
+    "summary": "<ul>\n<li><strong>Record date for estimated AUD 3.1701791 un-franked distribution</strong>: 2 July 2025 (aligned with IAA iShares Asia 50 ETF).  </li>\n<li><strong>Ex-distribution date</strong>: 1 July 2025 (aligned with IAA iShares Asia 50 ETF).  </li>\n<li><strong>Loan reduction</strong>: Outstanding loan for IAASOA reduced from $50.1292 to $46.9590.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 592,
+      "completion_tokens": 92,
+      "total_tokens": 684,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:59.613652"
+  },
+  {
+    "ticker": "PVL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963592",
+    "id": "02963592",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1105",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83flv0nwv18.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceased</strong>: Powerhouse Ventures Limited no longer a substantial holder in Percheron Therapeutics Limited as of 26/06/2025.  </li>\n<li><strong>Shares Disposed</strong>: Sold <strong>6,459,495 fully paid ordinary shares</strong> on-market for <strong>$78,502.24</strong> (approx. <strong>$0.012 per share</strong>).  </li>\n<li><strong>Prior Notice</strong>: Last substantial holding notice disclosed on 17/04/2025.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified (no escrow, no voting power shift above material thresholds).</em></p>",
+    "usage": {
+      "prompt_tokens": 1293,
+      "completion_tokens": 122,
+      "total_tokens": 1415,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:44:51.031624"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963591",
+    "id": "02963591",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1103",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l83c5vtk5nxn.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li><strong>Record Date</strong>: 2 July 2025 (aligned with A200 ETF).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025 (aligned with A200 ETF).  </li>\n<li><strong>Distribution Amount</strong>: AUD 1.07576468 (unfranked).  </li>\n<li><strong>Loan Adjustment</strong>:  </li>\n<li>Distribution applied to reduce loan amounts across all warrant series (A20SOA\u2013A20SOG), with new loan amounts provided.  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 722,
+      "completion_tokens": 115,
+      "total_tokens": 837,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:28.358641"
+  },
+  {
+    "ticker": "RGN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963590",
+    "id": "02963590",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1102",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l838zcgrbwmf.pdf",
+    "summary": "<p>\u2022 <strong>Security Cessation</strong>: 1,038,453 RGN stapled securities cancelled via on-market buy-back.<br />\n\u2022 <strong>Total Consideration Paid</strong>: AUD 2,423,631.66 (AUD denominated).<br />\n\u2022 <strong>Post-Cessation Issued Capital</strong>: 1,160,691,772 RGN securities remain outstanding.<br />\n\u2022 <strong>Buy-Back Period</strong>: Cessation relates to buy-backs executed between 20 May 2025 and 26 June 2025.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1078,
+      "completion_tokens": 114,
+      "total_tokens": 1192,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:43:31.271479"
+  },
+  {
+    "ticker": "LPG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963589",
+    "id": "02963589",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1102",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l836sybqvldq.pdf",
+    "summary": "<ul>\n<li><strong>Portfolio Disclosure (Loftus Peak Global Disruption Active ETF)</strong>  </li>\n<li>Top holdings (\u22655%): Taiwan Semiconductor (9.20%), Nvidia (8.60%), Microsoft (6.03%), Broadcom (6.02%), Meta (5.79%), Amazon (5.63%), Netflix (5.01%).  </li>\n<li>Cash balance: 5.63% (predominantly USD).  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 693,
+      "completion_tokens": 100,
+      "total_tokens": 793,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T01:42:49.048441"
+  },
+  {
     "ticker": "LSF",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963538",
     "id": "02963538",
