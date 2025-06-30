@@ -1,0 +1,19 @@
+{
+  "ticker": "BSX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963664",
+  "id": "02963664",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1305",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l890dvtxzpf2.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (document type, issuer, headline, and relevant content), and I\u2019ll generate a concise summary adhering strictly to your guidelines.  \n\nFor example:  \n- **If it's a Trading Halt Request**:  \n  \u2192 Reason: Pending capital raising announcement.  \n\n- **If it's a Capital Raising**:  \n  \u2192 Type: Placement + SPP. Amount: AUD 50M. Key dates: Ex-date 15 Oct, Record 16 Oct, Close 30 Oct.  \n\n- **If Appendix 4C**:  \n  \u2192 Cash balance: AUD 12.3M (QoQ -5%). Highlights: Production up 8%, costs down 10%.  \n\n- **Other Announcements**: Only highlight material items (e.g., major asset sale, litigation outcome, or change in capital structure).  \n\nLet me know the document or paste the text, and I\u2019ll extract only what\u2019s actionable.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 204,
+    "total_tokens": 429,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T03:20:52.424377"
+}
