@@ -1,0 +1,19 @@
+{
+  "ticker": "AET",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963874",
+  "id": "02963874",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1727",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8sp9693jpkq.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details (e.g., title, announcement type, and excerpts), and I will extract **only material information** in the strict format you requested.  \n\n**Example outputs:**  \n1. **Capital Raising Announcement**  \n   - *Structure*: 1-for-4 accelerated entitlement offer  \n   - *Amount*: AUD $150M  \n   - *Key Dates*: Ex-date 15/05, Record 17/05, Close 30/05  \n\n2. **Appendix 4C (Quarterly)**  \n   - *Cash Balance*: AUD $12.5M (Q-end)  \n   - *Highlights*: Gold production +15% QoQ; costs USD $1,200/oz  \n\n3. **Trading Halt Request**  \n   - *Reason*: Pending capital raising announcement  \n\n4. **Other Announcement**  \n   - *Material Impact*: Acquisition of X asset for AUD $50M (funded via debt)  \n\n5. **No Material Information Identified**  \n\n**Next Steps**: Share the announcement text or key details, and I will apply the above rules.",
+  "usage": {
+    "prompt_tokens": 218,
+    "completion_tokens": 250,
+    "total_tokens": 468,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T07:44:42.642660"
+}

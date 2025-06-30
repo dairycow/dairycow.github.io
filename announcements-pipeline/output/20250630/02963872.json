@@ -7,13 +7,13 @@
   "date": "20250630",
   "time": "1724",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8sjn60vrfq0.pdf",
-  "summary": "Understood. Please **upload the ASX announcement PDF** you'd like analyzed, and I'll provide a **concise, material-only summary** strictly adhering to your requested format (e.g., Capital Raising, Trading Halt, Quarterly).  \n\n*Example Output Formats:*  \n\n**Trading Halt Request:**  \n- *Reason:* Pending announcement of material acquisition.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- *Structure:* Placement ($50M) + SPP ($10M cap).  \n- *Key Dates:* Ex-date 15/05, Record 17/05, Close 30/05.  \n\n**Quarterly Report (Appendix 4C):**  \n- *Cash Balance:* $12.3M (vs. $15.1M prior quarter).  \n- *Highlight:* Revenue up 22% QoQ; burn rate $1.1M/month.  \n\n**Other Announcement:**  \n- Major offtake agreement signed (5-year, $200M).  \n- CFO resigning (effective 30/06).  \n\nI\u2019ll exclude all fluff\u2014just **actionable data points** for trading or capital markets decisions. Provide the PDF, and I\u2019ll begin.  \n\n*(Note: If the document lacks material info, I\u2019ll state \"No material information identified.\")*",
+  "summary": "Understood. Please **upload the ASX announcement PDF** (or provide its key details if the text is accessible), and I\u2019ll extract **only material information** relevant to trading or capital markets decisions in concise bullet points, adhering strictly to your rules.  \n\nExample output formats based on common announcement types:  \n\n---  \n\n### **Trading Halt Request**  \n- Reason: Pending announcement of a capital raising.  \n\n### **Capital Raising (Placement + SPP)**  \n- Structure: $50M placement ($0.20/share) + $10M SPP (same price).  \n- Key dates: Ex-date [DD/MM], Record date [DD/MM], SPP close [DD/MM].  \n\n### **Quarterly (Appendix 4C)**  \n- Cash balance: $15.2M (Q-end).  \n- Highlights: Revenue up 12% QoQ, production +8% QoQ.  \n\n### **Other Material Announcement**  \n- Strategic acquisition: $100M for [Asset], funded via debt ($70M) + equity ($30M).  \n- FY24 guidance revised: EBITDA uplifted to $120M-$130M (prev. $110M-$120M).  \n\n---  \n\nIf the document lacks material info:  \n- **No material information identified.**  \n\nLet me review your file now.",
   "usage": {
-    "prompt_tokens": 220,
-    "completion_tokens": 279,
+    "prompt_tokens": 218,
+    "completion_tokens": 281,
     "total_tokens": 499,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T07:28:07.179179"
+  "processed_at": "2025-06-30T07:43:37.676954"
 }
