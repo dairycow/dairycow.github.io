@@ -7,13 +7,13 @@
   "date": "20250701",
   "time": "0730",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98wrcx6pw71.pdf",
-  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF you'd like analyzed, and I will extract the material information in the prescribed format, tailored to the announcement type. \n\nFor example, if you provide:  \n- A **trading halt request**, I'll state only the reason.  \n- A **capital raising**, I'll list structure, amount, and key dates.  \n- A **quarterly (4C)**, I'll note operational/financial highlights and cash balance.  \n- Other types, I'll distill the 2-3 most critical points impacting valuation or liquidity.  \n\nI\u2019ll omit all fluff, names, and non-material details. If the document lacks actionable info, I\u2019ll note: *No material information identified*.  \n\nGo ahead and share the announcement.",
+  "summary": "Understood. Please provide the **ASX announcement PDF** you'd like analyzed, and I will extract only the material information relevant for trading or capital markets decisions, formatted as strictly concise bullet points according to your specified guidelines.  \n\n**Examples of expected outputs based on your criteria:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material acquisition announcement.  \n\n2. **Capital Raising Announcement**  \n   - *Type*: Placement + SPP  \n   - *Amount*: $50M (Placement $40M, SPP $10M)  \n   - *Key Dates*: Ex-date \u2013 15/04/2024, SPP Close \u2013 30/04/2024  \n\n3. **Appendix 4C (Quarterly Report)**  \n   - *Cash Balance*: $12.5M (QoQ -$2.1M)  \n   - *Key Highlights*: Revenue $8.2M (+15% QoQ), net operating cash outflow $1.4M  \n\n4. **Other Material Announcement**  \n   - *Key Points*:  \n     \u2022 Major asset sale for $75M (30% premium to book).  \n     \u2022 CEO resignation effective immediately, no succession plan disclosed.  \n\n**Note:** If the document lacks material trading or capital markets information, I will reply with:  \n- *No material information identified*.  \n\nPlease share the PDF or key details from the announcement, and I will parse it accordingly.",
   "usage": {
-    "prompt_tokens": 218,
-    "completion_tokens": 167,
-    "total_tokens": 385,
+    "prompt_tokens": 220,
+    "completion_tokens": 316,
+    "total_tokens": 536,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T21:53:51.183312"
+  "processed_at": "2025-06-30T21:59:29.984888"
 }
