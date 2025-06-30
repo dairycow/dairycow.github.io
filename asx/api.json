@@ -1,5 +1,43 @@
 [
   {
+    "ticker": "MPP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964021",
+    "id": "02964021",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250701",
+    "time": "0731",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l9932r1ktnvl.pdf",
+    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Renounceable rights issue ($9m) + Placement to Amari Metals Australia Pty Ltd (minimum $6m, up to $15m total).<br />\n- <strong>Total Capital Raised:</strong> Minimum <strong>A$15m</strong>, maximum <strong>A$24m</strong> at <strong>A$0.03/share</strong>.<br />\n- <strong>Key Condition:</strong> Amari to own <strong>51% post-completion</strong>.<br />\n- <strong>Timetable:</strong> Shareholder meeting expected <strong>late August 2025</strong>; documentation sent early August.  </p>\n<p><strong>New Loan Facility:</strong><br />\n- <strong>Terms:</strong> 3-year facility, same pricing as current, with current facilities extended to <strong>30 September 2025</strong>.  </p>\n<p><strong>Material Conditions:</strong><br />\n- Cross-completion of capital raise and loan agreements.<br />\n- Shareholder and regulatory approvals required.  </p>\n<p><strong>Governance Change:</strong><br />\n- Amari to appoint <strong>Stephen Robertson</strong> as non-independent director post-transaction.  </p>\n<p><em>Note: Boilerplate/forward-looking statements omitted.</em></p>",
+    "usage": {
+      "prompt_tokens": 1159,
+      "completion_tokens": 211,
+      "total_tokens": 1370,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T21:42:36.374073"
+  },
+  {
+    "ticker": "AFP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964020",
+    "id": "02964020",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250701",
+    "time": "0731",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l990zgn71gvv.pdf",
+    "summary": "<h3><strong>June Quarter FY 2026 Investor Update \u2013 Material Information</strong></h3>\n<h4><strong>Key Highlights:</strong></h4>\n<ul>\n<li><strong>Combogesic IV\u00ae launched in Canada</strong> \u2013 First sales under AFT\u2019s Canadian subsidiary, targeting the non-opioid pain management market amid Canada\u2019s opioid crisis.  </li>\n<li><strong>Extended US licensing agreement with Hikma Pharmaceuticals</strong> \u2013 Covers both <strong>Combogesic IV</strong> (IV form) and <strong>Combogesic Rapid</strong> (tablet form) for broader US commercialisation; restructured profit-sharing model.  </li>\n<li><strong>R&amp;D Pipeline Progress:</strong>  </li>\n<li><em>Antibiotic eyedrop</em> \u2013 Pre-IND filed with FDA; IND targeted before year-end.  </li>\n<li><em>Strawberry Birthmarks topical treatment</em> \u2013 Pre-IND filing expected this year.  </li>\n<li><em>Novel injectable iron</em> \u2013 IND filing planned by year-end.  </li>\n<li><em>New project</em> \u2013 Improved formulation targeting a <strong>US$180M</strong> niche market, expected FY27 filing.  </li>\n<li><strong>Pediatric Maxigesic IV study</strong> \u2013 Prep underway to expand label into pediatric pain management.  </li>\n<li><strong>Global expansion</strong> \u2013 Canada joins existing operations in Singapore, Hong Kong, South Africa, US, EU, and UK; further OTC and in-licensed product launches planned for FY26.  </li>\n</ul>\n<p><em>No financial or capital structure updates disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 2426,
+      "completion_tokens": 283,
+      "total_tokens": 2709,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T21:44:19.539386"
+  },
+  {
     "ticker": "AIA",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964018",
     "id": "02964018",
@@ -8,15 +46,15 @@
     "date": "20250701",
     "time": "0730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98wrcx6pw71.pdf",
-    "summary": "<p>Understood. Please provide the ASX announcement PDF or paste its key contents, and I will extract <strong>only material trading or capital markets information</strong> in concise bullet points, adhering strictly to your rules.  </p>\n<p>Example outputs based on common announcement types:  </p>\n<p><strong>Trading Halt Request:</strong><br />\n- <em>Reason</em>: Pending announcement of capital raising.  </p>\n<p><strong>Capital Raising Announcement (Placement + SPP):</strong><br />\n- <em>Structure</em>: $50M placement (institutional) + $10M SPP.<br />\n- <em>Use of funds</em>: Debt reduction (60%), exploration (40%).<br />\n- <em>Key dates</em>: Ex-date 15/03, SPP close 05/04.  </p>\n<p><strong>Appendix 4C (Quarterly):</strong><br />\n- <em>Cash balance</em>: $12.5M (Q-end).<br />\n- <em>Cash burn</em>: $2.1M (quarter), down 15% QoQ.<br />\n- <em>Milestone</em>: Phase 2 trials commenced.  </p>\n<p><strong>Other Material Announcement:</strong><br />\n- <em>Acquisition</em>: 100% of Asset X for $30M scrip (10% dilution).<br />\n- <em>Condition</em>: Shareholder approval required.  </p>\n<p>If the document is irrelevant (e.g., director resignation without impact), I will state:<br />\n- <em>No material information identified</em>.  </p>\n<p>Ready to review your file.</p>",
+    "summary": "<p>Understood. Please upload or provide the text of the ASX announcement PDF, and I will analyze it strictly based on your guidelines, extracting only material information relevant for trading or capital markets decisions. </p>\n<p>Example output formats based on your criteria:  </p>\n<p><strong>Trading Halt Request</strong><br />\n- <em>Reason</em>: Pending announcement of a capital raising.  </p>\n<p><strong>Capital Raising Announcement</strong><br />\n- <em>Type</em>: Institutional Placement + SPP.<br />\n- <em>Amount</em>: AUD $50M (Placement) + AUD $10M (SPP cap).<br />\n- <em>Key Dates</em>: Ex-date (DD/MM), Record date (DD/MM), SPP close (DD/MM).  </p>\n<p><strong>Quarterly Report (Appendix 4C)</strong><br />\n- <em>Cash Balance</em>: AUD $15M (vs. AUD $20M prior quarter).<br />\n- <em>Highlights</em>: Production up 10% QoQ; costs down 5%.  </p>\n<p><strong>Other Announcement (e.g., M&amp;A, Asset Sale)</strong><br />\n- <em>Acquisition</em>: Target Co. for AUD $100M (100% scrip).<br />\n- <em>Conditions</em>: FIRB approval required.  </p>\n<p>If no material details, I will reply:<br />\n- <em>No material information identified</em>.  </p>\n<p>Ready to proceed\u2014please share the announcement text.</p>",
     "usage": {
       "prompt_tokens": 218,
-      "completion_tokens": 284,
-      "total_tokens": 502,
+      "completion_tokens": 272,
+      "total_tokens": 490,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T21:31:59.645878"
+    "processed_at": "2025-06-30T21:42:12.737083"
   },
   {
     "ticker": "CNU",
@@ -27,15 +65,15 @@
     "date": "20250701",
     "time": "0730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98yw68lrr7b.pdf",
-    "summary": "<p><strong>Capital Change (Redemption &amp; Cancellation) Announcement:</strong><br />\n- <strong>Redemption</strong>: 85,341,018 unquoted CIP1 equity securities at NZ$1.00 per security (total NZ$85.3m).<br />\n- <strong>Cancellation</strong>: 7,561,881 unquoted CIP1 warrants (nil consideration).<br />\n- <strong>Debt Repayment</strong>: Concurrent repayment of NZ$85.3m unquoted CIP1 debt securities.<br />\n- <strong>Reason</strong>: Dividends became payable on redeemed CIP1 securities per subscription agreement terms.<br />\n- <strong>Impact</strong>:<br />\n  - Reduces outstanding CIP1 equity securities by 18.5% (to 376.7m) and warrants by 43.3% (to 9.9m).<br />\n  - No treasury stock held post-transaction.  </p>\n<p><em>Note: All figures in NZD; no ASX trading implications identified (NZX-listed).</em></p>",
+    "summary": "<h3>Capital Structure Update</h3>\n<ul>\n<li><strong>Redemption of CIP1 Equity Securities</strong>: 85,341,018 unquoted securities redeemed at NZ$1.00 each (total NZ$85.3M).  </li>\n<li><strong>Cancellation of CIP1 Warrants</strong>: 7,561,881 unquoted warrants cancelled at nil consideration.  </li>\n<li><strong>Debt Repayment</strong>: NZ$85.3M of unquoted CIP1 debt securities repaid.  </li>\n<li><strong>Impact on Outstanding Securities</strong>:  </li>\n<li>Remaining CIP1 Equity Securities: 376,711,053 (unquoted).  </li>\n<li>Remaining CIP1 Warrants: 9,903,147 (unquoted).  </li>\n<li><strong>Reason</strong>: Dividends became payable on portion of CIP1 Equity Securities; warrants\u2019 exercise period expired.  </li>\n</ul>\n<p><em>Note: No material liquidity or trading impact (securities unquoted).</em></p>",
     "usage": {
       "prompt_tokens": 1794,
-      "completion_tokens": 195,
-      "total_tokens": 1989,
+      "completion_tokens": 184,
+      "total_tokens": 1978,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T21:32:31.208214"
+    "processed_at": "2025-06-30T21:43:00.662984"
   },
   {
     "ticker": "IFT",
@@ -46,14 +84,14 @@
     "date": "20250701",
     "time": "0730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98tml9jndtl.pdf",
-    "summary": "<h3><strong>Dividend Notification Summary (Appendix 3A.1)</strong></h3>\n<ul>\n<li><strong>Dividend Type</strong>: Ordinary, unfranked  </li>\n<li><strong>Amount</strong>: <strong>NZD 0.1325</strong> per share (~AUD 0.1229)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-date: <strong>11/6/2025</strong>  </li>\n<li>Record date: <strong>12/6/2025</strong>  </li>\n<li>Payment date: <strong>2/7/2025</strong>  </li>\n<li><strong>DRP Strike Price</strong>: <strong>NZD 10.42983548</strong> per share (2% discount applied)  </li>\n<li><strong>DRP Election Deadline</strong>: <strong>13/6/2025, 15:00 NZ time</strong>  </li>\n<li><strong>Withholding Tax</strong>: 15% for non-residents  </li>\n<li><strong>Tax Details</strong>: Fully unfranked; tax component info <a href=\"https://infratil.com/for-investors/dividends-and-performance/\">here</a>.  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
+    "summary": "<ul>\n<li><strong>Dividend Details</strong>:  </li>\n<li>Final dividend of NZD 0.1325 per share (AUD 0.1229 equivalent), unfranked.  </li>\n<li>\n<p>Ex-date: 11/6/2025; Record date: 12/6/2025; Payment date: 2/7/2025.  </p>\n</li>\n<li>\n<p><strong>Dividend Reinvestment Plan (DRP)</strong>:  </p>\n</li>\n<li>Strike price set at NZD 10.42983548 per share (2% discount).  </li>\n<li>DRP election deadline: 13/6/2025 15:00 NZ time.  </li>\n<li>\n<p>New shares issued under DRP rank pari passu.  </p>\n</li>\n<li>\n<p><strong>Tax</strong>: 15% withholding tax applies; no franking.  </p>\n</li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 2312,
-      "completion_tokens": 206,
-      "total_tokens": 2518,
+      "prompt_tokens": 2314,
+      "completion_tokens": 168,
+      "total_tokens": 2482,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T21:32:11.173541"
+    "processed_at": "2025-06-30T21:42:23.528257"
   }
 ]
