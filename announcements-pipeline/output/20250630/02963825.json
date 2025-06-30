@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963825",
+  "id": "02963825",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1645",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8p4tzxt7481.pdf",
+  "summary": "### Summary: **Stop Loss Level Event Announcement**  \n\n- **Suspended MINIs due to Stop Loss Trigger Event**:  \n  - **SPFMOQ** (S&P500 eMINI Futures Sep-2025): Stop Loss Level breached at 6,243.00 (underlying parcel price \u2264 trigger).  \n  - **RRLKOC** (Regis Resources Ltd): Stop Loss Level breached at 4.3300 (underlying parcel price \u2265 trigger).  \n\n- **Trading & Settlement Process**:  \n  - Temporary ASX trading resumption: Issuer bids at **Cash Amount** from 2pm next trading day until 4pm the following day.  \n  - Unsold MINIs expire automatically; holders receive **Stop Loss Amount** within 10 business days post-trigger.  \n\n- **Action Required**: Holders must sell during the resumption window or await automatic termination and payout.  \n\n*Omitted: Legal boilerplate, contact details, general MINI product info.*",
+  "usage": {
+    "prompt_tokens": 805,
+    "completion_tokens": 209,
+    "total_tokens": 1014,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T07:01:25.468318"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "OPH",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963828",
+  "id": "02963828",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1646",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8pc9p9bv2tg.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its text, and I will analyze it per your concise formatting rules\u2014extracting only material capital markets or trading-relevant information.  \n\nExample outputs based on typical ASX announcement types:  \n\n1. **Capital Raising (Placement)**  \n   - Structure: Placement  \n   - Amount: AUD 50M (at AUD 1.20/share, 10% discount to last close)  \n   - Use of funds: Debt reduction (AUD 30M), exploration (AUD 20M)  \n   - Key dates: Ex-date 15 Oct, settlement 20 Oct  \n\n2. **Appendix 4C (Quarterly Cash Flow)**  \n   - Cash burn: AUD 2.1M (prior quarter: AUD 1.8M)  \n   - Closing cash: AUD 12.5M (no debt)  \n   - Milestone: Phase 2 trial enrollment completed  \n\n3. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement  \n\n4. **Acquisition Announcement**  \n   - Target: XYZ Mining (100% for AUD 150M, scrip + cash)  \n   - Funding: AUD 50M placement, AUD 100M debt  \n   - Accretion: EPS +15% in FY24 (pro forma)  \n\n5. **No Material Information Identified**  \n   - Routine director appointment or corporate presentation upload.  \n\nProvide the document, and I\u2019ll distill it accordingly.",
+  "usage": {
+    "prompt_tokens": 240,
+    "completion_tokens": 314,
+    "total_tokens": 554,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T06:59:36.213659"
+}
