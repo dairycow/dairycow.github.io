@@ -7,13 +7,13 @@
   "date": "20250630",
   "time": "1821",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8yf1b0n9y9x.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** or key details from it, and I will extract **only material information** strictly relevant for trading or capital markets decisions, formatted as **concise bullet points** per your requirements.  \n\nIf you share:  \n- **Trading Halt Request** \u2192 I\u2019ll state the reason in one line.  \n- **Capital Raising** \u2192 I\u2019ll note structure, total AUD raised, and key dates.  \n- **Quarterly (4C)** \u2192 Cash balance + key operational/financial highlights.  \n- **Other** \u2192 Only 2-3 points materially impacting valuation, liquidity, or capital structure.  \n\nExample outputs:  \n1. **Trading Halt**: *\"Pending release of capital raising details.\"*  \n2. **Capital Raising**: *\"A$50M placement at A$0.20/share; SPP up to A$10M. Ex-date: 15 Nov, close: 30 Nov.\"*  \n3. **Quarterly (4C)**: *\"Cash A$12.5M; 5,000oz gold sold, all-in cost A$1,200/oz.\"*  \n4. **M&A Announcement**: *\"Acquiring X for A$100M (50% scrip, 50% cash); implies 20% premium to last close.\"*  \n\n**No legal/boilerplate, no director names, no fluff.**  \n\n**Next Steps**: Attach the PDF or paste key text, and I\u2019ll parse it immediately. If unclear, I\u2019ll reply: *\"No material information identified.\"*  \n\nFor personal use only.",
+  "summary": "Understood. Please provide the ASX announcement PDF or specify its type (e.g., Trading Halt, Capital Raising, Quarterly Report, etc.), and I'll extract only the material information in concise bullet points per your guidelines.  \n\nIf the document type is unclear or lacks material details, I'll state: **\"No material information identified.\"**  \n\nExamples of output formats:  \n\n**1. Trading Halt Request:**  \n- Reason: Pending announcement of a capital raising.  \n\n**2. Capital Raising Announcement:**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n- Key dates: Ex-date 15/10/2023; Record 17/10/2023; SPP closes 3/11/2023.  \n\n**3. Quarterly Report (Appendix 4C):**  \n- Cash receipts: AUD 12M (up 25% QoQ).  \n- Cash balance: AUD 20M (vs. AUD 15M prior quarter).  \n- Major milestone: First commercial shipment completed.  \n\n**4. Other Announcement (e.g., M&A, Asset Sale):**  \n- Asset sold: XYZ division for AUD 100M (2x book value).  \n- Proceeds use: AUD 70M debt reduction; balance for growth.  \n\nLet me know the document type or share its content, and I\u2019ll proceed accordingly.",
   "usage": {
     "prompt_tokens": 224,
-    "completion_tokens": 348,
-    "total_tokens": 572,
+    "completion_tokens": 310,
+    "total_tokens": 534,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T08:49:22.747894"
+  "processed_at": "2025-06-30T09:03:26.851389"
 }
