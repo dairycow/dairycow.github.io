@@ -1,0 +1,19 @@
+{
+  "ticker": "ODY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963740",
+  "id": "02963740",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1531",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8h0x7gb3ss3.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, or excerpts), and I will generate a **concise, material-only summary** adhering strictly to your formatting rules.  \n\nExample outputs:  \n- **Trading Halt Request**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"Institutional Placement AUD 50M; SPP AUD 10M. Ex-date: 15 Sep, Record: 18 Sep, Close: 30 Sep.\"  \n- **Quarterly (4C)**: \"Cash balance AUD 12.5M; Q3 revenue up 22% QoQ.\"  \n\nIf no material data is found, I will note: \"No material information identified.\"  \n\nProvide the document or key details to proceed.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 168,
+    "total_tokens": 398,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T05:52:14.319616"
+}
