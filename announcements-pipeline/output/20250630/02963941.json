@@ -7,13 +7,13 @@
   "date": "20250630",
   "time": "1822",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8yh7th9h3g0.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I\u2019ll extract the material information in the requested format\u2014strictly concise, trading-relevant, and tailored to the announcement type.  \n\n**Example Outputs for Reference:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**  \n   - Structure: A$50M placement + A$10M SPP.  \n   - Key dates: Ex-date 15/09, record 18/09, SPP close 30/09.  \n\n3. **Quarterly (4C)**  \n   - Cash balance: A$12.3M (prior quarter: A$15.1M).  \n   - Highlights: Production up 15% QoQ; revenue A$8.2M.  \n\n4. **Other Announcement**  \n   - Major contract signed: A$25M revenue over 3 years.  \n   - FY24 guidance upgraded: EBITDA now A$40M\u2013A$45M (prior A$35M\u2013A$40M).  \n\n**No material information identified** will be returned if irrelevant.  \n\nPlease share the document/text to proceed.",
+  "summary": "Understood. Please provide the ASX announcement PDF, and I will extract **only** the material trading or capital markets information in the strictest possible concise format.  \n\n**Response will follow this structure:**  \n\n- *If Trading Halt Request:*  \n  **\u2022** *Reason for halt*  \n\n- *If Capital Raising (Placement/SPP/Entitlement Offer etc.):*  \n  **\u2022** *Type*  \n  **\u2022** *Amount raised (AUD)*  \n  **\u2022** *Key dates (ex-date, record date, close date if applicable)*  \n\n- *If Quarterly (Appendix 4C):*  \n  **\u2022** *Key operational/financial highlights*  \n  **\u2022** *Closing cash balance (AUD)*  \n\n- *Other Announcements:*  \n  **\u2022** *Point 1 (material to valuation/liquidity/capital structure)*  \n  **\u2022** *Point 2 (if critical)*  \n\n**No filler, no repetition, no commentary.** If unclear or immaterial, I'll note: *No material information identified*.  \n\nGo ahead and share the document.",
   "usage": {
     "prompt_tokens": 220,
-    "completion_tokens": 263,
-    "total_tokens": 483,
+    "completion_tokens": 234,
+    "total_tokens": 454,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T08:48:44.424415"
+  "processed_at": "2025-06-30T09:03:02.873471"
 }
