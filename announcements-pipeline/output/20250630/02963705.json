@@ -1,0 +1,19 @@
+{
+  "ticker": "OPH",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963705",
+  "id": "02963705",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1439",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dcbkvq3fpx.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its key details), and I will extract **only material information relevant for trading or capital markets decisions** in the strict format you\u2019ve requested.  \n\nExample outputs:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement of a capital raising.  \n\n**2. Capital Raising Announcement**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 45M; SPP: AUD 5M cap).  \n- Key dates: Ex-date 15/05, Record 16/05, Close 30/05.  \n\n**3. Appendix 4C (Quarterly Report)**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Quarterly cash burn: AUD 2.7M.  \n- Milestone: Phase 2 trial enrollment completed.  \n\n**4. Other Announcement (e.g., M&A, Asset Sale)**  \n- Sale of non-core asset for AUD 20M (expected completion Q4).  \n- Net debt reduced to AUD 10M (from AUD 30M).  \n\n**5. No Material Information Identified**  \n\nSubmit the document, and I\u2019ll parse it accordingly.",
+  "usage": {
+    "prompt_tokens": 238,
+    "completion_tokens": 271,
+    "total_tokens": 509,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T04:48:04.557565"
+}
