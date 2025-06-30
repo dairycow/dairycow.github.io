@@ -1,0 +1,19 @@
+{
+  "ticker": "AET",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963938",
+  "id": "02963938",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1821",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8y8wdb5mbjv.pdf",
+  "summary": "Understood. Please provide:  \n- The **PDF announcement** (or paste its key text).  \n- Specify if you know the **announcement type** (e.g., capital raising, quarterly, M&A).  \n\nI\u2019ll respond with a strictly formatted summary based on your rules: **bullet-pointed, 1-3 lines max per point, omitting all non-material details**.  \n\n*Example Outputs:*  \n\n**Trading Halt Request:**  \n- Halt requested pending announcement of capital raising.  \n\n**Capital Raising (Placement + SPP):**  \n- AUD 50M placement at $0.20/share (10% discount to last close).  \n- SPP open 15 Mar, max AUD 30K/retail shareholder.  \n- Ex-date: 10 Mar; Record: 11 Mar.  \n\n**Quarterly (4C):**  \n- Cash balance AUD 2.1M (prior: AUD 3.4M).  \n- Quarterly burn AUD 1.3M; milestones missed.  \n\n**Other (M&A):**  \n- Acquiring [Target] for AUD 75M scrip (30% dilution).  \n- Expected EPS accretive in FY25.  \n\n**No material information identified.**  \n\n*(Provide the document/text, and I\u2019ll adhere strictly to this format.)*",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 279,
+    "total_tokens": 499,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T08:47:54.696127"
+}

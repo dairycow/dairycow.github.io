@@ -1,0 +1,19 @@
+{
+  "ticker": "AET",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963940",
+  "id": "02963940",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1821",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8yf1b0n9y9x.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or key details from it, and I will extract **only material information** strictly relevant for trading or capital markets decisions, formatted as **concise bullet points** per your requirements.  \n\nIf you share:  \n- **Trading Halt Request** \u2192 I\u2019ll state the reason in one line.  \n- **Capital Raising** \u2192 I\u2019ll note structure, total AUD raised, and key dates.  \n- **Quarterly (4C)** \u2192 Cash balance + key operational/financial highlights.  \n- **Other** \u2192 Only 2-3 points materially impacting valuation, liquidity, or capital structure.  \n\nExample outputs:  \n1. **Trading Halt**: *\"Pending release of capital raising details.\"*  \n2. **Capital Raising**: *\"A$50M placement at A$0.20/share; SPP up to A$10M. Ex-date: 15 Nov, close: 30 Nov.\"*  \n3. **Quarterly (4C)**: *\"Cash A$12.5M; 5,000oz gold sold, all-in cost A$1,200/oz.\"*  \n4. **M&A Announcement**: *\"Acquiring X for A$100M (50% scrip, 50% cash); implies 20% premium to last close.\"*  \n\n**No legal/boilerplate, no director names, no fluff.**  \n\n**Next Steps**: Attach the PDF or paste key text, and I\u2019ll parse it immediately. If unclear, I\u2019ll reply: *\"No material information identified.\"*  \n\nFor personal use only.",
+  "usage": {
+    "prompt_tokens": 224,
+    "completion_tokens": 348,
+    "total_tokens": 572,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T08:49:22.747894"
+}
