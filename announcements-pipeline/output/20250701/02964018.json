@@ -7,13 +7,13 @@
   "date": "20250701",
   "time": "0730",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98wrcx6pw71.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** you'd like analyzed, and I will extract only the material information relevant for trading or capital markets decisions, formatted as strictly concise bullet points according to your specified guidelines.  \n\n**Examples of expected outputs based on your criteria:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material acquisition announcement.  \n\n2. **Capital Raising Announcement**  \n   - *Type*: Placement + SPP  \n   - *Amount*: $50M (Placement $40M, SPP $10M)  \n   - *Key Dates*: Ex-date \u2013 15/04/2024, SPP Close \u2013 30/04/2024  \n\n3. **Appendix 4C (Quarterly Report)**  \n   - *Cash Balance*: $12.5M (QoQ -$2.1M)  \n   - *Key Highlights*: Revenue $8.2M (+15% QoQ), net operating cash outflow $1.4M  \n\n4. **Other Material Announcement**  \n   - *Key Points*:  \n     \u2022 Major asset sale for $75M (30% premium to book).  \n     \u2022 CEO resignation effective immediately, no succession plan disclosed.  \n\n**Note:** If the document lacks material trading or capital markets information, I will reply with:  \n- *No material information identified*.  \n\nPlease share the PDF or key details from the announcement, and I will parse it accordingly.",
+  "summary": "Understood. Please upload or paste the ASX announcement PDF text, and I will provide a concise, material-only summary based on its type and content.  \n\nIf you cannot share the full document, specify the announcement type (e.g., Trading Halt, Capital Raising, Quarterly) and I\u2019ll adapt the template accordingly.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending announcement of a material capital raising.  \n\n2. **Capital Raising Announcement**  \n   - Structure: AUD 50M Placement + AUD 10M SPP.  \n   - Key Dates: Ex-date (DD/MM), Record (DD/MM), Close (DD/MM).  \n\n3. **Quarterly Report (4C)**  \n   - Cash Balance: AUD 15.2M (prior: AUD 18.1M).  \n   - Key Highlight: Quarterly revenue up 12% QoQ to AUD 5.3M.  \n\n4. **Other Announcement**  \n   - Major Asset Sale: AUD 100M divestment of [X] division.  \n   - Debt Facility: New AUD 75M secured loan at 6% margin.  \n\nAwaiting your input.",
   "usage": {
-    "prompt_tokens": 220,
-    "completion_tokens": 316,
-    "total_tokens": 536,
+    "prompt_tokens": 218,
+    "completion_tokens": 259,
+    "total_tokens": 477,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T21:59:29.984888"
+  "processed_at": "2025-06-30T22:17:06.035566"
 }
