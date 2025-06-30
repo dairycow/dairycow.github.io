@@ -7,13 +7,13 @@
   "date": "20250701",
   "time": "0730",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06l98wrcx6pw71.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or paste its key contents, and I will extract **only material trading or capital markets information** in concise bullet points, adhering strictly to your rules.  \n\nExample outputs based on common announcement types:  \n\n**Trading Halt Request:**  \n- *Reason*: Pending announcement of capital raising.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- *Structure*: $50M placement (institutional) + $10M SPP.  \n- *Use of funds*: Debt reduction (60%), exploration (40%).  \n- *Key dates*: Ex-date 15/03, SPP close 05/04.  \n\n**Appendix 4C (Quarterly):**  \n- *Cash balance*: $12.5M (Q-end).  \n- *Cash burn*: $2.1M (quarter), down 15% QoQ.  \n- *Milestone*: Phase 2 trials commenced.  \n\n**Other Material Announcement:**  \n- *Acquisition*: 100% of Asset X for $30M scrip (10% dilution).  \n- *Condition*: Shareholder approval required.  \n\nIf the document is irrelevant (e.g., director resignation without impact), I will state:  \n- *No material information identified*.  \n\nReady to review your file.",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will analyze it strictly based on your guidelines, extracting only material information relevant for trading or capital markets decisions. \n\nExample output formats based on your criteria:  \n\n**Trading Halt Request**  \n- *Reason*: Pending announcement of a capital raising.  \n\n**Capital Raising Announcement**  \n- *Type*: Institutional Placement + SPP.  \n- *Amount*: AUD $50M (Placement) + AUD $10M (SPP cap).  \n- *Key Dates*: Ex-date (DD/MM), Record date (DD/MM), SPP close (DD/MM).  \n\n**Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD $15M (vs. AUD $20M prior quarter).  \n- *Highlights*: Production up 10% QoQ; costs down 5%.  \n\n**Other Announcement (e.g., M&A, Asset Sale)**  \n- *Acquisition*: Target Co. for AUD $100M (100% scrip).  \n- *Conditions*: FIRB approval required.  \n\nIf no material details, I will reply:  \n- *No material information identified*.  \n\nReady to proceed\u2014please share the announcement text.",
   "usage": {
     "prompt_tokens": 218,
-    "completion_tokens": 284,
-    "total_tokens": 502,
+    "completion_tokens": 272,
+    "total_tokens": 490,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T21:31:59.645878"
+  "processed_at": "2025-06-30T21:42:12.737083"
 }
