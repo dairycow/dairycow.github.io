@@ -1,0 +1,19 @@
+{
+  "ticker": "IFN",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963810",
+  "id": "02963810",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1637",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8n3jbc1pjgj.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its text, and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points following your strict guidelines.  \n\nIf the document is not provided, here\u2019s a generic response:  \n\n*\"No material information identified.\"*  \n\nOtherwise, submit the document, and I\u2019ll analyze it per your criteria. Example outputs:  \n\n---  \n### **Example 1: Capital Raising Announcement**  \n- **Structure:** 1-for-5 non-renounceable entitlement offer  \n- **Amount:** AUD 50M (at AUD 0.25/share)  \n- **Key Dates:** Ex-date: 15/05/24, Record: 17/05/24, Close: 30/05/24  \n\n### **Example 2: Trading Halt Request**  \n- **Reason:** Pending material acquisition announcement  \n\n### **Example 3: Quarterly (Appendix 4C)**  \n- **Cash Balance (AUD):** 12.3M (vs. 15.5M prev quarter)  \n- **Key Highlight:** Revenue up 22% QoQ; cash burn reduced to AUD 1.1M/month  \n\n---  \nAttach the PDF/text, and I\u2019ll proceed.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 273,
+    "total_tokens": 503,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T06:42:26.297431"
+}

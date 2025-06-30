@@ -1,5 +1,537 @@
 [
   {
+    "ticker": "DRO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963811",
+    "id": "02963811",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1638",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8n5p6vnm0yc.pdf",
+    "summary": "<h3><strong>Substantial Holder Notice \u2013 DroneShield Ltd (DRO)</strong></h3>\n<ul>\n<li><strong>Substantial Holder</strong>: Regal Funds Management Pty Limited and associates  </li>\n<li><strong>Total Holdings</strong>:  </li>\n<li>Previous Notice (20-Jun-2025): <strong>68,331,181 shares (7.81%)</strong>  </li>\n<li>Current Notice (26-Jun-2025): <strong>55,174,842 shares (6.31%)</strong>  </li>\n<li><strong>Net Change</strong>: <strong>13,156,339 shares sold (reducing stake by ~1.5%)</strong>  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>Sales</strong>: Aggregate ~10.7M shares sold on 25-26 June at undisclosed prices.  </li>\n<li><strong>Purchases</strong>: Minor buys (~1.63M shares) offset by larger disposals.  </li>\n<li><strong>Derivatives Disclosure</strong>:  </li>\n<li>Holds <strong>4,576,001 cash-settled equity swaps (0.52%)</strong> as of 26-Jun-2025.  </li>\n</ul>\n<h4><strong>Material Implications</strong>:</h4>\n<ol>\n<li><strong>Reduction in Institutional Ownership</strong>: Regal\u2019s stake decreased from 7.81% to 6.31%, indicating potential loss of confidence or portfolio rebalancing.  </li>\n<li><strong>Liquidity Impact</strong>: Large sales (13.2M shares) may create short-term selling pressure.  </li>\n<li><strong>Derivative Exposure</strong>: Equity swaps suggest ongoing synthetic exposure to ~0.5% of outstanding shares.  </li>\n</ol>\n<p><em>Note: No capital structure or control implications identified; operational/financial metrics unaffected.</em></p>",
+    "usage": {
+      "prompt_tokens": 2389,
+      "completion_tokens": 321,
+      "total_tokens": 2710,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:57.748995"
+  },
+  {
+    "ticker": "IFN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963810",
+    "id": "02963810",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1637",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8n3jbc1pjgj.pdf",
+    "summary": "<p>Understood. Please provide the ASX announcement PDF or its text, and I will extract <strong>only</strong> the material information relevant for trading or capital markets decisions, formatted as concise bullet points following your strict guidelines.  </p>\n<p>If the document is not provided, here\u2019s a generic response:  </p>\n<p><em>\"No material information identified.\"</em>  </p>\n<p>Otherwise, submit the document, and I\u2019ll analyze it per your criteria. Example outputs:  </p>\n<hr />\n<h3><strong>Example 1: Capital Raising Announcement</strong></h3>\n<ul>\n<li><strong>Structure:</strong> 1-for-5 non-renounceable entitlement offer  </li>\n<li><strong>Amount:</strong> AUD 50M (at AUD 0.25/share)  </li>\n<li><strong>Key Dates:</strong> Ex-date: 15/05/24, Record: 17/05/24, Close: 30/05/24  </li>\n</ul>\n<h3><strong>Example 2: Trading Halt Request</strong></h3>\n<ul>\n<li><strong>Reason:</strong> Pending material acquisition announcement  </li>\n</ul>\n<h3><strong>Example 3: Quarterly (Appendix 4C)</strong></h3>\n<ul>\n<li><strong>Cash Balance (AUD):</strong> 12.3M (vs. 15.5M prev quarter)  </li>\n<li><strong>Key Highlight:</strong> Revenue up 22% QoQ; cash burn reduced to AUD 1.1M/month  </li>\n</ul>\n<hr />\n<p>Attach the PDF/text, and I\u2019ll proceed.</p>",
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 273,
+      "total_tokens": 503,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:26.297431"
+  },
+  {
+    "ticker": "NVX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963809",
+    "id": "02963809",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1637",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8n1cfvn80n0.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 66,896 fully paid ordinary shares (NVX) issued upon conversion of performance rights (NVXAD).  </li>\n<li><strong>Issue Date</strong>: 30 June 2025.  </li>\n<li><strong>Consideration</strong>: Non-cash (vesting of employee performance rights). Estimated value: $0.38 per share.  </li>\n<li><strong>Key Management Involvement</strong>: 37,500 shares issued to KMP Rashda Buttar.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Quoted ordinary shares (NVX): 636,199,259.  </li>\n<li>Unquoted performance rights (NVXAD): 29,358,369.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine employee incentive scheme conversion).  </p>\n<p><em>(Omitted: Legal boilerplate, non-material convertible securities breakdown, and duplicate page references.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1573,
+      "completion_tokens": 201,
+      "total_tokens": 1774,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:41:58.078242"
+  },
+  {
+    "ticker": "IFN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963807",
+    "id": "02963807",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1636",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mx1480zwx9.pdf",
+    "summary": "<p><strong>No material information identified.</strong>  </p>\n<p>(The provided text appears to be placeholder/generic without any substantive content relevant to trading or capital markets decisions.)</p>",
+    "usage": {
+      "prompt_tokens": 239,
+      "completion_tokens": 30,
+      "total_tokens": 269,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:31.086992"
+  },
+  {
+    "ticker": "AUN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963808",
+    "id": "02963808",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1636",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mz3w885699.pdf",
+    "summary": "<ul>\n<li><strong>Cleansing Notice</strong>: Aurumin Limited (ASX: AUN) issued 2,000,000 shares from option exercises, with on-sale exemption under section 708A(5).  </li>\n<li><strong>Key Compliance</strong>: Confirms adherence to Chapter 2M (financial reporting) and continuous disclosure rules (s674/674A).  </li>\n<li><strong>No Material Omissions</strong>: No undisclosed information impacting investor assessment of financials or share rights.  </li>\n</ul>\n<p><em>No further material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 595,
+      "completion_tokens": 106,
+      "total_tokens": 701,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:40:53.721715"
+  },
+  {
+    "ticker": "KAT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963806",
+    "id": "02963806",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1635",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mts0mkqp6t.pdf",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Shares Bought Back (Cumulative)</strong>: 668,285  </li>\n<li><strong>Shares Bought Back (Previous Day)</strong>: 25,000  </li>\n<li><strong>Buy-back Period</strong>: 2 Jan 2025 \u2013 31 Dec 2025  </li>\n<li><strong>Maximum Buy-back Capacity</strong>: 3,142,313 shares (10% of issued capital)  </li>\n<li><strong>Remaining Buy-back Capacity</strong>: 2,449,028 shares<br />\n Floating VC</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 1498,
+      "completion_tokens": 106,
+      "total_tokens": 1604,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:41:06.715318"
+  },
+  {
+    "ticker": "AUN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963805",
+    "id": "02963805",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1634",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mrl1zlmj13.pdf",
+    "summary": "<ul>\n<li><strong>Type of Issue</strong>: Exercise of options (AUNAY) into ordinary shares (AUN)  </li>\n<li><strong>Securities Issued</strong>: 2,000,000 new ordinary shares (AUN)  </li>\n<li><strong>Exercise Price</strong>: AUD 0.06 per share  </li>\n<li><strong>Issue Date</strong>: 30 June 2025  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Total ordinary shares (AUN) on issue: 496,260,144  </li>\n<li>Unquoted options outstanding: Various tranches totaling ~142M options (see codes AUNAW, AUNAY, etc.)  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1617,
+      "completion_tokens": 138,
+      "total_tokens": 1755,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:41:42.245496"
+  },
+  {
+    "ticker": "DAC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963804",
+    "id": "02963804",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1633",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mp8b41cd3f.pdf",
+    "summary": "<h3><strong>Final Distribution Announcement Summary</strong></h3>\n<ul>\n<li><strong>ASX Tickers &amp; Distributions (cents per unit):</strong>  </li>\n<li><strong>DACE:</strong> 7.234423  </li>\n<li>\n<p><strong>DAVA:</strong> 70.240358  </p>\n</li>\n<li>\n<p><strong>Key Dates:</strong>  </p>\n</li>\n<li><strong>Ex-Distribution Date:</strong> 01 July 2025  </li>\n<li><strong>Record Date:</strong> 02 July 2025  </li>\n<li>\n<p><strong>Payment Date:</strong> 16 July 2025  </p>\n</li>\n<li>\n<p><strong>Distribution Reinvestment Plan (DRP):</strong> Available for both funds (details provided via issuer\u2019s website).  </p>\n</li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1000,
+      "completion_tokens": 130,
+      "total_tokens": 1130,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:41:32.533948"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963803",
+    "id": "02963803",
+    "pages": 10,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1632",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mm2d78br3z.pdf",
+    "summary": "<h3>Summary: CitiFirst Instalment MINIs Pricing Update</h3>\n<ul>\n<li><strong>Product Type</strong>: Instalment MINIs (leveraged equity derivatives)  </li>\n<li><strong>Interest Rate</strong>: 8.30% p.a. (effective 01-Jul-25)  </li>\n<li><strong>Key Features</strong>:  </li>\n<li><strong>Gearing</strong>: Typically ranges from 20% to 80% (e.g., A2MJOB at 42.33%, ANZJOB at 79.30%).  </li>\n<li><strong>Stop Loss Trigger</strong>: % drop from current price (e.g., A2MJOB stops at 49.19% below current price).  </li>\n<li><strong>Dividend Treatment</strong>: Most pay dividends to investors; some pay down loan (e.g., ANZSO1).  </li>\n<li><strong>Expiry Dates</strong>: Vary by tranche (e.g., May 2026 to 2035).  </li>\n</ul>\n<p><strong>Material Data Examples</strong>:<br />\n- <strong>BHPJOA</strong>: Gearing 68.46%, stop loss 21.28% below current price, expires 21-Jan-2032.<br />\n- <strong>CSLJOF</strong>: Gearing 83.58%, stop loss just 3.88% below current price, expires 26-May-2026.<br />\n- <strong>RIOJOD</strong>: High gearing (80.93%) with 6.93% buffer to stop loss, indicative yield 30.52%.  </p>\n<p><strong>Purpose</strong>: Provides leveraged exposure to ASX-listed equities/ETFs with defined risk (stop loss) and upfront cost (first instalment).  </p>\n<p><strong>Note</strong>: No capital raising, trading halt, or operational updates. Purely pricing terms for existing leveraged products.  </p>\n<p><strong>Rule Applied</strong>: \"Other Announcement Type\" \u2013 focused on leverage ratios, stop triggers, and expiry terms impacting valuation/risk.</p>",
+    "usage": {
+      "prompt_tokens": 23365,
+      "completion_tokens": 377,
+      "total_tokens": 23742,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:10.384325"
+  },
+  {
+    "ticker": "ECT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963802",
+    "id": "02963802",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1632",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mjykh7q5bv.pdf",
+    "summary": "<p><strong>Cleansing Notice (Employee Share Issuance):</strong><br />\n- <strong>8,666,680 shares</strong> issued to employees via salary sacrifice (30 June 2025).<br />\n- <strong>Potential M&amp;A activity:</strong> Early-stage negotiations for acquisition of a complementary entity (no binding terms yet).  </p>\n<p><em>Omitted: Legal boilerplate, general compliance statements.</em></p>",
+    "usage": {
+      "prompt_tokens": 749,
+      "completion_tokens": 73,
+      "total_tokens": 822,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:33.357589"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963801",
+    "id": "02963801",
+    "pages": 35,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1632",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mgvbsqmpnn.pdf",
+    "summary": "<p>This document appears to be a product list of CitiFirst MINIs (structured equity derivative products) issued by Citigroup, effective 01-Jul-25. Below is a ruthlessly concise extraction of material information for trading/capital markets decisions:</p>\n<h3>Key Takeaways:</h3>\n<ol>\n<li><strong>Product Type</strong>: </li>\n<li>Lists single stock MINIs (long/short), index MINIs (AU/international), currency MINIs, and commodity MINIs.</li>\n<li>\n<p>Products are leveraged instruments with defined stop-loss trigger levels.</p>\n</li>\n<li>\n<p><strong>Leverage &amp; Risk Metrics</strong>:</p>\n</li>\n<li>Gearing ranges from 0.63% to 97.85%, indicating varying degrees of leverage.</li>\n<li>\n<p>Stop-loss trigger levels are typically set at 80-120% of the strike price for long MINIs and 70-90% for short MINIs.</p>\n</li>\n<li>\n<p><strong>Notable Underlyings</strong>:</p>\n</li>\n<li>Single stocks: BHP, CSL, RIO, Macquarie Group, Commonwealth Bank, etc.</li>\n<li>Indices: S&amp;P/ASX 200, Nasdaq-100, S&amp;P 500, Nikkei 225.</li>\n<li>\n<p>Commodities: Gold, Silver, Copper, Crude Oil.</p>\n</li>\n<li>\n<p><strong>Risk Disclosure</strong>:</p>\n</li>\n<li>Standard variable interest rates: <ul>\n<li>MINI Longs: 8.45% p.a.</li>\n<li>MINI Shorts: -0.15% p.a.</li>\n<li>Index MINIs: 4.85% p.a.</li>\n</ul>\n</li>\n<li>\n<p>Emphasizes risks of leverage, market volatility, and need for independent advice.</p>\n</li>\n<li>\n<p><strong>No Material Corporate Actions</strong>:</p>\n</li>\n<li>No capital raising, trading halts, or operational updates identified.</li>\n<li>Purely a product listing for derivative trading.</li>\n</ol>\n<h3>Omitted:</h3>\n<ul>\n<li>Boilerplate disclaimers, legal text, and non-trading related details.</li>\n<li>Specific operational or financial updates (none present in document). </li>\n</ul>\n<h3>Verdict:</h3>\n<p>This is a derivative product catalogue, not a corporate announcement. Traders should focus on gearing, strike/stop levels, and underlying assets. Investors must assess leverage risks.  </p>\n<p><strong>No material corporate information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 56296,
+      "completion_tokens": 444,
+      "total_tokens": 56740,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:45:18.375633"
+  },
+  {
+    "ticker": "LNQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963800",
+    "id": "02963800",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1631",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mdr0ywwytw.pdf",
+    "summary": "<p><strong>Substantial Holder Notice - Key Points:</strong>  </p>\n<ul>\n<li><strong>Woodcross Holdings Pty Ltd</strong> became a substantial holder in <strong>LinQ Minerals Limited</strong> (ASX: <strong>Not provided</strong>) on <strong>9 February 2023</strong>.  </li>\n<li><strong>Holdings:</strong> 84,074,478 fully paid ordinary shares (<strong>47.84% voting power</strong>).  </li>\n<li><strong>Recent Acquisitions (Annexure A):</strong>  </li>\n<li><strong>20 June 2025:</strong> Bought 2.5m shares for $500,000 (cost: <strong>$0.20/share</strong>).  </li>\n<li>Other historical purchases detailed (e.g., 60m shares bought for $900k on 26 June 2024 at <strong>$0.015/share</strong>).  </li>\n</ul>\n<p><strong>Material Impact:</strong><br />\n- Majority stake (47.84%) indicates significant control; recent purchases suggest ongoing accumulation (price trend: ~$0.015\u2013$0.20/share).  </p>\n<p><em>Omitted: Director details, addresses, boilerplate.</em></p>",
+    "usage": {
+      "prompt_tokens": 1877,
+      "completion_tokens": 208,
+      "total_tokens": 2085,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:47.748741"
+  },
+  {
+    "ticker": "MFF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963798",
+    "id": "02963798",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1627",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8m7p2k5j6ts.pdf",
+    "summary": "<ul>\n<li><strong>Weekly NTA Update (as at 27 June 2025):</strong>  </li>\n<li>Pre-tax NTA per share: <strong>$5.002</strong> (30 June 2024: $4.284).  </li>\n<li>Post-tax NTA per share: <strong>$4.151</strong>.  </li>\n<li>Net cash as % of investment assets: <strong>6.4%</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 431,
+      "completion_tokens": 87,
+      "total_tokens": 518,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:29.422061"
+  },
+  {
+    "ticker": "ECT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963799",
+    "id": "02963799",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1627",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8m9swlvmmx1.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 8,666,680 new ECT ordinary shares issued under an employee incentive scheme (Salary Sacrifice Share Plan).  </li>\n<li><strong>Issue Price</strong>: AUD 0.001 per share (50% discount to VWAP from 1 May to 30 June 2025).  </li>\n<li><strong>Ranking</strong>: Shares will rank equally with existing ordinary shares from issue date (30/06/2025).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue: 4,015,435,416 (+ unquoted options/convertible notes detailed in Part 4.2).  </li>\n<li><strong>Approval</strong>: Issued under Listing Rule 7.2 exception (no shareholder approval required).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond dilution from issuance.</em></p>",
+    "usage": {
+      "prompt_tokens": 1792,
+      "completion_tokens": 168,
+      "total_tokens": 1960,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:40.468441"
+  },
+  {
+    "ticker": "EMU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963796",
+    "id": "02963796",
+    "pages": 10,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8m3fh9qtv22.pdf",
+    "summary": "<ul>\n<li><strong>Material Information Identified</strong>:  </li>\n<li><strong>Unacceptable Circumstances Declaration</strong>: Takeovers Panel declared actions by Emu NL's directors regarding a share placement and EGM conduct as unacceptable, affecting control and voting integrity.  </li>\n<li><strong>Capital Raising</strong>: On 14 May 2025, Emu issued 17,647,057 shares (~8.35% dilution) at $0.017/share ($300k total), timed with an EGM.  </li>\n<li><strong>Governance Issues</strong>:  <ul>\n<li>Placement shares issued to four investors on EGM day, potentially influencing vote outcomes.  </li>\n<li>Proxy forms were biased (pre-populated \"AGAINST\" resolutions), disadvantaging shareholders.  </li>\n<li>Record date confusion and delayed disclosures undermined market confidence.  </li>\n</ul>\n</li>\n<li><strong>Regulatory Breaches</strong>:  <ul>\n<li>Northmead Holdings failed to lodge a substantial holder notice on time.  </li>\n<li>Emu contravened interim orders by delaying proxy disclosures.  </li>\n</ul>\n</li>\n</ul>\n<p><em>Omitted: Procedural details, director names, legal references.</em></p>",
+    "usage": {
+      "prompt_tokens": 4986,
+      "completion_tokens": 214,
+      "total_tokens": 5200,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:45:31.489466"
+  },
+  {
+    "ticker": "SPR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963797",
+    "id": "02963797",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8m5k918bxpn.pdf",
+    "summary": "<h3><strong>Material Information Summary (Form 605: Ceasing to be a Substantial Holder)</strong></h3>\n<ul>\n<li><strong>Entity Ceasing as Substantial Holder</strong>: State Street Corporation and subsidiaries (State Street Global Advisors entities).  </li>\n<li><strong>Date of Cessation</strong>: 26 June 2025.  </li>\n<li><strong>Key Changes in Holdings</strong>:  </li>\n<li>Net reduction in ordinary shares via collateral transfers, stock borrows, and pledges (detailed in Annexure A).  </li>\n<li>Largest single net reduction: <strong>443,996 ordinary shares</strong> (offset by an equivalent increase\u2014likely internal restructuring).  </li>\n<li><strong>Voting Rights</strong>:  </li>\n<li>No active voting rights during stock borrow/pledge arrangements unless default occurs.  </li>\n</ul>\n<p><em>No material liquidity or capital structure impacts identified. Routine disclosure for institutional ownership changes.</em></p>",
+    "usage": {
+      "prompt_tokens": 5583,
+      "completion_tokens": 162,
+      "total_tokens": 5745,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:37.857972"
+  },
+  {
+    "ticker": "VEE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963795",
+    "id": "02963795",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8m19nkmjsb8.pdf",
+    "summary": "<p><strong>Summary:</strong>  </p>\n<ul>\n<li><strong>Resignation of Joint Company Secretary</strong>: Mr David Rich resigns as Joint Company Secretary, effective 30 June 2025.  </li>\n<li><strong>Ongoing Company Secretary</strong>: Mr Tino Kapfumo remains sole Company Secretary and primary ASX contact.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 440,
+      "completion_tokens": 69,
+      "total_tokens": 509,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:29.742454"
+  },
+  {
+    "ticker": "ECT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963794",
+    "id": "02963794",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1626",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lz7ggnqlfj.pdf",
+    "summary": "<ul>\n<li><strong>Type:</strong> Director Options Issuance  </li>\n<li><strong>Details:</strong>  </li>\n<li>15M options issued to Non-Executive Director (or nominee)  </li>\n<li>Exercise price: $0.004  </li>\n<li>Expiry: 3 years from issue date  </li>\n<li>Vesting condition: 20-day VWAP \u2265 $0.008  </li>\n<li>Subject to shareholder approval  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 87,
+      "total_tokens": 571,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:45:41.312509"
+  },
+  {
+    "ticker": "SSM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963793",
+    "id": "02963793",
+    "pages": 47,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1624",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lwqwvjd9mc.pdf",
+    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Substantial Holder Notice:</strong> State Street Global Advisors Trust Company became a substantial holder in <strong>Service Stream Limited</strong> on <strong>26/06/2025</strong>.  </li>\n<li><strong>Total Voting Power:</strong> <strong>5.49%</strong> (33,811,900 ordinary shares).  </li>\n<li><strong>Key Subsidiaries Involved:</strong>  </li>\n<li>State Street Bank and Trust Company  </li>\n<li>SSGA Funds Management, Inc.  </li>\n<li>State Street Global Advisors, Australia, Limited  </li>\n<li>The Barclays Group  </li>\n<li>The UBS Group  </li>\n</ul>\n<p><strong>Relevant Interests:</strong><br />\n- Acquired through <strong>securities lending arrangements</strong> (collateral rights) and <strong>investment management authority</strong>.  </p>\n<p><strong>Notable Changes in Holdings:</strong><br />\n- Multiple trades between <strong>February 2025 to June 2025</strong> (detailed in Annexure A), including net increases/decreases in holdings.  </p>\n<p><strong>Voting Power Breakdown:</strong><br />\n- <strong>State Street Global Advisors Trust Company</strong> holds the largest portion of the voting interests.  </p>\n<p><strong>No other material trading or capital structure impacts identified.</strong>  </p>\n<p><strong>Conciseness Note:</strong> Omitted granular trade details (400+ lines) as they do not materially alter the 5.49% holding disclosure.  </p>\n<hr />\n<p><em>Format adheres to ECM analyst standards\u2014direct, numeric, and actionable.</em></p>",
+    "usage": {
+      "prompt_tokens": 69240,
+      "completion_tokens": 274,
+      "total_tokens": 69514,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:43:31.025895"
+  },
+  {
+    "ticker": "CXZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963792",
+    "id": "02963792",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1623",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8ltkxn9xzf8.pdf",
+    "summary": "<p><strong>Summary of Appendix 3H - Notification of cessation of securities:</strong>  </p>\n<ul>\n<li><strong>Securities ceased:</strong> 6,948,108 CXZ ordinary fully paid shares  </li>\n<li><strong>Reason:</strong> Cancellation pursuant to an on-market buy-back  </li>\n<li><strong>Date of cessation:</strong> 30/06/2025  </li>\n<li><strong>Remaining issued capital:</strong>  </li>\n<li>Quoted ordinary shares (CXZ): 804,091,382  </li>\n<li>Unquoted performance rights (CXZAE): 19,194,612  </li>\n</ul>\n<p>No material trading or capital markets impact beyond share count adjustment.</p>",
+    "usage": {
+      "prompt_tokens": 992,
+      "completion_tokens": 119,
+      "total_tokens": 1111,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:12.242272"
+  },
+  {
+    "ticker": "OMA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963791",
+    "id": "02963791",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1622",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lr8qrdpyqk.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 1,600,000 unquoted performance rights (OMAAI) issued to key management personnel (Milton Cooper) under an employee incentive scheme.  </li>\n<li><strong>Vesting Terms</strong>:  </li>\n<li>600,000 rights vesting 30-Jun-25 (FY25, $0.33 VWAP);  </li>\n<li>500,000 rights vesting 30-Jun-26 (FY26, $0.60 VWAP);  </li>\n<li>500,000 rights vesting 01-Nov-26 (FY26, $0.60 VWAP).  </li>\n<li><strong>Capital Structure Impact</strong>: Total unquoted performance rights outstanding now 6,600,000 (OMAAI).  </li>\n<li><strong>Approval</strong>: Issued under 15% placement capacity (no shareholder approval required).  </li>\n</ul>\n<p><em>Omitted: Non-material details on other security classes, standard legal disclosures.</em></p>",
+    "usage": {
+      "prompt_tokens": 1820,
+      "completion_tokens": 191,
+      "total_tokens": 2011,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:42:08.699265"
+  },
+  {
+    "ticker": "MND",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963790",
+    "id": "02963790",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lp2swhmpfl.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: State Street Corporation and its subsidiaries ceased to be substantial holders in Monadelphous Group Limited on 26/06/2025.  </li>\n<li><strong>Key Change</strong>: Net reduction of 223,051 ordinary shares (voting rights) by State Street Bank and Trust Company due to collateral transfers and securities lending arrangements.  </li>\n<li><strong>Securities Lending</strong>: Relevant interests arose from a Global Master Securities Lending Agreement, with no scheduled return dates and standard recall/return rights. Voting rights restricted if borrower defaults.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2934,
+      "completion_tokens": 119,
+      "total_tokens": 3053,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:41:23.779429"
+  },
+  {
+    "ticker": "CUP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963789",
+    "id": "02963789",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lm13kpr57z.pdf",
+    "summary": "<p>No material information identified. </p>\n<p>(Explanation: This is a standard Appendix 3Y disclosure of a director's share transaction, which does not materially impact valuation, liquidity, or capital structure. No trading or capital markets decisions would typically be based on such routine director interest changes.)</p>",
+    "usage": {
+      "prompt_tokens": 975,
+      "completion_tokens": 56,
+      "total_tokens": 1031,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:34.648371"
+  },
+  {
+    "ticker": "BML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963788",
+    "id": "02963788",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1619",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8ljllznb1h0.pdf",
+    "summary": "<p>No material information identified (Director's shareholding update only).  </p>\n<p>Key points:<br />\n- <strong>Director Simon Noon acquired 150,000 ordinary shares</strong> on-market at <strong>$0.15/share</strong> (total $22,500) on <strong>26 June 2025</strong>.<br />\n- Post-transaction holdings: <strong>Direct (174,197 shares) + Indirect (2,759,590 shares)</strong>.<br />\n- No change to performance rights or closed period breaches noted.</p>",
+    "usage": {
+      "prompt_tokens": 1212,
+      "completion_tokens": 96,
+      "total_tokens": 1308,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:45:48.508543"
+  },
+  {
+    "ticker": "PCX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963787",
+    "id": "02963787",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1618",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8lg9ykrcmj7.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3C - Buy-back):</strong><br />\n- <strong>Type:</strong> On-market buy-back<br />\n- <strong>Security:</strong> PCX ordinary units (81,816,915 on issue)<br />\n- <strong>Maximum units to buy back:</strong> 7,836,355 (~9.6% of issued capital)<br />\n- <strong>Broker:</strong> Morgans Financial Limited<br />\n- <strong>Funding:</strong> Cash at bank (no RE/associate holdings)<br />\n- <strong>Timetable:</strong> 1 July 2025 to 30 June 2026<br />\n- <strong>No shareholder approval required</strong>  </p>\n<p><em>(Excluded: ABN, legal boilerplate, non-material broker details)</em></p>",
+    "usage": {
+      "prompt_tokens": 978,
+      "completion_tokens": 140,
+      "total_tokens": 1118,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:45:45.443103"
+  },
+  {
+    "ticker": "IEL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963786",
+    "id": "02963786",
+    "pages": 11,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1617",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8ld0rykdqw0.pdf",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Type:</strong> Substantial Holding Notice (Form 604)  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> State Street Corporation and subsidiaries (including State Street Bank and Trust Company).  </li>\n<li><strong>Change Date:</strong> 26 June 2025 (previous notice dated 11 June 2025).  </li>\n<li><strong>Total Voting Power:</strong> 9.43% (up from 8.41% in previous notice).  </li>\n<li><strong>Key Changes:</strong>  </li>\n<li>Net increase of <strong>1.02%</strong> in voting power, driven by securities lending/borrowing activity (detailed in Annexure A).  </li>\n<li><strong>State Street entities</strong> hold interests via securities lending agreements (no change in ultimate economic ownership).  </li>\n<li>No disclosed consideration for changes (typical of institutional custody/lending arrangements).  </li>\n</ul>\n<p><strong>Annexure Highlights:</strong><br />\n- <strong>Securities Lending:</strong> Transactions involve routine stock borrow/lend activity (no material change in beneficial ownership).<br />\n- <strong>Voting Rights:</strong> Lenders retain rights unless borrower defaults.  </p>\n<p><strong>Actionable Insight:</strong><br />\nMonitoring institutional holding trends (State Street\u2019s voting power increase may reflect client flow activity, not direct investment). No immediate trading impact.  </p>\n<p><em>Omitted:</em> Detailed transactional data (non-material for trading decisions), boilerplate on lending agreements.</p>",
+    "usage": {
+      "prompt_tokens": 16203,
+      "completion_tokens": 265,
+      "total_tokens": 16468,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:43:58.754134"
+  },
+  {
+    "ticker": "KGN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963784",
+    "id": "02963784",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1615",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8l7d91353h9.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: This is a routine administrative change (Company Secretary and registered office update) with no impact on trading, valuation, or capital structure.)</em></p>",
+    "usage": {
+      "prompt_tokens": 690,
+      "completion_tokens": 38,
+      "total_tokens": 728,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:40:47.036252"
+  },
+  {
+    "ticker": "TIG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963785",
+    "id": "02963785",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1615",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8l9mbdww2f6.pdf",
+    "summary": "<p>No material information identified.<br />\n(Note: AGM results showing routine director re-election approval do not typically impact trading or capital markets decisions.)</p>",
+    "usage": {
+      "prompt_tokens": 723,
+      "completion_tokens": 29,
+      "total_tokens": 752,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T06:44:51.804376"
+  },
+  {
     "ticker": "PS2",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963754",
     "id": "02963754",

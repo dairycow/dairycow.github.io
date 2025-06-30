@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963803",
+  "id": "02963803",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250630",
+  "time": "1632",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8mm2d78br3z.pdf",
+  "summary": "### Summary: CitiFirst Instalment MINIs Pricing Update  \n\n- **Product Type**: Instalment MINIs (leveraged equity derivatives)  \n- **Interest Rate**: 8.30% p.a. (effective 01-Jul-25)  \n- **Key Features**:  \n  - **Gearing**: Typically ranges from 20% to 80% (e.g., A2MJOB at 42.33%, ANZJOB at 79.30%).  \n  - **Stop Loss Trigger**: % drop from current price (e.g., A2MJOB stops at 49.19% below current price).  \n  - **Dividend Treatment**: Most pay dividends to investors; some pay down loan (e.g., ANZSO1).  \n  - **Expiry Dates**: Vary by tranche (e.g., May 2026 to 2035).  \n\n**Material Data Examples**:  \n- **BHPJOA**: Gearing 68.46%, stop loss 21.28% below current price, expires 21-Jan-2032.  \n- **CSLJOF**: Gearing 83.58%, stop loss just 3.88% below current price, expires 26-May-2026.  \n- **RIOJOD**: High gearing (80.93%) with 6.93% buffer to stop loss, indicative yield 30.52%.  \n\n**Purpose**: Provides leveraged exposure to ASX-listed equities/ETFs with defined risk (stop loss) and upfront cost (first instalment).  \n\n**Note**: No capital raising, trading halt, or operational updates. Purely pricing terms for existing leveraged products.  \n\n**Rule Applied**: \"Other Announcement Type\" \u2013 focused on leverage ratios, stop triggers, and expiry terms impacting valuation/risk.",
+  "usage": {
+    "prompt_tokens": 23365,
+    "completion_tokens": 377,
+    "total_tokens": 23742,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-06-30T06:44:10.384325"
+}
