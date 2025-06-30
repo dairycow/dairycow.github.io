@@ -7,13 +7,13 @@
   "date": "20250630",
   "time": "1439",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dcbkvq3fpx.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its key details), and I will extract **only material information relevant for trading or capital markets decisions** in the strict format you\u2019ve requested.  \n\nExample outputs:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement of a capital raising.  \n\n**2. Capital Raising Announcement**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 45M; SPP: AUD 5M cap).  \n- Key dates: Ex-date 15/05, Record 16/05, Close 30/05.  \n\n**3. Appendix 4C (Quarterly Report)**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Quarterly cash burn: AUD 2.7M.  \n- Milestone: Phase 2 trial enrollment completed.  \n\n**4. Other Announcement (e.g., M&A, Asset Sale)**  \n- Sale of non-core asset for AUD 20M (expected completion Q4).  \n- Net debt reduced to AUD 10M (from AUD 30M).  \n\n**5. No Material Information Identified**  \n\nSubmit the document, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will analyze it according to your specified format, extracting **only** material information relevant for trading or capital markets decisions.  \n\nExample outputs based on common announcement types:  \n\n---  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- **Structure:** Placement ($50M) + SPP ($10M cap).  \n- **Use of proceeds:** Debt reduction (70%), exploration (30%).  \n- **Key dates:** Ex-date: 15 Mar 2024; Record: 18 Mar 2024; SPP close: 5 Apr 2024.  \n\n**Quarterly Report (Appendix 4C):**  \n- **Cash balance (AUD):** $12.5M (vs. $15.2M prior quarter).  \n- **Key highlight:** Gold production up 15% QoQ to 25koz; costs stable at $1,200/oz.  \n\n**Trading Halt Request:**  \n- **Reason:** Pending capital raising announcement.  \n\n**Other Announcement (Asset Sale):**  \n- **Key point:** Divestment of non-core mine for $80M; net proceeds to fund growth pipeline.  \n\n**No material information identified** (if the document is non-substantive).  \n\n---  \n\nProvide the document or its key details, and I\u2019ll respond in this exact style.",
   "usage": {
-    "prompt_tokens": 238,
-    "completion_tokens": 271,
-    "total_tokens": 509,
+    "prompt_tokens": 240,
+    "completion_tokens": 298,
+    "total_tokens": 538,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-06-30T04:48:04.557565"
+  "processed_at": "2025-06-30T05:04:23.540058"
 }

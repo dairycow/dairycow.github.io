@@ -1,5 +1,480 @@
 [
   {
+    "ticker": "ACR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963731",
+    "id": "02963731",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1458",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8g6nslwnlp2.pdf",
+    "summary": "<p><strong>Material Information:</strong>  </p>\n<ul>\n<li><strong>Substantial Holder Change:</strong> Phillip Asset Management Ltd atf BioScience Managers Translation Fund I  </li>\n<li><strong>Change in Voting Power:</strong> Decreased from <strong>10.32% to 9.21%</strong> due to dilution from new share issuances (no change in actual holdings).  </li>\n<li><strong>Relevant Dates:</strong> Dilutions occurred on <strong>23/12/24, 13/02/25, 18/02/25, 03/03/25, and 23/05/25</strong>.  </li>\n</ul>\n<p><em>No other material trading or capital markets impacts identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1632,
+      "completion_tokens": 123,
+      "total_tokens": 1755,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:04:10.419096"
+  },
+  {
+    "ticker": "GBZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963730",
+    "id": "02963730",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1456",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8g44lj5btsx.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceases Holding</strong>: Peter Rohner ceased to be a substantial holder in GBM Resources Limited on <strong>27/06/2025</strong> due to dilution from a share issue.  </li>\n<li><strong>No Transaction Details</strong>: No specific securities, voting power changes, or consideration involved\u2014only dilution noted.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1397,
+      "completion_tokens": 73,
+      "total_tokens": 1470,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:57.436935"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963729",
+    "id": "02963729",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1453",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8g1h2tgj7qk.pdf",
+    "summary": "<ul>\n<li><strong>Record Date for Distribution</strong>: 2 July 2025 (unfranked AUD 0.63 distribution for MVEJOA, MVEJOB, MVEJOC).  </li>\n<li><strong>Ex-Dividend Date</strong>: 1 July 2025.  </li>\n<li><strong>Payment Date</strong>: Approximately 25 July 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 600,
+      "completion_tokens": 79,
+      "total_tokens": 679,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:00:53.752834"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963728",
+    "id": "02963728",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1453",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fzcthkqcyw.pdf",
+    "summary": "<ul>\n<li><strong>Dividend Details for MVAJOA Warrants</strong>:  </li>\n<li>Ex-dividend date: <strong>1 July 2025</strong>  </li>\n<li>Record date: <strong>2 July 2025</strong>  </li>\n<li>Dividend amount: <strong>AUD 0.42 (unfranked)</strong>  </li>\n<li>Payment date: <strong>25 July 2025</strong> (aligned with underlying ETF dividend).  </li>\n</ul>\n<p><em>(No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 567,
+      "completion_tokens": 92,
+      "total_tokens": 659,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:58.290250"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963727",
+    "id": "02963727",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1452",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fx3prbx1s9.pdf",
+    "summary": "<p><strong>Distribution Announcement for MINIs (Warrants):</strong><br />\n- <strong>Estimated Distribution:</strong> AUD 2.010911 per MINI (unfranked).<br />\n- <strong>Ex-Date:</strong> 1 July 2025.<br />\n- <strong>Record Date:</strong> 2 July 2025.<br />\n- <strong>Payment Date:</strong> ~16 July 2025 (aligned with VHY ETF distribution).<br />\n- <strong>Impact:</strong> Liquidity/trading considerations for VHYJOD, VHYJOE, VHYJOF, VHYJOG warrants.  </p>\n<p><em>Note: No material capital markets or structural changes identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 603,
+      "completion_tokens": 128,
+      "total_tokens": 731,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:04:26.971129"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963726",
+    "id": "02963726",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1451",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fty8t38nsk.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Warrant Distribution  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Estimated Distribution</strong>: AUD 0.651416 (unfranked) per VASJOA MINI  </li>\n<li><strong>Payment Date</strong>: ~16 July 2025 (aligned with Vanguard Australian Shares Index ETF distribution).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 571,
+      "completion_tokens": 97,
+      "total_tokens": 668,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:02:26.076122"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963725",
+    "id": "02963725",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1451",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8frqs2jnz03.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (for estimated unfranked distribution of AUD 0.63385142 per warrant).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Payment Date</strong>: Approximately 11 July 2025.  </li>\n</ul>\n<p><em>Note: Relates to CitiFirst Instalment MINIs (IZZJOC) and aligns with iShares China Large-Cap ETF (IZZ) distribution timing.</em></p>",
+    "usage": {
+      "prompt_tokens": 572,
+      "completion_tokens": 106,
+      "total_tokens": 678,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:25.995889"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963724",
+    "id": "02963724",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1450",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fpnl4n8200.pdf",
+    "summary": "<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (for AUD 0.17385253 unfranked distribution)  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Payment Date</strong>: ~11 July 2025 (aligned with underlying ETF distribution)  </li>\n</ul>\n<p><em>Note: Announcement relates to a warrant (IVVJOA) distribution timeline, tied to the IVV iShares S&amp;P 500 ETF.</em></p>",
+    "usage": {
+      "prompt_tokens": 577,
+      "completion_tokens": 92,
+      "total_tokens": 669,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:11.154278"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963722",
+    "id": "02963722",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1450",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fkfhwn775b.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Record Date:</strong> 2 July 2025 (for unfranked distribution of AUD 0.28004199 per MINI warrant)  </li>\n<li><strong>Ex-Distribution Date:</strong> 1 July 2025  </li>\n<li><strong>Payment Date:</strong> ~11 July 2025 (aligned with underlying ETF distribution)  </li>\n</ul>\n<p><strong>Relevant for:</strong> Warrant holders (IOZJOA) tracking distribution entitlements. No material impact on broader capital markets.  </p>\n<p>(Note: Routine warrant distribution announcement; no trading or capital structure implications identified.)</p>",
+    "usage": {
+      "prompt_tokens": 585,
+      "completion_tokens": 118,
+      "total_tokens": 703,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:47.049657"
+  },
+  {
+    "ticker": "IRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963723",
+    "id": "02963723",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1450",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fmld61d3dl.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Cleansing Notice (Securities Issuance)  </li>\n<li><strong>Material Details</strong>:  </li>\n<li>Issued <strong>2,000,000 ordinary shares</strong> via exercise of unquoted performance rights (director remuneration).  </li>\n<li>Issued without disclosure under <strong>Part 6D.2</strong> of Corporations Act (cleansing notice compliant).  </li>\n</ul>\n<p><em>No further trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 674,
+      "completion_tokens": 89,
+      "total_tokens": 763,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:49.885486"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963720",
+    "id": "02963720",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1449",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8ff3664w72k.pdf",
+    "summary": "<p>Here's the concise summary of material information from the announcement:  </p>\n<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (for unfranked distribution of AUD 3.1701791 per MINI).  </li>\n<li><strong>Ex-Dividend Date</strong>: 1 July 2025 (trading ex-distribution begins).  </li>\n<li><strong>Payment Date</strong>: ~11 July 2025 (distribution payout to holders).  </li>\n</ul>\n<p><em>Omitted non-material details (e.g., ETF alignment, trustee boilerplate).</em></p>",
+    "usage": {
+      "prompt_tokens": 589,
+      "completion_tokens": 103,
+      "total_tokens": 692,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:02:39.236664"
+  },
+  {
+    "ticker": "IRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963719",
+    "id": "02963719",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1449",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fc10brm976.pdf",
+    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice) for Iron Road Ltd:</strong>  </p>\n<ul>\n<li><strong>Direct Exercise of Performance Rights:</strong> Director Peter Cassidy exercised 2,000,000 vested performance rights (expiring 31 December 2025), converting them to fully paid ordinary shares at nil consideration.  </li>\n<li><strong>Resulting Holdings:</strong>  </li>\n<li>Dr. Cassidy: <strong>2,913,000 shares</strong> (previously 913,000) + 0 performance rights (previously 2,000,000).  </li>\n<li>Indirect holdings unchanged (Cedar Super: 1,684,816 shares; Cassidy Family: 4,789,498 shares; Seisun: 5,257,350 shares).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest update).</p>",
+    "usage": {
+      "prompt_tokens": 1159,
+      "completion_tokens": 169,
+      "total_tokens": 1328,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:55.542632"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963721",
+    "id": "02963721",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1449",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8fh6gkd03yp.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement for IEUJOA &amp; IEUJOB Warrants</strong>:  </li>\n<li><strong>Record Date</strong>: 2 July 2025 (for unfranked distribution of AUD 2.01329885 per warrant).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Payment Date</strong>: ~11 July 2025 (aligned with underlying ETF distribution).  </li>\n</ul>\n<p><em>Note: No material impact on capital structure or trading liquidity; purely a distribution update.</em></p>",
+    "usage": {
+      "prompt_tokens": 585,
+      "completion_tokens": 105,
+      "total_tokens": 690,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:02:11.413603"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963718",
+    "id": "02963718",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1448",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8f8v1h9cch3.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Distribution Details</strong>:  </li>\n<li><strong>Estimated Distribution</strong>: AUD 0.13102916 (unfranked) for CitiFirst Instalment MINIs (YM1JOA &amp; YM1JOB).  </li>\n<li><strong>Record Date</strong>: 2 July 2025.  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Payment Date</strong>: ~16 July 2025 (aligned with YMAX Fund distribution).  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 603,
+      "completion_tokens": 119,
+      "total_tokens": 722,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:13.757168"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963713",
+    "id": "02963713",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1447",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dy955zw1dr.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Details for MINIs (HVSJOA, HVSJOB, HVSJOD)</strong>:  </li>\n<li><strong>Unfranked Distribution</strong>: AUD 0.0648 per MINI  </li>\n<li><strong>Ex-Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li><strong>Payment Date</strong>: ~16 July 2025 (aligned with HVST Fund distribution receipt)  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 599,
+      "completion_tokens": 101,
+      "total_tokens": 700,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:20.351087"
+  },
+  {
+    "ticker": "IRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963717",
+    "id": "02963717",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1447",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8f6nn31mkxv.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Glen Anthony Chipman disposed of 4,000,000 unvested Performance Rights (lapsed due to unmet KPI conditions). No change in shareholding (3,664,535 shares retained).  </li>\n<li><strong>Consideration</strong>: $nil (lapse, not a trade).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period.  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
+    "usage": {
+      "prompt_tokens": 974,
+      "completion_tokens": 88,
+      "total_tokens": 1062,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:32.899709"
+  },
+  {
+    "ticker": "ACF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963715",
+    "id": "02963715",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1447",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8f2gmysl22t.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(The announcement is a promotional podcast interview without specific financial, operational, or capital markets updates that would impact trading decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 745,
+      "completion_tokens": 32,
+      "total_tokens": 777,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:51.702286"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963716",
+    "id": "02963716",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1447",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8f4lzb3jcjf.pdf",
+    "summary": "<p>Here\u2019s the concise material summary of the ASX announcement:  </p>\n<ul>\n<li><strong>Distribution Details</strong>:  </li>\n<li><strong>Estimated Distribution</strong>: AUD 0.10181135 (unfranked).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Record Date</strong>: 2 July 2025.  </li>\n<li>\n<p><strong>Payment Date</strong>: On or around 16 July 2025.  </p>\n</li>\n<li>\n<p><strong>Relevance</strong>: Applies to QRE CitiFirst Instalment MINIs (ASX codes: QREJOA &amp; QREJOB), aligning with the QRE Betashares Australian Resources Sector ETF timelines.  </p>\n</li>\n</ul>\n<p><em>Omitted boilerplate, issuer details, and non-material administrative information.</em></p>",
+    "usage": {
+      "prompt_tokens": 587,
+      "completion_tokens": 151,
+      "total_tokens": 738,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:45.846339"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963714",
+    "id": "02963714",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1447",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8f0dz4lzx6m.pdf",
+    "summary": "<ul>\n<li><strong>Record date for distribution</strong>: 2 July 2025 (unfranked AUD 0.38067248 per unit).  </li>\n<li><strong>Ex-distribution date</strong>: 1 July 2025.  </li>\n<li><strong>Payment date</strong>: ~16 July 2025 (aligned with underlying ETF distribution).  </li>\n</ul>\n<p>No material trading or capital markets impact beyond distribution timing.</p>",
+    "usage": {
+      "prompt_tokens": 590,
+      "completion_tokens": 76,
+      "total_tokens": 666,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:02.656842"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963712",
+    "id": "02963712",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1446",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dw11jxpw36.pdf",
+    "summary": "<ul>\n<li><strong>Record Date</strong>: 2 July 2025 (for AUD 0.86971186 unfranked distribution).  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025.  </li>\n<li><strong>Payment Date</strong>: ~16 July 2025 (aligned with Betashares Nasdaq 100 ETF distribution).  </li>\n</ul>\n<p><em>Summary tailored for warrantholders: Key dates for distribution payment.</em></p>",
+    "usage": {
+      "prompt_tokens": 594,
+      "completion_tokens": 80,
+      "total_tokens": 674,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:03:36.546059"
+  },
+  {
+    "ticker": "IRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963711",
+    "id": "02963711",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1445",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dsqvgdql41.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 2,000,000 new ordinary fully paid shares (IRD) issued due to conversion of performance rights (IRDAD).  </li>\n<li><strong>Reason for Issuance</strong>: Director remuneration (non-cash consideration).  </li>\n<li><strong>Issue Date</strong>: 30 June 2025.  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Total quoted ordinary shares: 830,692,775 (IRD).  </li>\n<li>Unquoted securities: 9,500,000 performance rights (IRDAD) and 40,000,000 warrants (IRDAB).  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing ordinary shares.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine conversion for non-cash remuneration).</em></p>",
+    "usage": {
+      "prompt_tokens": 1517,
+      "completion_tokens": 156,
+      "total_tokens": 1673,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:32.815832"
+  },
+  {
+    "ticker": "GTG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963709",
+    "id": "02963709",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1444",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dng57gl6rg.pdf",
+    "summary": "<ul>\n<li><strong>Change of Auditor</strong>: Hall Chadwick NSW appointed as new auditor, replacing Grant Thornton Audit Pty Ltd.  </li>\n<li><strong>Reason</strong>: Reflects the changed nature and scale of the Company post-Deed of Company Arrangement.  </li>\n<li><strong>AGM Resolution</strong>: Shareholder confirmation of auditor appointment to be sought at next AGM (required under Corporations Act).  </li>\n</ul>\n<p><em>Note: No direct trading/capital markets impact identified; auditor changes alone are typically non-material unless accompanied by financial restatements or irregularities.</em></p>",
+    "usage": {
+      "prompt_tokens": 880,
+      "completion_tokens": 102,
+      "total_tokens": 982,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:00:58.288096"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963710",
+    "id": "02963710",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1444",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dqnnk87hgf.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Details for MINIs (F10JOC &amp; F10JOD)</strong>  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li><strong>Ex-Distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Amount</strong>: AUD 0.3057423 per unit (unfranked)  </li>\n<li><strong>Payment Date</strong>: ~16 July 2025 (aligned with Betashares FTSE 100 ETF distribution).  </li>\n</ul>\n<p><strong>No other material information identified</strong>.</p>",
+    "usage": {
+      "prompt_tokens": 585,
+      "completion_tokens": 103,
+      "total_tokens": 688,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:02:28.975665"
+  },
+  {
+    "ticker": "IRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963708",
+    "id": "02963708",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250630",
+    "time": "1442",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dl28fpttlv.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 8,000,000 unquoted performance rights (IRDAD) lapsed due to unmet conditions (30/06/2025).  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li>Quoted Ordinary Shares (IRD): 828,692,775  </li>\n<li>Unquoted Performance Rights (IRDAD): 3,500,000  </li>\n<li>Unquoted Warrants (IRDAB): 40,000,000  </li>\n</ul>\n<p>No material impact on liquidity or capital structure (no consideration paid for cessation).</p>",
+    "usage": {
+      "prompt_tokens": 1022,
+      "completion_tokens": 116,
+      "total_tokens": 1138,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:02:04.593881"
+  },
+  {
+    "ticker": "RIC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963707",
+    "id": "02963707",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250630",
+    "time": "1441",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dhs2kqklrs.pdf",
+    "summary": "<ul>\n<li><strong>Asset Sale Completion</strong>: Ridley Corporation completed the sale of Wasley\u2019s Feedmill for <strong>A$22 million</strong> to Baiada group.  </li>\n<li><strong>Previous Announcement</strong>: Sale was initially disclosed on <strong>16 April 2025</strong>.  </li>\n</ul>\n<p><strong>No further material information identified</strong>.</p>",
+    "usage": {
+      "prompt_tokens": 463,
+      "completion_tokens": 59,
+      "total_tokens": 522,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-06-30T05:01:16.880623"
+  },
+  {
     "ticker": "IRD",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963706",
     "id": "02963706",
@@ -8,15 +483,15 @@
     "date": "20250630",
     "time": "1440",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dfhf5y5g15.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Performance Rights Lapse:</strong> 8,000,000 unquoted performance rights (issued to CEO and Executive Director) have lapsed due to unmet KPI vesting conditions by 30 June 2025.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong>  </p>\n<p>(Note: No capital raising, financial data, or significant valuation implications disclosed.)</p>",
+    "summary": "<ul>\n<li><strong>8,000,000 performance rights lapsed</strong> (4,000,000 each for CEO and Executive Director) due to unmet KPI vesting conditions by <strong>30 June 2025</strong>.  </li>\n<li><strong>No material impact on capital structure or liquidity</strong> (rights were unquoted and contingent).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 542,
-      "completion_tokens": 83,
-      "total_tokens": 625,
+      "prompt_tokens": 540,
+      "completion_tokens": 72,
+      "total_tokens": 612,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T04:46:45.370473"
+    "processed_at": "2025-06-30T05:03:28.344815"
   },
   {
     "ticker": "OPH",
@@ -27,15 +502,15 @@
     "date": "20250630",
     "time": "1439",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8dcbkvq3fpx.pdf",
-    "summary": "<p>Understood. Please provide the ASX announcement PDF (or its key details), and I will extract <strong>only material information relevant for trading or capital markets decisions</strong> in the strict format you\u2019ve requested.  </p>\n<p>Example outputs:  </p>\n<p><strong>1. Trading Halt Request</strong><br />\n- Reason: Pending announcement of a capital raising.  </p>\n<p><strong>2. Capital Raising Announcement</strong><br />\n- Structure: Placement + SPP.<br />\n- Total raised: AUD 50M (Placement: AUD 45M; SPP: AUD 5M cap).<br />\n- Key dates: Ex-date 15/05, Record 16/05, Close 30/05.  </p>\n<p><strong>3. Appendix 4C (Quarterly Report)</strong><br />\n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).<br />\n- Quarterly cash burn: AUD 2.7M.<br />\n- Milestone: Phase 2 trial enrollment completed.  </p>\n<p><strong>4. Other Announcement (e.g., M&amp;A, Asset Sale)</strong><br />\n- Sale of non-core asset for AUD 20M (expected completion Q4).<br />\n- Net debt reduced to AUD 10M (from AUD 30M).  </p>\n<p><strong>5. No Material Information Identified</strong>  </p>\n<p>Submit the document, and I\u2019ll parse it accordingly.</p>",
+    "summary": "<p>Understood. Please provide the ASX announcement PDF (or key details from it), and I will analyze it according to your specified format, extracting <strong>only</strong> material information relevant for trading or capital markets decisions.  </p>\n<p>Example outputs based on common announcement types:  </p>\n<hr />\n<p><strong>Capital Raising Announcement (Placement + SPP):</strong><br />\n- <strong>Structure:</strong> Placement ($50M) + SPP ($10M cap).<br />\n- <strong>Use of proceeds:</strong> Debt reduction (70%), exploration (30%).<br />\n- <strong>Key dates:</strong> Ex-date: 15 Mar 2024; Record: 18 Mar 2024; SPP close: 5 Apr 2024.  </p>\n<p><strong>Quarterly Report (Appendix 4C):</strong><br />\n- <strong>Cash balance (AUD):</strong> $12.5M (vs. $15.2M prior quarter).<br />\n- <strong>Key highlight:</strong> Gold production up 15% QoQ to 25koz; costs stable at $1,200/oz.  </p>\n<p><strong>Trading Halt Request:</strong><br />\n- <strong>Reason:</strong> Pending capital raising announcement.  </p>\n<p><strong>Other Announcement (Asset Sale):</strong><br />\n- <strong>Key point:</strong> Divestment of non-core mine for $80M; net proceeds to fund growth pipeline.  </p>\n<p><strong>No material information identified</strong> (if the document is non-substantive).  </p>\n<hr />\n<p>Provide the document or its key details, and I\u2019ll respond in this exact style.</p>",
     "usage": {
-      "prompt_tokens": 238,
-      "completion_tokens": 271,
-      "total_tokens": 509,
+      "prompt_tokens": 240,
+      "completion_tokens": 298,
+      "total_tokens": 538,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T04:48:04.557565"
+    "processed_at": "2025-06-30T05:04:23.540058"
   },
   {
     "ticker": "NAC",
@@ -46,15 +521,15 @@
     "date": "20250630",
     "time": "1437",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8d8tbrcm7q5.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities:</strong>  </li>\n<li><strong>Security:</strong> NAC (Ordinary Fully Paid)  </li>\n<li><strong>Number ceased:</strong> 1,229,636  </li>\n<li><strong>Reason:</strong> Cancellation pursuant to an on-market buy-back  </li>\n<li><strong>Date of cessation:</strong> 30/06/2025  </li>\n<li>\n<p><strong>Consideration paid:</strong> AUD 568,068.77  </p>\n</li>\n<li>\n<p><strong>Post-cessation Issued Capital (quoted securities):</strong>  </p>\n</li>\n<li><strong>NAC (Ordinary Fully Paid):</strong> 46,774,816  </li>\n<li><strong>NACO (Option Expiring 31-Dec-2026):</strong> 10,705,595  </li>\n<li><strong>NACGA (Convertible Bond 5.50% 30-09-27):</strong> 175,000</li>\n</ul>",
+    "summary": "<p><strong>Summary of Appendix 3H - Cessation of Securities</strong>  </p>\n<ul>\n<li><strong>Security Cessation</strong>: 1,229,636 ordinary shares (NAC) cancelled via on-market buy-back.  </li>\n<li><strong>Consideration Paid</strong>: AUD 568,068.77.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>NAC (Ordinary): 46,774,816  </li>\n<li>NACO (Options): 10,705,595  </li>\n<li>NACGA (Convertible Bonds): 175,000  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1079,
-      "completion_tokens": 168,
-      "total_tokens": 1247,
+      "completion_tokens": 118,
+      "total_tokens": 1197,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T04:44:46.443573"
+    "processed_at": "2025-06-30T05:01:37.428869"
   },
   {
     "ticker": "NSC",
@@ -65,15 +540,15 @@
     "date": "20250630",
     "time": "1435",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8d48kz7bkv3.pdf",
-    "summary": "<ul>\n<li><strong>Securities Cessation</strong>: 1,268,837 ordinary fully paid shares (NSC) cancelled via on-market buy-back.  </li>\n<li><strong>Cessation Date</strong>: 30 June 2025.  </li>\n<li><strong>Consideration Paid</strong>: AUD 367,682.78.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 132,908,184 ordinary fully paid shares (NSC) remaining.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation Type</strong>: On-market buy-back cancellation  </li>\n<li><strong>Securities Ceased</strong>: 1,268,837 NSC ordinary fully paid shares  </li>\n<li><strong>Cessation Date</strong>: 30/06/2025  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 367,682.78  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 132,908,184 NSC ordinary fully paid shares (quoted)  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1024,
-      "completion_tokens": 95,
-      "total_tokens": 1119,
+      "prompt_tokens": 1022,
+      "completion_tokens": 96,
+      "total_tokens": 1118,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T04:46:10.899487"
+    "processed_at": "2025-06-30T05:02:54.044322"
   },
   {
     "ticker": "NZS",
@@ -84,15 +559,15 @@
     "date": "20250630",
     "time": "1435",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250630/pdf/06l8d6dcxdmmn0.pdf",
-    "summary": "<ul>\n<li><strong>Correction to Placement Details</strong>:  </li>\n<li>11,500,000 securities issued to related parties (LR 10.11) at <strong>AUD 0.02</strong> (previously incorrectly stated as AUD 0.20).  </li>\n<li>Shareholder approval obtained on <strong>9 May 2025</strong> (LR 7.1).  </li>\n<li><strong>Purpose</strong>: Issuance in lieu of director fees to related parties.  </li>\n<li><strong>Key Dates</strong>: Securities issued on <strong>6 June 2025</strong>.  </li>\n</ul>\n<p><em>Note: No new material capital raising or trading impact beyond correction of disclosed issue price.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Correction to previous Appendix 3B (Placement)  </li>\n<li><strong>Correction</strong>: Issue price revised from <strong>AUD 0.2000</strong> to <strong>AUD 0.0200</strong> for <strong>11,500,000 shares</strong> issued to related parties (Listing Rule 10.11).  </li>\n<li><strong>Purpose</strong>: Issued in lieu of directors' fees to related parties.  </li>\n<li><strong>Key Dates</strong>: Shareholder approval obtained on <strong>9 May 2025</strong>; securities issued on <strong>6 June 2025</strong>.  </li>\n<li><strong>No escrow/underwriting/fees</strong> disclosed.  </li>\n</ul>\n<p><em>Note: Material dilution impact due to significant price error correction (10x lower than initially stated).</em></p>",
     "usage": {
       "prompt_tokens": 1601,
-      "completion_tokens": 125,
-      "total_tokens": 1726,
+      "completion_tokens": 151,
+      "total_tokens": 1752,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-06-30T04:44:01.942274"
+    "processed_at": "2025-06-30T05:01:09.238938"
   },
   {
     "ticker": "M2M",
