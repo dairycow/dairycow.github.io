@@ -1,0 +1,19 @@
+{
+  "ticker": "NEM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964878",
+  "id": "02964878",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250702",
+  "time": "0904",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06lcg5km6n8ght.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF or key details from it**, and I will generate a **concise, materially relevant summary** based on your outlined rules.  \n\nExample outputs for common scenarios:  \n\n---  \n### **1. Trading Halt Request**  \n- *Reason*: Pending capital raising announcement.  \n\n### **2. Capital Raising Announcement**  \n- *Structure*: Placement ($50M) + SPP ($15M cap).  \n- *Use of proceeds*: Debt reduction (70%) + working capital (30%).  \n- *Key dates*: Ex-date 15 Oct, Record 16 Oct, SPP closes 30 Oct.  \n\n### **3. Quarterly Report (4C)**  \n- *Cash balance*: $12.5M (vs. $9.2M last quarter).  \n- *Highlights*: Quarterly revenue $4.1M (+22% QoQ), no debt.  \n\n### **4. Other Announcement**  \n- *Material impact*: Major contract signed (worth $75M over 3 years).  \n- *Liquidity change*: Secured $100M loan facility (3-year term).  \n\n---  \n**Next Steps**: Attach/share the announcement text, and I\u2019ll extract **only material details** per your criteria.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 277,
+    "total_tokens": 500,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-01T23:15:24.178958"
+}
