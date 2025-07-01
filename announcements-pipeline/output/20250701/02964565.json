@@ -7,13 +7,13 @@
   "date": "20250701",
   "time": "1508",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06lbk6fgg5x52w.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the requested format (e.g., trading halt reason, capital raising structure/dates, Appendix 4C cash balance, or critical valuation impacts). \n\n**Example Outputs Based on Common Announcement Types:**  \n1. **Trading Halt**: *\"Voluntary halt pending release of material acquisition details.\"*  \n2. **Capital Raising**: *\"A$50M placement at A$0.30/share (10% discount). SPP up to A$5M. Ex-date: 15 Oct; Close: 25 Oct.\"*  \n3. **Appendix 4C**: *\"Cash balance A$2.1M (Q3). Receipts A$4.5M (up 20% QoQ).\"*  \n4. **Merger Announcement**: *\"Scheme implementation deed with XYZ Co. at A$1.20/share (30% premium). Voting deadline: 5 Dec.\"*  \n\nProvide the document or key text, and I\u2019ll adhere strictly to your guidelines.",
+  "summary": "Understood. Please share the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I\u2019ll immediately extract **only** material information in the requested format, tailored to the document type.  \n\nExample outputs for common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending capital raising announcement.  \n\n**2. Capital Raising Announcement**  \n- Structure: $50M Placement + $10M SPP.  \n- Key dates: Ex-date 15/05, Record 17/05, Close 31/05.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: $12.3M (prior quarter: $15.1M).  \n- Operational highlight: Production +22% QoQ to 5,000oz Au.  \n\n**4. Other Announcement**  \n- Major asset sale: $100M divestment of X project (completion H2 2024).  \n- Credit facility secured: $75M, 3-year term @ 6% margin.  \n\n**5. No Material Information Identified**  \n---  \n\n**Go ahead\u2014paste text or describe the announcement.** I\u2019ll respond with bullet points or flag if it\u2019s immaterial.",
   "usage": {
-    "prompt_tokens": 235,
-    "completion_tokens": 235,
-    "total_tokens": 470,
+    "prompt_tokens": 233,
+    "completion_tokens": 269,
+    "total_tokens": 502,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-01T05:45:09.289565"
+  "processed_at": "2025-07-01T05:57:31.748593"
 }
