@@ -1,0 +1,19 @@
+{
+  "ticker": "CUS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964565",
+  "id": "02964565",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250701",
+  "time": "1508",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250701/pdf/06lbk6fgg5x52w.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its material text), and I will extract and format the key information per your guidelines with ruthless conciseness.  \n\nExample outputs based on your criteria:  \n\n**Trading Halt Request:**  \n- Example: *\"Pending release of capital raising details.\"*  \n\n**Capital Raising Announcement:**  \n- *Placement: AUD 50m at $0.25/sh (10% discount). Ex-date: 15 Oct, SPP closes 31 Oct.*  \n\n**Quarterly Report (4C):**  \n- *Cash balance AUD 12.1m. Revenue up 15% QoQ to AUD 4.5m. No debt.*  \n\n**Other Announcement (M&A):**  \n- *Acquisition of XYZ Co for AUD 20m (50% scrip, 50% cash). Implied 8x EBITDA multiple.*  \n\n**No material information identified:**  \n- *Routine operational update; no financial or trading impact.*  \n\nReady to analyze your document\u2014attach or paste text.",
+  "usage": {
+    "prompt_tokens": 233,
+    "completion_tokens": 225,
+    "total_tokens": 458,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-01T05:18:05.834834"
+}
