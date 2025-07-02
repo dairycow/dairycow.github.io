@@ -7,13 +7,13 @@
   "date": "20250702",
   "time": "1626",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06ldbsr7t1r56n.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will extract **only** the material information relevant for trading or capital markets decisions in the requested concise format.  \n\nExample outputs based on hypothetical announcements:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP.  \n   - *Total raised*: AUD $50M (Placement: $40M, SPP: $10M).  \n   - *Key dates*: Ex-date 15 Oct, Record date 18 Oct, SPP closes 5 Nov.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash balance*: AUD $12.5M (prior quarter: $15.2M).  \n   - *Key highlight*: Revenue up 22% QoQ to AUD $8.1M.  \n\n4. **Other Announcement (M&A)**:  \n   - Acquiring Company X for AUD $200M (50% scrip, 50% cash).  \n   - Expected EPS accretion: 10% in FY25.  \n\n**If no relevant details are found**:  \n- *No material information identified*.  \n\nGo ahead and share the announcement text/details.",
+  "summary": "Understood. Here\u2019s how I\u2019d summarize any ASX announcement based on your strict requirements. Provide the PDF or key details, and I\u2019ll extract **only** material information in this format:  \n\n### **Example Outputs:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending capital raising announcement ($50M placement).  \n\n2. **Capital Raising (Placement + SPP):**  \n   - Structure: A$100M (A$80M placement + A$20M SPP).  \n   - Price: A$0.50/share (15% discount to last close).  \n   - Key Dates: Ex-date DD/MM, SPP closes DD/MM.  \n\n3. **Appendix 4C (Quarterly):**  \n   - Cash balance: A$12.5M (QoQ -A$2.1M).  \n   - Highlights: Production +20%, costs -10% QoQ.  \n\n4. **Material Contract Signed:**  \n   - 5-year offtake agreement with [Major Buyer], +30% revenue uplift expected.  \n\n5. **No Material Information Identified:**  \n   - (Used for non-actionable/non-market-sensitive announcements).  \n\n**Now, provide the announcement text or key details, and I\u2019ll distill it per your rules.**",
   "usage": {
     "prompt_tokens": 238,
-    "completion_tokens": 285,
-    "total_tokens": 523,
+    "completion_tokens": 281,
+    "total_tokens": 519,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-02T06:34:38.883400"
+  "processed_at": "2025-07-02T06:56:23.278309"
 }
