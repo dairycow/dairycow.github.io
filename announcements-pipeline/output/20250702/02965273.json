@@ -1,0 +1,19 @@
+{
+  "ticker": "WAT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965273",
+  "id": "02965273",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250702",
+  "time": "1658",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06lddjnwrsvc4l.pdf",
+  "summary": "Understood. Provide me with the **ASX announcement PDF** (or its text/data), and I will extract **only material information** relevant for trading or capital markets decisions, formatted as **concise bullet points**, strictly adhering to your outlined rules.  \n\nExamples of how I\u2019ll structure responses:  \n\n- **Trading Halt Request**:  \n  - *Reason*: Pending announcement of capital raising.  \n\n- **Capital Raising Announcement**:  \n  - *Structure*: Placement + SPP.  \n  - *Amount*: AUD 50M (AUD 40M placement + AUD 10M SPP).  \n  - *Key Dates*: Ex-date 15 Oct, Record 16 Oct, Close 30 Oct.  \n\n- **Quarterly Report (4C)**:  \n  - *Cash Balance*: AUD 12.5M (QoQ -2.1M).  \n  - *Key Highlights*: Revenue AUD 3.2M (+15% QoQ), R&D spend AUD 1.8M.  \n\n- **Other Announcement**:  \n  - *Material Impact*: Debt facility amended to AUD 100M (from AUD 60M).  \n  - *Material Impact*: Major shareholder sells 5% stake (now holds 10%).  \n\nIf the document is unclear or lacks material info, I\u2019ll state: **\"No material information identified.\"**  \n\n**Please provide the announcement text or key details**, and I\u2019ll generate the summary.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 316,
+    "total_tokens": 539,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-02T07:21:36.662505"
+}
