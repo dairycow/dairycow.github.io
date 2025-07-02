@@ -7,13 +7,13 @@
   "date": "20250702",
   "time": "1703",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06lddwwv82qc63.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or selected excerpts), and I will generate a strictly concise, materially focused summary per your requested format.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Structure: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- Key dates: Ex-date 15 Oct, Record 16 Oct, SPP closes 30 Oct.  \n\n**Quarterly Report (4C):**  \n- Cash balance: AUD 12.5M (QoQ -2.1M).  \n- Production: 1.2M oz gold (costs AUD 1,300/oz).  \n\n**Other Announcement:**  \n- Major asset sale: AUD 150M, settling Q1 2025.  \n- Board approves AUD 20M share buyback.  \n\nIf no material details are present, I will note:  \n- *No material information identified.*  \n\nReady to proceed\u2014attach or describe the announcement.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I\u2019ll extract **only** the material information in concise bullet points per your formatting rules.  \n\nExample outputs:  \n- **Trading Halt Request**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"$50M placement at $0.80/share (15% discount). SPP up to $10M. Ex-date: 15 Sep.\"  \n- **Appendix 4C**: \"Cash $12.5M. Q3 revenue +22% QoQ. Operations on track.\"  \n- **Governance Change**: \"CEO resigns; CFO appointed interim.\"  \n\nIf no material info is found, I\u2019ll state: *\"No material information identified.\"*  \nGo ahead with the document or details.",
   "usage": {
     "prompt_tokens": 253,
-    "completion_tokens": 251,
-    "total_tokens": 504,
+    "completion_tokens": 180,
+    "total_tokens": 433,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-02T07:39:10.161200"
+  "processed_at": "2025-07-02T07:52:06.372412"
 }
