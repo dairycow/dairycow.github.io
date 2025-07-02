@@ -1,0 +1,19 @@
+{
+  "ticker": "NUF",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965250",
+  "id": "02965250",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250702",
+  "time": "1626",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06ldbsr7t1r56n.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will extract **only** the material information relevant for trading or capital markets decisions in the requested concise format.  \n\nExample outputs based on hypothetical announcements:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP.  \n   - *Total raised*: AUD $50M (Placement: $40M, SPP: $10M).  \n   - *Key dates*: Ex-date 15 Oct, Record date 18 Oct, SPP closes 5 Nov.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash balance*: AUD $12.5M (prior quarter: $15.2M).  \n   - *Key highlight*: Revenue up 22% QoQ to AUD $8.1M.  \n\n4. **Other Announcement (M&A)**:  \n   - Acquiring Company X for AUD $200M (50% scrip, 50% cash).  \n   - Expected EPS accretion: 10% in FY25.  \n\n**If no relevant details are found**:  \n- *No material information identified*.  \n\nGo ahead and share the announcement text/details.",
+  "usage": {
+    "prompt_tokens": 238,
+    "completion_tokens": 285,
+    "total_tokens": 523,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-02T06:34:38.883400"
+}
