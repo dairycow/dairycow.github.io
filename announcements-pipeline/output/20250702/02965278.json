@@ -1,0 +1,19 @@
+{
+  "ticker": "NWL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965278",
+  "id": "02965278",
+  "pages": 8,
+  "price_sensitive": false,
+  "date": "20250702",
+  "time": "1703",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06lddwwv82qc63.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., type of announcement, headline, or excerpts), and I will extract **only material information** per your strict guidelines.  \n\nExample outputs based on announcement type:  \n\n**1. Trading Halt**  \n- *Reason*: Pending capital raising announcement.  \n\n**2. Capital Raising**  \n- *Structure*: $50M institutional placement + $10M SPP.  \n- *Key dates*: Ex-date 15 Oct, SPP closes 30 Oct.  \n\n**3. Quarterly Report (4C)**  \n- *Cash balance*: $12.5M (vs. $15.2M last quarter).  \n- *Key highlight*: Production doubled to 20koz Au.  \n\n**4. Other**  \n- *Material info*: Major asset sale ($100M expected proceeds).  \n\nIf no actionable details, I\u2019ll reply: *No material information identified*.  \n\nReady for your document.",
+  "usage": {
+    "prompt_tokens": 253,
+    "completion_tokens": 208,
+    "total_tokens": 461,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-02T07:21:15.173527"
+}
