@@ -1,5 +1,5 @@
 {
-  "ticker": "SFY",
+  "ticker": "NWL",
   "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965278",
   "id": "02965278",
   "pages": 8,
@@ -7,13 +7,13 @@
   "date": "20250702",
   "time": "1703",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250702/pdf/06lddwwv82qc63.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I\u2019ll extract **only** the material information in concise bullet points per your formatting rules.  \n\nExample outputs:  \n- **Trading Halt Request**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"$50M placement at $0.80/share (15% discount). SPP up to $10M. Ex-date: 15 Sep.\"  \n- **Appendix 4C**: \"Cash $12.5M. Q3 revenue +22% QoQ. Operations on track.\"  \n- **Governance Change**: \"CEO resigns; CFO appointed interim.\"  \n\nIf no material info is found, I\u2019ll state: *\"No material information identified.\"*  \nGo ahead with the document or details.",
+  "summary": "Understood. Since no specific ASX announcement PDF is provided, I can only offer a generic template response. Provide the announcement text/PDF, and I will extract material information following your strict guidelines.  \n\n**Example Outputs (if hypothetical announcement were provided):**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending release of material capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Structure: Placement + SPP.  \n   - Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n   - Key dates: Ex-date 15/10/23, Record 16/10/23, SPP closes 30/10/23.  \n\n3. **Quarterly Report (4C):**  \n   - Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n   - Highlights: Revenue up 22% QoQ, gold production 10koz vs. 8koz.  \n\n4. **Other Announcement:**  \n   - Key point: Major asset sale (+AUD 100M) expected to close Q1 2024.  \n   - Key point: Debt facility amended to AUD 200M (from AUD 150M).  \n\n**No material information identified.** (If boilerplate/no relevant data.)  \n\nAttach the PDF/text for a precise summary.",
   "usage": {
-    "prompt_tokens": 253,
-    "completion_tokens": 180,
-    "total_tokens": 433,
+    "prompt_tokens": 255,
+    "completion_tokens": 298,
+    "total_tokens": 553,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-02T07:52:06.372412"
+  "processed_at": "2025-07-02T08:03:34.142323"
 }
