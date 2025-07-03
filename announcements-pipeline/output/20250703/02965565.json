@@ -1,0 +1,19 @@
+{
+  "ticker": "AMS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965565",
+  "id": "02965565",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250703",
+  "time": "1105",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lf860yc288nj.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will generate a **concise, material-only summary** adhering strictly to your guidelines.  \n\nExample outputs based on common scenarios:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising**:  \n   - *Type*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - *Dates*: Ex-date 15/03, Record 18/03, Close 05/04.  \n\n3. **Quarterly (4C)**:  \n   - *Cash (end-Qtr)*: AUD 2.3M.  \n   - *Highlights*: Revenue AUD 1.5M (+20% QoQ), burn rate AUD 500K/month.  \n\n4. **Other Announcement**:  \n   - *Key Points*: Major contract win (AUD 25M over 3Y); CEO resignation effective immediately.  \n\n*No material information identified* if irrelevant.  \n\n**Provide the document or details, and I\u2019ll respond in this format.**",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 268,
+    "total_tokens": 493,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T01:38:38.179469"
+}
