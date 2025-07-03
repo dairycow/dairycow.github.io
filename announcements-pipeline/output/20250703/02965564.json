@@ -1,0 +1,19 @@
+{
+  "ticker": "AMS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965564",
+  "id": "02965564",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250703",
+  "time": "1104",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lf83q5zyfbdf.pdf",
+  "summary": "Got it. Here's how I'll handle the ASX announcement review:  \n\n- **Document Type**: [Identify type, e.g., Capital Raising, Trading Halt, Quarterly]  \n- **Material Information**:  \n  - [Bullet 1: Strictly relevant data only (e.g., capital raised, key dates, operational metrics)]  \n  - [Bullet 2: Second critical point if applicable]  \n- **If unclear/immaterial**: \"No material information identified.\"  \n\n**Example Outputs**:  \n1. *Trading Halt Request*: \"Pending release of material transaction details.\"  \n2. *Capital Raising*: \"A$50M placement at A$0.30/share (10% discount). Ex-date: 15/05, closes 30/05.\"  \n3. *Quarterly (4C)*: \"Cash A$12.5M, quarterly burn A$2.1M, milestone X achieved.\"  \n4. *Other*: \"Major contract signed (A$200M over 3 yrs). CEO resigns effective immediately.\"  \n\nProvide the PDF or key details, and I\u2019ll extract the actionable points.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 243,
+    "total_tokens": 463,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T01:42:22.444943"
+}
