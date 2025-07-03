@@ -1,5 +1,328 @@
 [
   {
+    "ticker": "TBN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965746",
+    "id": "02965746",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1654",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfqjhkgnvr2s.pdf",
+    "summary": "<ul>\n<li><strong>CDI (TBN) Changes</strong>: Net decrease of <strong>15,719,600 CDIs</strong> (200:1 ratio) in June 2025 due to transfers between CDIs and Common Stock (NYSE).  </li>\n<li><strong>Common Stock (TBNAM)</strong>: <strong>78,598</strong> increase from transfers with CDIs.  </li>\n<li><strong>Other Securities</strong>: No changes in <strong>TBNAN</strong> (CDI equivalent), <strong>TBNAE</strong>, <strong>TBNAI</strong>, or <strong>TBNAJ</strong> options.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1105,
+      "completion_tokens": 116,
+      "total_tokens": 1221,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:43.953697"
+  },
+  {
+    "ticker": "RML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965747",
+    "id": "02965747",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1654",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfqllv69t19m.pdf",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 91,751 ordinary fully paid shares (RML) issued due to conversion of options (RMLOC).  </li>\n<li><strong>Issue Details</strong>:  </li>\n<li><strong>Price per share</strong>: AUD 0.018  </li>\n<li><strong>Issue date</strong>: 03/07/2025  </li>\n<li><strong>Ranking</strong>: Equal to existing shares.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Total ordinary shares (RML): 658,218,288  </li>\n<li>Options (RMLOC expiring 31-Jul-2028): 289,702,494  </li>\n<li>Other unquoted securities include performance rights and options.  </li>\n</ul>\n<p><em>No material trading or capital markets impact noted beyond standard conversion.</em></p>",
+    "usage": {
+      "prompt_tokens": 1538,
+      "completion_tokens": 156,
+      "total_tokens": 1694,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:58:43.533672"
+  },
+  {
+    "ticker": "AYA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965748",
+    "id": "02965748",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1654",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfqnpl2rcnqx.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 474,369 performance rights (AYAAAF) lapsed due to unmet conditions (03/07/2025).  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li><strong>Ordinary Shares (AYA)</strong>: 113,680,117 (quoted).  </li>\n<li><strong>Unquoted Securities</strong>: Various options and performance rights (details in announcement), including 4,254,000 remaining performance rights (AYAAAF).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine expiry of performance rights).</p>",
+    "usage": {
+      "prompt_tokens": 1622,
+      "completion_tokens": 118,
+      "total_tokens": 1740,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:15.562994"
+  },
+  {
+    "ticker": "MDX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965744",
+    "id": "02965744",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1651",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfqcw2jjq12b.pdf",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Proposed issue of securities (Placement)  </li>\n<li><strong>Details</strong>:  </li>\n<li><strong>Security Issued</strong>: 10,000,000 unlisted options (MDXAC, expiry 30-Nov-2025, exercise price $0.07)  </li>\n<li><strong>Purpose</strong>: Reward and incentive for a consultant  </li>\n<li><strong>Issue Date</strong>: 7 July 2025  </li>\n<li><strong>No shareholder approval needed</strong>: Utilizes 15% placement capacity (Listing Rule 7.1)  </li>\n<li><strong>Consideration</strong>: Nominal ($0.000001 AUD equivalent per option)  </li>\n</ul>\n<p><strong>No material impact on liquidity, valuation, or capital structure identified.</strong>  </p>\n<p>(Note: Excludes compliance details, fees, and non-material boilerplate.)</p>",
+    "usage": {
+      "prompt_tokens": 1520,
+      "completion_tokens": 165,
+      "total_tokens": 1685,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:31.380438"
+  },
+  {
+    "ticker": "RML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965745",
+    "id": "02965745",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1651",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfqfy8cyv1p3.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Options Expiry Notice</strong>:  </li>\n<li><strong>Total Options</strong>: 81,963,480 RMLO (1:1 conversion to ordinary shares).  </li>\n<li><strong>Exercise Price</strong>: $0.12 per option.  </li>\n<li><strong>Expiry Deadline</strong>: 31 July 2025 (5:00pm ACST).  </li>\n<li><strong>Last Trading Date</strong>: 25 July 2025 (close of trading).  </li>\n<li><strong>Current Market Price (30 June 2025)</strong>: $0.052 (vs. exercise price of $0.12, indicating out-of-the-money).  </li>\n<li><strong>3-Month Price Range (Apr\u2013Jun 2025)</strong>: High $0.058, Low $0.007.  </li>\n</ul>\n<p><strong>Material Implications</strong>:<br />\n- Potential dilution risk if options are exercised (unlikely given current share price is below exercise price).<br />\n- Lapse of options (no cash inflow to company) likely due to unfavorable exercise economics.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 801,
+      "completion_tokens": 216,
+      "total_tokens": 1017,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:58:53.115941"
+  },
+  {
+    "ticker": "MBL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965743",
+    "id": "02965743",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1648",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfq972l9q5hj.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Director interest notices rarely contain trading-relevant details unless they involve substantial changes or insider transactions. This filing only reports a minor DRP-acquired share increase.)</em></p>",
+    "usage": {
+      "prompt_tokens": 677,
+      "completion_tokens": 40,
+      "total_tokens": 717,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:04.539364"
+  },
+  {
+    "ticker": "MQG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965742",
+    "id": "02965742",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1647",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfq6t35xgj4l.pdf",
+    "summary": "<p><strong>Material Information Summary (Appendix 3Y - Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Shemara Wikramanayake (Macquarie Group Limited &amp; Macquarie Bank Limited).  </li>\n<li><strong>Change:</strong> 11,965 <strong>PSUs forfeited and lapsed</strong> (performance hurdles not met).  </li>\n<li><strong>Post-change holdings:</strong>  </li>\n<li><strong>MQG Shares:</strong> 1,374,231 total (direct/indirect).  </li>\n<li><strong>MEREP Awards:</strong> 417,238 RSUs; <strong>72,276 PSUs</strong> (remaining).  </li>\n<li><strong>Closed period:</strong> No trading occurred during a closed period.  </li>\n</ul>\n<p>No material impact on capital structure or liquidity.</p>",
+    "usage": {
+      "prompt_tokens": 1626,
+      "completion_tokens": 148,
+      "total_tokens": 1774,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:23.867707"
+  },
+  {
+    "ticker": "PGF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965741",
+    "id": "02965741",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1646",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfq4mnsv7nyg.pdf",
+    "summary": "<h3><strong>Substantial Holder Notice Summary (Form 604) \u2013 PM CAPITAL GLOBAL OPPORTUNITIES FUND LIMITED</strong></h3>\n<h4><strong>Key Changes in Substantial Holding:</strong></h4>\n<ul>\n<li><strong>Paul Moore and associated entities</strong> reduced their aggregate voting power from <strong>12.59% to 11.58%</strong> (60.4M \u2192 55.5M shares).  </li>\n<li><strong>Significant sales by Roaring Lion Pty Ltd (LION):</strong>  </li>\n<li>Sold <strong>1,092,755 shares</strong> (~AUD <strong>$3.7M+</strong>) between <strong>15 Apr \u2013 25 Jun 2025</strong> (see Annexure A for detailed transactions).  </li>\n<li><strong>Horizon Investments (HWB) sold 629,971 shares</strong> (~AUD <strong>$1.74M</strong>) between <strong>18 Jun \u2013 1 Jul 2025</strong>.  </li>\n</ul>\n<h4><strong>Current Holdings:</strong></h4>\n<ul>\n<li><strong>Paul Moore &amp; associates</strong> retain <strong>55.5M shares</strong> (<strong>11.58%</strong> voting power).  </li>\n<li><strong>Roaring Lion (LION)</strong> directly holds <strong>14.6M shares</strong> post-sales.  </li>\n</ul>\n<h4><strong>Material Implication:</strong></h4>\n<ul>\n<li>Sustained selling by a major holder may signal reduced confidence or portfolio rebalancing, potentially impacting liquidity/sentiment.  </li>\n</ul>\n<p><strong>Note:</strong> No new capital raising, trading halt, or operational updates disclosed.  </p>\n<hr />\n<p><em>Format: Neutral, data-focused, excludes legal boilerplate.</em></p>",
+    "usage": {
+      "prompt_tokens": 4829,
+      "completion_tokens": 297,
+      "total_tokens": 5126,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:01:44.759174"
+  },
+  {
+    "ticker": "DAV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965739",
+    "id": "02965739",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1646",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfq0g5x8qgz0.pdf",
+    "summary": "<ul>\n<li><strong>Estimated Tax Components (June 2025 Distribution)</strong>:</li>\n<li><strong>Total Cash Distribution</strong>: 70.240358 cents per unit (CPU)</li>\n<li><strong>Key Taxable Components</strong>:<ul>\n<li>Net franked dividends: 11.136038 CPU  </li>\n<li>NTAP capital gains (Discounted): 29.164493 CPU  </li>\n<li>Other non-assessable amounts: 29.296857 CPU  </li>\n</ul>\n</li>\n<li><strong>Franking Credits</strong>: 5.884021 CPU  </li>\n<li><strong>Non-Material</strong>: No impact on trading or capital structure (routine tax disclosure).  </li>\n</ul>\n<p><strong>Conclusion</strong>: No material trading or capital markets information identified (standard distribution tax breakdown).</p>",
+    "usage": {
+      "prompt_tokens": 1422,
+      "completion_tokens": 138,
+      "total_tokens": 1560,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:20.376111"
+  },
+  {
+    "ticker": "MFG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965740",
+    "id": "02965740",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1646",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfq2jd1hfh1j.pdf",
+    "summary": "<h3><strong>ASX Announcement Summary (Form 605: Ceasing to be a Substantial Holder)</strong></h3>\n<ul>\n<li><strong>Substantial Holder:</strong> Magellan Financial Group Ltd and affiliates (collectively \"Magellan\")  </li>\n<li><strong>Ceased to be substantial holder on:</strong> 01/07/2025 (previously held ~925,326 shares, ~1.7M sold)  </li>\n<li><strong>Key Transactions (Annexure B):</strong>  </li>\n<li><strong>Net Sales (25/06\u201301/07):</strong> Sold 1,699,987 shares for ~$4.26M (~336,995 shares on 01/07 alone).  </li>\n<li><strong>Prior Holdings (04/03\u201302/06):</strong> Acquired 925,326 shares for ~$2.41M (including in-specie transfers).  </li>\n</ul>\n<p><strong>Material Impact:</strong> Magellan\u2019s exit as a substantial holder (~1.7M shares sold) may signal reduced institutional confidence or portfolio rebalancing, potentially affecting liquidity/share price.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1716,
+      "completion_tokens": 219,
+      "total_tokens": 1935,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:53.676028"
+  },
+  {
+    "ticker": "ALP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965738",
+    "id": "02965738",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1645",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpy4z85tqtl.pdf",
+    "summary": "<ul>\n<li><strong>Net monthly redemptions</strong>: (40,000) units, equivalent to ($442,093.21) AUD.  </li>\n<li><strong>Total units on issue</strong>: 790,000, with a total value of $8,471,565.00 AUD as at 30 June 2025.  </li>\n</ul>\n<p>No material trading or capital markets impact identified beyond routine monthly unit issuance/redemption data.</p>",
+    "usage": {
+      "prompt_tokens": 547,
+      "completion_tokens": 82,
+      "total_tokens": 629,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:36.005918"
+  },
+  {
+    "ticker": "AII",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965737",
+    "id": "02965737",
+    "pages": 9,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1644",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpw0m78ntl1.pdf",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 130,000 new CHESS Depositary Interests (CDIs) issued due to conversion of options (AIIAAR).  </li>\n<li><strong>Issue Price</strong>: AUD $1.25 per CDI.  </li>\n<li><strong>Issue Date</strong>: 03/07/2025.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total quoted CDIs (AII) increase to <strong>25,227,961</strong>.  </li>\n<li><strong>Outstanding Convertibles</strong>: Detailed list of unquoted options/warrants (e.g., 5,075,833 AIIAAR options remaining).  </li>\n</ul>\n<p><em>No material trading or capital structure impacts beyond standard option conversion.</em></p>",
+    "usage": {
+      "prompt_tokens": 2561,
+      "completion_tokens": 140,
+      "total_tokens": 2701,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:08.321845"
+  },
+  {
+    "ticker": "GRO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965736",
+    "id": "02965736",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1644",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpsxw1vh1jl.pdf",
+    "summary": "<ul>\n<li><strong>Net Monthly Redemptions &amp; Units on Issue (30 June 2025)</strong>  </li>\n<li><strong>Net Applications:</strong> 170,000 units ($656,666.02 AUD)  </li>\n<li><strong>Redemptions:</strong> 0 units ($0.00 AUD)  </li>\n<li><strong>Total Units on Issue:</strong> 15,538,095 units ($60,373,268.12 AUD at exit price)  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine monthly disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 534,
+      "completion_tokens": 101,
+      "total_tokens": 635,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:27.102611"
+  },
+  {
+    "ticker": "MDX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965734",
+    "id": "02965734",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1643",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpnjxxl5hht.pdf",
+    "summary": "<ul>\n<li><strong>EGM Results</strong>: All resolutions passed, including ratification of prior share issues and approval of option grants to key individuals (Benjamin Chow, Qinglong Zeng, Biaozhun Zhu).  </li>\n<li><strong>Voting Outcome</strong>: Overwhelming majority support (&gt;99.9%) for all resolutions; minimal opposition (&lt;0.1%) on option grants.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine governance approvals).</em></p>",
+    "usage": {
+      "prompt_tokens": 1245,
+      "completion_tokens": 88,
+      "total_tokens": 1333,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:47.413676"
+  },
+  {
+    "ticker": "COR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965735",
+    "id": "02965735",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1643",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpqrzdl0x0g.pdf",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>Net monthly redemptions/applications (30 June 2025):</strong>  </li>\n<li><strong>Net applications:</strong> 100,000 units (AUD $1,013,463.31)  </li>\n<li><strong>Net redemptions:</strong> Nil  </li>\n<li><strong>Total units on issue:</strong> 600,000 (AUD $6,172,500.00)  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified beyond disclosed flow metrics.</strong></p>",
+    "usage": {
+      "prompt_tokens": 537,
+      "completion_tokens": 97,
+      "total_tokens": 634,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:03.126238"
+  },
+  {
+    "ticker": "DGV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965733",
+    "id": "02965733",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1642",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfplf3fkkb3b.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Type</strong>: June 2025 estimated tax components for Dimensional Global Value Trust \u2013 Active ETF.  </li>\n<li><strong>Key Components (CPU)</strong>:  </li>\n<li><strong>Foreign sourced income</strong>: 29.750366  </li>\n<li><strong>NTAP capital gains (Discounted)</strong>: 29.848925  </li>\n<li><strong>Other non-attributable amounts</strong>: 30.045468  </li>\n<li><strong>Total cash distribution</strong>: 89.756536  </li>\n<li><strong>Foreign income tax offset</strong>: 5.257440  </li>\n<li><strong>Tax Credits</strong>: No franking credits or other offsets beyond the foreign income tax offset.  </li>\n<li><strong>Note</strong>: Estimates only; final tax details will be provided in the annual tax statement.  </li>\n</ul>\n<p>No material trading or capital markets impact identified\u2014purely tax disclosure for unit holders.</p>",
+    "usage": {
+      "prompt_tokens": 1420,
+      "completion_tokens": 164,
+      "total_tokens": 1584,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T06:59:04.732082"
+  },
+  {
+    "ticker": "XST",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965732",
+    "id": "02965732",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1641",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpj4zpyc023.pdf",
+    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Public Offer (Priority Offer to existing shareholders) + Placement (via Joint Lead Managers).<br />\n- <strong>Total Capital Raised:</strong> AUD $2M (min) to $3M (max), at $0.02 per share.<br />\n- <strong>Key Dates:</strong><br />\n  - Priority Offer closes 24 July 2025.<br />\n  - Shareholder Meeting for project acquisition/share issuance approval: 28 July 2025.  </p>\n<p><strong>Additional Material Info:</strong><br />\n- Share consolidation &amp; new share issuance pending shareholder approval (linked to Diona project acquisition).<br />\n- Joint Lead Managers: PAC Partners and BW Equities.  </p>\n<p><em>Note: Omitted boilerplate, registry contacts, and risk disclosures.</em></p>",
+    "usage": {
+      "prompt_tokens": 1498,
+      "completion_tokens": 152,
+      "total_tokens": 1650,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T07:00:00.958370"
+  },
+  {
     "ticker": "QLT",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965731",
     "id": "02965731",
@@ -8,15 +331,15 @@
     "date": "20250703",
     "time": "1636",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpdxng7p95z.pdf",
-    "summary": "<h3><strong>Material Information Summary (Betashares ETF Changes)</strong></h3>\n<h4><strong>Key Changes to Betashares Global Income Leaders ETF (INCM):</strong></h4>\n<ul>\n<li><strong>New Index &amp; Objective:</strong> Effective <strong>5 August 2025</strong>, the fund will track the <strong>S&amp;P World Ex-Australia High Dividend Aristocrats Select Index</strong> (previously Nasdaq Global Income Leaders Index).  </li>\n<li><strong>Rebranding:</strong> Renamed to <strong>Betashares S&amp;P Global High Dividend Aristocrats ETF</strong> (ASX code remains <strong>INCM</strong>).  </li>\n<li><strong>Fee Reduction:</strong> Management costs drop from <strong>0.45% p.a.</strong> to <strong>0.39% p.a.</strong> (no recoverable expenses).  </li>\n<li><strong>Index Methodology Shift:</strong> Focuses on companies with <strong>10+ years of stable/increasing dividends</strong>, targeting lower volatility and turnover.  </li>\n<li><strong>Portfolio Impact:</strong> Expected holdings: <strong>100\u2013200 stocks</strong>, sector/regional diversification aligned with global markets.  </li>\n</ul>\n<h4><strong>No Material Changes Identified for Other ETFs (ASIA, RBTZ, QLTY).</strong></h4>\n<p><strong>Trading Implication:</strong> Investors in <strong>INCM</strong> should review portfolio alignment post-index transition (effective 5 August 2025).  </p>\n<p><em>\u2014Extracted per ECM analyst guidelines\u2014</em></p>",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Change to ETF Index &amp; Strategy (INCM):</strong>  </li>\n<li><strong>Effective Date:</strong> 5 August 2025 (post-market close).  </li>\n<li><strong>New Index:</strong> S&amp;P World Ex-Australia High Dividend Aristocrats Select Index (replacing Nasdaq Global Income Leaders Index).  </li>\n<li>\n<p><strong>Key Changes:</strong>  </p>\n<ul>\n<li><strong>Lower Volatility &amp; Turnover:</strong> New index focuses on companies with 10+ years of stable/increasing dividends, aiming for broader market alignment.  </li>\n<li><strong>Reduced Fees:</strong> Management costs drop from <strong>0.45% p.a.</strong> to <strong>0.39% p.a.</strong>  </li>\n<li><strong>Name Change:</strong> Fund renamed to <em>Betashares S&amp;P Global High Dividend Aristocrats ETF</em> (ASX code remains <strong>INCM</strong>).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Index Methodology Highlights:</strong>  </p>\n</li>\n<li><strong>Selection Criteria:</strong>  <ul>\n<li>Excludes Australian/South Korean firms; requires $1B+ market cap, $5M+ average daily trading volume.  </li>\n<li>Caps individual security weights at 6%.  </li>\n</ul>\n</li>\n<li><strong>Rebalancing:</strong> Semi-annual (Jan/Jul).  </li>\n</ul>\n<p>No material changes announced for <strong>ASIA</strong>, <strong>RBTZ</strong>, or <strong>QLTY</strong>.  </p>\n<p><em>Note: This is a supplementary PDS; full details require review of the original PDS (29 September 2022).</em></p>",
     "usage": {
       "prompt_tokens": 7242,
-      "completion_tokens": 259,
-      "total_tokens": 7501,
+      "completion_tokens": 287,
+      "total_tokens": 7529,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:41:45.207914"
+    "processed_at": "2025-07-03T06:59:12.818426"
   },
   {
     "ticker": "DGS",
@@ -27,15 +350,15 @@
     "date": "20250703",
     "time": "1635",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfpbqp54gyx9.pdf",
-    "summary": "<ul>\n<li><strong>Estimated tax components for June 2025 distribution</strong>:  </li>\n<li><strong>Foreign sourced income</strong>: 25.834811 CPU  </li>\n<li><strong>NTAP capital gains (Discounted)</strong>: 22.454181 CPU  </li>\n<li><strong>Other non-assessable amounts</strong>: 22.615621 CPU  </li>\n<li><strong>Total cash distribution</strong>: 71.051339 CPU  </li>\n<li><strong>Foreign income tax offset</strong>: 4.210321 CPU  </li>\n</ul>\n<p><strong>No other material trading or capital markets information identified</strong>.</p>",
+    "summary": "<p><strong>June 2025 Distribution \u2013 Estimated Tax Components (Dimensional Global Small Company Trust \u2013 Active ETF):</strong><br />\n- <strong>Total Cash Distribution:</strong> 71.051339 CPU<br />\n- <strong>Key Tax Components:</strong><br />\n  - Foreign sourced income: 25.834811 CPU<br />\n  - NTAP capital gains (Discounted): 22.454181 CPU<br />\n  - Other non-assessable amounts: 22.615621 CPU<br />\n  - Foreign income tax offset: 4.210321 CPU<br />\n- <strong>No material franking credits or Australian dividends.</strong>  </p>\n<p><strong>Note:</strong> Tax components are estimates; final details will be provided in annual tax statements. No material trading or capital markets impact identified beyond distribution specifics.</p>",
     "usage": {
       "prompt_tokens": 1422,
-      "completion_tokens": 104,
-      "total_tokens": 1526,
+      "completion_tokens": 146,
+      "total_tokens": 1568,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:43:25.334871"
+    "processed_at": "2025-07-03T07:00:56.423760"
   },
   {
     "ticker": "DGC",
@@ -46,15 +369,15 @@
     "date": "20250703",
     "time": "1634",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfp8fgrk5qf4.pdf",
-    "summary": "<p><strong>June 2025 Distribution: Estimated Tax Component Information (Dimensional Global Core Equity Trust \u2013 Active ETF)</strong>  </p>\n<ul>\n<li><strong>Total Cash Distribution</strong>: 74.974355 cents per unit (CPU)  </li>\n<li><strong>Key Components</strong>:  </li>\n<li><strong>Foreign Sourced Income</strong>: 23.440617 CPU  </li>\n<li><strong>Non-Taxable Australian Property (NTAP) Capital Gains (Discounted)</strong>: 25.712110 CPU  </li>\n<li><strong>Other Non-Assessable Amounts</strong>: 25.724535 CPU  </li>\n<li><strong>Foreign Income Tax Offset</strong>: 3.991767 CPU  </li>\n<li><strong>No Franked Dividends or Australian Capital Gains</strong> (all zero components omitted).  </li>\n</ul>\n<p><strong>Note</strong>: All figures are estimates; final tax details will be in the annual tax statement. <strong>No material trading or capital markets impact</strong>; purely informational for tax purposes.</p>",
+    "summary": "<h3>Summary of Dimensional Global Core Equity Trust \u2013 Active ETF June 2025 Distribution Tax Components:</h3>\n<ul>\n<li><strong>Total Cash Distribution</strong>: <strong>74.974355</strong> cents per unit  </li>\n<li><strong>Key Tax Components</strong>:  </li>\n<li><strong>Foreign sourced income</strong>: <strong>23.440617</strong> CPU  </li>\n<li><strong>NTAP Discounted Capital Gains</strong>: <strong>25.712110</strong> CPU  </li>\n<li><strong>Other non-attributable amounts (non-assessable)</strong>: <strong>25.724535</strong> CPU  </li>\n<li><strong>Foreign income tax offset</strong>: <strong>3.991767</strong> CPU  </li>\n</ul>\n<p>No other material information (operational, trading, or structural) identified.</p>",
     "usage": {
       "prompt_tokens": 1423,
-      "completion_tokens": 177,
-      "total_tokens": 1600,
+      "completion_tokens": 133,
+      "total_tokens": 1556,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:43:28.444086"
+    "processed_at": "2025-07-03T07:00:58.349832"
   },
   {
     "ticker": "NUC",
@@ -65,15 +388,15 @@
     "date": "20250703",
     "time": "1633",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfp69nf3jymm.pdf",
-    "summary": "<ul>\n<li><strong>Cleansing Notice</strong>: Nuchev Limited issued 333,333 new fully paid ordinary shares without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li><strong>Compliance</strong>: As of the notice date, the company confirms compliance with ongoing reporting obligations (Chapter 2M and sections 674/674A of the Act).  </li>\n<li><strong>No Excluded Information</strong>: No material undisclosed information requiring disclosure under sections 708A(7) and 708A(8).  </li>\n</ul>\n<p><em>No further material trading or capital markets information identified.</em></p>",
+    "summary": "<p><strong>Cleansing Notice Summary (Nuchev Limited - ASX:NUC):</strong><br />\n- <strong>Shares Issued:</strong> 333,333 Fully Paid Ordinary Shares issued on 3 July 2025 without disclosure under Part 6D.2 of the Corporations Act.<br />\n- <strong>Compliance Status:</strong> Company confirms compliance with ongoing reporting obligations (Chapter 2M, sections 674/674A).<br />\n- <strong>No Excluded Information:</strong> No material undisclosed information per sections 708A(7)-(8).  </p>\n<p><em>Note: No material trading/capital markets impact beyond standard disclosure of share issuance.</em></p>",
     "usage": {
-      "prompt_tokens": 704,
-      "completion_tokens": 113,
-      "total_tokens": 817,
+      "prompt_tokens": 702,
+      "completion_tokens": 123,
+      "total_tokens": 825,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:41:00.174652"
+    "processed_at": "2025-07-03T06:58:55.400303"
   },
   {
     "ticker": "DAC",
@@ -84,18 +407,18 @@
     "date": "20250703",
     "time": "1633",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfp44rhpbgfn.pdf",
-    "summary": "<ul>\n<li><strong>June 2025 Distribution Estimate</strong>: 7.234423 cents per unit (CPU)  </li>\n<li><strong>Key Tax Components (CPU)</strong>:</li>\n<li>Net franked dividends: 4.618644  </li>\n<li>Unfranked dividends (Conduit Foreign Income): 0.718949  </li>\n<li>Foreign sourced income: 0.232724  </li>\n<li>Franking credits: 2.404209  </li>\n<li>Foreign income tax offset: 0.014608  </li>\n</ul>\n<p><em>Note: No material capital gains or other significant non-assessable amounts reported.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type: ETF Distribution Tax Components</strong>  </p>\n<ul>\n<li><strong>Total Cash Distribution:</strong> 7.234423 CPU (cents per unit).  </li>\n<li><strong>Key Tax Components:</strong>  </li>\n<li><strong>Franked Dividends:</strong> 4.618644 CPU (with franking credits of 2.404209 CPU).  </li>\n<li><strong>Unfranked Dividends (Conduit Foreign Income):</strong> 0.718949 CPU.  </li>\n<li><strong>Foreign Sourced Income:</strong> 0.232724 CPU (foreign income tax offset: 0.014608 CPU).  </li>\n<li><strong>Other Non-Assessable Amounts:</strong> 0.024395 CPU.  </li>\n<li><strong>No material capital gains distributions</strong> (all TAP/NTAP categories zero).  </li>\n</ul>\n<p><strong>Note:</strong> Estimates only; final tax details will be provided in annual tax statements.  </p>\n<p><strong>No material trading or capital markets impact identified.</strong>  </p>\n<hr />\n<p><em>Omitted: Standard disclaimers, non-material breakdowns, and jurisdictional tax specifics.</em></p>",
     "usage": {
       "prompt_tokens": 1425,
-      "completion_tokens": 119,
-      "total_tokens": 1544,
+      "completion_tokens": 213,
+      "total_tokens": 1638,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:40:46.757174"
+    "processed_at": "2025-07-03T06:58:48.115830"
   },
   {
-    "ticker": "DAC",
+    "ticker": "DGV",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965726",
     "id": "02965726",
     "pages": 1,
@@ -103,15 +426,15 @@
     "date": "20250703",
     "time": "1632",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfp1wmjyjzj8.pdf",
-    "summary": "<ul>\n<li><strong>DRP Issue Prices (AUD per unit):</strong>  </li>\n<li>DACE: $17.1887  </li>\n<li>DAVA: $27.1416  </li>\n<li>DGCE: $27.8716  </li>\n<li>DGVA: $24.5997  </li>\n<li>DGSM: $34.3251  </li>\n<li><strong>DRP Processing Date:</strong> 16 July 2025.  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>DRP Issue Prices</strong>:  </li>\n<li>DACE: <strong>A$17.1887/unit</strong>  </li>\n<li>DAVA: <strong>A$27.1416/unit</strong>  </li>\n<li>DGCE: <strong>A$27.8716/unit</strong>  </li>\n<li>DGVA: <strong>A$24.5997/unit</strong>  </li>\n<li>DGSM: <strong>A$34.3251/unit</strong>  </li>\n<li><strong>DRP Processing Date</strong>: 16 July 2025.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 936,
-      "completion_tokens": 97,
-      "total_tokens": 1033,
+      "completion_tokens": 112,
+      "total_tokens": 1048,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:42:09.802367"
+    "processed_at": "2025-07-03T06:59:45.737829"
   },
   {
     "ticker": "NUC",
@@ -122,15 +445,15 @@
     "date": "20250703",
     "time": "1630",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfnzh5xkxz5t.pdf",
-    "summary": "<h3>Summary of ASX Announcement (NUCHEV LIMITED)</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Appendix 2A \u2013 Quotation of new securities  </li>\n<li><strong>Security Issue</strong>: 333,333 fully paid ordinary shares (NUC) issued upon conversion of share rights (NUCAH).  </li>\n<li><strong>Issue Date</strong>: 03/07/2025.  </li>\n<li><strong>Consideration</strong>: Nil (issued under Nuchev's Equity Incentive Plan at no cost).  </li>\n<li><strong>Estimated Value</strong>: $0.30 per share (implied by exercise price).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Total ordinary shares (NUC): <strong>146,672,636</strong>.  </li>\n<li>Unquoted share rights (NUCAH): <strong>6,762,539</strong>.  </li>\n<li>Unquoted options:  <ul>\n<li>NUCAO (exp 30-Jul-2025, ex $0.30): <strong>6,421,322</strong>.  </li>\n<li>NUCAP (exp 30-Jul-2026, ex $0.36): <strong>7,407,700</strong>.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>Key Impact</strong>: Slight dilution (~0.23% increase in ordinary shares) from equity incentive plan conversion. No cash raised.</p>",
+    "summary": "<ul>\n<li><strong>Type of Issue</strong>: Conversion of 333,333 Share Rights (NUCAH) to Ordinary Fully Paid Shares (NUC) under Nuchev's Equity Incentive Plan (EIP).  </li>\n<li><strong>Issue Date</strong>: 03/07/2025.  </li>\n<li><strong>Consideration</strong>: Nil (rights issued at no cost; deemed value AUD 0.30 per share).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Ordinary Shares (NUC): 146,672,636 (quoted).  </li>\n<li>Unquoted Securities:  <ul>\n<li>Share Rights (NUCAH): 6,762,539.  </li>\n<li>Options (NUCAO): 6,421,322 (exp 30-Jul-2025, $0.30 exercise).  </li>\n<li>Options (NUCAP): 7,407,700 (exp 30-Jul-2026, $0.36 exercise).  </li>\n</ul>\n</li>\n<li><strong>Key Management Involvement</strong>: Michael Myers exercised all 333,333 rights.  </li>\n</ul>\n<p><em>Note: No material capital raising, trading halt, or operational/financial updates identified.</em></p>",
     "usage": {
       "prompt_tokens": 1650,
-      "completion_tokens": 256,
-      "total_tokens": 1906,
+      "completion_tokens": 232,
+      "total_tokens": 1882,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T06:41:10.863661"
+    "processed_at": "2025-07-03T06:59:02.265668"
   },
   {
     "ticker": "CTW",
