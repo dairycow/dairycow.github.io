@@ -1,6 +1,462 @@
 [
   {
-    "ticker": "BAO",
+    "ticker": "GG8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965695",
+    "id": "02965695",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1548",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflq3361wnhx.pdf",
+    "summary": "<p>Understood. Please provide the ASX announcement PDF (or its text), and I will extract the strictly material information in the requested concise format, tailored to the announcement type. </p>\n<p>Without the document content, I can only provide a placeholder example based on common ASX announcement types. For instance:</p>\n<p><strong>Trading Halt Request Example:</strong><br />\n- Reason: Pending announcement of capital raise.</p>\n<p><strong>Capital Raising Announcement Example:</strong><br />\n- Structure: Placement + SPP.<br />\n- Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M).<br />\n- Key dates: Ex-date 15/05, Record 17/05, SPP closes 31/05.  </p>\n<p><strong>Appendix 4C Example:</strong><br />\n- Cash receipts: AUD 3.5M (QoQ +20%).<br />\n- Cash balance: AUD 8.2M (prior quarter: AUD 5.1M).  </p>\n<p><strong>Other Announcement Example:</strong><br />\n- Strategic acquisition: AUD 25M for [Asset], funded via debt.<br />\n- Key condition: FIRB approval required.  </p>\n<p>Attach the PDF/text and I will analyze it as instructed.</p>",
+    "usage": {
+      "prompt_tokens": 223,
+      "completion_tokens": 243,
+      "total_tokens": 466,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:02.385412"
+  },
+  {
+    "ticker": "GBZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965694",
+    "id": "02965694",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1547",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflmsc7s5rpt.pdf",
+    "summary": "<p>Understood. Provide the ASX announcement PDF or its key details, and I will extract <strong>only</strong> the material information for trading/capital markets decisions in the strict format requested.  </p>\n<p>Example outputs based on common scenarios:  </p>\n<hr />\n<p><strong>Trading Halt Request:</strong><br />\n- Halt requested pending release of capital raising details.  </p>\n<p><strong>Capital Raising Announcement (Placement + SPP):</strong><br />\n- Placement: AUD 50M at AUD 2.00/share (8% discount to last close).<br />\n- SPP: AUD 10M cap, same price. Key dates: Ex-date 15/10, Record 18/10, Close 30/10.  </p>\n<p><strong>Quarterly Report (Appendix 4C):</strong><br />\n- Cash balance: AUD 12.5M (QoQ -AUD 1.8M).<br />\n- Revenue AUD 5.2M (+22% QoQ). No debt.  </p>\n<p><strong>Material Contract Signed:</strong><br />\n- 3-year supply deal with Tier-1 miner; expected EBITDA uplift AUD 4M/year from FY25.  </p>\n<p><strong>No Material Information Identified:</strong><br />\n- Routine director appointment notice.  </p>\n<hr />\n<p>Attach the document or paste text, and I\u2019ll reply accordingly.</p>",
+    "usage": {
+      "prompt_tokens": 228,
+      "completion_tokens": 259,
+      "total_tokens": 487,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:58.077487"
+  },
+  {
+    "ticker": "WGX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965693",
+    "id": "02965693",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1546",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflklcxl6km5.pdf",
+    "summary": "<h3>Summary:</h3>\n<ul>\n<li><strong>Director share transaction (Gary Davison, indirect interest)</strong>:  </li>\n<li><strong>34,350 ordinary shares</strong> acquired on-market at <strong>A$2.91/share</strong> via G&amp;M Davison Superfund Pty Ltd.  </li>\n<li><strong>Total holding post-transaction</strong>: 34,350 shares.  </li>\n<li><strong>Closed period trade</strong>: Cleared in advance (1 July 2025).  </li>\n</ul>\n<p>No other material capital markets or trading impact.</p>",
+    "usage": {
+      "prompt_tokens": 1010,
+      "completion_tokens": 96,
+      "total_tokens": 1106,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:14.456338"
+  },
+  {
+    "ticker": "GG8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965692",
+    "id": "02965692",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1546",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflhfh9m6vtw.pdf",
+    "summary": "<p><strong>Appendix 3Y Summary (Change of Director\u2019s Interest Notice)</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Alex Hewlett  </li>\n<li><strong>Change Details</strong>: Exercise of performance rights (Tranche A/B/C) for <strong>6,804,126 ordinary shares</strong>.  </li>\n<li><strong>Consideration</strong>: Non-cash (estimated value: <strong>$2,619,589</strong>).  </li>\n<li><strong>Resulting Holdings</strong>:  </li>\n<li><strong>62,989,693 shares</strong> (via Elefantino Pty Ltd ATF Talula Trust).  </li>\n<li><strong>357,143 shares</strong> (via Elefantino Super Fund).  </li>\n<li><strong>No closed period trading</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1051,
+      "completion_tokens": 138,
+      "total_tokens": 1189,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:49.082851"
+  },
+  {
+    "ticker": "GG8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965691",
+    "id": "02965691",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1544",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflf364rkvk9.pdf",
+    "summary": "<ul>\n<li><strong>Issue of Shares</strong>: 12,625,434 fully paid ordinary shares issued via exercise of vested performance rights (previously issued to Distilled Analytics Pty Ltd vendors in September 2024).  </li>\n<li><strong>Cleansing Notice</strong>: Issued under Section 708A(5)(e) of Corporations Act (no disclosure under Part 6D.2).  </li>\n<li><strong>Compliance Confirmed</strong>: Company confirms compliance with Chapter 2M (financial reporting) and Sections 674/674A (continuous disclosure) of the Act.  </li>\n</ul>\n<p><em>No material trading or capital-raising impacts identified (routine cleansing notice).</em></p>",
+    "usage": {
+      "prompt_tokens": 695,
+      "completion_tokens": 126,
+      "total_tokens": 821,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:34.674481"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965690",
+    "id": "02965690",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1544",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflbvlxc3yrw.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: The announcement primarily discloses a fund distribution figure (9.615098 cents per unit) but lacks material trading or capital markets impact. It serves as a routine distribution notice without relevant capital structure, liquidity, or valuation implications.)</p>",
+    "usage": {
+      "prompt_tokens": 523,
+      "completion_tokens": 54,
+      "total_tokens": 577,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:32.018970"
+  },
+  {
+    "ticker": "GG8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965689",
+    "id": "02965689",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1543",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfl8rb6hyjfy.pdf",
+    "summary": "<ul>\n<li><strong>New Securities Issuance</strong>: 12,625,434 ordinary fully paid shares (GG8) to be quoted, resulting from conversion of performance rights (GG8AD) on 02/07/2025.  </li>\n<li><strong>Consideration</strong>: Conversion of vested performance rights from Distilled Analytics Pty Ltd acquisition (September 2024), implied value <strong>A$0.385 per share</strong>.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue <strong>640,555,981</strong>; unquoted securities include options and residual performance rights (details in announcement).  </li>\n</ul>\n<p>No material impact on liquidity or capital structure (existing class issuance).</p>",
+    "usage": {
+      "prompt_tokens": 1542,
+      "completion_tokens": 134,
+      "total_tokens": 1676,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:52.567699"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965688",
+    "id": "02965688",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1543",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfl6nl7yz7gd.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a routine fund distribution announcement with no capital markets, trading, or liquidity impact. It does not pertain to equity capital markets decisions.)</p>",
+    "usage": {
+      "prompt_tokens": 523,
+      "completion_tokens": 38,
+      "total_tokens": 561,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:53:31.794749"
+  },
+  {
+    "ticker": "KSN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965687",
+    "id": "02965687",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1542",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfl4g2db94pj.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending release of an announcement regarding the outcome of a key condition precedent for the Proposed Sale of the Misima Gold Project.  </li>\n<li><strong>Duration</strong>: Halt remains until the earlier of normal trading on <strong>7 July 2025</strong> or announcement release.  </li>\n<li><strong>Materiality</strong>: Proposed transaction is material to the company.  </li>\n</ul>\n<p><em>(Omitted boilerplate and non-material details.)</em></p>",
+    "usage": {
+      "prompt_tokens": 744,
+      "completion_tokens": 86,
+      "total_tokens": 830,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:25.290868"
+  },
+  {
+    "ticker": "MYE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965686",
+    "id": "02965686",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1542",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfl295kn0mqm.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Director appointment announcements are typically non-material unless accompanied by equity interests, strategic changes, or unusual circumstances. This is a routine ASX compliance filing.)</em></p>",
+    "usage": {
+      "prompt_tokens": 908,
+      "completion_tokens": 38,
+      "total_tokens": 946,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:05.598134"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965685",
+    "id": "02965685",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1541",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfl01l8x90q4.pdf",
+    "summary": "<p><strong>Summary of mFund Distribution Announcement:</strong>  </p>\n<ul>\n<li><strong>Fund Name:</strong> Janus Henderson Diversified Credit Fund (JHI04)  </li>\n<li><strong>Distribution Period End:</strong> 30/06/2025  </li>\n<li><strong>Distribution Amount:</strong> 0.955445 cents per unit  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 517,
+      "completion_tokens": 68,
+      "total_tokens": 585,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:24.838514"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965684",
+    "id": "02965684",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1540",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkxrxjtxs4z.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (mFund Distribution Notice):</strong>  </p>\n<ul>\n<li><strong>Fund Name:</strong> Janus Henderson Tactical Income Fund (mFund code: JHI02)  </li>\n<li><strong>Distribution Period End:</strong> 30 June 2025  </li>\n<li><strong>Distribution Amount:</strong> 1.487654 cents per unit  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 519,
+      "completion_tokens": 76,
+      "total_tokens": 595,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:17.939241"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965683",
+    "id": "02965683",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1539",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkvh7qh1t15.pdf",
+    "summary": "<p><strong>Summary - Fund Redemption Report (mFund):</strong><br />\n- <strong>Fund Name:</strong> Janus Henderson Global Multi-Strategy Fund (JHI06)<br />\n- <strong>Redemptions (30 June 2025):</strong><br />\n  - Units redeemed: 8,366,349<br />\n  - Value redeemed: <strong>A$9,250,758</strong>  </p>\n<p><strong>No material trading or capital markets impact identified</strong> (routine fund flow disclosure).</p>",
+    "usage": {
+      "prompt_tokens": 527,
+      "completion_tokens": 90,
+      "total_tokens": 617,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:22.129605"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965682",
+    "id": "02965682",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1538",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfks7ndqlfth.pdf",
+    "summary": "<p>No material information identified.<br />\n<em>(The announcement is a routine monthly fund redemption report with no trading or capital markets impact.)</em></p>",
+    "usage": {
+      "prompt_tokens": 527,
+      "completion_tokens": 26,
+      "total_tokens": 553,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:53:45.680030"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965681",
+    "id": "02965681",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1537",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkpyzm6p86c.pdf",
+    "summary": "<ul>\n<li><strong>Fund Redemption Report (mFund)</strong>:  </li>\n<li><strong>Units Redeemed</strong>: 4,538,529  </li>\n<li><strong>Value of Redemptions</strong>: AUD $4,855,741  </li>\n</ul>\n<p><em>No other material information identified for trading/capital markets decisions.</em>  </p>\n<p><em>(Note: Fund flows may marginally impact liquidity but are routine for mFund disclosures.)</em></p>",
+    "usage": {
+      "prompt_tokens": 523,
+      "completion_tokens": 76,
+      "total_tokens": 599,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:42.364749"
+  },
+  {
+    "ticker": "JHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965680",
+    "id": "02965680",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1536",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkmrgnd6gg4.pdf",
+    "summary": "<p>No material information identified. (Note: Fund redemption data is routine operational disclosure and not typically material for trading or capital markets decisions unless exceptionally large in context of the fund's total AUM.)</p>",
+    "usage": {
+      "prompt_tokens": 523,
+      "completion_tokens": 39,
+      "total_tokens": 562,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:38.514482"
+  },
+  {
+    "ticker": "KSN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965679",
+    "id": "02965679",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1536",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkkp8kgp01r.pdf",
+    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Pending a further announcement.  </p>\n<p><em>(Note: No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 289,
+      "completion_tokens": 27,
+      "total_tokens": 316,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:04.066565"
+  },
+  {
+    "ticker": "GCQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965678",
+    "id": "02965678",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1535",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkhf48pskjz.pdf",
+    "summary": "<ul>\n<li><strong>ETF Units Data (GCQF) as at 30 June 2025</strong>  </li>\n<li><strong>Total units on issue</strong>: 23,420,000  </li>\n<li><strong>Net asset value per unit</strong>: $5.16  </li>\n<li>\n<p><strong>Net Fund Assets</strong>: $120,954,932.00  </p>\n</li>\n<li>\n<p><strong>Monthly Unit Movements (June 2025)</strong>  </p>\n</li>\n<li><strong>Units issued</strong>: 4,850,000  </li>\n<li><strong>Units redeemed</strong>: 0  </li>\n<li><strong>Net increase in units</strong>: 4,850,000  </li>\n<li><strong>Value of units issued</strong>: $24,942,000.00  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine monthly disclosure).</p>",
+    "usage": {
+      "prompt_tokens": 676,
+      "completion_tokens": 146,
+      "total_tokens": 822,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:20.625936"
+  },
+  {
+    "ticker": "NWG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965677",
+    "id": "02965677",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1534",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkf6mcvlfg0.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li><strong>Fund</strong>: Janus Henderson Global Natural Resources Fund (mFund code: NWG01)  </li>\n<li><strong>Distribution</strong>: $0.885694 per unit for period ending <strong>30 June 2025</strong>  </li>\n</ul>\n<p><em>No material trading or capital markets decision information identified (routine distribution update).</em></p>",
+    "usage": {
+      "prompt_tokens": 518,
+      "completion_tokens": 69,
+      "total_tokens": 587,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:13.967389"
+  },
+  {
+    "ticker": "FPR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965676",
+    "id": "02965676",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1534",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfkc160b5d6f.pdf",
+    "summary": "<ul>\n<li><strong>Capital Structure Impact</strong>: On-market buy-back of 2,882,268 ordinary shares (ASX: FPR) at total cost of <strong>AUD 8,643,560</strong>, cancelled on 30/06/2025.  </li>\n<li><strong>Post-Cancellation Issued Capital</strong>:  </li>\n<li>Quoted ordinary shares: <strong>221,776,047</strong>  </li>\n<li>Unquoted performance rights: <strong>3,427,032</strong>  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1053,
+      "completion_tokens": 101,
+      "total_tokens": 1154,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:52:23.622994"
+  },
+  {
+    "ticker": "NWG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965674",
+    "id": "02965674",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1533",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfk6vq43gjyz.pdf",
+    "summary": "<p>No material information identified for trading or capital markets decisions.  </p>\n<p>(Note: This is a routine mFund redemption report disclosing standard monthly redemption activity, which does not materially impact capital structure, liquidity, or valuation. Key figures like redemption volume/value are typical periodic disclosures without actionable implications.)</p>",
+    "usage": {
+      "prompt_tokens": 526,
+      "completion_tokens": 58,
+      "total_tokens": 584,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:46.785723"
+  },
+  {
+    "ticker": "LHG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965673",
+    "id": "02965673",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1533",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfk4qc5sjg32.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Document Type:</strong> Distribution Announcement  </p>\n<h4>Material Information:</h4>\n<ul>\n<li><strong>Distribution Amount:</strong> 27.1335 cents per unit (for year ended 30 June 2025).  </li>\n<li><strong>Key Dates:</strong>  </li>\n<li>Ex-distribution Date: 1 July 2025  </li>\n<li>Record Date: 2 July 2025  </li>\n<li>DRP Election Date: 3 July 2025  </li>\n<li>Payment Date: 18 July 2025  </li>\n<li><strong>DRP Participation:</strong> Reinvestment Plan active; election deadline 3 July 2025.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 517,
+      "completion_tokens": 138,
+      "total_tokens": 655,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:22.555671"
+  },
+  {
+    "ticker": "GTN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965675",
+    "id": "02965675",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1533",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfk8xxb448z1.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 184,337 GTN ordinary shares ceased due to an <strong>on-market buy-back</strong>.  </li>\n<li><strong>Date of Cessation</strong>: 03/07/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 190,665,797 GTN ordinary shares remain outstanding.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1000,
+      "completion_tokens": 76,
+      "total_tokens": 1076,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:53:33.644621"
+  },
+  {
+    "ticker": "LF1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965672",
+    "id": "02965672",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1531",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfk264dzpt3f.pdf",
+    "summary": "<ul>\n<li><strong>Monthly NTA Update (30 June 2025)</strong>: Unaudited Net Tangible Asset (NTA) per unit = <strong>A$2.00</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 371,
+      "completion_tokens": 44,
+      "total_tokens": 415,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T05:51:49.963643"
+  },
+  {
+    "ticker": "DAO",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965671",
     "id": "02965671",
     "pages": 2,
@@ -8,15 +464,15 @@
     "date": "20250703",
     "time": "1523",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfjyml383t79.pdf",
-    "summary": "<ul>\n<li><strong>Final Distribution Announcement</strong>  </li>\n<li><strong>BAOR (Aoris International Fund - Class B Unhedged)</strong>: Final distribution of <strong>$0.20629192 per unit</strong>.  </li>\n<li><strong>DAOR (Aoris International Fund - Class D Hedged)</strong>: <strong>Nil distribution</strong>.  </li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Ex-Distribution Date: <strong>01 July 2025</strong>  </li>\n<li>Record Date: <strong>02 July 2025</strong>  </li>\n<li>Payment Date: <strong>25 July 2025</strong>.  </li>\n</ul>\n</li>\n</ul>\n<p><em>(No other material trading or capital markets information identified.)</em></p>",
+    "summary": "<ul>\n<li><strong>Final Distribution Announcement</strong>  </li>\n<li><strong>BAOR (Aoris International Fund - Class B Unhedged):</strong> $0.20629192 per unit  </li>\n<li><strong>DAOR (Aoris International Fund - Class D Hedged):</strong> Nil distribution  </li>\n<li><strong>Key Dates:</strong>  <ul>\n<li>Ex-Distribution Date: 01 July 2025  </li>\n<li>Record Date: 02 July 2025  </li>\n<li>Payment Date: 25 July 2025  </li>\n</ul>\n</li>\n</ul>\n<p><em>(No other material information identified for trading or capital markets decisions.)</em></p>",
     "usage": {
       "prompt_tokens": 981,
-      "completion_tokens": 123,
-      "total_tokens": 1104,
+      "completion_tokens": 115,
+      "total_tokens": 1096,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T05:36:59.561551"
+    "processed_at": "2025-07-03T05:53:48.048971"
   },
   {
     "ticker": "LEV",
@@ -27,15 +483,15 @@
     "date": "20250703",
     "time": "1523",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfjwjv4rmp3x.pdf",
-    "summary": "<ul>\n<li><strong>Fund</strong>: First Sentier Geared Australian Share Fund Complex ETF (ASX: LEVR)  </li>\n<li><strong>Total units on issue</strong>: 60,022,534 (value: AUD $97.88m)  </li>\n<li><strong>Monthly units issued</strong>: 2,670,689 (value: AUD $4.34m)  </li>\n<li><strong>Monthly units redeemed</strong>: 352,097 (value: AUD -$0.57m)  </li>\n<li><strong>Net units issued</strong>: 2,318,592 (value: AUD $3.76m)  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>ASX Code</strong>: LEVR  </li>\n<li><strong>Fund</strong>: First Sentier Geared Australian Share Fund Complex ETF  </li>\n<li><strong>Total units on issue</strong>: 60,022,534 (Value: AUD $97,879,831)  </li>\n<li><strong>Units issued (June 2025)</strong>: 2,670,689 (Value: AUD $4,336,433)  </li>\n<li><strong>Units redeemed (June 2025)</strong>: 352,097 (Value: AUD -$572,119)  </li>\n<li><strong>Net units issued/redeemed (June 2025)</strong>: 2,318,592 (Value: AUD $3,764,314)  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine monthly units update).</p>",
     "usage": {
       "prompt_tokens": 632,
-      "completion_tokens": 126,
-      "total_tokens": 758,
+      "completion_tokens": 154,
+      "total_tokens": 786,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T05:34:57.924971"
+    "processed_at": "2025-07-03T05:51:26.966628"
   },
   {
     "ticker": "GHY",
@@ -46,15 +502,15 @@
     "date": "20250703",
     "time": "1520",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfjst57twvws.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Placement<br />\n- <strong>Total Capital Raised:</strong> AUD 14.5 million (at AUD 0.70/share, 22% premium to last close of AUD 0.575)<br />\n- <strong>Key Dates:</strong><br />\n  - Mitsubishi Gas Chemical &amp; ENEOS Xplora \u2013 Allotment on <strong>9 July 2025</strong><br />\n  - Toyota Motor Corporation \u2013 Allotment on <strong>18 July 2025</strong>  </p>\n<p><strong>Strategic Collaboration Highlights:</strong><br />\n- Partners: <strong>Toyota, Mitsubishi Gas Chemical, ENEOS Xplora</strong> (global leaders in hydrogen/helium/energy)<br />\n- Focus areas:<br />\n  1. Exploration &amp; commercialization of natural hydrogen &amp; helium (Ramsay Project, South Australia)<br />\n  2. Hydrogen supply for mobility/industrial uses, fuel cells, power generation<br />\n  3. Future R&amp;D (purification tech, green methanol production)  </p>\n<p><strong>Upcoming Catalyst:</strong><br />\n- <strong>Q4 2025:</strong> Drilling program at Ramsay Project to appraise hydrogen/helium accumulations.  </p>\n<p><strong>Operational Context (from prior results):</strong><br />\n- Ramsay Project assays showed <strong>up to 95% hydrogen purity</strong> and <strong>36.9% helium purity</strong>.  </p>\n<p>No further material information identified.  </p>\n<hr />\n<p><em>(Omitted: Director commentary, partner background, non-material operational updates.)</em></p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Capital Raising Announcement</strong></h4>\n<ul>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Total Capital Raised</strong>: <strong>AUD 14.5 million</strong> at <strong>AUD 0.70/share</strong> (22% premium to last close of AUD 0.575).  </li>\n<li><strong>Strategic Investors</strong>: Toyota Motor Corporation, Mitsubishi Gas Chemical, ENEOS Xplora.  </li>\n<li><strong>Use of Proceeds</strong>: Fund Q4 2025 drilling program (appraisal of Ramsay Project's hydrogen/helium resources).  </li>\n<li><strong>Settlement Dates</strong>:  </li>\n<li>Mitsubishi Gas Chemical &amp; ENEOS Xplora: <strong>9 July 2025</strong>  </li>\n<li>Toyota Motor Corporation: <strong>18 July 2025</strong>.  </li>\n</ul>\n<h4><strong>Strategic Collaboration Highlights</strong></h4>\n<ul>\n<li>Focus on hydrogen/helium <strong>supply for mobility, industrial uses, and green methanol production</strong>.  </li>\n<li>Formation of a <strong>working group</strong> for feasibility studies, offtake agreements, and downstream commercialization.  </li>\n</ul>\n<h4><strong>Project Update</strong></h4>\n<ul>\n<li><strong>Previous drilling results</strong>: Up to <strong>95% hydrogen purity</strong> and <strong>36.9% helium purity</strong> confirmed (Ramsay Project, PEL687).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 5401,
-      "completion_tokens": 293,
-      "total_tokens": 5694,
+      "completion_tokens": 253,
+      "total_tokens": 5654,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T05:36:53.081035"
+    "processed_at": "2025-07-03T05:53:06.853823"
   },
   {
     "ticker": "ELD",
@@ -65,15 +521,15 @@
     "date": "20250703",
     "time": "1514",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfjpglwstpfz.pdf",
-    "summary": "<ul>\n<li><strong>Dividend Reinvestment Plan (DRP) Issuance</strong>: 1,013,848 new ordinary shares (ELD) issued under Elders' HY25 interim dividend DRP.  </li>\n<li><strong>Issue Price</strong>: AUD 6.2463 per share.  </li>\n<li><strong>Issue Date</strong>: 27 June 2025.  </li>\n<li><strong>Post-Issue Capital Structure</strong>: Total ordinary shares on issue: 191,211,193; performance rights (unquoted): 1,773,648.  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Dividend Reinvestment Plan (DRP) issuance  </li>\n<li><strong>Securities Issued</strong>: 1,013,848 new fully paid ordinary shares (ASX: ELD)  </li>\n<li><strong>Issue Date</strong>: 27/06/2025  </li>\n<li><strong>Issue Price</strong>: AUD 6.2463 per share (DRP-linked to HY25 interim dividend)  </li>\n<li><strong>Post-Issue Capital</strong>: 191,211,193 ELD ordinary shares outstanding  </li>\n<li><strong>Non-Material</strong>: No capital raising, no trading halt, purely DRP-related dilution (~0.5% of issued capital).  </li>\n</ul>\n<p><em>Note: Routine DRP issuance with minimal impact on capital structure.</em></p>",
     "usage": {
       "prompt_tokens": 1300,
-      "completion_tokens": 115,
-      "total_tokens": 1415,
+      "completion_tokens": 145,
+      "total_tokens": 1445,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T05:36:55.011599"
+    "processed_at": "2025-07-03T05:53:20.105639"
   },
   {
     "ticker": "WOA",
@@ -84,15 +540,15 @@
     "date": "20250703",
     "time": "1512",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfjm134t4244.pdf",
-    "summary": "<ul>\n<li><strong>All resolutions passed</strong> at the General Meeting (3 July 2025).  </li>\n<li><strong>Key resolutions approved</strong>:  </li>\n<li>Ratification of prior <strong>Placement Shares</strong> issuance (Resolutions 1a, 1b).  </li>\n<li>Approval to issue <strong>Placement Options</strong> (Resolution 2).  </li>\n<li>Director/executive participation in <strong>Placement</strong> (Resolutions 3a\u20137b).  </li>\n<li>Approval for <strong>Share Purchase Plan (SPP)</strong> issuance (Resolutions 9a, 9b).  </li>\n</ul>\n<p><em>No material financial or timetable details provided.</em></p>",
+    "summary": "<ul>\n<li><strong>All resolutions passed</strong> at the General Meeting, including:  </li>\n<li>Ratification of prior share placements  </li>\n<li>Approval for director/executive participation in placements  </li>\n<li>Approval for Share Purchase Plan (SPP) issuance  </li>\n<li>No new material capital structure or trading details disclosed.  </li>\n</ul>\n<p><em>No material trading or capital markets action required based on this announcement.</em></p>",
     "usage": {
       "prompt_tokens": 1974,
-      "completion_tokens": 123,
-      "total_tokens": 2097,
+      "completion_tokens": 75,
+      "total_tokens": 2049,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-03T05:33:29.065664"
+    "processed_at": "2025-07-03T05:51:05.145869"
   },
   {
     "ticker": "VTX",
