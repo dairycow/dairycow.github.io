@@ -1,0 +1,19 @@
+{
+  "ticker": "GBZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965694",
+  "id": "02965694",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250703",
+  "time": "1547",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflmsc7s5rpt.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or its key details, and I will extract **only** the material information for trading/capital markets decisions in the strict format requested.  \n\nExample outputs based on common scenarios:  \n\n---  \n**Trading Halt Request:**  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Placement: AUD 50M at AUD 2.00/share (8% discount to last close).  \n- SPP: AUD 10M cap, same price. Key dates: Ex-date 15/10, Record 18/10, Close 30/10.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.5M (QoQ -AUD 1.8M).  \n- Revenue AUD 5.2M (+22% QoQ). No debt.  \n\n**Material Contract Signed:**  \n- 3-year supply deal with Tier-1 miner; expected EBITDA uplift AUD 4M/year from FY25.  \n\n**No Material Information Identified:**  \n- Routine director appointment notice.  \n\n---  \nAttach the document or paste text, and I\u2019ll reply accordingly.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 259,
+    "total_tokens": 487,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T05:51:58.077487"
+}

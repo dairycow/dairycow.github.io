@@ -1,0 +1,19 @@
+{
+  "ticker": "GG8",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965695",
+  "id": "02965695",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250703",
+  "time": "1548",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lflq3361wnhx.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract the strictly material information in the requested concise format, tailored to the announcement type. \n\nWithout the document content, I can only provide a placeholder example based on common ASX announcement types. For instance:\n\n**Trading Halt Request Example:**  \n- Reason: Pending announcement of capital raise.\n\n**Capital Raising Announcement Example:**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M).  \n- Key dates: Ex-date 15/05, Record 17/05, SPP closes 31/05.  \n\n**Appendix 4C Example:**  \n- Cash receipts: AUD 3.5M (QoQ +20%).  \n- Cash balance: AUD 8.2M (prior quarter: AUD 5.1M).  \n\n**Other Announcement Example:**  \n- Strategic acquisition: AUD 25M for [Asset], funded via debt.  \n- Key condition: FIRB approval required.  \n\nAttach the PDF/text and I will analyze it as instructed.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 243,
+    "total_tokens": 466,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T05:51:02.385412"
+}
