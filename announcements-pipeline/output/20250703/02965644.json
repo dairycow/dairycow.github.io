@@ -1,0 +1,19 @@
+{
+  "ticker": "CAY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965644",
+  "id": "02965644",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250703",
+  "time": "1355",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfgkqtpg3kg8.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material trading/capital markets information in the requested concise format, adhering strictly to the rules.  \n\nExample output styles based on common announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of material transaction details.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: A$50M placement + A$10M SPP.  \n   - *Key dates*: Ex-date 15/03, Record 18/03, Close 30/03.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: A$12.5M (QoQ -A$2.1M).  \n   - *Key highlight*: Production +15% QoQ to 25koz Au.  \n\n4. **Other Announcement**:  \n   - *Material points*: Loss of key contract (20% revenue); Board approves A$30M buyback.  \n\nIf the document type/content is unclear, I will respond: *\"No material information identified\"*.  \n\nAttach the announcement or paste text for analysis. I\u2019ll prioritize brevity and relevance.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 264,
+    "total_tokens": 494,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T04:04:09.240327"
+}
