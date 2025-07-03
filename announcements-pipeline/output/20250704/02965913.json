@@ -1,0 +1,19 @@
+{
+  "ticker": "NEM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965913",
+  "id": "02965913",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250704",
+  "time": "0831",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lg8wzxm9b0n3.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF or its key details** (e.g., title, document type, and critical snippets) so I can extract material information in the requested concise format.  \n\nExample outputs based on common announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising (Placement + SPP)**:  \n   - Structure: AUD 50M placement + AUD 10M SPP.  \n   - Key dates: Ex-date 15/05, Record 17/05, Close 31/05.  \n\n3. **Quarterly (4C)**:  \n   - Cash balance: AUD 12.3M (prior quarter: AUD 15.1M).  \n   - Highlights: Production up 8% QoQ; exploration costs AUD 2.1M.  \n\n4. **Other (e.g., M&A)**:  \n   - Key point: Acquiring Asset X for AUD 25M (30% EPS accretive).  \n   - Funding: Fully underwritten equity raise.  \n\nProvide the document/text, and I\u2019ll distill it to **strictly relevant trading/capital markets information** in bullet points. If the announcement lacks material data, I\u2019ll note \u201cNo material information identified.\u201d  \n\n*(Note: For PDFs, share key sections to review as text; I can\u2019t access files directly.)*",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 303,
+    "total_tokens": 528,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-03T22:36:44.322555"
+}
