@@ -1,5 +1,575 @@
 [
   {
+    "ticker": "TGM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965617",
+    "id": "02965617",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1308",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfdghghymwzb.pdf",
+    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Placement and consultant shares issuance.  </li>\n<li><strong>Total Shares Issued</strong>:  </li>\n<li>47,337,278 Placement shares at AUD 0.13/share (AUD 6.15m total).  </li>\n<li>1,869,231 Consultant shares (non-cash, valued at AUD 0.13/share).  </li>\n<li><strong>Issue Date</strong>: 03/07/2025.  </li>\n<li><strong>Additional Securities Pending</strong>: 23,668,639 unlisted options (per 30-Jun-2025 announcement).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Ordinary Shares (TGM): 928,635,135 quoted.  </li>\n<li>Unlisted Options: Multiple tranches totaling ~102.9m across various expiry/strike prices.  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1832,
+      "completion_tokens": 177,
+      "total_tokens": 2009,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:19.459699"
+  },
+  {
+    "ticker": "IVT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965616",
+    "id": "02965616",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1306",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfdd2h312g0s.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: Announcement only covers a change in Company Secretary and ASX communications contact \u2013 no impact on trading, capital structure, or valuation.)</em></p>",
+    "usage": {
+      "prompt_tokens": 523,
+      "completion_tokens": 37,
+      "total_tokens": 560,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:34.349031"
+  },
+  {
+    "ticker": "TGM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965615",
+    "id": "02965615",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1304",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfd9j5vz1kd0.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Private Placement Completion</strong>:  </li>\n<li><strong>Structure</strong>: Private Placement  </li>\n<li><strong>Total Raised</strong>: US$4 million (~AU$6.02 million)  </li>\n<li>\n<p><strong>Securities Issued</strong>:  </p>\n<ul>\n<li>47,337,278 fully paid ordinary shares  </li>\n<li>23,668,639 unlisted options (exercise price: 8% discount to 15-day VWAP, min. $0.13; expiry 2 years from issue)  </li>\n<li>1,869,231 fully paid ordinary shares issued to consultants (3-month voluntary escrow)  </li>\n</ul>\n</li>\n<li>\n<p><strong>Lead Manager</strong>: Golden Asia Investment Group Limited (Hong Kong)  </p>\n</li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 1757,
+      "completion_tokens": 157,
+      "total_tokens": 1914,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:37.854227"
+  },
+  {
+    "ticker": "GCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965614",
+    "id": "02965614",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1303",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfd7cv0lpjvs.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Update (Gryphon Capital Income Trust - ASX: GCI)</strong>  </li>\n<li>NTA per unit as at 2 July 2025: <strong>$2.0077</strong> (unaudited, approximate).  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
+    "usage": {
+      "prompt_tokens": 452,
+      "completion_tokens": 61,
+      "total_tokens": 513,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:31.415378"
+  },
+  {
+    "ticker": "MGU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965613",
+    "id": "02965613",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1254",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfd3c8fy6mgs.pdf",
+    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change (Appendix 3Y)</strong>  </li>\n<li><strong>Director</strong>: Luke Martino (indirect interest via L.J.M. Capital Corporation Pty Ltd).  </li>\n<li><strong>Change</strong>: Acquired <strong>11,351,515 ordinary shares</strong> at <strong>$0.002 per share</strong> via Entitlement Offer (Prospectus dated 3 June 2025).  </li>\n<li><strong>Total holdings post-transaction</strong>: <strong>22,703,030 ordinary shares</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 975,
+      "completion_tokens": 107,
+      "total_tokens": 1082,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:01.116230"
+  },
+  {
+    "ticker": "MGU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965612",
+    "id": "02965612",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1250",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfd0h8q3p38r.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Indirect acquisition of 33,333,333 ordinary shares in Magnum Mining &amp; Exploration Limited via Berlurly Mining Pty Ltd.  </li>\n<li><strong>Consideration</strong>: $0.002 per share.  </li>\n<li><strong>Total Holdings After Change</strong>: 66,666,666 ordinary shares.  </li>\n<li><strong>Nature of Change</strong>: Subscription under Entitlement Offer (Prospectus dated 3 June 2025).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 975,
+      "completion_tokens": 96,
+      "total_tokens": 1071,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:32.925002"
+  },
+  {
+    "ticker": "VRL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965611",
+    "id": "02965611",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1240",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcw99nf91s8.pdf",
+    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Patrick Antonio Volpe  </li>\n<li><strong>Change in Interests:</strong>  </li>\n<li>Disposal of <strong>12,983,334 VRLOF listed options</strong> (exercise price $0.20, expired 30 June 2025).  </li>\n<li>Issuance of <strong>new unlisted options</strong>:  <ul>\n<li>Exercise price: <strong>$0.022</strong>  </li>\n<li>Expiry: <strong>19 March 2029</strong>  </li>\n<li>Aggregate holdings post-change disclosed for four indirect entities.  </li>\n</ul>\n</li>\n<li><strong>Nature of Change:</strong> Expiry of listed options, replacement with unlisted options.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest update).</p>",
+    "usage": {
+      "prompt_tokens": 1499,
+      "completion_tokens": 155,
+      "total_tokens": 1654,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:34.182135"
+  },
+  {
+    "ticker": "BCO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965610",
+    "id": "02965610",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1238",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcstq957857.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Global X Bloomberg Commodity Complex ETF - BCOM):</h3>\n<ul>\n<li><strong>Derivative Exposure Disclosure</strong>: 0.00% of Fund's net asset value as of 30 June 2025.  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>(Note: The announcement only reports derivative exposure with no impact on trading, capital structure, or liquidity.)</em></p>",
+    "usage": {
+      "prompt_tokens": 715,
+      "completion_tokens": 79,
+      "total_tokens": 794,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:26.260326"
+  },
+  {
+    "ticker": "BLL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965609",
+    "id": "02965609",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1236",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcqcnd5srjy.pdf",
+    "summary": "<ul>\n<li><strong>Bell Global Equities Fund (BLL01)</strong>  </li>\n<li>June 2025 redemptions: <strong>0 units</strong> ($0.00 value)  </li>\n<li>\n<p><strong>NAV (30 June 2025): $16.93M</strong>  </p>\n</li>\n<li>\n<p><strong>Bell Global Emerging Companies Fund (BLM01)</strong>  </p>\n</li>\n<li>June 2025 redemptions: <strong>174,172.49 units</strong> ($296,996.88 value)  </li>\n<li><strong>NAV (30 June 2025): $563.93M</strong>  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 431,
+      "completion_tokens": 124,
+      "total_tokens": 555,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:49.880774"
+  },
+  {
+    "ticker": "L1H",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965608",
+    "id": "02965608",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1233",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcmqny2blds.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>: Final distribution of 8.0999 cents per unit for L1HI.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: 1 July 2025  </li>\n<li>Record date: 2 July 2025  </li>\n<li>DRP election deadline: 3 July 2025  </li>\n<li>Payment date: 16 July 2025  </li>\n<li><strong>DRP</strong>: Distribution Reinvestment Plan active for this distribution.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 591,
+      "completion_tokens": 97,
+      "total_tokens": 688,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:53.582932"
+  },
+  {
+    "ticker": "FLT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965607",
+    "id": "02965607",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1233",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfckmxy96ryj.pdf",
+    "summary": "<p><strong>Announcement Summary (Appendix 3H - Cessation of Securities)</strong>  </p>\n<ul>\n<li><strong>Security Cessation</strong>: 9,967 FLTAP performance rights lapsed (conditions unmet).  </li>\n<li><strong>Date of Cessation</strong>: 30 June 2025.  </li>\n<li><strong>Impact on Capital Structure</strong>:  </li>\n<li>Total FLT ordinary shares outstanding: 217,776,081 (quoted).  </li>\n<li>Remaining FLTAP performance rights: 3,428,710 (unquoted).  </li>\n<li><strong>No material valuation or liquidity impact identified</strong>.  </li>\n</ul>\n<p><em>Note: No consideration paid for cessation; no further material disclosures.</em></p>",
+    "usage": {
+      "prompt_tokens": 1028,
+      "completion_tokens": 133,
+      "total_tokens": 1161,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:29.123175"
+  },
+  {
+    "ticker": "L1I",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965606",
+    "id": "02965606",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1232",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfchdwdnpzt6.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>:  </li>\n<li>Final distribution amount: <strong>26.3235 cents per unit</strong>.  </li>\n<li>Key dates:  <ul>\n<li>Ex-distribution date: <strong>1 July 2025</strong>.  </li>\n<li>Record date: <strong>2 July 2025</strong>.  </li>\n<li>DRP election deadline: <strong>3 July 2025</strong>.  </li>\n<li>Payment date: <strong>16 July 2025</strong>.  </li>\n</ul>\n</li>\n<li>DRP (Distribution Reinvestment Plan) applies.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 590,
+      "completion_tokens": 106,
+      "total_tokens": 696,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:03.147120"
+  },
+  {
+    "ticker": "FLT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965605",
+    "id": "02965605",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1228",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcdkyrz7z4b.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Appendix 3G \u2013 Notification of issue of unquoted equity securities  </li>\n<li><strong>Entity</strong>: Flight Centre Travel Group Limited (ASX: FLT)  </li>\n<li><strong>Details</strong>:  </li>\n<li><strong>33,428 FLT ordinary shares</strong> issued on 30/06/2025 due to conversion of performance rights (FLTAP).  </li>\n<li>Conversion occurred between 01/04/2025 and 30/06/2025 under an employee incentive scheme.  </li>\n<li>No involvement of key management personnel (KMP).  </li>\n<li><strong>Post-issue Capital Structure</strong>:  </li>\n<li><strong>Quoted</strong>: 217,776,081 FLT ordinary shares.  </li>\n<li><strong>Unquoted</strong>: 3,405,249 FLTAP performance rights, 2,623 FLTAA convertible notes.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (minor dilution: ~0.015% of issued ordinary shares).</em></p>",
+    "usage": {
+      "prompt_tokens": 1391,
+      "completion_tokens": 198,
+      "total_tokens": 1589,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:27.734106"
+  },
+  {
+    "ticker": "LU7",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965604",
+    "id": "02965604",
+    "pages": 24,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1228",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfcbbxfktlm8.pdf",
+    "summary": "<h3>Material Information Summary (General Meeting - Capital Raising Approvals)</h3>\n<ol>\n<li><strong>General Meeting Details</strong>  </li>\n<li><strong>Date:</strong> 4 August 2025  </li>\n<li>\n<p><strong>Record Date for Voting Eligibility:</strong> 1 August 2025 (5:00pm WST)  </p>\n</li>\n<li>\n<p><strong>Capital Raising Structure</strong>  </p>\n</li>\n<li><strong>Placement (Tranche 1):</strong>  <ul>\n<li><strong>Shares Issued:</strong> 150M shares at $0.004/share (completed 26 June 2025, raising $600K).  </li>\n<li><strong>Resolution 1:</strong> Seek shareholder ratification (LR 7.4).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Placement (Tranche 2):</strong>  </p>\n<ul>\n<li><strong>Shares Proposed:</strong> Up to 275M shares at $0.004/share (raising up to $1.1M).  </li>\n<li><strong>Options Attaching:</strong> 1 free option per 2 shares (up to 212.5M options, exercise price $0.008, 36-month term).  </li>\n<li><strong>Resolutions 2\u20133:</strong> Seek approval for issuance.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Director Participation (Related Party Transactions)</strong>  </p>\n</li>\n<li>\n<p>Total of <strong>14.25M shares</strong> and <strong>7.125M options</strong> to directors (same terms as Placement).  </p>\n<ul>\n<li><strong>Iggy Tan (Exec Chair):</strong> 8.25M shares + 4.125M options (Resolution 4).  </li>\n<li><strong>Patrick Scallan (Non-Exec):</strong> 3M shares + 1.5M options (Resolution 5).  </li>\n<li><strong>Jingyuan Liu (Non-Exec):</strong> 3M shares + 1.5M options (Resolution 6).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Lead Manager Incentives</strong>  </p>\n</li>\n<li>\n<p><strong>62 Capital (Lead Manager):</strong>  </p>\n<ul>\n<li><strong>Options:</strong> 15M lead manager options (same terms as Placement Options, Resolution 7).  </li>\n<li><strong>Performance Rights:</strong> 99M rights vesting based on share price hurdles ($0.007, $0.009, $0.011 over 15 trading days; Resolution 8).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Use of Funds (Total $1.7M)</strong>  </p>\n</li>\n<li>DFS for B\u00e9cancour Lithium Refinery: $0.7M  </li>\n<li>Land options: $0.2M  </li>\n<li>Corporate/working capital: $0.6M  </li>\n<li>\n<p>R&amp;D for proposed transaction: $0.2M  </p>\n</li>\n<li>\n<p><strong>Key Dates</strong>  </p>\n</li>\n<li><strong>Meeting Deadline for Proxy Votes:</strong> 2 August 2025, 11:00am AWST.  </li>\n</ol>\n<p><strong>Excluded:</strong> Routine procedural details, legal boilerplate, and non-material director background.</p>",
+    "usage": {
+      "prompt_tokens": 14628,
+      "completion_tokens": 563,
+      "total_tokens": 15191,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:16.162974"
+  },
+  {
+    "ticker": "BXB",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965603",
+    "id": "02965603",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1226",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfc7xd8hnq6t.pdf",
+    "summary": "<p><strong>Summary</strong><br />\n- <strong>Cessation of Securities</strong>: 25,832 share rights (BXBAI) lapsed due to unmet conditions (30/06/2025).<br />\n  - Breakdown: 294 under Performance Share Plan, 25,538 under MyShare Plan.<br />\n- <strong>Post-Cessation Issued Capital</strong>:<br />\n  - Quoted: 1,366,993,980 BXB ordinary shares.<br />\n  - Unquoted: 8,065,833 BXBAI share rights remaining.  </p>\n<p><em>No material trading or capital markets impact identified (insignificant volume relative to issued capital).</em></p>",
+    "usage": {
+      "prompt_tokens": 1067,
+      "completion_tokens": 131,
+      "total_tokens": 1198,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:38.081006"
+  },
+  {
+    "ticker": "LPG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965602",
+    "id": "02965602",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1222",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfc4zry6g8p3.pdf",
+    "summary": "<p><strong>Distribution Announcement (ETF):</strong><br />\n- <strong>Distribution amount:</strong> 33.33 cents per unit.<br />\n- <strong>Key dates:</strong><br />\n  - Ex-distribution date: 1 July 2025<br />\n  - Record date: 2 July 2025<br />\n  - DRP election deadline: 3 July 2025<br />\n  - Payment date: 18 July 2025<br />\n- <strong>DRP applies</strong> (as per prior notice).  </p>\n<p><em>(Omitted: contact details, director name, legal boilerplate.)</em></p>",
+    "usage": {
+      "prompt_tokens": 533,
+      "completion_tokens": 110,
+      "total_tokens": 643,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:34.672645"
+  },
+  {
+    "ticker": "PCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965601",
+    "id": "02965601",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1219",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfc2b7rxn21q.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Update</strong>:  </li>\n<li><strong>Date</strong>: 2/07/2025  </li>\n<li><strong>NTA per unit</strong>: AUD $1.096 (unaudited, approximate)  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 670,
+      "completion_tokens": 49,
+      "total_tokens": 719,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:42.397747"
+  },
+  {
+    "ticker": "AUZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965600",
+    "id": "02965600",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1212",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbyvxm46263.pdf",
+    "summary": "<h3>Summary: Trading Halt Request</h3>\n<ul>\n<li><strong>Reason for suspension:</strong> Pending announcement regarding a <strong>capital raising and potential acquisition</strong>.  </li>\n<li><strong>Expected suspension end:</strong> Earliest of normal trading on <strong>4 July 2025</strong> or upon release of the announcement.  </li>\n</ul>\n<p><em>Omitted non-material details (contact info, legal boilerplate).</em></p>",
+    "usage": {
+      "prompt_tokens": 633,
+      "completion_tokens": 70,
+      "total_tokens": 703,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:53.941658"
+  },
+  {
+    "ticker": "MHG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965599",
+    "id": "02965599",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1211",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbwnyd3k34s.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Distribution Reinvestment Plan (DRP) Price Announcement:</strong>  </li>\n<li>DRP price for distribution payable 21 July 2025: <strong>$4.0469</strong> (confirms pricing previously announced on 26 June 2025).  </li>\n</ul>\n<p><strong>Materiality:</strong> Minor procedural update; no impact on capital structure or valuation.  </p>\n<p><strong>Action:</strong> No trading or capital markets decision required.  </p>\n<p><em>Omitted:</em> Background on fund objectives (non-material to this announcement).</p>",
+    "usage": {
+      "prompt_tokens": 588,
+      "completion_tokens": 107,
+      "total_tokens": 695,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:10.465716"
+  },
+  {
+    "ticker": "CAA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965598",
+    "id": "02965598",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1210",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbtgffr6rb2.pdf",
+    "summary": "<ul>\n<li><strong>Security cessation</strong>: 40,684 ordinary fully paid shares (ASX: CAA) cancelled via on-market buy-back.  </li>\n<li><strong>Cessation date</strong>: 30 June 2025.  </li>\n<li><strong>Post-cessation issued capital</strong>: 16,584,319 ordinary shares outstanding.  </li>\n</ul>\n<p><em>No material trading or capital impact identified (minor buy-back with no disclosed consideration).</em></p>",
+    "usage": {
+      "prompt_tokens": 977,
+      "completion_tokens": 82,
+      "total_tokens": 1059,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:21.886120"
+  },
+  {
+    "ticker": "ARG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965597",
+    "id": "02965597",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1208",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbqy6vsvkkr.pdf",
+    "summary": "<ul>\n<li><strong>Results announcement (FY2025)</strong>: 4 August 2025  </li>\n<li><strong>Ex-dividend date</strong>: 8 August 2025  </li>\n<li><strong>Record date</strong>: 11 August 2025  </li>\n<li><strong>Dividend payment date (subject to approval)</strong>: 12 September 2025  </li>\n<li><strong>Last election date for DRP/DSSP</strong>: 12 August 2025  </li>\n<li><strong>AGM date</strong>: 22 October 2025  </li>\n</ul>\n<p><em>No material operational/financial details disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 541,
+      "completion_tokens": 106,
+      "total_tokens": 647,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:05.848270"
+  },
+  {
+    "ticker": "ALI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965596",
+    "id": "02965596",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1207",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbnmgm93td6.pdf",
+    "summary": "<p>Here\u2019s the concise extraction of material information from the ASX announcement:</p>\n<ul>\n<li><strong>Key Dates (FY2025 Reporting &amp; Dividend):</strong>  </li>\n<li>Results announcement: 25 August 2025  </li>\n<li>Ex-dividend date: 5 September 2025  </li>\n<li>Dividend record date: 8 September 2025  </li>\n<li>Dividend payment date (subject to approval): 26 September 2025  </li>\n<li>AGM: 22 October 2025  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 556,
+      "completion_tokens": 106,
+      "total_tokens": 662,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:51.710795"
+  },
+  {
+    "ticker": "NNW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965595",
+    "id": "02965595",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1205",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbl5ywnhgfd.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Announcement</strong>: Final distribution for 30 June 2025 is <strong>9.1849 cents per unit</strong>.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution date: <strong>1 July 2025</strong>  </li>\n<li>Record date: <strong>2 July 2025</strong>  </li>\n<li>DRP election deadline: <strong>3 July 2025</strong>  </li>\n<li>Payment date: <strong>14 July 2025</strong>  </li>\n<li><strong>DRP Participation</strong>: Distribution Reinvestment Plan (DRP) is active for this distribution.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 517,
+      "completion_tokens": 110,
+      "total_tokens": 627,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:17.690857"
+  },
+  {
+    "ticker": "NNU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965594",
+    "id": "02965594",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250703",
+    "time": "1204",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbhzzkk5dkq.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Distribution Announcement  </li>\n<li><strong>Distribution per unit</strong>: 26.2739 cents  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Ex-distribution Date</strong>: 1 July 2025  </li>\n<li><strong>Record Date</strong>: 2 July 2025  </li>\n<li><strong>DRP Election Date</strong>: 3 July 2025  </li>\n<li><strong>Payment Date</strong>: 14 July 2025  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 102,
+      "total_tokens": 596,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:52.110685"
+  },
+  {
+    "ticker": "EUR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965593",
+    "id": "02965593",
+    "pages": 47,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1200",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfbf2db7v2fp.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>General Meeting Notice</strong></h4>\n<ul>\n<li><strong>Meeting Date</strong>: 4 August 2025 at 9:00am (WST).  </li>\n<li><strong>Location</strong>: 32 Harrogate Street, West Leederville, WA 6007.  </li>\n</ul>\n<h4><strong>Key Resolutions Proposed</strong></h4>\n<ol>\n<li><strong>Ratification of Prior Placements/Issues</strong>:  </li>\n<li><strong>Placement Shares</strong>: 47,058,824 shares issued at $0.0425/share (total ~$2M).  </li>\n<li><strong>Options to Evolution</strong>: 10,000,000 EURO Options (exercise: $0.08, expiry: 14 Nov 2025).  </li>\n<li>\n<p><strong>Replacement Options</strong>: 178,418,736 EUROC Options (exercise: $0.10, expiry: 30 Apr 2027).  </p>\n</li>\n<li>\n<p><strong>Related Party Option Issues</strong>:  </p>\n</li>\n<li><strong>Tony Sage</strong>: 22,658,235 EUROC Options.  </li>\n<li><strong>Malcolm Day</strong>: 14,999,999 EUROC Options.  </li>\n<li>\n<p><strong>Michael Carter</strong>: 7,000,000 EUROC Options.  </p>\n</li>\n<li>\n<p><strong>Performance Rights for Related Parties</strong>:  </p>\n</li>\n<li><strong>Tony Sage</strong>: 20,000,000.  </li>\n<li><strong>Malcolm Day</strong>: 15,000,000.  </li>\n<li><strong>Michael Carter</strong>: 5,000,000.  </li>\n<li><strong>Mykhailo Zhernov</strong>: 5,000,000.  </li>\n<li>\n<p><em>Vesting condition</em>: Undiluted market cap \u2265A$250M for 20 consecutive trading days by 31 Mar 2026.  </p>\n</li>\n<li>\n<p><strong>Advisory Fee Payments (Equity)</strong>:  </p>\n</li>\n<li><strong>CRML Placement Advisors</strong>: 35,000,000 EURO Options.  </li>\n<li><strong>Odeon</strong>: 5,000,000 EUROC Options.  </li>\n<li><strong>Geosan Consulting</strong>: 5,000,000 EUROC Options, 819,570 shares, 35,000,000 Performance Rights (vesting linked to share price &amp; project milestones).  </li>\n</ol>\n<h4><strong>Financial Implications</strong></h4>\n<ul>\n<li><strong>Placement Funds Use</strong>: Wolfsburg/Leinster Lithium Projects advancement.  </li>\n<li><strong>Performance Rights Valuation</strong>: $0.0111/right (total ~$499,500).  </li>\n</ul>\n<h4><strong>Voting Exclusions</strong></h4>\n<ul>\n<li>Resolutions 1\u20133: Votes from placement participants/participating parties excluded.  </li>\n<li>Resolutions 4\u201315: Votes from related parties excluded.  </li>\n</ul>\n<p><strong>Next Steps</strong>: Shareholder approval required for related party transactions and unissued securities.  </p>\n<p><strong>No material operational/financial updates beyond capital structure changes</strong>.</p>",
+    "usage": {
+      "prompt_tokens": 29532,
+      "completion_tokens": 556,
+      "total_tokens": 30088,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:15:22.465901"
+  },
+  {
+    "ticker": "GSF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965592",
+    "id": "02965592",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1145",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfb7rx9k7kmz.pdf",
+    "summary": "<ul>\n<li><strong>Fund Distribution Announcement</strong>  </li>\n<li><strong>ASX Code</strong>: GSF08  </li>\n<li><strong>Distribution Period End</strong>: 30 June 2025  </li>\n<li><strong>Distribution Amount (CPU)</strong>: 1.964060 cents per unit (entirely Trust Income Components, no other adjustments).  </li>\n<li><strong>Frequency</strong>: Quarterly.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified beyond disclosed distribution.</strong>  </p>\n<p>(Note: Omitted routine disclaimers and non-material issuer details.)</p>",
+    "usage": {
+      "prompt_tokens": 615,
+      "completion_tokens": 101,
+      "total_tokens": 716,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:45.454855"
+  },
+  {
+    "ticker": "RWD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965591",
+    "id": "02965591",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1144",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfb5j9xnpy3b.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 5,000,000 new RWD ordinary fully paid shares issued.  </li>\n<li><strong>Issue Type</strong>: Conversion of RWDAE Class A Performance Rights to shares (non-cash consideration).  </li>\n<li><strong>Total Issued Capital Post-Issuance</strong>: 272,219,570 RWD ordinary shares.  </li>\n<li><strong>Unquoted Securities</strong>:  </li>\n<li>5,000,000 RWDAV options (expiring 14-Sep-2025, strike $0.198).  </li>\n<li>5,250,000 RWDAX options (expiring 14-Sep-2025, strike $0.20).  </li>\n<li>19,183,216 RWDAD options (expiring 05-Nov-2026, strike $0.12).  </li>\n<li>11,000,000 RWDAE performance rights.  </li>\n</ul>\n<p>No material trading or capital structure impacts beyond dilution from performance rights conversion.</p>",
+    "usage": {
+      "prompt_tokens": 1412,
+      "completion_tokens": 197,
+      "total_tokens": 1609,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:51.203177"
+  },
+  {
+    "ticker": "CEN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965590",
+    "id": "02965590",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1143",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfb39t44818c.pdf",
+    "summary": "<ul>\n<li><strong>High Court approval received</strong> for Contact Energy's 100% acquisition of Manawa Energy via scheme of arrangement.  </li>\n<li><strong>Implementation date</strong>: 11 July 2025 (subject to customary conditions).  </li>\n</ul>\n<p>No material financial terms, capital structure changes, or trading impacts beyond the approval confirmation.</p>",
+    "usage": {
+      "prompt_tokens": 827,
+      "completion_tokens": 61,
+      "total_tokens": 888,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:14:04.199106"
+  },
+  {
+    "ticker": "MIO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965588",
+    "id": "02965588",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1142",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lf9yyybzgqs3.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Entity:</strong> Macarthur Minerals Limited (ASX: MIO)<br />\n<strong>Announcement Type:</strong> Update to previous Appendix 3B (Capital Raising)  </p>\n<h4><strong>Key Material Information</strong>:</h4>\n<ul>\n<li><strong>Capital Raising Structure</strong>: Renounceable entitlement offer (1:2 ratio).  </li>\n<li><strong>Offer Details</strong>:  </li>\n<li><strong>New Shares</strong>: Max. <strong>99,832,755</strong> ordinary shares at <strong>AUD 0.02/share</strong>.  </li>\n<li><strong>Attaching Options</strong>: Max. <strong>49,916,377</strong> options (1:2 ratio, free), exercisable at <strong>AUD 0.03</strong>, expiring <strong>22 July 2027</strong> (corrected from prior announcement).  </li>\n<li><strong>Timetable</strong>:  </li>\n<li><strong>Ex-date</strong>: 17/6/2025  </li>\n<li><strong>Record date</strong>: 18/6/2025  </li>\n<li><strong>Close date</strong>: 15/7/2025  </li>\n<li><strong>Issue date</strong>: 22/7/2025.  </li>\n<li><strong>Underwriting</strong>: Fully underwritten by Gold Valley Yilgarn Pty Ltd (up to <strong>AUD 2M</strong>, 5% fee + GST).  </li>\n<li><strong>Use of Proceeds</strong>: Offer costs, working capital, strategic review of Lake Giles Iron Project, debt repayments.  </li>\n</ul>\n<h4><strong>Additional Notes</strong>:</h4>\n<ul>\n<li><strong>Scale-back</strong>: Possible for oversubscriptions.  </li>\n<li><strong>Ineligible Shareholders</strong>: Excludes holders outside Australia, NZ, and Canada.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3436,
+      "completion_tokens": 325,
+      "total_tokens": 3761,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:12:46.358274"
+  },
+  {
+    "ticker": "BOE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965589",
+    "id": "02965589",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250703",
+    "time": "1142",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfb139kvpdw1.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Sprott Inc. reduced its holding in Boss Energy Ltd from <strong>10.11% (41,963,788 shares)</strong> to <strong>9.11% (37,810,391 shares)</strong> as of 24 June 2025.  </li>\n<li><strong>Key Transactions</strong>: Net reduction primarily via on-market sales, including a <strong>3.8M share sale at $4.42</strong> on 20 June 2025 (largest single transaction).  </li>\n<li><strong>Recent Activity</strong>: Mixed trades in June 2025, with buys at <strong>$4.34\u20134.66</strong> and sells at <strong>$3.84\u20134.42</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3914,
+      "completion_tokens": 148,
+      "total_tokens": 4062,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-03T03:13:57.775538"
+  },
+  {
     "ticker": "ILT",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02965578",
     "id": "02965578",
