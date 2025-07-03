@@ -7,13 +7,13 @@
   "date": "20250704",
   "time": "0831",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lg8twn10xlyn.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, and critical excerpts), and I will generate a **concise, material-only summary** adhering strictly to your guidelines.  \n\nExample outputs:  \n- **Trading Halt Request**: \"Pending release of material transaction details.\"  \n- **Capital Raising**: \"A$50M Placement + A$10M SPP. Ex-date: 15 Oct, Close: 30 Oct.\"  \n- **Appendix 4C**: \"Cash balance A$2.1M (QoQ -15%). Sales revenue A$4.5M (+22% QoQ).\"  \n\nIf no material data is found, I will state: **\"No material information identified.\"**  \n\nProvide the document, and I\u2019ll distill it instantly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in concise bullet points based on the rules you've outlined.  \nFor example:  \n\n**If it's a Capital Raising Announcement:**  \n- **Type:** Placement + SPP  \n- **Amount:** AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap)  \n- **Key Dates:** Ex-date: DD/MM/YY, Record: DD/MM/YY, SPP Close: DD/MM/YY  \n\n**If it's Quarterly (4C):**  \n- **Cash Balance:** AUD XX.XM (prior quarter: AUD YY.YM)  \n- **Key Highlights:** Production Z units, Revenue AUD A.BM, Exploration update [if material].  \n\n**If unclear/immaterial:**  \n- \"No material information identified.\"  \n\nLet me know the announcement text/details to proceed.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 174,
-    "total_tokens": 399,
+    "completion_tokens": 198,
+    "total_tokens": 423,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-03T22:50:03.900304"
+  "processed_at": "2025-07-03T23:01:49.036136"
 }
