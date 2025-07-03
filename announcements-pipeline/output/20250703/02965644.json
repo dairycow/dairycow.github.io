@@ -7,13 +7,13 @@
   "date": "20250703",
   "time": "1355",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfgkqtpg3kg8.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the following structured format (example responses based on common announcement types):  \n\n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement AUD 40M, SPP AUD 10M).  \n- Key dates: Ex-date 15/10/2023, Record date 17/10/2023, SPP close 30/10/2023.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.5M (QoQ -2.1M).  \n- Highlights: Production up 15%, costs down 8%.  \n\n**Other Announcement (Strategic Acquisition):**  \n- Acquiring XYZ Co for AUD 100M (50% cash, 50% scrip).  \n- Implied synergy target: AUD 20M/year by FY25.  \n\n**No Material Information Identified:**  \n- Routine director appointment or FY notice.  \n\nIf you share the announcement text or its type, I\u2019ll refine further.",
+  "summary": "Understood. Please provide the ASX announcement PDF or key details from it (e.g., announcement type, headline, and a few lines of relevant content), and I'll extract the material information in the concise format requested.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending announcement of a capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - Structure: $50M placement + $10M SPP.  \n   - Use of proceeds: Debt reduction (70%), working capital (30%).  \n   - Key dates: Ex-date [DD/MM], SPP close [DD/MM].  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - Cash balance: $2.1M (vs. $3.4M prev quarter).  \n   - Cash burn: $1.3M (operating), $0.5M (investing).  \n\n4. **Other Announcement (Asset Sale):**  \n   - Divesting X subsidiary for $75M (1.2x book value).  \n   - Expected completion: Q4 2024.  \n\n5. **No material information identified.**  \n\nSubmit the document/text, and I\u2019ll adhere strictly to the rules above.",
   "usage": {
-    "prompt_tokens": 228,
-    "completion_tokens": 263,
-    "total_tokens": 491,
+    "prompt_tokens": 230,
+    "completion_tokens": 274,
+    "total_tokens": 504,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-03T05:03:52.703760"
+  "processed_at": "2025-07-03T05:36:23.385383"
 }
