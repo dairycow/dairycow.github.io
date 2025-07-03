@@ -7,13 +7,13 @@
   "date": "20250703",
   "time": "1355",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfgkqtpg3kg8.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material trading/capital markets information in the requested concise format, adhering strictly to the rules.  \n\nExample output styles based on common announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of material transaction details.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: A$50M placement + A$10M SPP.  \n   - *Key dates*: Ex-date 15/03, Record 18/03, Close 30/03.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: A$12.5M (QoQ -A$2.1M).  \n   - *Key highlight*: Production +15% QoQ to 25koz Au.  \n\n4. **Other Announcement**:  \n   - *Material points*: Loss of key contract (20% revenue); Board approves A$30M buyback.  \n\nIf the document type/content is unclear, I will respond: *\"No material information identified\"*.  \n\nAttach the announcement or paste text for analysis. I\u2019ll prioritize brevity and relevance.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract the material information in the requested concise format, strictly tailored to the announcement type. If the document doesn't contain relevant trading or capital markets information, I will note \"No material information identified.\"  \n\nExamples of how I\u2019ll summarize:  \n\n**Trading Halt Request:**  \n- *Reason:* Pending capital raising announcement.  \n\n**Capital Raising (Placement):**  \n- *Type:* Placement + SPP.  \n- *Amount:* AUD 50M (Placement) + AUD 10M (SPP cap).  \n- *Dates:* Ex-date 15/10, Record 18/10, SPP close 30/10.  \n\n**Appendix 4C (Quarterly):**  \n- *Cash balance:* AUD 2.3M (QoQ -15%).  \n- *Key highlight:* Production +22% QoQ.  \n\n**M&A Announcement:**  \n- *Deal:* Acquisition of X Co for AUD 100M (50% scrip, 50% cash).  \n- *Conditional on:* Shareholder approval (meeting 20/11).  \n\nReady to proceed\u2014attach or paste the document. I\u2019ll respond only with the parsed bullets.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 264,
-    "total_tokens": 494,
+    "completion_tokens": 270,
+    "total_tokens": 500,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-03T04:04:09.240327"
+  "processed_at": "2025-07-03T04:43:39.820819"
 }
