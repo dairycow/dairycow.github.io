@@ -7,13 +7,13 @@
   "date": "20250703",
   "time": "1355",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250703/pdf/06lfgkqtpg3kg8.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract the material information in the requested concise format, strictly tailored to the announcement type. If the document doesn't contain relevant trading or capital markets information, I will note \"No material information identified.\"  \n\nExamples of how I\u2019ll summarize:  \n\n**Trading Halt Request:**  \n- *Reason:* Pending capital raising announcement.  \n\n**Capital Raising (Placement):**  \n- *Type:* Placement + SPP.  \n- *Amount:* AUD 50M (Placement) + AUD 10M (SPP cap).  \n- *Dates:* Ex-date 15/10, Record 18/10, SPP close 30/10.  \n\n**Appendix 4C (Quarterly):**  \n- *Cash balance:* AUD 2.3M (QoQ -15%).  \n- *Key highlight:* Production +22% QoQ.  \n\n**M&A Announcement:**  \n- *Deal:* Acquisition of X Co for AUD 100M (50% scrip, 50% cash).  \n- *Conditional on:* Shareholder approval (meeting 20/11).  \n\nReady to proceed\u2014attach or paste the document. I\u2019ll respond only with the parsed bullets.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the following structured format (example responses based on common announcement types):  \n\n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement AUD 40M, SPP AUD 10M).  \n- Key dates: Ex-date 15/10/2023, Record date 17/10/2023, SPP close 30/10/2023.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.5M (QoQ -2.1M).  \n- Highlights: Production up 15%, costs down 8%.  \n\n**Other Announcement (Strategic Acquisition):**  \n- Acquiring XYZ Co for AUD 100M (50% cash, 50% scrip).  \n- Implied synergy target: AUD 20M/year by FY25.  \n\n**No Material Information Identified:**  \n- Routine director appointment or FY notice.  \n\nIf you share the announcement text or its type, I\u2019ll refine further.",
   "usage": {
-    "prompt_tokens": 230,
-    "completion_tokens": 270,
-    "total_tokens": 500,
+    "prompt_tokens": 228,
+    "completion_tokens": 263,
+    "total_tokens": 491,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-03T04:43:39.820819"
+  "processed_at": "2025-07-03T05:03:52.703760"
 }
