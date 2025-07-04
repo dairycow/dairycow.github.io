@@ -1,0 +1,19 @@
+{
+  "ticker": "BYH",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966388",
+  "id": "02966388",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250704",
+  "time": "1855",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhfkswv09m39.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, or excerpts), and I will extract **only material information** per your instructions, formatted as follows:  \n\n### **Example Outputs:**  \n**Trading Halt Request**  \n- Reason: Pending release of material capital raising announcement.  \n\n**Capital Raising Announcement**  \n- Type: Placement + SPP.  \n- Amount: AUD 50M (Placement) + AUD 10M (SPP cap).  \n- Dates: Ex-date 15/06, Record 18/06, SPP closes 30/06.  \n\n**Quarterly Report (4C)**  \n- Cash balance: AUD 12.5M (prior: AUD 15.2M).  \n- Highlights: Sales +22% QoQ; production costs down 8%.  \n\n**Other Announcement**  \n- Strategic acquisition: AUD 100M for [Asset], funding via debt (AUD 70M) + equity (AUD 30M).  \n\n**No material information identified**  \n\nReady to proceed\u2014share the document or key details.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 240,
+    "total_tokens": 465,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-04T09:21:43.842986"
+}
