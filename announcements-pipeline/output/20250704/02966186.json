@@ -7,13 +7,13 @@
   "date": "20250704",
   "time": "1413",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lgy90b8k8cz4.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or key details from it, and I will extract the material information in the requested format, adhering strictly to the rules. \n\nExample outputs based on common announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of material capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP.  \n   - *Total raised*: AUD 50M (Placement: AUD 40M; SPP: AUD 10M).  \n   - *Key dates*: Ex-date: [DD/MM], Record date: [DD/MM], Close date: [DD/MM].  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash balance*: AUD 12.5M (prior quarter: AUD 15.2M).  \n   - *Key highlight*: Revenue up 15% QoQ; production target maintained.  \n\n4. **Other Announcement**:  \n   - *Material point 1*: Major contract awarded worth AUD 200M over 3 years.  \n   - *Material point 2*: CEO resigns effective immediately; interim CEO appointed.  \n\nUpload or describe the announcement, and I\u2019ll provide the summary. If unclear, I\u2019ll note: *No material information identified*.",
+  "summary": "Understood. Please provide the ASX announcement PDF, and I will extract **only the material information** relevant for trading or capital markets decisions in the strict format you've outlined.  \n\nExample output if you shared a **Capital Raising Announcement**:  \n- **Type**: Placement + SPP  \n- **Total Raising**: AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n- **Key Dates**: Ex-date \u2013 [DD/MM], Record \u2013 [DD/MM], Close \u2013 [DD/MM]  \n\nFor a **Trading Halt Request**:  \n- **Reason**: Pending capital raising announcement.  \n\nFor a **Quarterly Report (Appendix 4C)**:  \n- **Cash Balance**: AUD 2.3M (prior quarter: AUD 3.1M)  \n- **Highlights**: Revenue AUD 1.5M (+20% QoQ), sales volume 15Kt (+12% QoQ).  \n\nFor **Other Announcements**:  \n- [Critical Point 1]  \n- [Critical Point 2]  \n\nIf no material information is found:  \n- **No material information identified**.  \n\nReady for your document.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 292,
-    "total_tokens": 517,
+    "completion_tokens": 250,
+    "total_tokens": 475,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-04T04:35:38.891944"
+  "processed_at": "2025-07-04T04:59:05.431819"
 }
