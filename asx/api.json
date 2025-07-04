@@ -1,5 +1,138 @@
 [
   {
+    "ticker": "HHI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966368",
+    "id": "02966368",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250704",
+    "time": "1755",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcv2mkl9797.pdf",
+    "summary": "<ul>\n<li><strong>Type</strong>: Distribution Announcement  </li>\n<li><strong>Distribution Amount</strong>: 0.0000 cents per unit (no distribution payable)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-distribution Date: 1 July 2025  </li>\n<li>Record Date: 2 July 2025  </li>\n<li>DRP Election Date: 3 July 2025  </li>\n<li>Payment Date: 25 July 2025  </li>\n</ul>\n<p>No material impact on valuation or liquidity identified (nil distribution).</p>",
+    "usage": {
+      "prompt_tokens": 514,
+      "completion_tokens": 98,
+      "total_tokens": 612,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T08:00:27.834708"
+  },
+  {
+    "ticker": "QOR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966367",
+    "id": "02966367",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250704",
+    "time": "1751",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcr5jlrmrv1.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Issue of unquoted securities (Performance Rights under employee incentive scheme)  </li>\n<li><strong>Securities Issued</strong>:  </li>\n<li><strong>Class</strong>: QORAT (Performance Rights)  </li>\n<li><strong>Number Issued</strong>: 7,215,876  </li>\n<li><strong>Issue Date</strong>: 30/06/2025  </li>\n<li><strong>Ranking</strong>: Equal to existing class from issue date  </li>\n<li>\n<p><strong>KMP/Associate Involvement</strong>: No  </p>\n</li>\n<li>\n<p><strong>Total Securities on Issue</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (QOR)</strong>: 1,317,835,277 (quoted)  </li>\n<li>\n<p><strong>Performance Rights (QORAT)</strong>: 98,005,534 (unquoted post-issue)  </p>\n</li>\n<li>\n<p><strong>Note</strong>: No material dilution or capital structure impact (issued under Listing Rule 7.2 exception 13, no shareholder approval required). Terms accessible via linked document.  </p>\n</li>\n</ul>\n<p><strong>Omitted</strong>: Standard Appendix 3G boilerplate, non-material security class details.</p>",
+    "usage": {
+      "prompt_tokens": 1609,
+      "completion_tokens": 210,
+      "total_tokens": 1819,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T08:00:50.290068"
+  },
+  {
+    "ticker": "QOR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966366",
+    "id": "02966366",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250704",
+    "time": "1751",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcp3b9dz7ch.pdf",
+    "summary": "<ul>\n<li><strong>Notification Type</strong>: Cessation of securities (options) due to expiry without exercise/conversion  </li>\n<li><strong>ASX Code (Ceased)</strong>: QORAD (Options expiring various dates/prices)  </li>\n<li><strong>Number Ceased</strong>: 500,000  </li>\n<li><strong>Date of Cessation</strong>: 30 June 2025  </li>\n<li><strong>Remaining Issued Securities</strong>:  </li>\n<li>Ordinary Shares (QOR): 1,317,835,277  </li>\n<li>Other unquoted options/warrants/rights (e.g., QORAAB, QORAY, etc.) \u2013 see table for details.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine expiry of inactive options).  </p>\n<p><em>Note: Omitted standard issuer details (ABN, dates) and boilerplate text per rules.</em></p>",
+    "usage": {
+      "prompt_tokens": 1197,
+      "completion_tokens": 170,
+      "total_tokens": 1367,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T08:01:09.968303"
+  },
+  {
+    "ticker": "SIT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966362",
+    "id": "02966362",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250704",
+    "time": "1750",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcdsz87qr3f.pdf",
+    "summary": "<ul>\n<li><strong>ACCC Penalties</strong>: SGI penalized $10M by Federal Court for unconscionable conduct (linked to subsidiary PP's $20.75M penalties). Unlikely to be paid due to voluntary administration.  </li>\n<li><strong>SI DOCA Execution</strong>: Creditors accepted DOCA for Site Institute Pty Ltd (SI); no dividend expected to SGI. SGI\u2019s shares in SI and Site Group LLC sold to Site Institute Trust.  </li>\n<li><strong>SGH Stake Update</strong>: SGI holds 38.49% in Site Group Holdings Pty Ltd (Philippines property development); valuation underway for shareholder negotiations.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond existing administration status.</em></p>",
+    "usage": {
+      "prompt_tokens": 1052,
+      "completion_tokens": 140,
+      "total_tokens": 1192,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T07:59:35.290313"
+  },
+  {
+    "ticker": "QOR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966365",
+    "id": "02966365",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250704",
+    "time": "1750",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcm14pj6k4k.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 5,535,508 performance rights (QORAT) lapsed on <strong>30/06/2025</strong> due to unmet conditions.  </li>\n<li><strong>No Consideration Paid</strong>: No payment made for the lapse.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary shares (QOR): 1,317,835,277  </li>\n<li>Unquoted securities: Includes warrants, options, and remaining performance rights (QORAT: 85,254,150).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond reduced unquoted securities count.</em></p>",
+    "usage": {
+      "prompt_tokens": 1206,
+      "completion_tokens": 128,
+      "total_tokens": 1334,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T08:00:56.730022"
+  },
+  {
+    "ticker": "SWM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966364",
+    "id": "02966364",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250704",
+    "time": "1750",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcjzg9wtl9z.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Performance Rights</strong>:  </li>\n<li><strong>916,830 SWMAL Performance Rights</strong> lapsed on <strong>16/05/2025</strong> (due to unmet conditions/employment cessation).  </li>\n<li>\n<p><strong>2,619,515 SWMAL Performance Rights</strong> lapsed on <strong>13/06/2025</strong> (due to unmet conditions/employment cessation).  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>1,539,140,502 SWM Ordinary Shares</strong> outstanding.  </li>\n<li><strong>31,835,432 SWMAL Performance Rights</strong> and <strong>279,750 SWMAA Share Rights</strong> remain unquoted.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (non-dilutive lapse of unquoted securities).</em></p>",
+    "usage": {
+      "prompt_tokens": 1207,
+      "completion_tokens": 161,
+      "total_tokens": 1368,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T07:59:38.057985"
+  },
+  {
+    "ticker": "FRE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966363",
+    "id": "02966363",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250704",
+    "time": "1750",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhcgx7x7dkxk.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 1,372,618 unlisted options issued (expiring 4 July 2028, exercise price $0.095).  </li>\n<li><strong>Purpose</strong>: Attached to placement shares (1 option for every 2 shares issued under prior placement).  </li>\n<li><strong>Outstanding Securities</strong>:  </li>\n<li>224,576,455 ordinary shares (quoted).  </li>\n<li>14,462,618 unquoted options (across multiple tranches).  </li>\n<li><strong>Key Detail</strong>: No further issuances pending from this transaction.  </li>\n</ul>\n<p><em>No material trading or capital structure impacts identified beyond incremental dilution from unquoted options.</em></p>",
+    "usage": {
+      "prompt_tokens": 1791,
+      "completion_tokens": 134,
+      "total_tokens": 1925,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-04T07:59:19.473182"
+  },
+  {
     "ticker": "PBH",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966360",
     "id": "02966360",
@@ -8,15 +141,15 @@
     "date": "20250704",
     "time": "1742",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhc6xn5t59bd.pdf",
-    "summary": "<ul>\n<li><strong>Director\u2019s Shareholding Change</strong>: Samuel Swanell increased direct interest in PointsBet Holdings Limited via vesting of 192,198 Performance Share Rights (PSRs) under the Key Employee Equity Plan (KEEP).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>Direct: 4,451,424 Ordinary Shares (+192,198)  </li>\n<li>Indirect: 4,120,176 Ordinary Shares (unchanged).  </li>\n<li><strong>Vesting Details</strong>: KEEP PSRs valued at <strong>$227,754.63</strong>; no disposal reported.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em>  </p>\n<p><em>(Note: Appendix 3Y filings primarily disclose director transactions; materiality hinges on scale relative to company\u2019s market cap or unusual patterns\u2014neither evident here.)</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Samuel Swanell increased direct holdings by 192,198 Ordinary Shares via vesting of Performance Share Rights (PSRs) under Key Employee Equity Plan (KEEP).  </li>\n<li><strong>Transaction Details</strong>: Vesting valued at $227,754.63; no disposal.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>Direct: 4,451,424 Ordinary Shares + 1,455,213 PSRs (vesting 2026/2027, subject to performance).  </li>\n<li>Indirect: 4,120,176 Ordinary Shares (via Big Swan Trust).  </li>\n</ul>\n<p>No material trading or capital markets impact identified. Omitted: Routine director interest disclosure without capital/liquidity implications.</p>",
     "usage": {
-      "prompt_tokens": 1193,
-      "completion_tokens": 163,
-      "total_tokens": 1356,
+      "prompt_tokens": 1191,
+      "completion_tokens": 149,
+      "total_tokens": 1340,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:49:34.479597"
+    "processed_at": "2025-07-04T07:59:24.315937"
   },
   {
     "ticker": "HPC",
@@ -27,15 +160,15 @@
     "date": "20250704",
     "time": "1740",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhc4gl173rn0.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement (Appendix 3H \u2013 Cessation of Securities)</strong></h3>\n<ul>\n<li><strong>Type:</strong> Expiry/lapse of unquoted options  </li>\n<li><strong>Securities Cessation Details</strong>:  </li>\n<li><strong>Total Options Lapsed:</strong> 582,867 (across 5 series)  <ul>\n<li>HPCAAC (EX $0.5782): 117,506  </li>\n<li>HPCAAD (EX $0.7282): 117,506  </li>\n<li>HPCAAA (EX $0.2882): 105,349  </li>\n<li>HPCAAB (EX $0.4382): 117,506  </li>\n<li>HPCAQ (EX $0.4742): 125,000  </li>\n</ul>\n</li>\n<li><strong>Reason:</strong> Failure to meet conditions (lapsed 19/05/2025)  </li>\n<li>\n<p><strong>No consideration paid</strong> by the company for cessation.  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Capital Structure Highlights</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (HPC):</strong> 386.3m (unchanged)  </li>\n<li><strong>Remaining Unquoted Options/Warrants:</strong>  <ul>\n<li>HPCAU (EX $0.07): 46.6m (expiry 31/12/2025)  </li>\n<li>HPCAR (Warrants): 99.9m (no expiry specified)  </li>\n<li>Other options with staggered expiries (2026\u20132029), totalling ~20m\u201330m.  </li>\n</ul>\n</li>\n</ul>\n<h3><strong>Material Impact</strong>:</h3>\n<ul>\n<li><strong>Negligible liquidity impact</strong> (unquoted, small volume lapsed).  </li>\n<li><strong>No dilution risk</strong> from these lapsed options.  </li>\n</ul>\n<p><strong>Verdict:</strong> No material trading or capital markets action required.  </p>\n<p><em>(Note: Routine expiry disclosure; no unexpected corporate action.)</em></p>",
+    "summary": "<h3><strong>Announcement Summary \u2013 Cessation of Securities</strong></h3>\n<ul>\n<li><strong>Type:</strong> Notification of cessation of unquoted options due to lapse (conditions unmet).  </li>\n<li><strong>Securities Ceased:</strong>  </li>\n<li><strong>HPCAQ (125,000 options)</strong>, <strong>HPCAAB (117,506)</strong>, <strong>HPCAAC (117,506)</strong>, <strong>HPCAAD (117,506)</strong>, <strong>HPCAAA (105,349)</strong>.  </li>\n<li><strong>Total Ceased:</strong> <strong>583,867 options</strong> (combined).  </li>\n<li><strong>Cessation Date:</strong> 19 May 2025 (no consideration paid).  </li>\n<li><strong>Post-Cessation Issued Capital:</strong>  </li>\n<li><strong>Ordinary Shares (HPC):</strong> 386.3 million.  </li>\n<li><strong>Remaining Unquoted Options/Warrants:</strong> ~180.1 million (across multiple series, see Part 3.2 for details).  </li>\n</ul>\n<p><strong>No material trading impact identified</strong> (lapse of out-of-the-money/unexercised options).</p>",
     "usage": {
-      "prompt_tokens": 2241,
-      "completion_tokens": 379,
-      "total_tokens": 2620,
+      "prompt_tokens": 2243,
+      "completion_tokens": 216,
+      "total_tokens": 2459,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:49:09.634454"
+    "processed_at": "2025-07-04T07:58:56.693097"
   },
   {
     "ticker": "FRE",
@@ -46,15 +179,15 @@
     "date": "20250704",
     "time": "1737",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhc1rz36x5zx.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Details</strong>: Placement of 2,745,240 shares at AUD 0.063 per share.  </li>\n<li><strong>Total Raised</strong>: AUD ~173,000 (lower than initially committed due to investor shortfall).  </li>\n<li><strong>Disclosure Waiver</strong>: Shares issued without Part 6D.2 disclosure under Corporations Act 708A.  </li>\n</ul>\n<p><em>No other material trading/capital markets information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Update</strong>: Firebrick Pharma issued 2,745,240 shares at $0.063 per share, raising approximately <strong>$173,000</strong> via a <strong>Placement</strong> (as announced 26 June 2025).  </li>\n<li><strong>Shortfall</strong>: Lead Manager (Report Card Pty Ltd) failed to secure committed funds from two investors, reducing expected proceeds.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 927,
-      "completion_tokens": 85,
-      "total_tokens": 1012,
+      "completion_tokens": 86,
+      "total_tokens": 1013,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:34.886424"
+    "processed_at": "2025-07-04T08:00:33.744321"
   },
   {
     "ticker": "LRD",
@@ -65,15 +198,15 @@
     "date": "20250704",
     "time": "1736",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbxgpv7920g.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 150,000 new ordinary fully paid shares (ASX: LRD) issued due to conversion of Performance Rights (LRDAK).  </li>\n<li><strong>Issue Date</strong>: 04/07/2025.  </li>\n<li><strong>Reason for Issuance</strong>: Vesting of Class B Performance Rights tied to continuous employment (36 months) as of 01/07/2025.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Ordinary shares on issue: 109,182,939 (LRD).  </li>\n<li>Unquoted Performance Rights remaining: 1,200,000 (LRDAK).  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing ordinary shares.  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified (routine conversion of employee incentives).</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Conversion of performance rights to ordinary shares  </li>\n<li><strong>Securities Issued</strong>: 150,000 LRD ordinary fully paid shares  </li>\n<li><strong>Conversion Trigger</strong>: Vesting of Class B Performance Rights (36-month employment condition met on 1 July 2025)  </li>\n<li><strong>Issue Date</strong>: 4 July 2025  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Ordinary shares (LRD): 109,182,939  </li>\n<li>Options/Performance Rights: See unquoted securities below  </li>\n<li><strong>Unquoted Securities</strong>:  </li>\n<li>Performance Rights (LRDAK): 1,200,000  </li>\n<li>Options: Multiple tranches (see 4.2 in doc)  </li>\n</ul>\n<p>No material trading or capital structure impact identified (routine conversion).</p>",
     "usage": {
       "prompt_tokens": 1581,
-      "completion_tokens": 166,
-      "total_tokens": 1747,
+      "completion_tokens": 164,
+      "total_tokens": 1745,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:37.695986"
+    "processed_at": "2025-07-04T08:00:36.432679"
   },
   {
     "ticker": "SGH",
@@ -84,15 +217,15 @@
     "date": "20250704",
     "time": "1736",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbzp71ptsxn.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Appendix 3G (Notification of issue of unquoted equity securities)  </li>\n<li><strong>Securities Issued</strong>: 2,110 unquoted share rights (ASX code: SGHAB) under an employee incentive scheme.  </li>\n<li><strong>Issue Date</strong>: 29 April 2025.  </li>\n<li><strong>Vesting Schedule</strong>:  </li>\n<li>40% (Grant 1) vesting ~1 October 2025 (performance period: 1 July 2024 \u2013 30 June 2025).  </li>\n<li>60% (Grant 2) vesting ~1 October 2026 (performance period: 1 July 2025 \u2013 30 June 2026).  </li>\n<li><strong>Total Unquoted Share Rights Outstanding</strong>: 1,914,163 (SGHAB).  </li>\n<li><strong>Placement Capacity</strong>: Issued under 15% placement capacity (no shareholder approval required).  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified; routine employee incentive issuance.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Appendix 3G (Employee incentive scheme issuance)  </li>\n<li><strong>Security Issued</strong>: 2,110 unquoted share rights (SGHAB) under an employee incentive scheme  </li>\n<li><strong>Issue Date</strong>: 29 April 2025  </li>\n<li><strong>Vesting Conditions</strong>:  </li>\n<li>40% (Grant 1) vest on ~1 October 2025 (performance period: 1 July 2024 \u2013 30 June 2025)  </li>\n<li>60% (Grant 2) vest on ~1 October 2026 (performance period: 1 July 2025 \u2013 30 June 2026)  </li>\n<li><strong>Total Unquoted Share Rights Outstanding</strong>: 1,914,163 (SGHAB)  </li>\n<li><strong>No material dilution or capital impact</strong>: Issued under 15% placement capacity (no shareholder approval required).  </li>\n</ul>\n<p><strong>No further material information identified</strong>.</p>",
     "usage": {
       "prompt_tokens": 1684,
-      "completion_tokens": 208,
-      "total_tokens": 1892,
+      "completion_tokens": 191,
+      "total_tokens": 1875,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:49:19.897827"
+    "processed_at": "2025-07-04T07:59:13.215604"
   },
   {
     "ticker": "SGH",
@@ -103,15 +236,15 @@
     "date": "20250704",
     "time": "1734",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbv281q6fxt.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Notification of cessation of securities (SGHAB Share Rights)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Total Rights Lapsed</strong>: 76,714 SGHAB Share Rights  </li>\n<li><strong>Reasons for Cessation</strong>: Lapse due to unmet conditions (primarily cessation of employment). No consideration paid.  </li>\n<li><strong>Dates of Cessation</strong>: Multiple dates between 15/05/2025 and 18/06/2025.  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li><strong>Quoted Securities</strong>: 406,998,167 SGH ordinary shares.  </li>\n<li><strong>Unquoted Securities</strong>: 1,835,339 SGHAB Share Rights remain.  </li>\n</ul>\n<p>No material impact on liquidity or capital structure (minor rights lapse, no dilution).</p>",
+    "summary": "<ul>\n<li><strong>Notification of Cessation of Securities (Appendix 3H)</strong>  </li>\n<li><strong>Securities Ceased</strong>:  <ul>\n<li><strong>64,541 SGHAB Share Rights</strong> lapsed on 15/05/2025 (due to unmet conditions/cessation of employment).  </li>\n<li><strong>6,928 SGHAB Share Rights</strong> lapsed on 05/06/2025 (same reason).  </li>\n<li><strong>3,231 SGHAB Share Rights</strong> lapsed on 11/06/2025 (same reason).  </li>\n<li><strong>1,072 SGHAB Share Rights</strong> lapsed on 17/06/2025 (same reason).  </li>\n<li><strong>942 SGHAB Share Rights</strong> lapsed on 18/06/2025 (same reason).  </li>\n</ul>\n</li>\n<li><strong>Total Unquoted SGHAB Share Rights Remaining</strong>: 1,835,339.  </li>\n<li><strong>Ordinary Shares Outstanding</strong>: 406,998,167 (quoted).  </li>\n</ul>\n<p><strong>No material impact on liquidity, capital structure, or valuation identified.</strong></p>",
     "usage": {
-      "prompt_tokens": 1703,
-      "completion_tokens": 169,
-      "total_tokens": 1872,
+      "prompt_tokens": 1705,
+      "completion_tokens": 222,
+      "total_tokens": 1927,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:49:38.227311"
+    "processed_at": "2025-07-04T08:00:05.721272"
   },
   {
     "ticker": "FRE",
@@ -122,15 +255,15 @@
     "date": "20250704",
     "time": "1733",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbrsl5wx50p.pdf",
-    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 2,745,240 new ordinary fully paid shares (FRE) quoted on ASX.  </li>\n<li><strong>Issue Price</strong>: AUD $0.063 per share.  </li>\n<li><strong>Issue Date</strong>: 04/07/2025.  </li>\n<li><strong>Total Capital Raised</strong>: ~AUD $172,950 (2,745,240 shares \u00d7 $0.063).  </li>\n<li><strong>Further Issuance Pending</strong>: 1,372,618 options to be issued (details unspecified).  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Ordinary shares (FRE): 227,321,695 on issue.  </li>\n<li>Unquoted options: 13,090,000 across various series (FREAB, FREAD, FREAE, FREAC).  </li>\n</ul>\n<p><em>No material operational or timetable details provided.</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Type:</strong> Placement of new securities  </li>\n<li><strong>Total Shares Issued:</strong> 2,745,240 fully paid ordinary shares (FRE)  </li>\n<li><strong>Issue Date:</strong> 04/07/2025  </li>\n<li><strong>Issue Price:</strong> AUD 0.063 per share  </li>\n<li><strong>Capital Raised:</strong> ~AUD 172,950 (2,745,240 \u00d7 AUD 0.063)  </li>\n<li><strong>Outstanding Options:</strong>  </li>\n<li>1,372,618 options (pending issuance, per prior Appendix 3B)  </li>\n<li><strong>Post-Issuance Capital Structure:</strong>  </li>\n<li>Total FRE shares on issue: 227,321,695  </li>\n<li>Unquoted options: 13,090,000 (across multiple series with varying expiry/strike prices)  </li>\n</ul>\n<p><strong>Key Omission:</strong> No material operational/financial updates or use of proceeds disclosed.</p>",
     "usage": {
       "prompt_tokens": 1439,
-      "completion_tokens": 179,
-      "total_tokens": 1618,
+      "completion_tokens": 189,
+      "total_tokens": 1628,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:39.935722"
+    "processed_at": "2025-07-04T08:00:59.844391"
   },
   {
     "ticker": "APL",
@@ -141,15 +274,15 @@
     "date": "20250704",
     "time": "1732",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbkbf45dlm9.pdf",
-    "summary": "<p><strong>Proposed Issue of Performance Rights Summary:</strong><br />\n- <strong>Structure:</strong> Non-cash employee performance rights issuance (no capital raising).<br />\n- <strong>Quantity:</strong> 1,822,000 performance rights (convertible to 1,822,000 ordinary shares).<br />\n- <strong>Purpose:</strong> Employee retention incentive (AUD equivalent value: $200,420).<br />\n- <strong>Key Conditions:</strong> Vesting at <em>earlier of</em> (i) 12 months post-issue or (ii) change of control event.<br />\n- <strong>Listing Rule Capacity:</strong> Issued under 15% placement capacity (no shareholder approval required).<br />\n- <strong>Restricted Securities:</strong> Yes (subject to voluntary escrow).  </p>\n<p><strong>No material trading impact</strong> (no cash raised, no dilution until vesting/conversion).  </p>\n<p><em>Note: Excluded boilerplate on escrow, no underwriting, etc.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Structure Update</strong>: Associate Global Partners Limited (APL) proposes to issue 1,822,000 performance rights (APLPR3) to employees as retention incentives.  </li>\n<li><strong>No Cash Consideration</strong>: Performance rights are issued at <strong>AUD 0.00 exercise price</strong>, with an estimated value of <strong>AUD 200,420</strong>.  </li>\n<li><strong>Vesting Terms</strong>: Rights vest after 12 months or upon a change of control, contingent on continued employment.  </li>\n<li><strong>No Shareholder Approval Required</strong>: Issued under 15% placement capacity (Listing Rule 7.1).  </li>\n<li><strong>Restricted Securities</strong>: Subject to voluntary escrow.  </li>\n</ul>\n<p><strong>Note</strong>: No material dilution expected unless rights are exercised (converting to 1.8M ordinary shares). No impact on dividend policy or immediate liquidity.</p>",
     "usage": {
       "prompt_tokens": 1791,
-      "completion_tokens": 178,
-      "total_tokens": 1969,
+      "completion_tokens": 170,
+      "total_tokens": 1961,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:50.700574"
+    "processed_at": "2025-07-04T08:01:04.124934"
   },
   {
     "ticker": "MXT",
@@ -160,15 +293,15 @@
     "date": "20250704",
     "time": "1732",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbphcpdlstt.pdf",
-    "summary": "<ul>\n<li><strong>NTA Update</strong>: Unaudited NTA per unit as of 03/07/2025 was <strong>$2.0013</strong>.  </li>\n</ul>\n<p><em>No other material information identified for trading/capital markets decisions.</em></p>",
+    "summary": "<p><strong>Summary:</strong>  </p>\n<ul>\n<li><strong>Daily NTA Estimate (03/07/2025):</strong> $2.0013 per unit.  </li>\n</ul>\n<p><strong>No material information identified</strong> (Operational disclosure; no capital/trading impact).</p>",
     "usage": {
-      "prompt_tokens": 584,
-      "completion_tokens": 45,
-      "total_tokens": 629,
+      "prompt_tokens": 582,
+      "completion_tokens": 46,
+      "total_tokens": 628,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:27.188322"
+    "processed_at": "2025-07-04T08:00:24.822370"
   },
   {
     "ticker": "INA",
@@ -179,15 +312,15 @@
     "date": "20250704",
     "time": "1732",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbmdmjzysy1.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement:</strong> Cessation of securities (Performance Rights)  </li>\n<li><strong>Security Code:</strong> INAAB (PERFORMANCE RIGHTS)  </li>\n<li><strong>Number of Securities Ceased:</strong> 37,370  </li>\n<li><strong>Reason for Cessation:</strong> Cancellation due to exercise of vested Rights by eligible participants.  </li>\n<li><strong>Date of Cessation:</strong> 30/06/2025  </li>\n<li><strong>Impact on Issued Capital:</strong>  </li>\n<li>Total quoted securities (INA: Ordinary Stapled Securities): 407,583,264 (unchanged).  </li>\n<li>Remaining unquoted performance rights (INAAB): 4,980,000.  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
+    "summary": "<ul>\n<li><strong>Cessation of Performance Rights</strong>: 37,370 INAAB performance rights cancelled due to exercise by eligible participants (30/06/2025).  </li>\n<li><strong>Post-cessation issued capital</strong>:  </li>\n<li><strong>Quoted securities</strong>: 407,583,264 INA ordinary stapled securities.  </li>\n<li><strong>Unquoted securities</strong>: 4,980,000 INAAB performance rights remaining.  </li>\n</ul>\n<p>No material impact on liquidity or capital structure identified.</p>",
     "usage": {
       "prompt_tokens": 1041,
-      "completion_tokens": 147,
-      "total_tokens": 1188,
+      "completion_tokens": 98,
+      "total_tokens": 1139,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:22.553363"
+    "processed_at": "2025-07-04T08:00:23.646550"
   },
   {
     "ticker": "ZYU",
@@ -198,15 +331,15 @@
     "date": "20250704",
     "time": "1731",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhbh7pckyzr8.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> Fund Flow Report (June 2025)  </p>\n<h4>Material ETF Flows (AUD, Net Monthly):</h4>\n<ul>\n<li><strong>ACDC (Battery Tech &amp; Lithium):</strong> -100,000 units ($-8.6m net outflow).  </li>\n<li><strong>DTEC (Defence Tech):</strong> +1,500,000 units ($+24.1m net inflow).  </li>\n<li><strong>FANG (FANG+):</strong> +300,000 units ($+10.2m net inflow; gross $16.9m issued, $6.7m redeemed).  </li>\n<li><strong>GHLD (Gold Bullion Hedged):</strong> +241,500 units ($+12.8m net inflow).  </li>\n<li><strong>LNAS (Ultra Long Nasdaq):</strong> -675,000 units ($-7.3m net outflow; significant redemptions: $-16.5m).  </li>\n<li><strong>SEMI (Semiconductor):</strong> -150,000 units ($-2.7m net outflow).  </li>\n<li><strong>USTB (US Treasury Hedged):</strong> -4,700,000 units ($-43.3m net outflow; largest redemption in report).  </li>\n<li><strong>WIRE (Copper Miners):</strong> +450,000 units ($+6.0m net inflow).  </li>\n</ul>\n<p><strong>Other Notes:</strong><br />\n- No material flows in <strong>CURE (Biotech)</strong>, <strong>GMTL (Green Metals)</strong>, <strong>USIG (Corporate Bonds)</strong>.<br />\n- Mixed activity in <strong>ZYAU (ASX 200 High Dividend)</strong>: $1.8m issued, $1.8m redeemed ($7.8k net).  </p>\n<p><strong>Actionable Insight:</strong><br />\n- Significant outflows in <strong>USTB</strong> (rates-sensitive) and <strong>LNAS</strong> (leveraged Nasdaq) may indicate risk-off sentiment.<br />\n- <strong>Defence Tech (DTEC)</strong> and <strong>Gold (GHLD)</strong> saw strong inflows, potentially reflecting hedging demand.  </p>\n<p><em>Omitted:</em> Non-material flows, legal disclaimers, contact details.</p>",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>Fund Flows (June 2025):</strong>  </li>\n<li><strong>Significant Inflows:</strong>  <ul>\n<li><strong>DTEC (Defence Tech ETF):</strong> +1,500,000 units ($24.1M).  </li>\n<li><strong>GHLD (Gold Bullion Hedged ETF):</strong> +241,500 units ($12.8M).  </li>\n<li><strong>BANK (Australian Bank Credit ETF):</strong> +1,200,624 units ($11.9M).  </li>\n</ul>\n</li>\n<li><strong>Significant Outflows:</strong>  <ul>\n<li><strong>USTB (US Treasury Bond Hedged ETF):</strong> -4,700,000 units (-$43.3M).  </li>\n<li><strong>LNAS (Ultra Long Nasdaq 100):</strong> -675,000 units (-$7.3M).  </li>\n<li><strong>SNAS (Ultra Short Nasdaq 100):</strong> -180,000 units (-$3.6M).  </li>\n</ul>\n</li>\n<li><strong>Net Neutral:</strong>  <ul>\n<li><strong>PAVE (US Infrastructure ETF), ZYAU (ASX 200 High Dividend ETF):</strong> Zero net change despite mixed flows.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>(Note: Excludes routine operational/fixed-income ETF flows with negligible impact.)</em></p>",
     "usage": {
-      "prompt_tokens": 2625,
-      "completion_tokens": 430,
-      "total_tokens": 3055,
+      "prompt_tokens": 2623,
+      "completion_tokens": 264,
+      "total_tokens": 2887,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-04T07:50:13.915955"
+    "processed_at": "2025-07-04T08:00:14.820137"
   },
   {
     "ticker": "BSX",
