@@ -1,0 +1,19 @@
+{
+  "ticker": "IPG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966289",
+  "id": "02966289",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250704",
+  "time": "1622",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lh5zgzsxj6ww.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract **only** the material trading/capital markets information in the requested concise bullet-point format, tailored to the announcement type.  \n\nExample responses for common scenarios:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Placement Announcement**:  \n   - *Structure*: Institutional placement.  \n   - *Amount*: AUD 50M at $0.20/share (10% discount to last close).  \n   - *Use of funds*: Debt reduction and exploration.  \n   - *Timetable*: Settlement 5 May 2024.  \n\n3. **Appendix 4C (Quarterly)**:  \n   - *Cash balance*: AUD 2.1M (vs AUD 3.0M prior quarter).  \n   - *Cash burn*: AUD 0.9M quarterly.  \n   - *Milestone*: First ore processed at Project X.  \n\n4. **Material Acquisition**:  \n   - *Target*: 100% of [Asset] for AUD 15M (50% scrip, 50% cash).  \n   - *Impact*: Adds 200koz Au Resource, funding via new debt facility.  \n\n5. **No Material Information Identified**:  \n   - Routine director appointment or annual report filing.  \n\n**Provide the announcement text/PDF**, and I\u2019ll reply strictly per the above rules.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 316,
+    "total_tokens": 539,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-04T06:29:15.070353"
+}
