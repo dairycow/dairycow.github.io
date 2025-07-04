@@ -1,0 +1,19 @@
+{
+  "ticker": "SB2",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966390",
+  "id": "02966390",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250704",
+  "time": "1904",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250704/pdf/06lhfrnpf2s2r0.pdf",
+  "summary": "Understood. Please provide:  \n1. The **ASX announcement PDF** (or text extract), and  \n2. Specify the **announcement type** if known (e.g., Capital Raising, Quarterly, Trading Halt).  \n\nI\u2019ll strictly adhere to your formatting rules and extract only material information in concise bullet points. If the document is unclear or lacks key details, I\u2019ll note: *\"No material information identified.\"*  \n\nExample outputs:  \n- **Trading Halt**: *\"Halt requested pending release of capital raising details.\"*  \n- **Capital Raising**: *\"A$50M placement + SPP. Ex-date: 15 May, Record: 17 May, Close: 30 May.\"*  \n- **4C Report**: *\"Cash: A$12.3M. Quarterly sales up 22% QoQ. No debt.\"*  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 192,
+    "total_tokens": 422,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-04T09:22:43.550450"
+}
