@@ -1,5 +1,100 @@
 [
   {
+    "ticker": "CCL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966582",
+    "id": "02966582",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "0945",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnt1km9b6q9.pdf",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 38,396 unquoted performance rights (ASX: CCLAB) lapsed due to unmet conditions.  </li>\n<li><strong>Impact on Capital Structure</strong>:  </li>\n<li>Total ordinary shares (CCL) remain unchanged at <strong>191,562,253</strong>.  </li>\n<li>Remaining unquoted performance rights (CCLAB) adjusted to <strong>1,637,684</strong>.  </li>\n</ul>\n<p><em>No material trading impact identified (lapsed rights were unquoted and non-dilutive).</em></p>",
+    "usage": {
+      "prompt_tokens": 1004,
+      "completion_tokens": 105,
+      "total_tokens": 1109,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-06T23:48:32.869650"
+  },
+  {
+    "ticker": "KCC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966581",
+    "id": "02966581",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250707",
+    "time": "0942",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnqcgyvkp49.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement of a non-brokered private placement of Common Shares in Canada.  </li>\n<li><strong>Expected Halt Duration</strong>: Until earlier of normal trading 9 July 2025 or announcement release.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 824,
+      "completion_tokens": 49,
+      "total_tokens": 873,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-06T23:52:44.941812"
+  },
+  {
+    "ticker": "SVR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966580",
+    "id": "02966580",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "0942",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnn60s17f2k.pdf",
+    "summary": "<p><strong>Summary (Appendix 3H - Cessation of Securities):</strong><br />\n- <strong>Securities ceased</strong>: 2,970,278 ordinary shares (SVR)<br />\n- <strong>Reason</strong>: On-market buy-back cancellation<br />\n- <strong>Date of cessation</strong>: 04/07/2025<br />\n- <strong>Buy-back consideration</strong>: AUD 4,867,863<br />\n- <strong>Post-cessation issued capital</strong>: 194,058,224 ordinary shares (quoted) + 4,121,203 performance rights (unquoted).  </p>\n<p><em>Focus: Capital structure impact (share count reduction, buy-back cost). No material trading or valuation catalysts.</em></p>",
+    "usage": {
+      "prompt_tokens": 1023,
+      "completion_tokens": 132,
+      "total_tokens": 1155,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-06T23:49:27.934390"
+  },
+  {
+    "ticker": "NGS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966579",
+    "id": "02966579",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "0941",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnkyf8cz53k.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3H - Cessation of Securities):</strong><br />\n- <strong>Securities ceased:</strong> 25,000 unquoted employee options (NGSAN) due to expiry without exercise.<br />\n- <strong>Date of cessation:</strong> 03/07/2025.<br />\n- <strong>Issued capital post-cessation:</strong><br />\n  - Quoted: 176,167,759 ordinary shares (NGS), 8,000,004 options (NGSOA).<br />\n  - Unquoted: 635,417 remaining employee options (NGSAN) + other unquoted options (see table).  </p>\n<p><strong>No material trading or capital markets impact identified</strong> (routine expiry of negligible options).</p>",
+    "usage": {
+      "prompt_tokens": 1181,
+      "completion_tokens": 151,
+      "total_tokens": 1332,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-06T23:51:46.839588"
+  },
+  {
+    "ticker": "G88",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966578",
+    "id": "02966578",
+    "pages": 13,
+    "price_sensitive": true,
+    "date": "20250707",
+    "time": "0939",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnhkjjm217t.pdf",
+    "summary": "<h3>Material Information Summary (ASX: G88 - Exploration Results Announcement)</h3>\n<ul>\n<li><strong>Key Assay Results</strong>:  </li>\n<li><strong>High-grade gold assays</strong> at Aurora Gold Prospect (Pearl Copper Project, Arizona):  <ul>\n<li><strong>Gold</strong>: Up to <strong>29.3 g/t Au</strong> (highest grade), with additional assays of 11.2 g/t, 8.43 g/t, 6.15 g/t, and 6.09 g/t.  </li>\n<li><strong>Silver</strong>: Up to <strong>36 g/t Ag</strong>.  </li>\n<li><strong>Lead</strong>: Up to <strong>1.59% Pb</strong>.  </li>\n</ul>\n</li>\n<li>\n<p>Results exceed prior sampling (January 2025), reinforcing prospectivity.  </p>\n</li>\n<li>\n<p><strong>Next Steps</strong>:  </p>\n</li>\n<li>Detailed geological mapping and geochemical sampling.  </li>\n<li>Permit expansions (ASLD/BLM) to enable future drilling.  </li>\n<li>\n<p>Planned drilling of identified targets.  </p>\n</li>\n<li>\n<p><strong>Project Context</strong>:  </p>\n</li>\n<li>Pearl Copper Project is underexplored, located in a prolific copper/gold region near BHP\u2019s San Manuel mine (Arizona, USA). No modern drilling to date.  </li>\n</ul>\n<p><em>No capital raising, financials, or trading halt details disclosed. Focus is on exploration upside.</em></p>",
+    "usage": {
+      "prompt_tokens": 5849,
+      "completion_tokens": 256,
+      "total_tokens": 6105,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-06T23:50:46.289249"
+  },
+  {
     "ticker": "HTG",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966577",
     "id": "02966577",
@@ -8,15 +103,15 @@
     "date": "20250707",
     "time": "0937",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljndxhq2cpzh.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Convertible Notes issuance  </li>\n<li><strong>Total Amount Raised</strong>: AUD 245,000 (245 notes \u00d7 AUD 1,000)  </li>\n<li><strong>Security Code</strong>: HTGAG (existing class)  </li>\n<li><strong>Issue Date</strong>: 8 July 2025  </li>\n<li><strong>Maturity Date</strong>: 20 December 2025  </li>\n<li><strong>Use of Proceeds</strong>: Primarily for investment purposes  </li>\n<li><strong>Shareholder Approval</strong>: Not required for issuance (relied on LR 7.2 Exception 17) but required prior to conversion. Meeting date pending.  </li>\n<li><strong>Ranking</strong>: Notes rank equally with existing securities.  </li>\n</ul>\n<p><em>No material additional conditions, fees, or escrow restrictions identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Placement of Convertible Notes (HTGAG).  </li>\n<li><strong>Total Capital Raised</strong>: AUD 245,000 (245 notes \u00d7 AUD 1,000 each).  </li>\n<li><strong>Key Dates</strong>:  <ul>\n<li>Proposed issue date: 8 July 2025.  </li>\n<li>Maturity date: 20 December 2025 (with conversion triggers; shareholder approval for conversion pending).  </li>\n</ul>\n</li>\n<li><strong>Use of Proceeds</strong>: Primarily for investment purposes.  </li>\n<li><strong>Regulatory</strong>: Issued under ASX Listing Rule 7.2 Exception 17 (no immediate shareholder approval required; approval needed prior to conversion).  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
     "usage": {
       "prompt_tokens": 1502,
-      "completion_tokens": 147,
-      "total_tokens": 1649,
+      "completion_tokens": 151,
+      "total_tokens": 1653,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:41:35.947145"
+    "processed_at": "2025-07-06T23:49:16.104784"
   },
   {
     "ticker": "GLO",
@@ -27,15 +122,15 @@
     "date": "20250707",
     "time": "0936",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljnbr1pnm6q0.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Document Type:</strong> Monthly ETF Unit Issuance/Redemption Report  </p>\n<ul>\n<li><strong>Perpetual ESG Australian Share Active ETF (ASX: GIVE)</strong>  </li>\n<li>Units issued: 116,076 ($386,736.88 AUD)  </li>\n<li>Units redeemed: 30,011 ($100,232.17 AUD)  </li>\n<li><strong>Net units issued:</strong> 86,065 ($286,504.71 AUD)  </li>\n<li>\n<p><strong>Outstanding units on issue:</strong> 4,069,396  </p>\n</li>\n<li>\n<p><strong>Barrow Hanley Global Share Active ETF (ASX: GLOB)</strong>  </p>\n</li>\n<li>Units issued: 1,843,749 ($9,273,857.37 AUD)  </li>\n<li>Units redeemed: Nil  </li>\n<li><strong>Net units issued:</strong> 1,843,749 ($9,273,857.37 AUD)  </li>\n<li><strong>Outstanding units on issue:</strong> 70,156,812  </li>\n</ul>\n<p><strong>Note:</strong> No material trading or capital markets impact identified beyond routine monthly unit flow disclosures.</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Monthly ETF Unit Issuance/Redemption Report  </li>\n<li><strong>ASX Codes</strong>:  </li>\n<li><strong>GIVE (Perpetual ESG Australian Share Active ETF)</strong>:  <ul>\n<li>Units issued: 116,076 ($386,736.88)  </li>\n<li>Units redeemed: 30,011 ($100,232.17)  </li>\n<li>Net units issued: 86,065 ($286,504.71)  </li>\n<li>Outstanding units: 4,069,396  </li>\n</ul>\n</li>\n<li><strong>GLOB (Barrow Hanley Global Share Active ETF)</strong>:  <ul>\n<li>Units issued: 1,843,749 ($9,273,857.37)  </li>\n<li>Units redeemed: Nil  </li>\n<li>Net units issued: 1,843,749 ($9,273,857.37)  </li>\n<li>Outstanding units: 70,156,812  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material capital markets actions or trading-relevant events identified.</strong> (Routine liquidity/metrics update.)</p>",
     "usage": {
-      "prompt_tokens": 851,
-      "completion_tokens": 220,
-      "total_tokens": 1071,
+      "prompt_tokens": 849,
+      "completion_tokens": 207,
+      "total_tokens": 1056,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:44:56.230063"
+    "processed_at": "2025-07-06T23:52:17.882116"
   },
   {
     "ticker": "CBH",
@@ -46,15 +141,15 @@
     "date": "20250707",
     "time": "0935",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljn6dpblsfng.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>: Successfully raised <strong>AUD 20 million</strong> via Recompliance Capital Raise.  </li>\n<li><strong>Listing Update</strong>: Conditional ASX admission approved; expected <strong>trading under new ticker 'BHM' by 22 July 2025</strong>.  </li>\n<li><strong>Key Date</strong>: <strong>ASX reinstatement and trading commencement</strong> to be confirmed (on/before 22 July).  </li>\n</ul>\n<p><em>Omitted: Director details, contact information, and procedural boilerplate.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising</strong>: Successful Recompliance Capital Raise of $20 million (maximum amount).  </li>\n<li><strong>ASX Listing Update</strong>: Conditional ASX admission received; trading under new ticker 'BHM' expected by 22 July 2025.  </li>\n<li><strong>Key Event</strong>: Transaction completion and ASX reinstatement pending.  </li>\n</ul>\n<p>(No other material information identified.)</p>",
     "usage": {
       "prompt_tokens": 531,
-      "completion_tokens": 98,
-      "total_tokens": 629,
+      "completion_tokens": 74,
+      "total_tokens": 605,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:44:40.487341"
+    "processed_at": "2025-07-06T23:51:50.470874"
   },
   {
     "ticker": "AVH",
@@ -65,15 +160,15 @@
     "date": "20250707",
     "time": "0935",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljn8hzh8w7c9.pdf",
-    "summary": "<p><strong>Key Material Information (Appendix 4A - CDI Statement):</strong>  </p>\n<ul>\n<li><strong>CDIs (AVH) on Issue</strong>:  </li>\n<li>Total as of June 2025: <strong>71,260,485</strong> (\u21911,711,125 from May 2025).  </li>\n<li>\n<p>Reason: Net transfers between CDIs and NASDAQ-listed common stock.  </p>\n</li>\n<li>\n<p><strong>Common Stock (AVHAY)</strong>:  </p>\n</li>\n<li>Total as of June 2025: <strong>12,306,381</strong> (\u2193282,638 from May 2025).  </li>\n<li>\n<p>Reason: Net transfers between CDIs and common stock.  </p>\n</li>\n<li>\n<p><strong>Options/Other Securities</strong>:  </p>\n</li>\n<li>Minor adjustments due to <strong>incorrect cancellations</strong> in prior filings (affecting AVHAAH, AVHABD, AVHAAG, AVHAAB).  </li>\n<li>No material changes for other options/warrants.  </li>\n</ul>\n<p><strong>Conclusion</strong>: No significant capital structure impact. Monitoring CDI/common stock conversion activity advised.  </p>\n<p><em>(Note: Appendix 4A is routine disclosure; primary focus is on CDI/stock liquidity dynamics.)</em></p>",
+    "summary": "<h3>Summary of Appendix 4A - Statement of CDIs on Issue (AVH)</h3>\n<ul>\n<li><strong>Key changes in CDIs (5:1 CHESS Depositary Interests):</strong>  </li>\n<li><strong>Total CDIs issued (June 2025):</strong> 71,260,485 (up <strong>1,711,125</strong> from May 2025).  </li>\n<li>\n<p><strong>Reason:</strong> Net transfers between CDIs and Nasdaq-listed common stock.  </p>\n</li>\n<li>\n<p><strong>Key changes in underlying securities:</strong>  </p>\n</li>\n<li><strong>Common Stock (AVHAY):</strong> 12,306,381 (down <strong>282,638</strong>).  </li>\n<li><strong>5:1 CDI Equivalent (AVHAZ):</strong> 61,531,905 (down <strong>1,093,275</strong>).  </li>\n<li>\n<p><strong>Options adjustments:</strong> Rectification of incorrect cancellations for:  </p>\n<ul>\n<li><strong>AVHAAH (Options):</strong> +750 (correcting prior error).  </li>\n<li><strong>AVHABD (Options):</strong> +667 (correcting prior error).  </li>\n<li><strong>AVHAAG (Options):</strong> +375 (correcting prior error).  </li>\n<li><strong>AVHAAB (Options):</strong> +2,300 (correcting prior error).  </li>\n</ul>\n</li>\n<li>\n<p><strong>No material changes</strong> in other securities (warrants, restricted stock units, or majority of options).  </p>\n</li>\n</ul>\n<p><strong>Verdict:</strong> No material impact on trading or capital structure. Updates reflect administrative corrections and routine CDI/common stock transfers.</p>",
     "usage": {
       "prompt_tokens": 4318,
-      "completion_tokens": 232,
-      "total_tokens": 4550,
+      "completion_tokens": 305,
+      "total_tokens": 4623,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:40:52.777607"
+    "processed_at": "2025-07-06T23:48:47.672662"
   },
   {
     "ticker": "ILA",
@@ -84,15 +179,15 @@
     "date": "20250707",
     "time": "0933",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljn40799st2m.pdf",
-    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Reason: Pending announcement of an Asset Purchase Agreement with BioCryst Pharmaceuticals, Inc. regarding the Galidesivir program.<br />\n- Halt duration: Until earlier of market open on 9 July 2025 or announcement release.  </p>\n<p>(Boilerplate and non-material details omitted.)</p>",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending announcement regarding execution of Asset Purchase Agreement with BioCryst Pharmaceuticals, Inc for the Galidesivir program.  </li>\n<li><strong>Halt Duration</strong>: Until earlier of open on 9 July 2025 or announcement release.  </li>\n</ul>\n<p><em>(Omitted boilerplate, legal details, and non-material context)</em></p>",
     "usage": {
-      "prompt_tokens": 800,
-      "completion_tokens": 68,
-      "total_tokens": 868,
+      "prompt_tokens": 802,
+      "completion_tokens": 69,
+      "total_tokens": 871,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:45:03.971620"
+    "processed_at": "2025-07-06T23:52:42.097215"
   },
   {
     "ticker": "CC9",
@@ -103,15 +198,15 @@
     "date": "20250707",
     "time": "0933",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljn1t7l3v3v1.pdf",
-    "summary": "<ul>\n<li><strong>Trading Suspension Reason</strong>: Pending ASX announcement regarding a proposed acquisition.  </li>\n<li><strong>Expected Suspension End</strong>: The earlier of 9 July 2025 (trading commencement) or announcement release.  </li>\n<li><strong>No material information identified</strong> beyond the suspension details.</li>\n</ul>",
+    "summary": "<h3><strong>Summary of ASX Announcement \u2013 Chariot Corporation Limited (CC9)</strong></h3>\n<ul>\n<li><strong>Suspension Reason:</strong> Pending announcement regarding a proposed acquisition.  </li>\n<li><strong>Suspension Period:</strong> Until the earlier of:  </li>\n<li>Trading commencement on <strong>9 July 2025</strong>, or  </li>\n<li>Release of the acquisition announcement.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 931,
-      "completion_tokens": 58,
-      "total_tokens": 989,
+      "completion_tokens": 79,
+      "total_tokens": 1010,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:44:44.482816"
+    "processed_at": "2025-07-06T23:52:12.613334"
   },
   {
     "ticker": "360",
@@ -122,15 +217,15 @@
     "date": "20250707",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmxk16jshz4.pdf",
-    "summary": "<ul>\n<li><strong>CDI Issuance Update (ASX:360 - LIFE360 INC.)</strong>  </li>\n<li><strong>CDIs on Issue (3:1 Ratio)</strong>: 170,004,741 as of June 2025 (Net increase of 2,260,896 from May 2025).  </li>\n<li><strong>Reason for Change</strong>: Net transfers between CDIs and Nasdaq-listed common stock (360ABC).  </li>\n<li><strong>Underlying Nasdaq Common Stock (360ABC)</strong>: 20,847,985 (Net decrease of 90,672).  </li>\n<li><strong>3:1 CDI Equivalent Securities (360ABD)</strong>: 62,543,955 (Net decrease of 272,016).  </li>\n<li><strong>Notes</strong>: Changes driven by securities transfers, RSU/option exercises, and lapses.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine CDI tracking).</em></p>",
+    "summary": "<ul>\n<li><strong>CDIs on Issue (360: CDI 3:1 FOREIGN EXEMPT XNGS)</strong>:  </li>\n<li><strong>June 2025</strong>: 170,004,741 (\u21912,260,896 from May 2025)  </li>\n<li>\n<p><strong>Reason</strong>: Net transfers between CDIs and NASDAQ-listed Common Stock.  </p>\n</li>\n<li>\n<p><strong>Common Stock (360ABC - NASDAQ)</strong>:  </p>\n</li>\n<li>\n<p><strong>June 2025</strong>: 20,847,985 (\u219390,672 from May 2025).  </p>\n</li>\n<li>\n<p><strong>CDI-Equivalent Securities (360ABD)</strong>:  </p>\n</li>\n<li><strong>June 2025</strong>: 62,543,955 (\u2193272,016 from May 2025).  </li>\n<li><strong>Reason</strong>: Transfers between CDIs/Common Stock; option/warrant exercises/lapses.  </li>\n</ul>\n<p><strong>No material trading/capital impact identified</strong> (routine monthly CDI/security tracking).</p>",
     "usage": {
-      "prompt_tokens": 885,
-      "completion_tokens": 186,
-      "total_tokens": 1071,
+      "prompt_tokens": 883,
+      "completion_tokens": 193,
+      "total_tokens": 1076,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:42:34.883507"
+    "processed_at": "2025-07-06T23:50:14.149931"
   },
   {
     "ticker": "NTI",
@@ -141,15 +236,15 @@
     "date": "20250707",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmzpygsqkww.pdf",
-    "summary": "<h3>Summary of ASX Announcement: Neurotech\u2019s Rett Syndrome Clinical Trial Results</h3>\n<ul>\n<li><strong>Publication of Phase I/II Rett syndrome trial results</strong> in <em>Journal of Paediatrics and Child Health</em>.  </li>\n<li><strong>Key findings</strong>:  </li>\n<li>NTI164 (0.08% THC cannabis extract) was well tolerated.  </li>\n<li>Clinical improvements observed in neurological, behavioural, and functional measures.  </li>\n<li>Supports potential as a therapy for Rett syndrome.  </li>\n<li><strong>Next steps</strong>: Reinforces regulatory advancement prospects for NTI164.  </li>\n</ul>\n<p><em>No material trading or capital markets actions identified (e.g., capital raising, timetable updates). Focus is on clinical validation.</em></p>",
+    "summary": "<p><strong>Key Material Information:</strong><br />\n- <strong>Clinical Trial Results Published</strong>: Phase I/II trial results for NTI164 (medicinal cannabis extract) in Rett syndrome published in <em>Journal of Paediatrics and Child Health</em>.<br />\n  - <strong>Findings</strong>:<br />\n    - Well-tolerated with clinical improvements in neurological, behavioural, and functional measures.<br />\n    - Potential broader therapeutic benefits targeting neuroinflammation and synaptic function.<br />\n- <strong>Regulatory/Commercial Implications</strong>: Supports NTI164's scientific validation and future regulatory pathway for Rett syndrome and paediatric neurological disorders.  </p>\n<p><strong>No material trading/capital markets actions announced (e.g., no capital raising, timetable, or financial data disclosed).</strong></p>",
     "usage": {
       "prompt_tokens": 1167,
-      "completion_tokens": 140,
-      "total_tokens": 1307,
+      "completion_tokens": 143,
+      "total_tokens": 1310,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:45:27.879554"
+    "processed_at": "2025-07-06T23:53:10.089867"
   },
   {
     "ticker": "AII",
@@ -160,15 +255,15 @@
     "date": "20250707",
     "time": "0932",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmvfr7gg7jv.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending filing of JORC-compliant technical report for Sangdong Project (ASX CDIs only; TSX/OTCQX/Frankfurt trading unaffected).  </li>\n<li><strong>Key Implication</strong>: No expected material change between NI 43-101 and JORC reports.  </li>\n<li><strong>Next Step</strong>: ASX trading to resume post-JORC report release (anticipated shortly).  </li>\n</ul>\n<p><em>Omitted: Company background, legal disclaimers, forward-looking statements.</em></p>",
+    "summary": "<ul>\n<li><strong>Trading Halt Reason</strong>: Voluntary halt on ASX (CDIs only) pending filing of JORC-compliant technical report for Sangdong Project.  </li>\n<li><strong>No material change expected</strong> between NI 43-101 and JORC reports.  </li>\n<li><strong>Trading continues unaffected</strong> on TSX, Frankfurt, and OTCQX.  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
       "prompt_tokens": 2119,
-      "completion_tokens": 104,
-      "total_tokens": 2223,
+      "completion_tokens": 81,
+      "total_tokens": 2200,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:44:12.378506"
+    "processed_at": "2025-07-06T23:51:18.549088"
   },
   {
     "ticker": "HTG",
@@ -179,15 +274,15 @@
     "date": "20250707",
     "time": "0931",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmscjywhp6n.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 500 convertible notes (HTGAG) issued at AUD 1,000 each (total AUD 500,000).  </li>\n<li><strong>Transaction Reference</strong>: Part of a previously announced placement (Appendix 3B dated 01-Jul-2025).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Ordinary shares (HTG): 909,018,311 (quoted).  </li>\n<li>Unquoted securities:  <ul>\n<li>HTGAF (Performance Rights): 1,000,000  </li>\n<li>HTGAA (Options): 58,947,247  </li>\n<li>HTGAG (Convertible Notes): <strong>4,096,334</strong> (post-issue)  </li>\n<li>HTGAR (Options): 5,000,000  </li>\n<li>HTGAC (Options): 22,000,000.  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material impact on liquidity or capital structure identified; small incremental issuance.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 500 convertible notes (HTGAG) issued at AUD 1,000 each, totaling AUD 500,000.  </li>\n<li><strong>Existing Capital Structure</strong>:  </li>\n<li>Ordinary shares (HTG): 909,018,311 (quoted).  </li>\n<li>Unquoted securities:  <ul>\n<li>Performance rights (HTGAF): 1,000,000.  </li>\n<li>Options (HTGAA, HTGAR, HTGAC): 85,947,247.  </li>\n<li>Convertible notes (HTGAG): 4,096,334 (post-issuance).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material impact on liquidity or valuation; routine disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1356,
-      "completion_tokens": 196,
-      "total_tokens": 1552,
+      "completion_tokens": 145,
+      "total_tokens": 1501,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:42:11.913083"
+    "processed_at": "2025-07-06T23:49:24.551940"
   },
   {
     "ticker": "XTC",
@@ -198,15 +293,15 @@
     "date": "20250707",
     "time": "0930",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmq1s7ksbg5.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement (Appendix 4G &amp; Corporate Governance Statement)</strong>  </p>\n<ul>\n<li><strong>Corporate Governance Disclosures</strong>: Routine submission of Appendix 4G and governance practices, with no material financial or operational impacts disclosed.  </li>\n<li><strong>Non-Compliance Highlights</strong>:  </li>\n<li><strong>Board Independence</strong>: Majority of directors not independent (Rec. 2.4).  </li>\n<li><strong>Chair/CEO Role</strong>: Combined Chair/CEO role (Rec. 2.5).  </li>\n<li><strong>Committee Structures</strong>: No separate nomination, audit, remuneration, or risk committees; functions performed by full board due to small size (Recs. 2.1, 4.1, 7.1, 8.1).  </li>\n</ul>\n<p><strong>No material information identified for trading or capital markets decisions.</strong></p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Document Type</strong>: Corporate Governance Disclosure (Appendix 4G &amp; Statement)  </li>\n<li><strong>Entity</strong>: XTC Lithium Ltd  </li>\n<li><strong>Key Points</strong>:  </li>\n<li>Compliance with ASX Corporate Governance Principles is partially met; deviations disclosed.  </li>\n<li><strong>Governance Gaps</strong>:  <ul>\n<li>No independent directors (violates Recommendations 2.4, 2.5).  </li>\n<li>No separate Nomination, Audit, or Risk Committees (Board handles these functions).  </li>\n<li>No formal board skills matrix (under development).  </li>\n<li>No internal audit function (Board oversees risk/controls).  </li>\n<li>No performance evaluations conducted for Board/senior executives in the reporting period.  </li>\n<li>Diversity policy in place but no measurable gender diversity objectives achieved.  </li>\n</ul>\n</li>\n<li><strong>Material Risks</strong>: Exposure to environmental/social risks disclosed; managed via compliance with laws.  </li>\n</ul>\n<p><strong>No material trading or capital markets information identified</strong> (operational/financial data or corporate actions not disclosed).  </p>\n<hr />\n<p><strong>Note:</strong> This is a governance disclosure; no actionable market data (e.g., capital raising, financials) is provided.</p>",
     "usage": {
-      "prompt_tokens": 13156,
-      "completion_tokens": 161,
-      "total_tokens": 13317,
+      "prompt_tokens": 13158,
+      "completion_tokens": 239,
+      "total_tokens": 13397,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:45:11.328177"
+    "processed_at": "2025-07-06T23:53:03.694146"
   },
   {
     "ticker": "BPM",
@@ -217,15 +312,15 @@
     "date": "20250707",
     "time": "0928",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmkd5j9twk8.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Structure</strong>: Placement / Other type of issue (non-cash consideration for acquisition).  </li>\n<li><strong>Total Securities to be Issued</strong>:  </li>\n<li><strong>Ordinary Shares (BPM)</strong>: 13,340,000 (existing class).  </li>\n<li><strong>Performance Rights (New class)</strong>: 7,000,000.  </li>\n<li><strong>Purpose</strong>: Consideration for acquisition of Forelands project (referenced to 7 July 2025 announcement).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Proposed issue date: 7 July 2026.  </li>\n<li>Shareholder approval required by 7 July 2026 (estimated).  </li>\n<li><strong>Consideration (AUD Equivalent)</strong>:  </li>\n<li>Ordinary Shares: $386,860.  </li>\n<li>Performance Rights: Nominal ($0.0000001 per right).  </li>\n</ul>\n<p><strong>Note</strong>: No underwriting, lead manager, or material fees. No change to dividend policy. Performance rights are a new class (not ranked equally with ordinary shares).</p>",
+    "summary": "<h3><strong>Capital Raising Announcement Summary</strong></h3>\n<ul>\n<li><strong>Structure</strong>: Placement (performance rights + ordinary shares)  </li>\n<li><strong>Total Capital Raised</strong>: ~AUD 386,860 (for ordinary shares) + nominal AUD 0.0000001 (performance rights)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Proposed Issue Date</strong>: 7 July 2026  </li>\n<li><strong>Shareholder Approval Deadline</strong>: 7 July 2026 (required for Forelands project consideration shares)  </li>\n<li><strong>Details</strong>:  </li>\n<li><strong>Ordinary Shares (BPM)</strong>: 13,340,000 issued (existing class, AUD 386,860 consideration).  </li>\n<li><strong>Performance Rights</strong>: 7,000,000 issued (new class, no cash consideration).  </li>\n<li><strong>Purpose</strong>: Acquisition of the Forelands project (refer to 7 July 2025 announcement).  </li>\n</ul>\n<p><strong>Note</strong>: No underwriting, escrow, or lead manager. Shareholder approval pending.</p>",
     "usage": {
       "prompt_tokens": 2112,
-      "completion_tokens": 207,
-      "total_tokens": 2319,
+      "completion_tokens": 199,
+      "total_tokens": 2311,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:41:04.175241"
+    "processed_at": "2025-07-06T23:49:07.129520"
   },
   {
     "ticker": "LSX",
@@ -236,15 +331,15 @@
     "date": "20250707",
     "time": "0927",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmf7rbst6v9.pdf",
-    "summary": "<h3><strong>Monthly NTA Announcement \u2013 Lion Selection Group (ASX: LSX) \u2013 30 June 2025</strong></h3>\n<p><strong>Material Information:</strong><br />\n- <strong>Pre-Tax NTA:</strong> 92.7 cps<br />\n- <strong>Post-Tax NTA:</strong> 89.5 cps (reflects deferred tax on unrealised gains)<br />\n- <strong>Share Price (as of 30 June 2025):</strong> 92.0 cps (trading at ~2.8% premium to post-tax NTA)<br />\n- <strong>Cash Position (30 June 2025):</strong> $40.5M (net cash)<br />\n- <strong>Total Portfolio Value:</strong> $126.4M (pre-deferred tax: $130.8M)<br />\n- <strong>Key Holdings Breakdown:</strong><br />\n  - New Investments (Australia-focused): <strong>$70.3M</strong><br />\n  - Legacy Investments: <strong>$20.0M</strong><br />\n- <strong>Contingent Liabilities:</strong> $1.5M (excluded from NTA; linked to potential exits in PhosCo/Atlantic Tin).<br />\n- <strong>June 2025 Interest Income:</strong> $0.2M ($2.1M FY25 YTD).  </p>\n<p><strong>Investment Strategy:</strong><br />\n- <strong>Focus:</strong> Micro-cap Australian mining companies (~3\u20135 year horizon).<br />\n- <strong>Performance (since Jan 2022):</strong> New investments up <strong>89%</strong> ($39.4M \u2192 $74.4M).  </p>\n<p><strong>No material capital raising, timetable, or trading halt details identified.</strong>  </p>\n<p><em>(Omitted: Historical performance, dividend history, jurisdictional risk boilerplate.)</em></p>",
+    "summary": "<h3>Summary of Material Information:</h3>\n<ul>\n<li><strong>NTA (Net Tangible Asset) per share as at 30 June 2025:</strong>  </li>\n<li>Before tax: <strong>92.7 cps</strong>  </li>\n<li>After tax (deferred tax provision): <strong>89.5 cps</strong>  </li>\n<li>\n<p>Share price: <strong>92.0 cps</strong> (close to pre-tax NTA)  </p>\n</li>\n<li>\n<p><strong>Investment Portfolio &amp; Liquidity:</strong>  </p>\n</li>\n<li><strong>Total portfolio value:</strong> <strong>$126.4M</strong> (after tax)  </li>\n<li><strong>Cash balance:</strong> <strong>$40.5M</strong> (net cash position)  </li>\n<li>\n<p><strong>Contingent liabilities excluded from NTA:</strong> <strong>$1.5M</strong> (potential payments related to PhosCo/Atlantic Tin exits)  </p>\n</li>\n<li>\n<p><strong>Investment Strategy &amp; Performance:</strong>  </p>\n</li>\n<li>Focus: <strong>Australian micro-cap resource companies</strong> (3\u20135-year horizon)  </li>\n<li><strong>New investments (since 2022):</strong> <strong>$39.4M deployed, now valued at $74.4M (+89% return)</strong>  </li>\n<li>\n<p>Legacy investments: <strong>$20.0M</strong>, New Australian investments: <strong>$70.3M</strong>  </p>\n</li>\n<li>\n<p><strong>Dividend Policy:</strong>  </p>\n</li>\n<li>History of <strong>341.5 cps in distributions</strong> over 27+ years  </li>\n<li>\n<p>Aim: <strong>Sustainable dividends</strong> from surplus investment proceeds  </p>\n</li>\n<li>\n<p><strong>Key Risk Note:</strong>  </p>\n</li>\n<li>Potential deferred tax liability (<strong>$4.4M</strong>) on unrealized gains; no immediate disposal plans.  </li>\n</ul>\n<p><strong>No material trading or capital-raising actions announced.</strong> Focus is on portfolio valuation and strategy.</p>",
     "usage": {
-      "prompt_tokens": 1412,
+      "prompt_tokens": 1414,
       "completion_tokens": 335,
-      "total_tokens": 1747,
+      "total_tokens": 1749,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:42:18.498431"
+    "processed_at": "2025-07-06T23:49:53.270828"
   },
   {
     "ticker": "BPM",
@@ -255,15 +350,15 @@
     "date": "20250707",
     "time": "0927",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmhb3nf309g.pdf",
-    "summary": "<p>Here\u2019s the concise material information summary for trading/capital markets decisions:</p>\n<h3><strong>Strategic Acquisition Announcement</strong></h3>\n<ul>\n<li><strong>Project</strong>: Acquisition of the <strong>Forelands Gold Project (WA)</strong>, a high-grade, near-surface gold system.  </li>\n<li><strong>Key Assets</strong>:  </li>\n<li><strong>District-scale</strong>: ~630 km\u00b2 consolidated landholding on Yilgarn Craton margin, analogous to the &gt;8Moz Tropicana deposit.  </li>\n<li><strong>High-grade intercepts</strong>: Notable results include:  <ul>\n<li><strong>3m @ 65.8g/t Au</strong> (Beachcomber prospect).  </li>\n<li><strong>9.7m @ 4.5g/t Au</strong> (visible gold).  </li>\n</ul>\n</li>\n<li><strong>Strategic location</strong>: ~150km east of Kalgoorlie, near Trans-Access Road and multiple operating mills.  </li>\n<li>\n<p><strong>Untested potential</strong>: &gt;75km mineralised strike, 40+ drill holes &gt;1g/t Au, and multiple walk-up targets.  </p>\n</li>\n<li>\n<p><strong>Next Steps</strong>:  </p>\n</li>\n<li><strong>RC drilling at Beachcomber</strong> to commence Q3 2025.  </li>\n<li>\n<p>Heritage Agreement with Native Title Group nearing execution.  </p>\n</li>\n<li>\n<p><strong>Transaction Terms</strong>:  </p>\n</li>\n<li><strong>Option fee</strong>: AUD $120,000 (non-refundable).  </li>\n<li><strong>Total consideration</strong>: AUD $30,000 cash + <strong>13.34M BPM shares</strong> + <strong>7M performance rights</strong> (linked to JORC resource milestones).  </li>\n<li>\n<p><strong>Royalty</strong>: 1.5% GSR to vendors; additional 1% GSR on contiguous tenure.  </p>\n</li>\n<li>\n<p><strong>Valuation Impact</strong>:  </p>\n</li>\n<li>Adds tier-1 gold exploration asset with near-term resource conversion potential.  </li>\n<li>Strengthens technical team (vendors join as advisors with discovery track record).  </li>\n</ul>\n<p><strong>Omit</strong>: Historical assay tables, geological details, non-material operational updates.  </p>\n<p><strong>Format</strong>: Bullet points focus on tangible catalysts, asset quality, and capital structure changes.</p>",
+    "summary": "<h3><strong>Material Information Summary \u2013 BPM Minerals ASX Announcement (7th July 2025)</strong></h3>\n<h4><strong>1. Acquisition of High-Grade Forelands Gold Project (WA)</strong></h4>\n<ul>\n<li><strong>Project Overview</strong>:  </li>\n<li>Consolidated landholding of ~630 km\u00b2 on the Yilgarn Craton\u2013Albany Fraser Orogen margin, analogous to the &gt;8 Moz Tropicana gold deposit.  </li>\n<li>\n<p>Strategically located ~150km east of Kalgoorlie with proximity to multiple operating mills.  </p>\n</li>\n<li>\n<p><strong>Key High-Grade Intercepts</strong>:  </p>\n</li>\n<li><strong>Beachcomber Prospect</strong>:  <ul>\n<li><strong>ZSAC0087</strong>: 3m @ <strong>65.8 g/t Au</strong> from 25m  </li>\n<li><strong>BCD001</strong>: 9.7m @ <strong>4.5 g/t Au</strong> (incl. 0.5m @ <strong>66.5 g/t Au</strong>)  </li>\n<li><strong>BCRC008</strong>: 3m @ <strong>13.5 g/t Au</strong> from 90m  </li>\n<li><strong>BCRC035</strong>: 2m @ <strong>4.73 g/t Au</strong> (hole ended in <strong>8.47 g/t Au</strong>)  </li>\n</ul>\n</li>\n<li>\n<p><strong>Ambrosia Prospect</strong>: 8m @ <strong>1.15 g/t Au</strong> (AMRC002).  </p>\n</li>\n<li>\n<p><strong>Exploration Upside</strong>:  </p>\n</li>\n<li>\n<blockquote>\n<p>75 km of confirmed mineralised strike with over 40 historic drill holes &gt;1 g/t Au.  </p>\n</blockquote>\n</li>\n<li>\n<p>Stacked quartz lodes open in all directions; immediate RC drilling planned for Q3 2025.  </p>\n</li>\n<li>\n<p><strong>Commercial Potential</strong>:  </p>\n</li>\n<li>Potential for early-stage toll treatment due to high-grade near-surface mineralisation.  </li>\n<li>Heritage Agreement with Native Title Group pending execution.  </li>\n</ul>\n<h4><strong>2. Transaction Terms</strong></h4>\n<ul>\n<li><strong>Option Agreements</strong>:  </li>\n<li><strong>Option Fee</strong>: AUD $120,000 (non-refundable).  </li>\n<li><strong>Total Consideration</strong>: AUD $30,000 cash + 13.34M BPM shares + 7M performance rights tied to JORC resource milestones (50koz Au @ 1.5g/t within 24 months; 250koz Au @ 1.0g/t within 48 months).  </li>\n<li>\n<p><strong>Royalty</strong>: 1.5% gross smelter return (GSR) to vendors.  </p>\n</li>\n<li>\n<p><strong>Conditions</strong>:  </p>\n</li>\n<li>Due diligence, regulatory approvals, and heritage clearance required.  </li>\n</ul>\n<h4><strong>3. Next Steps</strong></h4>\n<ul>\n<li><strong>Q3 2025</strong>: RC drilling at Beachcomber to commence.  </li>\n<li>Resource conversion targeting maiden JORC-compliant estimate.  </li>\n<li>Regional targeting along 75 km corridor.  </li>\n</ul>\n<hr />\n<p><strong>Priority</strong>: High-impact acquisition with near-term drilling catalysts. <strong>Materiality</strong>: Significant expansion potential in tier-1 jurisdiction.<br />\n<em>Omitted: Non-material operational details, director names, legal boilerplate.</em></p>",
     "usage": {
       "prompt_tokens": 58816,
-      "completion_tokens": 413,
-      "total_tokens": 59229,
+      "completion_tokens": 602,
+      "total_tokens": 59418,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:43:30.228232"
+    "processed_at": "2025-07-06T23:51:16.775024"
   },
   {
     "ticker": "BNZ",
@@ -274,15 +369,15 @@
     "date": "20250707",
     "time": "0926",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljmc048sv6qv.pdf",
-    "summary": "<p><strong>Appendix 4A - CDI Statement Summary</strong>  </p>\n<ul>\n<li><strong>BNZ CDIs on issue (1:1 ratio)</strong>: Increased by <strong>33,657,987</strong> to <strong>197,323,912</strong> (June 2025 vs. May 2025) due to net transfers from TSX-V ordinary shares.  </li>\n<li><strong>Ordinary shares (BNZAA)</strong>: Decreased by <strong>33,657,987</strong> to <strong>56,483,702</strong>, reflecting transfers to CDIs.  </li>\n<li><strong>Outstanding options</strong>: No change in any class (quantities and expiry dates unchanged).  </li>\n</ul>\n<p><strong>No material capital markets or trading impact identified</strong> (routine CDI/share balance update).</p>",
+    "summary": "<ul>\n<li><strong>CDI Movement</strong>: Net increase of <strong>33,657,987 CDIs</strong> (BNZ) in June-2025 due to transfers from TSX-V ordinary shares.  </li>\n<li><strong>Ordinary Shares (BNZAA)</strong>: Decrease of <strong>33,657,987</strong> (transferred to CDIs), closing balance <strong>56,483,702</strong>.  </li>\n<li><strong>Options</strong>: No changes in outstanding option balances across all series (expiries 2025-2028).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
-      "prompt_tokens": 1500,
-      "completion_tokens": 143,
-      "total_tokens": 1643,
+      "prompt_tokens": 1498,
+      "completion_tokens": 109,
+      "total_tokens": 1607,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:43:07.306646"
+    "processed_at": "2025-07-06T23:50:49.511960"
   },
   {
     "ticker": "LOC",
@@ -293,15 +388,15 @@
     "date": "20250707",
     "time": "0926",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljm8s2n2kbq2.pdf",
-    "summary": "<h3>Capital Raising Announcement (ATM Facility):</h3>\n<ul>\n<li><strong>Structure:</strong> At-the-Market (ATM) Facility  </li>\n<li><strong>Total Capital Raised:</strong> <strong>A$392,564</strong> (inclusive of costs)  </li>\n<li><strong>Shares Issued:</strong> 1,825,322 ordinary shares  </li>\n<li><strong>Average Issue Price:</strong> A$0.215/share  </li>\n<li><strong>Use of Funds:</strong> Strengthens balance sheet per Treasury Management Policy  </li>\n<li><strong>Post-Raise Cash Balance:</strong> <strong>~A$2.05m</strong> (unaudited)  </li>\n<li><strong>Cumulative ATM Raised to Date:</strong> A$1,268,244 at avg. A$0.16/share  </li>\n</ul>\n<p><em>Omitted: Operational details, business descriptions, and non-material disclosures.</em></p>",
+    "summary": "<p><strong>Capital Raising Announcement Summary:</strong>  </p>\n<ul>\n<li><strong>Structure:</strong> At-the-Market (ATM) Facility  </li>\n<li><strong>Total Capital Raised:</strong> <strong>A$392,564</strong> (inclusive of costs)  </li>\n<li><strong>Shares Issued:</strong> <strong>1,825,322</strong> ordinary shares at <strong>average price A$0.215</strong>  </li>\n<li><strong>Use of Proceeds:</strong> Balance sheet strengthening (per Treasury Management Policy)  </li>\n<li><strong>Cumulative ATM Raises:</strong> <strong>A$1,268,244</strong> at average <strong>A$0.16/share</strong>  </li>\n<li><strong>Post-Raise Cash (unaudited):</strong> <strong>~A$2.05m</strong>  </li>\n</ul>\n<p><strong>Omitted:</strong> Non-material business descriptions, management commentary, investor relations details.</p>",
     "usage": {
-      "prompt_tokens": 1009,
-      "completion_tokens": 155,
-      "total_tokens": 1164,
+      "prompt_tokens": 1007,
+      "completion_tokens": 154,
+      "total_tokens": 1161,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:41:55.077515"
+    "processed_at": "2025-07-06T23:49:18.734057"
   },
   {
     "ticker": "LNQ",
@@ -312,15 +407,15 @@
     "date": "20250707",
     "time": "0925",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljm0djsydm0q.pdf",
-    "summary": "<h3>Material Information Summary (Exploration Update):</h3>\n<ul>\n<li><strong>Drill Program Commencement</strong>: Phase 1 drilling at Gilmore Gold-Copper Project (Southern Zone, Gidginbung deposit) to start <strong>late July 2025</strong>.  </li>\n<li><strong>Objectives</strong>: Test extensions of known mineralization, untested depth potential, and upgrade the <strong>55Mt Mineral Resource Estimate (1.2Moz Au, 120Kt Cu)</strong>.  </li>\n<li><strong>Historical Context</strong>: First drilling at Gidginbung since 2001; <strong>brownfield site</strong> with prior production of 540koz Au (1987\u20131996).  </li>\n<li><strong>Regional Potential</strong>: Southern Zone spans <strong>6km mineralized corridor</strong>, with geological analogs to major systems (e.g., Cadia, Wafi-Golpu).  </li>\n</ul>\n<p><em>No capital markets actions (e.g., raising, halt) or financial data disclosed.</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Drill Program Commencement</strong>: Phase 1 drilling at Gidginbung (Gilmore Gold-Copper Project) to begin late July 2025, targeting extensions of known mineralisation and untested depth potential.  </li>\n<li><strong>Resource Potential</strong>: Gidginbung MRE: 21Mt @ 1.00g/t Au, 0.07% Cu (0.7Moz Au, 10Kt Cu); Dam MRE: 34Mt @ 0.7% CuEq (0.44g/t Au, 0.32% Cu; 0.5Moz Au, 110Kt Cu).  </li>\n<li><strong>Catalyst</strong>: First drilling at Gidginbung since 2001; results may upgrade MRE and define higher-grade zones across the 6km mineralised corridor.  </li>\n<li><strong>Regional Context</strong>: Project located in NSW's Macquarie Arc (analogous to Cadia/Cowal); total Gilmore Project MRE: 516Mt @ 3.7Moz Au &amp; 1.2Mt Cu.  </li>\n</ul>\n<p><em>Omitted: Boilerplate, historical context, and non-material operational details.</em></p>",
     "usage": {
-      "prompt_tokens": 2843,
-      "completion_tokens": 183,
-      "total_tokens": 3026,
+      "prompt_tokens": 2841,
+      "completion_tokens": 249,
+      "total_tokens": 3090,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:40:49.327599"
+    "processed_at": "2025-07-06T23:48:40.297781"
   },
   {
     "ticker": "EAF",
@@ -331,15 +426,15 @@
     "date": "20250707",
     "time": "0925",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljm4l152t8jp.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement: Ellerston Asia Growth Fund Complex ETF (EAFZ) \u2013 Final Distribution Details</strong></h3>\n<ul>\n<li><strong>Ex-Date:</strong> 1 July 2025  </li>\n<li><strong>Record Date:</strong> 2 July 2025  </li>\n<li><strong>Payment Date:</strong> 22 July 2025  </li>\n<li><strong>Cash Distribution (CPU):</strong> <strong>85.745027 cents per unit</strong>  </li>\n<li><strong>Distribution Reinvestment Price (Ex-NAV):</strong> <strong>$7.0504</strong>  </li>\n</ul>\n<h4><strong>Key Distribution Components (CPU):</strong></h4>\n<ul>\n<li><strong>Foreign Source Income:</strong> 9.076631  </li>\n<li><strong>Capital Gains (Discounted, NTAP):</strong> 37.071782  </li>\n<li><strong>CGT Concession Amount:</strong> 38.560306  </li>\n<li><strong>Foreign Tax Offsets:</strong> 3.360709 (combined)  </li>\n</ul>\n<p><strong>No material tax credits</strong> (franking credits, conduit foreign income, etc.).  </p>\n<p><strong>Conclusion:</strong> Announcement confirms final distribution amounts and tax components, with no unexpected changes. Operational disclosure only \u2013 no material impact on valuation or capital structure.  </p>\n<p><strong>Next Steps:</strong> Investors should await AMMA statements for tax reporting.</p>",
+    "summary": "<ul>\n<li><strong>Ex-Date</strong>: 1-July-2025  </li>\n<li><strong>Record Date</strong>: 2-July-2025  </li>\n<li><strong>Payment Date</strong>: 22-July-2025  </li>\n<li><strong>Cash Distribution (CPU)</strong>: 85.745027 cents per unit  </li>\n<li><strong>Key Distribution Components (CPU)</strong>:  </li>\n<li>Foreign sourced income: 9.076631  </li>\n<li>Capital gains discounted (NTAP): 37.071782  </li>\n<li>CGT concession amount: 38.560306  </li>\n<li>Foreign tax offsets: 1.872185 (other income) + 1.488524 (discounted capital gains)  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond the distribution details.</em></p>",
     "usage": {
       "prompt_tokens": 1015,
-      "completion_tokens": 240,
-      "total_tokens": 1255,
+      "completion_tokens": 149,
+      "total_tokens": 1164,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:44:28.557497"
+    "processed_at": "2025-07-06T23:51:26.743086"
   },
   {
     "ticker": "EAF",
@@ -350,15 +445,15 @@
     "date": "20250707",
     "time": "0925",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljm6pb1k88y1.pdf",
-    "summary": "<ul>\n<li><strong>Monthly ETF Disclosure (Ellerston Asia Growth Fund Complex ETF - EAFZ)</strong>:  </li>\n<li><strong>Units on Issue (30 June 2025)</strong>: 4,526,435  </li>\n<li><strong>Net Asset Value (NAV) per Unit</strong>: AUD 7.9078  </li>\n<li><strong>Net Redemptions</strong>: 40,000 units (AUD 309,776)  </li>\n<li><strong>OTC Exposure</strong>: Nil  </li>\n<li><strong>Fund Assets to NAV</strong>: 100.00%  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine monthly disclosure).  </p>\n<p><em>Omitted: Legal boilerplate, contact details, swap/collateral details (non-material).</em></p>",
+    "summary": "<ul>\n<li><strong>Monthly Disclosure (ETF Units &amp; NAV):</strong>  </li>\n<li><strong>Units on Issue (30 June 2025):</strong> 4,526,435  </li>\n<li><strong>Net Asset Value (NAV) per Unit:</strong> $7.9078  </li>\n<li><strong>Units Redeemed (Month):</strong> 40,000 (Value: $309,776)  </li>\n<li><strong>OTC Exposure:</strong> Nil (Fund Assets = 100% NAV)  </li>\n</ul>\n<p><em>No material capital markets or trading impacts identified.</em></p>",
     "usage": {
       "prompt_tokens": 564,
-      "completion_tokens": 144,
-      "total_tokens": 708,
+      "completion_tokens": 103,
+      "total_tokens": 667,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:40:38.005584"
+    "processed_at": "2025-07-06T23:48:30.167873"
   },
   {
     "ticker": "MGH",
@@ -369,15 +464,15 @@
     "date": "20250707",
     "time": "0925",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljm2h8q73shh.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Performance Rights</strong>: 90,651 unquoted performance rights (MGHAA) lapsed due to unmet conditions (team member exits).  </li>\n<li><strong>Date of Cessation</strong>: 30 June 2025.  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li><strong>Ordinary Shares (MGH)</strong>: 362,771,135 (quoted).  </li>\n<li><strong>Performance Rights (MGHAA)</strong>: 2,751,923 (unquoted).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine forfeiture under LTIP).</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 90,651 unquoted performance rights (MGHAA) lapsed on 30/06/2025 due to unmet conditions (employee exits).  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary shares (MGH): 362,771,135 (quoted).  </li>\n<li>Remaining performance rights (MGHAA): 2,751,923 (unquoted).  </li>\n<li><strong>No material impact</strong>: No consideration paid; no change to quoted capital or market cap.  </li>\n</ul>\n<p><em>Note: Routine disclosure of expired incentives\u2014no trading or capital structure implications.</em></p>",
     "usage": {
       "prompt_tokens": 1108,
-      "completion_tokens": 125,
-      "total_tokens": 1233,
+      "completion_tokens": 131,
+      "total_tokens": 1239,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:42:24.152420"
+    "processed_at": "2025-07-06T23:50:11.435716"
   },
   {
     "ticker": "BTE",
@@ -388,15 +483,15 @@
     "date": "20250707",
     "time": "0924",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljly60l0hvmp.pdf",
-    "summary": "<h3>Material Information Summary (ASX Announcement Review)</h3>\n<ul>\n<li><strong>Operational Update</strong>:  </li>\n<li><strong>Serowe-3.4A well</strong> now online and dewatering.  </li>\n<li><strong>Serowe-3.1</strong>: Acid-washing tripled well pressure, indicating strong reservoir response.  </li>\n<li><strong>New well Serowe-3.5B</strong> added to replicate MAS-13\u2019s sustained flowrate (~120,000 scfd).  </li>\n<li><strong>Cost efficiency</strong>: Serowe-3.5B estimated at ~A$200k (vs. A$370k budget for stimulated wells), leveraging in-house capabilities.  </li>\n<li><strong>Five-well dewatering strategy</strong> implemented to optimize reservoir drainage.  </li>\n</ul>\n<p>No capital raising, financial results, or material structural changes identified. Focus is on operational progress and cost efficiencies.</p>",
+    "summary": "<h3><strong>Botala Energy Ltd (ASX:BTE) \u2013 Operational Update Summary</strong></h3>\n<h4><strong>Key Highlights (Material for Trading/Capital Markets):</strong></h4>\n<ul>\n<li><strong>Second well (Serowe-3.4A) online</strong>, currently dewatering.  </li>\n<li><strong>Serowe-3.1 productivity tripled</strong> post-acid washing, indicating strong reservoir response.  </li>\n<li><strong>New well (Serowe-3.5B)</strong> added to replicate <strong>MAS-13's sustained flowrate of ~120,000 scfd</strong> (benchmark for Coal Bed Methane in the region).  </li>\n<li><strong>Cost efficiency</strong>: Serowe-3.5B to be drilled/stimulated <strong>for ~A$200k</strong> (vs. A$370k industry norm), leveraging in-house capabilities.  </li>\n<li><strong>Five-well dewatering strategy</strong> now operational, targeting commercial-scale CBM production.  </li>\n</ul>\n<h4><strong>Strategic Implication:</strong></h4>\n<ul>\n<li>Successful cluster strategy and low-cost drilling model may accelerate project commercialization in Botswana's high-demand gas market.  </li>\n</ul>\n<p><em>(No capital raising, financials, or timetable events identified.)</em></p>",
     "usage": {
-      "prompt_tokens": 2719,
-      "completion_tokens": 171,
-      "total_tokens": 2890,
+      "prompt_tokens": 2717,
+      "completion_tokens": 226,
+      "total_tokens": 2943,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:42:57.415644"
+    "processed_at": "2025-07-06T23:50:23.908710"
   },
   {
     "ticker": "VG1",
@@ -407,15 +502,15 @@
     "date": "20250707",
     "time": "0923",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljlsv35cw20s.pdf",
-    "summary": "<ul>\n<li><strong>NTA Update</strong>: Estimated NTA per share as of 4 July 2025 was <strong>$2.08</strong> (post-tax, inclusive of fees/charges).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Weekly NTA Update</strong>: Estimated NTA per share <strong>$2.08</strong> as at 4 July 2025 (post-tax, unaudited).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 620,
-      "completion_tokens": 45,
-      "total_tokens": 665,
+      "completion_tokens": 43,
+      "total_tokens": 663,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:40:26.229583"
+    "processed_at": "2025-07-06T23:48:19.825076"
   },
   {
     "ticker": "BOQ",
@@ -445,15 +540,15 @@
     "date": "20250707",
     "time": "0923",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljlvzgnb4k6b.pdf",
-    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending release of an announcement regarding a Pre-Feasibility Study. Expected to lift by 9 July 2025 or upon announcement.  </li>\n</ul>\n<p><em>(Note: No other material information identified in this announcement.)</em></p>",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending release of an announcement regarding a <strong>Pre-Feasibility Study</strong>.  </li>\n<li><strong>Expected Duration</strong>: Until earlier of <strong>9 July 2025</strong> or announcement release.  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
-      "prompt_tokens": 847,
+      "prompt_tokens": 845,
       "completion_tokens": 51,
-      "total_tokens": 898,
+      "total_tokens": 896,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-06T23:41:07.456889"
+    "processed_at": "2025-07-06T23:49:08.351271"
   },
   {
     "ticker": "AII",
