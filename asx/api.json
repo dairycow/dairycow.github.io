@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "GLF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966946",
+    "id": "02966946",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "1852",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkklrxldwh9g.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Disclosure</strong>: Firetrail Investments Pty Ltd acquired a 5.44% stake (20,675,453 ordinary stapled securities) in GemLife Communities Group on 03/07/2025.  </li>\n<li><strong>Transaction Details</strong>:  </li>\n<li><strong>Purchase</strong>: 21,146,693 securities for ~$88.15M.  </li>\n<li><strong>Sale</strong>: 471,240 securities for ~$2.08M.  </li>\n<li><strong>Holding Structure</strong>: Securities held via BNP Paribas, Citicorp Nominees, National Nominees, and Northern Trust.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 2118,
+      "completion_tokens": 124,
+      "total_tokens": 2242,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-07T09:04:47.803493"
+  },
+  {
+    "ticker": "CKF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966945",
+    "id": "02966945",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "1847",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkkhnbv07wmf.pdf",
+    "summary": "<p><strong>Change of Director\u2019s Interest Notice (Appendix 3Y) Summary:</strong><br />\n- <strong>Director:</strong> Nicki Anderson<br />\n- <strong>Transaction Type:</strong> On-market trade (indirect interest via Meyer-Anderson Superannuation Fund)<br />\n- <strong>Securities:</strong> 5,429 Collins Foods ordinary shares acquired<br />\n- <strong>Total Holding Post-Transaction:</strong> 8,019 shares<br />\n- <strong>Consideration:</strong> $49,985.35<br />\n- <strong>Notable Detail:</strong> No trading during closed period.  </p>\n<p><em>No material impact on capital structure or valuation identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 944,
+      "completion_tokens": 113,
+      "total_tokens": 1057,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-07T09:04:34.662708"
+  },
+  {
+    "ticker": "ORD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966944",
+    "id": "02966944",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250707",
+    "time": "1846",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkkfgwq0r0hg.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Security Issuance</strong>: 40,000 new <strong>ORD</strong> (Ordinary Fully Paid) shares issued due to <strong>performance rights conversion</strong> (vesting after hurdle achievement).  </li>\n<li><strong>Issue Date</strong>: 07/07/2025.  </li>\n<li><strong>Consideration</strong>: Non-cash (valuation based on ORD\u2019s 07/07/2025 closing price of <strong>A$0.40 per share</strong>).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li><strong>Quoted (ORD)</strong>: 36,027,670 shares.  </li>\n<li><strong>Unquoted (Key Holdings)</strong>:  <ul>\n<li>1,420,000 performance rights (ORDAL).  </li>\n<li>12.8M restricted shares (various classes).  </li>\n<li>19.55M options (varying expiry dates/strike prices).  </li>\n</ul>\n</li>\n<li><strong>Ranking</strong>: New shares rank equally with existing ORD shares.  </li>\n</ul>\n<p><strong>No material trading or capital-raising implications identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 1820,
+      "completion_tokens": 211,
+      "total_tokens": 2031,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-07T09:02:45.771033"
+  },
+  {
     "ticker": "AMC",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966943",
     "id": "02966943",
@@ -8,15 +65,15 @@
     "date": "20250707",
     "time": "1843",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkkbpkdx3kqj.pdf",
-    "summary": "<ul>\n<li><strong>CDI Issuance Update (June 2025):</strong>  </li>\n<li><strong>AMC (CDIs 1:1 NYSE):</strong> Net increase of <strong>13.36M CDIs</strong> (total now <strong>641.89M</strong>), due to transfers between ASX CDIs and NYSE ordinary shares.  </li>\n<li><strong>AMCAQ (Common Shares on NYSE):</strong> Net decrease of <strong>13.36M</strong> (total now <strong>1.66B</strong>), reflecting reciprocal transfers.  </li>\n<li><strong>Options/Rights:</strong> Minor decreases due to grants, distributions, and expiries:  <ul>\n<li><strong>AMCAK (Options):</strong> -154,380 (total <strong>31.21M</strong>).  </li>\n<li><strong>AMCAO (Share Rights):</strong> -74,276 (total <strong>19.11M</strong>).  </li>\n<li><strong>AMCAP (Performance Rights):</strong> -98,711 (total <strong>11.98M</strong>).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine CDI/share balancing).</em></p>",
+    "summary": "<ul>\n<li><strong>June 2025 CDIs on issue (AMC: CDI 1:1 FOREIGN EXEMPT NYSE)</strong>:  </li>\n<li>\n<p>Total CDIs: <strong>641,887,225</strong> (up <strong>13.36m</strong> MoM) due to net transfers between ASX CDIs and NYSE ordinary shares.  </p>\n</li>\n<li>\n<p><strong>Underlying NYSE securities (AMCAQ: COMMON SHARES)</strong>:  </p>\n</li>\n<li>\n<p>Total shares: <strong>1,663,472,716</strong> (down <strong>13.36m</strong> MoM), mirroring CDI transfers.  </p>\n</li>\n<li>\n<p><strong>Outstanding options/rights (monthly changes)</strong>:  </p>\n</li>\n<li>Options (AMCAK): <strong>31,212,931</strong> (down <strong>154,380</strong>).  </li>\n<li>Share rights (AMCAO): <strong>19,108,268</strong> (down <strong>74,276</strong>).  </li>\n<li>Performance rights (AMCAP): <strong>11,978,284</strong> (down <strong>98,711</strong>).  </li>\n</ul>\n<p><em>No material capital markets or trading impact identified (routine CDI/share balance update).</em></p>",
     "usage": {
       "prompt_tokens": 1060,
-      "completion_tokens": 218,
-      "total_tokens": 1278,
+      "completion_tokens": 228,
+      "total_tokens": 1288,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:40.251963"
+    "processed_at": "2025-07-07T09:04:45.507011"
   },
   {
     "ticker": "ADD",
@@ -27,15 +84,15 @@
     "date": "20250707",
     "time": "1843",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkk8ltmhp2c7.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement</strong></h3>\n<ul>\n<li><strong>Announcement Type</strong>: Change of Director\u2019s Interest Notice (Appendix 3Y).  </li>\n<li><strong>Key Material Information</strong>:  </li>\n<li><strong>Correction of prior disclosure error</strong>:  <ul>\n<li>Director <strong>Maurice Matich</strong>\u2019s holdings were updated to reflect an additional <strong>5,833,333 pre-consolidation options</strong> (exercisable at $0.005, expiring 31 Dec 2027) omitted in the 5 Dec 2024 filing.  </li>\n<li>Post-consolidation holdings now:  </li>\n<li><strong>716,666 ordinary shares</strong> (previously 14,333,333).  </li>\n<li><strong>716,666 options</strong> (exercisable at $0.10, expiring 31 Dec 2027).  </li>\n<li><strong>1.5M performance rights</strong> (expiring 23 Jan 2028).  </li>\n</ul>\n</li>\n<li><strong>Director Allan Ritchie</strong>\u2019s post-consolidation holdings:  <ul>\n<li><strong>2,254,345 ordinary shares</strong> (previously 45,086,917).  </li>\n<li><strong>3M performance rights</strong> (expiring 23 Jan 2028).  </li>\n</ul>\n</li>\n<li><strong>Reason for Change</strong>: Share consolidation (20:1) executed on 3 July 2025.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> \u2013 purely a corrective administrative filing.  </p>\n<hr />\n<p><em>Note: Omitted non-material details (e.g., other derivatives, closed period compliance).</em></p>",
+    "summary": "<ul>\n<li><strong>Director's Interest Update</strong>: Correction of administrative error regarding previously undisclosed <strong>5,833,333 options</strong> (pre-consolidation terms: $0.005 exercise price, expiry 31 Dec 2027) issued with a 2024 placement.  </li>\n<li><strong>Post-Consolidation Holdings</strong> (effective 3 July 2025):  </li>\n<li><strong>Maurice Matich</strong>: 716,666 shares, 716,666 options ($0.10 strike), 1,500,000 performance rights.  </li>\n<li><strong>Allan Ritchie</strong>: 2,254,345 shares, 1,374,999 options ($0.10 strike), 3,000,000 performance rights.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified; disclosure correction only.</em></p>",
     "usage": {
-      "prompt_tokens": 2563,
-      "completion_tokens": 313,
-      "total_tokens": 2876,
+      "prompt_tokens": 2565,
+      "completion_tokens": 164,
+      "total_tokens": 2729,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:47:32.115313"
+    "processed_at": "2025-07-07T09:01:45.212334"
   },
   {
     "ticker": "EQT",
@@ -46,15 +103,15 @@
     "date": "20250707",
     "time": "1833",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkk2k23mx6b5.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> Change of Director\u2019s Interest Notice  </p>\n<h4>Key Points:</h4>\n<ol>\n<li><strong>Director Transactions</strong>  </li>\n<li><strong>Carol Schwartz</strong>: Converted 3,228 NED Share Plan Rights to shares (indirectly held via EQT Nominees).  </li>\n<li><strong>Robert Dalton</strong>: Converted 807 NED Share Plan Rights to shares (indirectly held via EQT Nominees).  </li>\n<li><strong>Timothy Hammon</strong>: Converted 403 NED Share Plan Rights to shares (indirectly held via EQT Nominees).  </li>\n<li>\n<p><strong>David Sedgwick</strong>: Converted 161 NED Share Plan Rights to shares (indirectly held via EQT Nominees).  </p>\n</li>\n<li>\n<p><strong>Mechanism</strong>:  </p>\n</li>\n<li>All conversions were <strong>one-for-one</strong> under the NED Share Plan (Tranche 1 Rights vested).  </li>\n<li>\n<p>Shares acquired <strong>on-market</strong> post-conversion.  </p>\n</li>\n<li>\n<p><strong>Closed Period Compliance</strong>: No trades occurred during a closed period.  </p>\n</li>\n</ol>\n<p><strong>No material impact on capital structure or liquidity identified.</strong>  </p>\n<hr />\n<p><em>Note: Routine disclosure of director interest changes; no actionable trading or capital markets implications.</em></p>",
+    "summary": "<ul>\n<li><strong>Director Interest Changes</strong>: Multiple directors (Carol Schwartz, Robert Dalton, Timothy Hammon, David Sedgwick) exercised NED Share Plan Rights, converting them into fully paid ordinary shares on a 1:1 basis.  </li>\n<li><strong>No Closed Period Trading</strong>: All transactions occurred outside a closed period, with no prior clearance required.  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
     "usage": {
       "prompt_tokens": 3827,
-      "completion_tokens": 250,
-      "total_tokens": 4077,
+      "completion_tokens": 79,
+      "total_tokens": 3906,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:48:02.764414"
+    "processed_at": "2025-07-07T09:03:00.263399"
   },
   {
     "ticker": "NWC",
@@ -65,15 +122,15 @@
     "date": "20250707",
     "time": "1827",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjz7kmb73p1.pdf",
-    "summary": "<ul>\n<li><strong>Issue Type</strong>: Conversion of options to ordinary shares (cashless exercise).  </li>\n<li><strong>Securities Issued</strong>: 573,643 new fully paid ordinary shares (NWC).  </li>\n<li><strong>Options Exercised</strong>: 2,000,000 options (NWCAP) at $0.046 each, expiring 17-Jul-2025.  </li>\n<li><strong>Implied Consideration Value</strong>: ~$0.0645 per new share.  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Total ordinary shares on issue: <strong>3,573,855,366 (NWC)</strong>.  </li>\n<li>Remaining unquoted options/rights: <strong>6M NWCAP options</strong> + others (see unquoted securities list).  </li>\n</ul>\n<p><em>No material trading or valuation impact identified beyond dilution from conversion.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 573,643 ordinary fully paid shares (NWC) issued via cashless exercise of 2,000,000 options (NWCAP exercisable at $0.046).  </li>\n<li><strong>Implied Value</strong>: Estimated consideration per new share: <strong>A$0.0645</strong>.  </li>\n<li><strong>Impact on Capital Structure</strong>:  </li>\n<li>Total ordinary shares on issue post-exercise: <strong>3,573,855,366</strong>.  </li>\n<li>Remaining unquoted options: <strong>6,000,000 NWCAP</strong> (expiring 17-Jul-2025) + <strong>other tranches</strong> (details in Part 4.2).  </li>\n</ul>\n<p><strong>No material operational or financial impacts identified.</strong>  </p>\n<p><em>(Note: Excluded boilerplate on entity details, dates without material relevance, and unexercised options not affecting immediate liquidity.)</em></p>",
     "usage": {
       "prompt_tokens": 1672,
-      "completion_tokens": 167,
-      "total_tokens": 1839,
+      "completion_tokens": 198,
+      "total_tokens": 1870,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:48:37.901953"
+    "processed_at": "2025-07-07T09:03:55.917772"
   },
   {
     "ticker": "NWC",
@@ -84,15 +141,15 @@
     "date": "20250707",
     "time": "1824",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjwg7xf5rnq.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Exercise of Unlisted Options  </li>\n<li><strong>Details</strong>: 573,643 ordinary shares issued via cashless exercise of 2,000,000 unlisted options (exercise price: $0.046, expiry: 17 July 2025).  </li>\n<li><strong>Cleansing Notice</strong>: Shares issued under ASX waiver (Part 6D.2 of Corporations Act).  </li>\n<li><strong>Relevance</strong>: Minimal dilution (~0.2% of issued shares), no capital raised, no material impact on liquidity or capital structure.  </li>\n</ul>\n<p><strong>Summary</strong>: Routine option exercise; no trading or capital markets impact.</p>",
+    "summary": "<ul>\n<li><strong>Exercise of Unlisted Options:</strong> 573,643 shares issued via cashless exercise of 2,000,000 unlisted options (exercise price: $0.046, expiry: 17 July 2025).  </li>\n<li><strong>Cleansing Notice:</strong> Shares issued without disclosure under Part 6D.2 of Corporations Act 2001; confirms compliance with reporting and continuous disclosure obligations.  </li>\n</ul>\n<p>No material capital raising, operational, or liquidity impacts identified.</p>",
     "usage": {
       "prompt_tokens": 822,
-      "completion_tokens": 127,
-      "total_tokens": 949,
+      "completion_tokens": 95,
+      "total_tokens": 917,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:15.597255"
+    "processed_at": "2025-07-07T09:04:26.926960"
   },
   {
     "ticker": "EGG",
@@ -103,15 +160,15 @@
     "date": "20250707",
     "time": "1823",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjt5k8vr2fb.pdf",
-    "summary": "<ul>\n<li><strong>Security Type Issued</strong>: 7,124,638 unquoted Share Performance Rights (ASX code: EGGAZ) issued under employee incentive scheme.  </li>\n<li><strong>Issue Date</strong>: 07/07/2025.  </li>\n<li><strong>Recipient Details</strong>: 1,724,638 rights issued to KMP Ian Ball.  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Ordinary shares (EGG): 90,735,121 (quoted).  </li>\n<li>Unquoted securities:  <ul>\n<li>Share Rights (EGGAI): 1,485,001.  </li>\n<li>Share Performance Rights (EGGAZ): 12,354,013 (including new issue).  </li>\n</ul>\n</li>\n<li><strong>Approval Mechanism</strong>: Issued under 15% placement capacity (Listing Rule 7.1), no shareholder approval required.  </li>\n</ul>\n<p><em>No material trading or valuation impacts identified (routine employee incentive issuance).</em></p>",
+    "summary": "<ul>\n<li><strong>Type of Announcement:</strong> Equity Securities Issue (Performance Rights)  </li>\n<li><strong>Details:</strong>  </li>\n<li><strong>Security Type:</strong> Unquoted Share Performance Rights (ASX Code: EGGAZ)  </li>\n<li><strong>Total Issued:</strong> 7,124,638  </li>\n<li><strong>Issue Date:</strong> 07/07/2025  </li>\n<li><strong>Recipient:</strong> 1,724,638 issued to KMP Ian Ball  </li>\n<li><strong>Scheme Terms:</strong> Governed by Enero SPR Plan (details in 2024 AGM notice)  </li>\n<li><strong>Post-Issue Capital Structure:</strong>  </li>\n<li><strong>Quoted (EGG):</strong> 90,735,121 ordinary shares  </li>\n<li><strong>Unquoted:</strong>  <ul>\n<li>EGGAI (Share Rights): 1,485,001  </li>\n<li>EGGAZ (Performance Rights): <strong>12,354,013</strong> (including new issue)  </li>\n</ul>\n</li>\n<li><strong>Approval:</strong> Issued under 15% placement capacity (no shareholder approval required).  </li>\n</ul>\n<p><strong>Impact:</strong> Dilutive increase in unquoted performance rights (~8.8% of pre-issue ordinary shares outstanding). No immediate liquidity impact.</p>",
     "usage": {
       "prompt_tokens": 1644,
-      "completion_tokens": 189,
-      "total_tokens": 1833,
+      "completion_tokens": 238,
+      "total_tokens": 1882,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:00.184514"
+    "processed_at": "2025-07-07T09:04:21.541152"
   },
   {
     "ticker": "MFF",
@@ -122,15 +179,15 @@
     "date": "20250707",
     "time": "1818",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjq6v7m022p.pdf",
-    "summary": "<ul>\n<li><strong>Weekly NTA (4 July 2025)</strong>:  </li>\n<li>Pre-tax: <strong>$5.044</strong> (vs. $4.999 on 30 June 2025)  </li>\n<li>Post-tax: <strong>$4.179</strong>  </li>\n<li><strong>Net cash as % of investment assets</strong>: <strong>6.2%</strong> (as of 4 July 2025)  </li>\n</ul>\n<p><em>No material trading or capital markets actions identified.</em></p>",
+    "summary": "<ul>\n<li><strong>NTA Update</strong>: Weekly NTA per share as at 4 July 2025:  </li>\n<li>Pre-tax: $5.044 (vs. $4.999 on 30 June 2025).  </li>\n<li>Post-tax: $4.179.  </li>\n<li><strong>Liquidity</strong>: Net cash as % of investment assets: 6.2% (4 July 2025).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 462,
-      "completion_tokens": 91,
-      "total_tokens": 553,
+      "completion_tokens": 92,
+      "total_tokens": 554,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:48:57.756379"
+    "processed_at": "2025-07-07T09:04:11.293880"
   },
   {
     "ticker": "MFF",
@@ -141,15 +198,15 @@
     "date": "20250707",
     "time": "1813",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjm1n228d40.pdf",
-    "summary": "<h3><strong>Summary of MFF Capital Investments Limited Announcement (7 July 2025)</strong></h3>\n<h4><strong>Key Material Information</strong></h4>\n<ul>\n<li><strong>Net Tangible Assets (NTA) per share (30 June 2025):</strong>  </li>\n<li>Pre-tax: <strong>$5.015</strong> (vs. $4.284 in June 2024)  </li>\n<li>Post-tax: <strong>$4.149</strong> (vs. $3.574 in June 2024)  </li>\n<li>Includes tax payments: <strong>$11.0m (June 2025) + $80.7m (11 months to May 2025)</strong>  </li>\n<li><strong>Cash &amp; Liquidity:</strong>  </li>\n<li>Estimated <strong>$700m</strong> available capacity (cash + prudent borrowing).  </li>\n<li>Net cash position: <strong>6.4%</strong> of investment assets (AUD 4.3%, USD 4.0%).  </li>\n<li><strong>Portfolio Activity (June 2025):</strong>  </li>\n<li>Purchases: <strong>0.9% of portfolio value</strong>; no sales.  </li>\n<li>Largest holdings (% of investment assets):  <ul>\n<li>MasterCard (9.3%), Visa (8.8%), Amazon (8.1%), American Express (8.1%), Bank of America (8.0%).  </li>\n</ul>\n</li>\n<li><strong>Currency Impact:</strong>  </li>\n<li>AUD weakened vs. USD (<strong>0.655</strong>, down from 0.644 prior month).  </li>\n<li><strong>Franking Credits:</strong>  </li>\n<li>Exceeded <strong>$176.4m</strong> (vs. 31 Dec 2024).  </li>\n</ul>\n<h4><strong>Other Notable Commentary (Non-Quantitative, but Contextually Relevant)</strong></h4>\n<ul>\n<li>Warns against simplistic NTA comparisons due to tax distortions.  </li>\n<li>Highlights focus on <strong>high-quality, growth-oriented businesses</strong> (e.g., Prosus, tech leaders).  </li>\n<li>Notes <strong>elevated market risks</strong> (tariffs, geopolitical tensions, tech disruption).  </li>\n</ul>\n<p><strong>No capital raising, trading halt, or immediate corporate action identified.</strong>  </p>\n<p><strong>Format:</strong> Strictly prioritized quantifiable data impacting valuation/liquidity, with minimal qualitative context. Excluded market commentary except where directly relevant to portfolio positioning.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>NTA Update (June 2025)</strong>:  </li>\n<li>Pre-tax NTA/share: <strong>$5.015</strong> (vs. $4.284 in June 2024).  </li>\n<li>Post-tax NTA/share: <strong>$4.149</strong> (vs. $3.574 in June 2024).  </li>\n<li><strong>Cash taxes paid</strong>: $11.0m (June 2025), totaling <strong>$91.7m YTD</strong>.  </li>\n<li><strong>Cash position</strong>: ~$700m liquidity (cash + borrowing capacity).  </li>\n<li>\n<p><strong>Key portfolio activity</strong>: Minor purchases (~0.9% of portfolio value), no sales.  </p>\n</li>\n<li>\n<p><strong>Portfolio Holdings (Top 5)</strong>:  </p>\n</li>\n<li>MasterCard (9.3%), Visa (8.8%), Amazon (8.1%), American Express (8.1%), Bank of America (8.0%).  </li>\n<li>\n<p><strong>Net cash</strong>: 6.4% of investment assets (AUD 4.3%, USD 4.0%).  </p>\n</li>\n<li>\n<p><strong>Market Commentary</strong>:  </p>\n</li>\n<li>Warns of potential lower future returns due to elevated asset prices.  </li>\n<li>Highlights risks from geopolitical tensions, tech disruption, and speculative excesses.  </li>\n</ul>\n<p><em>Omitted: Macroeconomic analysis, non-material portfolio details, and governance disclosures.</em></p>",
     "usage": {
       "prompt_tokens": 4124,
-      "completion_tokens": 445,
-      "total_tokens": 4569,
+      "completion_tokens": 280,
+      "total_tokens": 4404,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:48:25.376890"
+    "processed_at": "2025-07-07T09:03:18.323863"
   },
   {
     "ticker": "OMX",
@@ -160,15 +217,15 @@
     "date": "20250707",
     "time": "1811",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjggqywp8zg.pdf",
-    "summary": "<ul>\n<li><strong>Director Interest Change</strong>:  </li>\n<li><strong>Director</strong>: Campbell Smyth  </li>\n<li><strong>Date of Change</strong>: 1\u20134 July 2025  </li>\n<li><strong>Transactions</strong>:  <ul>\n<li>Acquired <strong>500,000</strong> fully paid ordinary shares (direct) at <strong>$33,783.40</strong>.  </li>\n<li>Acquired <strong>1,000,000</strong> fully paid ordinary shares (indirect via Clariden Capital) at <strong>$77,451.40</strong>.  </li>\n</ul>\n</li>\n<li><strong>Holdings After Change</strong>:  <ul>\n<li><strong>Direct</strong>: 8,000,000 shares (+500,000).  </li>\n<li><strong>Indirect</strong>: 4,500,000 shares (+1,000,000). Performance rights unchanged.  </li>\n</ul>\n</li>\n<li><strong>Nature of Change</strong>: On-market trade.  </li>\n<li><strong>Closed Period Compliance</strong>: No trading during closed period.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<h3>Summary of Appendix 3Y \u2013 Change of Director's Interest Notice:</h3>\n<ul>\n<li><strong>Director</strong>: Campbell Smyth  </li>\n<li><strong>Nature of Change</strong>: On-market trade of Fully Paid Ordinary Shares  </li>\n<li><strong>Direct Holdings Increase</strong>: 500,000 shares acquired (total now 8,000,000) at <strong>$33,783.40</strong>  </li>\n<li><strong>Indirect Holdings Increase</strong>: 1,000,000 shares via Clariden Capital Limited (total now 4,500,000) at <strong>$77,451.40</strong>  </li>\n<li><strong>No trading during closed period</strong>.  </li>\n</ul>\n<p><em>No material capital markets or trading impact inferred from this disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1269,
-      "completion_tokens": 182,
-      "total_tokens": 1451,
+      "completion_tokens": 133,
+      "total_tokens": 1402,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:48:53.111607"
+    "processed_at": "2025-07-07T09:04:04.263015"
   },
   {
     "ticker": "DBF",
@@ -179,15 +236,15 @@
     "date": "20250707",
     "time": "1811",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjjnqn2n0j7.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Form 604 - Change of Director's Interest Notice):</h3>\n<ul>\n<li><strong>Director Purchases</strong>: Richard Magides acquired <strong>1,526,923 ordinary shares</strong> across multiple transactions (dates: 4/7/2025 back to 8/27/2024).  </li>\n<li><strong>Total Holdings Post-Purchases</strong>:  </li>\n<li><strong>Direct holdings</strong>: 2,836,826 shares (6.89% voting rights).  </li>\n<li><strong>Indirect holdings</strong> (via RAMWINES Pty Ltd, Zentree Investments): <strong>10,901,187 shares</strong> (26.49% combined voting rights).  </li>\n</ul>\n<p><em>No material price-sensitive or capital structure impact identified (routine director trading).</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Shareholder Change</strong>: Richard Magides increased his relevant interest via multiple purchases totaling <strong>1,526,923 shares</strong> (votes affected: <strong>1,301,514</strong>).  </li>\n<li><strong>Current Holdings</strong>:  </li>\n<li>Direct/indirect control over <strong>20.31%</strong> (8,359,975 shares) via RAMWINES Pty Ltd.  </li>\n<li>Additional holdings through Zentree Investments Ltd (<strong>5.60%</strong> + <strong>0.58%</strong>) and direct ownership (<strong>6.89%</strong>).  </li>\n</ul>\n<p><em>No other material information (trading halt, capital raising, or financial data) identified.</em></p>",
     "usage": {
-      "prompt_tokens": 2066,
-      "completion_tokens": 149,
-      "total_tokens": 2215,
+      "prompt_tokens": 2068,
+      "completion_tokens": 130,
+      "total_tokens": 2198,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:47:50.473136"
+    "processed_at": "2025-07-07T09:02:52.968941"
   },
   {
     "ticker": "CI1",
@@ -198,15 +255,15 @@
     "date": "20250707",
     "time": "1808",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkjcsn3h4l9m.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3Z Director's Interest Notices are routine regulatory filings and typically do not contain trading or capital markets-relevant information unless disclosing substantial changes in director holdings. This filing merely confirms a director's exit and existing shareholdings without any material impact.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Appendix 3Z filings disclose director shareholdings but do not typically contain trade-sensitive or capital markets-relevant information unless they indicate substantial changes in ownership or control. This notice shows no such material changes.)</em></p>",
     "usage": {
-      "prompt_tokens": 788,
-      "completion_tokens": 61,
-      "total_tokens": 849,
+      "prompt_tokens": 790,
+      "completion_tokens": 50,
+      "total_tokens": 840,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:24.319658"
+    "processed_at": "2025-07-07T09:04:30.206799"
   },
   {
     "ticker": "CI1",
@@ -217,15 +274,15 @@
     "date": "20250707",
     "time": "1808",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkj9qfh0r18y.pdf",
-    "summary": "<p>No material information identified.</p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: Director resignations typically do not impact trading or capital structure unless linked to governance risks or strategic shifts. This announcement cites personal reasons with no operational/financial implications.)</em></p>",
     "usage": {
-      "prompt_tokens": 489,
-      "completion_tokens": 6,
-      "total_tokens": 495,
+      "prompt_tokens": 491,
+      "completion_tokens": 45,
+      "total_tokens": 536,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:30.911345"
+    "processed_at": "2025-07-07T09:04:39.988048"
   },
   {
     "ticker": "ILU",
@@ -236,18 +293,18 @@
     "date": "20250707",
     "time": "1806",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkj778qhtnpl.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Update</strong>:  </li>\n<li><strong>Existing Holdings</strong>:  <ul>\n<li>Indirect (share plan trust): 82,071 ordinary shares (unchanged).  </li>\n<li>Indirect (family trust): 1,353,769 ordinary shares (unchanged).  </li>\n</ul>\n</li>\n<li><strong>New Incentives Granted (30 June 2025)</strong>:  <ul>\n<li>2025 LTIP: 373,019 Performance Rights issued (approved at 2025 AGM).  </li>\n</ul>\n</li>\n<li><strong>No trading during closed period</strong>.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(Reason: This is a routine director's interest notice disclosing holdings and incentive plan updates, with no changes in direct ownership or trading activity. No impact on capital structure, liquidity, or valuation.)</p>",
     "usage": {
-      "prompt_tokens": 1353,
-      "completion_tokens": 117,
-      "total_tokens": 1470,
+      "prompt_tokens": 1351,
+      "completion_tokens": 47,
+      "total_tokens": 1398,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:49:08.072303"
+    "processed_at": "2025-07-07T09:04:23.119396"
   },
   {
-    "ticker": "ISO",
+    "ticker": "IHD",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966929",
     "id": "02966929",
     "pages": 5,
@@ -255,15 +312,15 @@
     "date": "20250707",
     "time": "1803",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lkj4ltthn84f.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type</strong>: ETF Monthly Unit &amp; Fund Flow Update  </p>\n<h4>Material Information:</h4>\n<ul>\n<li><strong>Outstanding units and fund flows</strong> for BlackRock iShares ETFs as of <strong>30 June 2025</strong>.  </li>\n<li><strong>Notable net inflows (AUD)</strong>:  </li>\n<li><strong>EMXC</strong>: +$88.3m  </li>\n<li><strong>IHVV</strong>: +$51.1m  </li>\n<li><strong>GLIN</strong>: +$57.7m  </li>\n<li><strong>IHHY</strong>: +$58.8m  </li>\n<li><strong>ICOR</strong>: +$100.4m  </li>\n<li><strong>Notable net outflows (AUD)</strong>:  </li>\n<li><strong>AESG</strong>: -$61.7m  </li>\n<li><strong>IEU</strong>: -$88.2m  </li>\n<li><strong>IVV</strong>: -$30.5m  </li>\n<li><strong>ISO</strong>: -$13.3m  </li>\n<li><strong>IOO</strong>: -$17.7m  </li>\n<li><strong>Largest outstanding units</strong>:  </li>\n<li><strong>IOZ</strong> (ASX 200 ETF): 210.5m units  </li>\n<li><strong>IVV</strong> (S&amp;P 500 ETF): 175.9m units  </li>\n</ul>\n<p><strong>No material trading or capital markets actions identified</strong> (e.g., capital raising, corporate actions).  </p>\n<hr />\n<p><em>Note: Excludes boilerplate disclaimers and non-ETF-specific content.</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p>(ETF Monthly Unit Issuance/Redemption Report)  </p>\n<h4>Key ETF Flows (June 2025):</h4>\n<ul>\n<li><strong>Significant Net Inflows ($AUD):</strong>  </li>\n<li>EMXC: +$88.3m (3.17m units issued)  </li>\n<li>IHWL: +$17.7m (330k units)  </li>\n<li>GLIN: +$57.7m (2.1m units)  </li>\n<li>\n<p>IHHY: +$58.8m (630k units)  </p>\n</li>\n<li>\n<p><strong>Significant Net Outflows ($AUD):</strong>  </p>\n</li>\n<li>IVV: -$30.5m (507k units redeemed)  </li>\n<li>IEU: -$88.2m (934.8k units)  </li>\n<li>IOO: -$17.7m (112k units)  </li>\n<li>\n<p>ISO: -$13.3m (2.7m units)  </p>\n</li>\n<li>\n<p><strong>No Activity:</strong>  </p>\n</li>\n<li>IHD, IHOO, MVOL, WDMF, WVOL, and CXA-listed ETFs (IHQL, IMTM, IQLT, IVHG, IVLU) saw zero issuances/redemptions.  </li>\n</ul>\n<h4>Outstanding Units (30 June 2025 Highlights):</h4>\n<ul>\n<li><strong>Largest ETFs by Units Outstanding:</strong>  </li>\n<li>IOZ (ASX 200): 210.5m units  </li>\n<li>IVV (S&amp;P 500): 175.9m units  </li>\n<li>\n<p>ILC (ASX 20): 21.8m units  </p>\n</li>\n<li>\n<p><strong>Smallest ETFs by Units Outstanding:</strong>  </p>\n</li>\n<li>ULTB: 15k units  </li>\n<li>IVHG: 26k units  </li>\n</ul>\n<p><strong>No material capital markets or corporate actions identified.</strong>  </p>\n<hr />\n<p><em>Note: Excludes operational ETFs with negligible flows. Focused on liquidity/volumes relevant to trading.</em></p>",
     "usage": {
       "prompt_tokens": 4743,
-      "completion_tokens": 294,
-      "total_tokens": 5037,
+      "completion_tokens": 400,
+      "total_tokens": 5143,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-07T08:47:48.051566"
+    "processed_at": "2025-07-07T09:02:09.551139"
   },
   {
     "ticker": "GEN",
