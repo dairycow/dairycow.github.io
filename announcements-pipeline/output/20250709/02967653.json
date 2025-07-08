@@ -1,0 +1,19 @@
+{
+  "ticker": "ZMM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967653",
+  "id": "02967653",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "0851",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmksvfbtf73x.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF (or key details from it), and I\u2019ll extract material information in the following format:  \n\n**Trading Halt Request Example:**  \n- *Reason*: Pending release of capital raising details.  \n\n**Capital Raising Example:**  \n- *Type*: Placement + SPP  \n- *Amount*: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- *Dates*: Ex-date 15/03, Record 18/03, SPP closes 05/04.  \n\n**Quarterly Report (4C) Example:**  \n- *Cash Balance*: AUD 12.5M (prior quarter: AUD 15.2M)  \n- *Key Highlights*: Production 5,000oz Au (up 12% QoQ); FY24 guidance maintained.  \n\n**Other Announcement Example:**  \n- *Material Impact*: Major contract signed (AUD 200M revenue over 3y); LOI for asset sale (AUD 30M expected).  \n\n**If unclear/no material info:**  \n- No material information identified.  \n\nFor personal use only. Proceed with your document.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 255,
+    "total_tokens": 475,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-08T23:14:36.544595"
+}
