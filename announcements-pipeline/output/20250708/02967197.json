@@ -1,0 +1,19 @@
+{
+  "ticker": "AQY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967197",
+  "id": "02967197",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250708",
+  "time": "1056",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250708/pdf/06ll9ql0t621ds.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I\u2019ll extract the material information in the concise format you\u2019ve specified, tailored to the announcement type.  \n\nFor example, if you share:  \n- **Document Type**: Capital Raising Announcement  \n- **Key Points**: $50M placement, $10M SPP, ex-date 15/08, record 17/08  \n\nI\u2019d return:  \n- **Capital Raising**: Placement ($50M) + SPP ($10M). Ex-date: 15/08, Record: 17/08.  \n\nNo preamble or filler. Let me know the details or upload the PDF text.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 144,
+    "total_tokens": 364,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-08T01:40:49.111003"
+}
