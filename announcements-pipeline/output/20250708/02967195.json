@@ -1,0 +1,19 @@
+{
+  "ticker": "AQY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967195",
+  "id": "02967195",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250708",
+  "time": "1055",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250708/pdf/06ll9l61dpshv6.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I\u2019ll extract the material information in the requested format.  \n\nExample outputs based on common announcement types:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material transaction details.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: A$50M placement + A$10M SPP.  \n   - *Key dates*: Ex-date 15 Oct, record 17 Oct, close 30 Oct.  \n\n3. **Quarterly Report (4C)**  \n   - *Cash balance*: A$12.4M (prior quarter: A$15.1M).  \n   - *Highlights*: Production up 8% QoQ; costs down 5%.  \n\n4. **Other Material Announcement**  \n   - Key point 1 (e.g., Major contract signed worth A$100M).  \n   - Key point 2 (e.g., CEO resignation).  \n\n**If no PDF text is provided**, I\u2019ll respond:  \n- *No material information identified*.  \n\nProceed when ready.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 245,
+    "total_tokens": 465,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-08T01:38:23.898152"
+}
