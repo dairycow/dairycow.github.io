@@ -7,13 +7,13 @@
   "date": "20250709",
   "time": "1738",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln5xgs373wjw.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or key details from it, and I will extract only the material information relevant for trading or capital markets decisions, formatted per your instructions.  \n\n**Example Outputs Based on Your Guidelines:**  \n\n1. **Trading Halt Request:**  \n   - Halt requested pending release of capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - **Structure:** Placement + SPP  \n   - **Amount:** AUD 50M (Placement) + AUD 10M (SPP cap)  \n   - **Key Dates:** Ex-date: [DD/MM], Record: [DD/MM], SPP Close: [DD/MM]  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - **Cash Balance:** AUD 12.3M (QoQ: -15%)  \n   - **Revenue:** AUD 5.1M (+22% QoQ)  \n   - **Key Update:** Major project delay (6-month timeline shift).  \n\n4. **Other Announcement (Acquisition):**  \n   - Acquiring [Target] for AUD 100M (50% scrip, 50% cash).  \n   - Expected EPS accretive FY25 onwards.  \n\n**If no material info is found:**  \n- \"No material information identified.\"  \n\nPlease share the document or its key details for a precise summary.",
+  "summary": "Understood. Please upload or provide the text from the ASX announcement PDF, and I will analyze it to extract **only** material trading or capital markets information, formatted as concise bullet points following your strict guidelines.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending material capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Structure: 1-for-4 entitlement offer + A$50M institutional placement.  \n   - Total raised: A$150M (placement + offer).  \n   - Key dates: Ex-date (01 Oct), Record (03 Oct), Close (20 Oct).  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - Cash balance: A$12.3M (prior quarter: A$15.1M).  \n   - Revenue: A$4.2M (\u219123% QoQ).  \n   - Net operating cash outflow: A$2.8M.  \n\n4. **Other Announcement (Material):**  \n   - Major asset sale: A$200M divestment of XYZ division (completion Q1 2024).  \n   - Debt refinancing: New A$100M facility (3.5% margin over BBSY).  \n\n*If the document is unclear or lacks material data:*  \n- No material information identified.  \n\nProvide the text, and I\u2019ll proceed.",
   "usage": {
-    "prompt_tokens": 235,
-    "completion_tokens": 293,
-    "total_tokens": 528,
+    "prompt_tokens": 233,
+    "completion_tokens": 300,
+    "total_tokens": 533,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-09T07:47:55.314480"
+  "processed_at": "2025-07-09T08:31:26.752609"
 }
