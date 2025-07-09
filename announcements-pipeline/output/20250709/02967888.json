@@ -7,13 +7,13 @@
   "date": "20250709",
   "time": "1738",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln5xgs373wjw.pdf",
-  "summary": "Understood. Please upload or provide the text from the ASX announcement PDF, and I will analyze it to extract **only** material trading or capital markets information, formatted as concise bullet points following your strict guidelines.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending material capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Structure: 1-for-4 entitlement offer + A$50M institutional placement.  \n   - Total raised: A$150M (placement + offer).  \n   - Key dates: Ex-date (01 Oct), Record (03 Oct), Close (20 Oct).  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - Cash balance: A$12.3M (prior quarter: A$15.1M).  \n   - Revenue: A$4.2M (\u219123% QoQ).  \n   - Net operating cash outflow: A$2.8M.  \n\n4. **Other Announcement (Material):**  \n   - Major asset sale: A$200M divestment of XYZ division (completion Q1 2024).  \n   - Debt refinancing: New A$100M facility (3.5% margin over BBSY).  \n\n*If the document is unclear or lacks material data:*  \n- No material information identified.  \n\nProvide the text, and I\u2019ll proceed.",
+  "summary": "Understood. If you provide the ASX announcement PDF (or its key details), I can extract **only** the material information relevant for trading or capital markets decisions in the following strictly concise format:  \n\n### **Examples of Output**  \n\n**1. Trading Halt Request:**  \n- *Reason:* Pending capital raising announcement.  \n\n**2. Capital Raising Announcement:**  \n- *Structure:* 1-for-4 entitlement offer + $50M placement.  \n- *Total Raised:* AUD 150M.  \n- *Key Dates:* Ex-date (DD/MM), Record (DD/MM), Close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C):**  \n- *Cash Balance:* AUD 12.5M (prior quarter: AUD 15.2M).  \n- *Key Highlights:* Revenue AUD 3.1M (+25% QoQ), FY24 guidance maintained.  \n\n**4. Other Announcement (e.g., M&A, Strategic Review):**  \n- *Acquisition:* AUD 200M for [Asset], funded via debt (AUD 150M) and equity (AUD 50M).  \n- *Impact:* Expected EPS accretive from FY25.  \n\n**Rules Applied:**  \n- Omitted all names, boilerplate, non-material operational updates.  \n- If unclear/no material info: \"No material information identified.\"  \n\nPlease share the announcement text or key details, and I\u2019ll provide a tailored summary.",
   "usage": {
-    "prompt_tokens": 233,
-    "completion_tokens": 300,
-    "total_tokens": 533,
+    "prompt_tokens": 235,
+    "completion_tokens": 310,
+    "total_tokens": 545,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-09T08:31:26.752609"
+  "processed_at": "2025-07-09T08:55:41.122168"
 }
