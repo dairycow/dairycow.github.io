@@ -7,13 +7,13 @@
   "date": "20250709",
   "time": "1319",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmy4mp2l3cn9.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract *only* the material information relevant for trading or capital markets decisions, formatted as strict, concise bullet points tailored to the announcement type.  \n\n**Example outputs:**  \n\n1. **Capital Raising Announcement**  \n   - Structure: AUD 50m Placement + AUD 10m SPP  \n   - Key dates: Ex-date (15/10), Record (17/10), Close (31/10)  \n\n2. **Appendix 4C (Quarterly)**  \n   - Cash balance: AUD 12.5m (down from AUD 15.2m prior quarter)  \n   - Key highlight: Quarterly revenue AUD 4.1m (+22% QoQ)  \n\n3. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement  \n\n4. **Other Announcement**  \n   - Material: Major asset sale (AUD 100m) completed, proceeds to repay debt  \n   - Material: CEO resignation effective immediately  \n\nIf no material info is found, I\u2019ll state: *\"No material information identified.\"*  \n\nUpload the PDF or paste the text, and I\u2019ll analyze it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and any critical data points), and I will generate a concise summary adhering strictly to your guidelines: bullet-pointed, material-only, and tailored to the announcement type.  \n\nExample outputs based on common scenarios:  \n\n1. **Trading Halt Request**:  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - Structure: Placement + SPP.  \n   - Total raised: AUD 50M (Placement: AUD 40M at $0.50/sh; SPP: AUD 10M cap).  \n   - Key dates: Ex-date: 15 Aug; Record: 17 Aug; SPP close: 31 Aug.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - Cash balance: AUD 12.3M (QoQ -8%).  \n   - Operational: Gold production up 15% QoQ to 8,200oz.  \n\n4. **Other Announcement (M&A)**:  \n   - Acquisition of [Target] for AUD 100M (50% cash, 50% scrip).  \n   - Implied IRR: 25%; EPS accretive from FY25.  \n\n5. **No Material Information Identified**:  \n   - Routine director appointment notice.  \n\nSubmit the document/content, and I\u2019ll distill it accordingly.",
   "usage": {
-    "prompt_tokens": 228,
-    "completion_tokens": 256,
-    "total_tokens": 484,
+    "prompt_tokens": 230,
+    "completion_tokens": 306,
+    "total_tokens": 536,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-09T04:44:42.802775"
+  "processed_at": "2025-07-09T05:04:19.577260"
 }
