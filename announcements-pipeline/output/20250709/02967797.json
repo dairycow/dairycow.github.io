@@ -1,0 +1,19 @@
+{
+  "ticker": "GBZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967797",
+  "id": "02967797",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1319",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmy4mp2l3cn9.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will extract only the material information in the requested format.  \n\n**Example Outputs:**  \n- *Trading Halt Request:* \"Pending release of material transaction details.\"  \n- *Capital Raising:* \"Placement + SPP; A$50M; ex-date 15 Oct, record 18 Oct, close 30 Oct.\"  \n- *4C Report:* \"Cash A$12.3M; Q3 receipts A$8.1M; customer contracts up 22% QoQ.\"  \n- *Other:* \"Board approves demerger of X division via in-specie distribution.\"  \n\nIf you share the document, I\u2019ll tailor the summary precisely. Otherwise, confirm if you\u2019d like a generic template for a specific announcement type.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 185,
+    "total_tokens": 415,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T04:03:50.075125"
+}
