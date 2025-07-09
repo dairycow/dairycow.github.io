@@ -7,13 +7,13 @@
   "date": "20250709",
   "time": "1720",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln5bhbgg3l22.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will extract **only** the material trading or capital markets information in the requested concise bullet-point format.  \n\nFor example:  \n- **Capital Raising (Placement):** AUD 50M at $0.20/sh; Ex-date 15/05, Bookbuild 16/05.  \n- **Appendix 4C:** Cash AUD 12.3M (Qtr end); Revenue AUD 4.1M (+22% QoQ).  \n- **Trading Halt:** Pending material acquisition announcement.  \n\nIf the document contains no material data, I\u2019ll note: *No material information identified.*  \n\nShare the announcement, and I\u2019ll respond within your strict criteria.",
+  "summary": "Understood. Please provide the ASX announcement PDF text or key details (e.g., type of announcement, headline, or excerpts), and I will extract material information per your guidelines with ruthless conciseness.  \n\nIf you cannot share the document verbatim, specify:  \n1. **Announcement Type** (e.g., Capital Raising, Trading Halt, Quarterly).  \n2. **Key Headline/Date**.  \n3. **Critical Excerpts** (if applicable).  \n\nExample outputs based on common announcements:  \n\n---  \n### **Capital Raising Announcement**  \n- **Structure**: 1-for-4 accelerated entitlement offer.  \n- **Amount**: AUD 50M (placement) + AUD 10M (SPP).  \n- **Dates**: Ex-date 15/03, Record 18/03, Close 30/03.  \n\n---  \n### **Appendix 4C (Quarterly)**  \n- **Cash Balance**: AUD 2.1M (prev. AUD 3.0M).  \n- **Burn Rate**: AUD 0.9M/qtr.  \n- **Milestone**: Phase 2 trial enrollment completed.  \n\n---  \n### **Trading Halt Request**  \n- **Reason**: Pending capital raising announcement.  \n\n---  \n### **Other Announcement**  \n- **Material Impact**: Divestment of X asset for AUD 25M (expected H1 FY25).  \n- **Conditional**: Subject to shareholder approval.  \n\nLet me know the details or upload text, and I\u2019ll distill it accordingly.  \n\n*Note: For personal use only.*",
   "usage": {
-    "prompt_tokens": 230,
-    "completion_tokens": 171,
-    "total_tokens": 401,
+    "prompt_tokens": 228,
+    "completion_tokens": 332,
+    "total_tokens": 560,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-09T07:35:09.261474"
+  "processed_at": "2025-07-09T07:48:26.990445"
 }

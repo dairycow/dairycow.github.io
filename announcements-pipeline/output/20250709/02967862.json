@@ -7,13 +7,13 @@
   "date": "20250709",
   "time": "1649",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln3vymwmz8g9.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the requested concise format (e.g., trading halt reason, capital raising structure/dates, Appendix 4C cash balance, or other critical valuation-impacting points). \n\nExample output formats:  \n\n- **Trading Halt**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"$50M placement at $0.20/share (15% discount). Ex-date: 15 May, SPP closes 30 May.\"  \n- **Appendix 4C**: \"$2.1M cash at quarter-end. Receipts from customers up 25% QoQ.\"  \n- **M&A**: \"Acquiring [Target] for $100M (50% scrip, 50% cash). Implied 20% EPS accretion.\"  \n\nSubmit the document and specify if you need emphasis on certain aspects (e.g., liquidity, dilution risk). If no material data is found, I\u2019ll note it promptly.",
+  "summary": "Understood. For any ASX announcement PDF you provide, I will extract **only material trading or capital markets information** in the following strict format:  \n\n---\n\n### **[Announcement Type]**  \n- **Key Point 1** (e.g., capital raised, halt reason, cash balance)  \n- **Key Point 2** (if critical)  \n- **Key Date(s)** (if applicable)  \n\n*No material information identified* (if the document lacks relevant details)  \n\n---\n\n**Examples of my output for common types:**  \n\n1. **Trading Halt Request**  \n   - *Reason:* Pending material acquisition announcement.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - *Structure:* AUD 50M placement (+ AUD 10M SPP).  \n   - *Key Dates:* Ex-date 15/03, SPP closes 30/03.  \n\n3. **Quarterly (Appendix 4C)**  \n   - *Cash Balance:* AUD 12.5M (QoQ -2.1M).  \n   - *Highlight:* Gold production +15% QoQ.  \n\n4. **Other Announcement**  \n   - *Material Impact:* Divestment of X asset for AUD 100M (EV/EBITDA 8x).  \n\n*No legal fluff, no \"the Company is pleased...\", no director names.*  \n\nSubmit your PDF or paste text, and I\u2019ll extract **only what matters for trading**.",
   "usage": {
     "prompt_tokens": 233,
-    "completion_tokens": 217,
-    "total_tokens": 450,
+    "completion_tokens": 311,
+    "total_tokens": 544,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-09T07:39:07.684484"
+  "processed_at": "2025-07-09T07:55:39.103330"
 }
