@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "CAY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967833",
+    "id": "02967833",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250709",
+    "time": "1607",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln1nky32wg0n.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 12,584,817 new ordinary fully paid shares (CAY) issued from exercise of options (CAYAG).  </li>\n<li><strong>Issue Price</strong>: AUD 0.07 per share.  </li>\n<li><strong>Issue Date</strong>: 08/07/2025.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Total ordinary shares on issue: 1,784,776,795.  </li>\n<li>Remaining unexercised options:  <ul>\n<li>CAYAG (expiring 26-Dec-2026): 137,415,183.  </li>\n<li>Other options/rights as listed (varying terms).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1551,
+      "completion_tokens": 145,
+      "total_tokens": 1696,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-09T06:19:51.641043"
+  },
+  {
+    "ticker": "PIC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967832",
+    "id": "02967832",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250709",
+    "time": "1606",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln1lcy92ktn8.pdf",
+    "summary": "<ul>\n<li><strong>NTA Update (Material for Valuation):</strong>  </li>\n<li><strong>Pre-tax NTA per share (08 Jul 2025):</strong> AUD $1.296  </li>\n<li><strong>Post-tax NTA per share (08 Jul 2025):</strong> AUD $1.252<br />\n<em>(Note: Provisional figures, includes deferred tax adjustments on unrealised portfolio gains/losses.)</em>  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 697,
+      "completion_tokens": 91,
+      "total_tokens": 788,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-09T06:21:05.508293"
+  },
+  {
+    "ticker": "MQG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967830",
+    "id": "02967830",
+    "pages": 32,
+    "price_sensitive": false,
+    "date": "20250709",
+    "time": "1556",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln1d4s50kyxv.pdf",
+    "summary": "<h3>Material Information Summary (ASX Substantial Holder Notice - Helia Group Limited)</h3>\n<p><strong>Key Event:</strong><br />\n- <strong>Macquarie Group Limited</strong> (and controlled entities) has <strong>ceased to be a substantial holder</strong> in Helia Group Limited (HLI.AX) as of <strong>9 July 2025</strong>.  </p>\n<p><strong>Relevant Changes in Holdings (from Annexure B):</strong><br />\n- Transactions occurred between <strong>23 June 2025</strong> and <strong>4 July 2025</strong>, with mixed on-market purchases and sales.<br />\n- <strong>Notable trades</strong>:<br />\n  - <strong>Macquarie Investment Management Australia Limited (MIMAL)</strong>: Sold <strong>161,661 shares</strong> at <strong>AUD 5.50</strong> (1 July 2025).<br />\n  - <strong>Macquarie Bank Limited (MBL)</strong>: Net <strong>return of ~372,305 shares</strong> via borrow returns (4 July 2025).  </p>\n<p><strong>Ceasing of Substantial Holding:</strong><br />\n- Previous notice date: <strong>20 June 2025</strong>.<br />\n- Reason: Reduction below 5% threshold due to disposals and client account adjustments.  </p>\n<p><strong>Actionable Insight:</strong><br />\n- Monitor for potential overhang risk if Macquarie continues to unwind positions.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 54659,
+      "completion_tokens": 260,
+      "total_tokens": 54919,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-09T06:24:42.549438"
+  },
+  {
     "ticker": "PPE",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967829",
     "id": "02967829",
@@ -8,15 +65,15 @@
     "date": "20250709",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln147b33pfrm.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: Mercer Investments (Australia) Limited, as Responsible Entity (RE) of Mercer Australian Small Companies Fund, became a substantial holder in PeopleIN Ltd (PPE) on <strong>04/07/2025</strong>.  </li>\n<li><strong>Holding Details</strong>:  </li>\n<li><strong>5,440,716 shares</strong> (5.006% voting power) held as of 04/07/2025.  </li>\n<li>Total issued shares: <strong>108,690,566</strong>.  </li>\n<li><strong>Recent Trading Activity</strong>:  </li>\n<li>Net <strong>purchases</strong> of <strong>584,504 shares</strong> between 05/03/2025 and 04/07/2025 at prices ranging from <strong>A$0.7231 to A$0.9431 per share</strong>.  </li>\n<li>One <strong>sale</strong> of <strong>300,000 shares</strong> on 14/05/2025 at <strong>A$0.7375 per share</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Disclosure</strong>: Mercer Investments (Australia) Limited (as RE of Mercer Australian Small Companies Fund) holds a <strong>5.006%</strong> stake in PeopleIN Ltd (PPE), totaling <strong>5,440,716 shares</strong> as of <strong>04/07/2025</strong>.  </li>\n<li><strong>Recent Trading Activity</strong>: Net purchases of <strong>126,530 shares</strong> in the prior 4 months (see Annexure A, Table 4 for transaction details).  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
-      "prompt_tokens": 2940,
-      "completion_tokens": 203,
-      "total_tokens": 3143,
+      "prompt_tokens": 2942,
+      "completion_tokens": 108,
+      "total_tokens": 3050,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:53:46.834937"
+    "processed_at": "2025-07-09T06:20:28.285573"
   },
   {
     "ticker": "IIQ",
@@ -27,15 +84,15 @@
     "date": "20250709",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln124k5vrxjn.pdf",
-    "summary": "<ul>\n<li><strong>Investor Briefing Announcement</strong>: INOVIQ will host an online briefing on <strong>14 July 2025 at 3:00 PM AEST</strong>.  </li>\n<li>Topics: Updates on <strong>EXO-OC ovarian cancer test</strong> and <strong>CAR-exosome therapy</strong> (including recent in vitro data for breast/lung cancers).  </li>\n<li>No new material financial or operational data disclosed.  </li>\n</ul>\n<p>No material information impacting trading or capital structure identified.</p>",
+    "summary": "<p><strong>Investor Briefing Announcement:</strong><br />\n- <strong>Event:</strong> Online briefing on <strong>EXO-OC test</strong> (ovarian cancer diagnostics) and <strong>CAR-exosome therapy</strong> (breast/lung cancers).<br />\n- <strong>Date:</strong> 14 July 2025, 3:00 PM AEST.<br />\n- <strong>Key Focus:</strong> Recent data updates; Q&amp;A hosted by MST analyst Chris Kallos.<br />\n- <strong>Registration Link:</strong> Provided in announcement.  </p>\n<p><em>No material trading/capital markets information identified.</em></p>",
     "usage": {
       "prompt_tokens": 764,
-      "completion_tokens": 92,
-      "total_tokens": 856,
+      "completion_tokens": 105,
+      "total_tokens": 869,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:57:39.963267"
+    "processed_at": "2025-07-09T06:25:05.975199"
   },
   {
     "ticker": "3DA",
@@ -46,15 +103,15 @@
     "date": "20250709",
     "time": "1524",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0z5t6dmc6v.pdf",
-    "summary": "<p><strong>Material Information Summary (ASX Announcement - Appendix 2A):</strong>  </p>\n<ul>\n<li><strong>Securities Issuance:</strong> 541,714 ordinary fully paid shares (ASX: 3DA) issued due to option conversions.  </li>\n<li><strong>Exercise Details:</strong> Options exercised at AUD 0.192 per share under Employee Incentive Scheme (not involving KMP).  </li>\n<li><strong>Post-Issuance Capital:</strong>  </li>\n<li><strong>Quoted:</strong> 691,431,543 ordinary shares; 186,754,680 options (expiring 02-Dec-2025).  </li>\n<li><strong>Unquoted Options:</strong> Multiple tranches with varying expiry dates (2025\u20132035) and exercise prices (AUD 0.173\u20130.50).  </li>\n</ul>\n<p><em>No further material trading or capital structure impacts identified.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Application for quotation of new securities (Appendix 2A)  </li>\n<li><strong>Security Details</strong>:  </li>\n<li><strong>Type</strong>: Ordinary shares (3DA) issued from conversion of options (3DAAN).  </li>\n<li><strong>Quantity</strong>: 541,714 new shares.  </li>\n<li><strong>Exercise Price</strong>: $0.192 per share (total ~$104,009 AUD).  </li>\n<li><strong>Issue Date</strong>: 09/07/2025.  </li>\n<li><strong>Voting Rights</strong>: Equal to existing ordinary shares.  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li><strong>Total Ordinary Shares (3DA)</strong>: 691,431,543.  </li>\n<li><strong>Outstanding Options</strong>: Multiple tranches (see table), totaling ~186.8M quoted and ~117.2M unquoted.  </li>\n</ul>\n<p><strong>No material trading or valuation impacts identified</strong> (routine option conversion).</p>",
     "usage": {
       "prompt_tokens": 2238,
-      "completion_tokens": 168,
-      "total_tokens": 2406,
+      "completion_tokens": 196,
+      "total_tokens": 2434,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:53:19.558876"
+    "processed_at": "2025-07-09T06:20:05.841709"
   },
   {
     "ticker": "AFM",
@@ -65,15 +122,15 @@
     "date": "20250709",
     "time": "1523",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0wyr1jyrrc.pdf",
-    "summary": "<ul>\n<li><strong>Distribution Information</strong>:  </li>\n<li>Distribution per unit: <strong>0.0000 cents</strong>  </li>\n<li>Franking credit per unit: <strong>0.0000 cents</strong>  </li>\n<li><strong>No material impact on trading or capital markets decisions identified</strong> (routine distribution update with nil payment).  </li>\n</ul>\n<p>(Summary adheres to brevity rules, omits non-material issuer/code details.)</p>",
+    "summary": "<p><strong>mFund Release \u2013 Fund Distribution</strong><br />\n Athletic Reviews </p>\n<ul>\n<li><strong>Distribution (cents per unit):</strong> 0.0000  </li>\n<li><strong>Franking Credit (cents per unit):</strong> 0.0000  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
     "usage": {
       "prompt_tokens": 318,
-      "completion_tokens": 77,
-      "total_tokens": 395,
+      "completion_tokens": 55,
+      "total_tokens": 373,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:54:26.939496"
+    "processed_at": "2025-07-09T06:21:45.269297"
   },
   {
     "ticker": "AFM",
@@ -84,15 +141,15 @@
     "date": "20250709",
     "time": "1521",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0tlwv71qnn.pdf",
-    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Reason: Routine monthly redemption data without significant impact on trading or capital markets decisions.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: Redemption data for an mFund is typically routine and not material for trading or capital markets decisions unless exceptionally large or indicative of a trend.)</p>",
     "usage": {
       "prompt_tokens": 317,
-      "completion_tokens": 26,
-      "total_tokens": 343,
+      "completion_tokens": 38,
+      "total_tokens": 355,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:55:03.442196"
+    "processed_at": "2025-07-09T06:22:16.377414"
   },
   {
     "ticker": "ANO",
@@ -103,15 +160,34 @@
     "date": "20250709",
     "time": "1520",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0r5wh7340l.pdf",
-    "summary": "<ul>\n<li><strong>Key Impact on Valuation/Liquidity</strong>:  </li>\n<li>200% tariff threat on Australian pharmaceutical companies (exemptions for zinc oxide).  </li>\n<li>Potential relocation of operations to the US to avoid tariffs (feasible due to automation/control from Australia).  </li>\n<li>Competitive advantage: ANO\u2019s products face 0% tariff vs. 25% for Japan/South Korea competitors.  </li>\n<li><strong>Capital Markets Consideration</strong>:  </li>\n<li>No immediate negative impact on US business expected.  </li>\n<li>Australian government negotiations may alter outcome.  </li>\n</ul>\n<p><em>Omitted non-material details (e.g., relocation history, director authorization).</em></p>",
+    "summary": "<ul>\n<li><strong>Tariff Announcement</strong>: 200% tariff on Australian pharmaceutical companies unless they relocate to the USA within 18 months.  </li>\n<li><strong>Exemption</strong>: Zinc oxide produced in Australia is exempt from tariffs.  </li>\n<li><strong>Potential Response</strong>: ANO may consider relocating production to the USA; has prior experience moving operations.  </li>\n<li><strong>Competitive Edge</strong>: Major competitors in Japan/South Korea face 25% tariffs from 1 August 2025 vs. ANO's zero tariffs.  </li>\n<li><strong>Outlook</strong>: No expected negative impact on ANO\u2019s U.S. business currently.  </li>\n</ul>\n<p><em>No material trading or capital markets actions announced.</em></p>",
     "usage": {
-      "prompt_tokens": 493,
+      "prompt_tokens": 495,
       "completion_tokens": 132,
-      "total_tokens": 625,
+      "total_tokens": 627,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:54:43.226638"
+    "processed_at": "2025-07-09T06:21:51.762967"
+  },
+  {
+    "ticker": "IEL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967823",
+    "id": "02967823",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250709",
+    "time": "1509",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0lv096cvd6.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: Aware Super Pty Ltd ceased to be a substantial holder in IDP Education Limited on 4/07/2025.  </li>\n<li><strong>Key Transaction Details (Annexure A)</strong>:  </li>\n<li>Sold 32,049 shares for ~$132,932 on 4/07/2025.  </li>\n<li>Sold 297,304 shares for ~$1,231,633 on 4/07/2025.  </li>\n<li>Sold 22,615 shares for ~$93,687 on 4/07/2025.  </li>\n<li>Sold 4,177 shares for ~$17,325 on 4/07/2025 (via Aware Financial Services Australia Limited).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1569,
+      "completion_tokens": 160,
+      "total_tokens": 1729,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-09T06:25:54.271321"
   },
   {
     "ticker": "IRI",
@@ -122,15 +198,15 @@
     "date": "20250709",
     "time": "1506",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0j96mh4zz7.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Performance Rights</strong>: 648,396 unquoted performance rights (ASX code: IRIAAA) lapsed due to unmet conditions (cessation date: 30/06/2025).  </li>\n<li><strong>No consideration paid</strong> for the cessation.  </li>\n<li><strong>Post-cessation issued capital</strong>:  </li>\n<li>Quoted ordinary shares (IRI): 177,352,708.  </li>\n<li>Unquoted performance rights (IRIAAA): 9,462,741 remaining.  </li>\n<li>Unquoted options (IRIAB): 220,960.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond reduced unquoted securities.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 648,396 performance rights (ASX code: IRIAAA) lapsed due to unmet conditions (cessation date: 30/06/2025).  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted ordinary shares (IRI): 177,352,708.  </li>\n<li>Unquoted performance rights (IRIAAA): 9,462,741.  </li>\n<li>Unquoted options (IRIAB): 220,960 (expiry 31-Aug-2026, exercise price $1.98).  </li>\n</ul>\n<p>No material impact on liquidity or capital structure identified.</p>",
     "usage": {
       "prompt_tokens": 1041,
-      "completion_tokens": 141,
-      "total_tokens": 1182,
+      "completion_tokens": 136,
+      "total_tokens": 1177,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:55:09.981383"
+    "processed_at": "2025-07-09T06:22:30.511500"
   },
   {
     "ticker": "SUH",
@@ -141,15 +217,15 @@
     "date": "20250709",
     "time": "1506",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln0g6h82695w.pdf",
-    "summary": "<p>Here\u2019s the concise extraction of material information from the ASX announcement:</p>\n<p><strong>Exploration Update Highlights:</strong><br />\n- <strong>Target Confirmation:</strong> Field mapping identifies upper levels of a <strong>copper porphyry system</strong> at surface, supporting hypothesis of deeper mineralisation.<br />\n- <strong>Key Findings:</strong><br />\n  - Argillic alteration and silicification observed, indicative of porphyry system.<br />\n  - Historic drillhole re-logging (e.g., 22LHRC024) shows hydrothermal alteration consistent with porphyry.<br />\n- <strong>Next Steps:</strong><br />\n  - Geophysical reprocessing (MAG, IP, MT) to refine drill targets (results expected in coming weeks).<br />\n  - <strong>Phase I drilling</strong> scheduled to commence <strong>Q4 2025</strong>.  </p>\n<p><strong>No material capital markets or trading-impacting data identified</strong> (e.g., no capital raising, M&amp;A, or financial results). Focus is exploratory progress with no immediate liquidity/capital structure implications.</p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Exploration Update (Southern Porphyry Target, Llahuin Project, Chile):</strong></li>\n<li><strong>Field Mapping Complete:</strong> Confirmed upper levels of a <strong>copper porphyry system</strong> at surface, with <strong>argillic alteration, silicification, and sulphide oxidation</strong>.</li>\n<li><strong>Geophysical Reprocessing Underway:</strong> Refining drill targets; results expected in coming weeks.</li>\n<li><strong>Drilling Timeline:</strong> Phase I drilling <strong>on track for Q4 2025</strong>; contractor tendering commenced.</li>\n<li><strong>Historic Drillhole Data:</strong> Re-logging supports porphyry hypothesis (e.g., <strong>5m @ 0.48% CuEq</strong> in 22LHRC024).</li>\n<li><strong>JV Structure:</strong> FMR Resources (ASX:FMR) holds <strong>right to earn 60% interest</strong> in the Southern Porphyry JV.</li>\n</ul>\n<p><strong>No capital raising, financials, or material transaction details disclosed.</strong>  </p>\n<hr />\n<p><strong>Note:</strong> Focused on exploration progress and timelines; no immediate trading catalysts beyond confirmation of porphyry potential.</p>",
     "usage": {
       "prompt_tokens": 11044,
-      "completion_tokens": 198,
-      "total_tokens": 11242,
+      "completion_tokens": 230,
+      "total_tokens": 11274,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:54:16.437608"
+    "processed_at": "2025-07-09T06:21:41.789281"
   },
   {
     "ticker": "MM1",
@@ -160,15 +236,15 @@
     "date": "20250709",
     "time": "1450",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln04l277dm49.pdf",
-    "summary": "<ul>\n<li><strong>General Meeting Results</strong>: All resolutions passed, including:  </li>\n<li><strong>Placement Shares (Tranche 1 &amp; 2)</strong>: Ratified and approved (Tranche 1: ~20.5M shares; Tranche 2: ~20.3M shares).  </li>\n<li><strong>Director Placements</strong>: Approved for Sara Kelly, Mark Calderwood, and Michael Wilson.  </li>\n<li><strong>Advisor Options</strong>: Approved.  </li>\n</ul>\n<p><strong>Materiality</strong>: Confirms capital raising (placement) and equity issuance to directors/advisors, impacting dilution and capital structure. No further details on issue price or use of funds.  </p>\n<p><em>Omitted: Proxy breakdowns, procedural details.</em></p>",
+    "summary": "<h3><strong>Summary of ASX Announcement \u2013 Midas Minerals Ltd (ASX: MM1)</strong></h3>\n<p><strong>Announcement Type:</strong> General Meeting Results  </p>\n<ul>\n<li><strong>All resolutions passed</strong>, including:  </li>\n<li><strong>Ratification of Tranche 1 Placement Shares</strong> (Listing Rules 7.1 and 7.A) \u2013 <strong>99.99% approval</strong>.  </li>\n<li><strong>Approval of Tranche 2 Placement Shares</strong> \u2013 <strong>99.99% approval</strong>.  </li>\n<li><strong>Approval of Director Placement Shares</strong> (Sara Kelly, Mark Calderwood, Michael Wilson) \u2013 <strong>99.99% approval each</strong>.  </li>\n<li><strong>Approval of Advisor Options</strong> \u2013 <strong>99.99% approval</strong>.  </li>\n</ul>\n<p><strong>No material capital or trading impact disclosed</strong> (no new funding amounts, dates, or structural details provided).</p>",
     "usage": {
       "prompt_tokens": 1128,
-      "completion_tokens": 141,
-      "total_tokens": 1269,
+      "completion_tokens": 169,
+      "total_tokens": 1297,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:56:12.248121"
+    "processed_at": "2025-07-09T06:23:29.974314"
   },
   {
     "ticker": "SKO",
@@ -179,15 +255,15 @@
     "date": "20250709",
     "time": "1450",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln06ntypz61j.pdf",
-    "summary": "<ul>\n<li><strong>Substantial holding changes in Serko Limited (SKO) as of 08 July 2025</strong>:  </li>\n<li><strong>FirstCape Group Limited</strong>:  <ul>\n<li><strong>Current holding</strong>: 17,816,680 shares (14.299% of total).  </li>\n<li><strong>Previous holding (06 Nov 2024)</strong>: 16,366,239 shares (13.297%).  </li>\n</ul>\n</li>\n<li><strong>Harbour Asset Management Limited</strong>:  <ul>\n<li><strong>Current holding</strong>: 17,433,648 shares (13.992%).  </li>\n<li><strong>Previous holding</strong>: 15,897,904 shares (12.917%).  </li>\n</ul>\n</li>\n<li><strong>BNZ Investment Services Limited</strong>:  <ul>\n<li><strong>Current holding</strong>: 3,593,307 shares (2.884%).  </li>\n<li><strong>Previous holding</strong>: 3,091,962 shares (2.512%).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Jarden Wealth Limited</strong>:  </p>\n<ul>\n<li><strong>Current holding</strong>: 383,032 shares (0.307%).  </li>\n<li><strong>Previous holding</strong>: 468,335 shares (0.381%).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Key transactions since last disclosure</strong>:  </p>\n</li>\n<li><strong>Net purchases</strong>:  <ul>\n<li>Harbour: +1,535,744 shares (net).  </li>\n<li>BNZ: +501,345 shares (net).  </li>\n<li>Jarden: -85,303 shares (net).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No other material information identified.</em>  </p>\n<p><strong>Brevity Note</strong>: Excluded transactional details (e.g., gross consideration) as they do not materially impact capital markets decisions beyond ownership changes.</p>",
+    "summary": "<h3><strong>Summary: Substantial Holder Notice - Serko Limited (SKO)</strong></h3>\n<h4><strong>Key Changes in Substantial Holdings (as of 08 July 2025):</strong></h4>\n<ul>\n<li><strong>FirstCape Group Limited</strong>  </li>\n<li><strong>Total holding</strong>: 17,816,680 shares (14.299% of issued shares, <em>up from 13.297%</em>).  </li>\n<li>\n<p><strong>Net purchases</strong>: +1,450,441 shares.  </p>\n</li>\n<li>\n<p><strong>Harbour Asset Management Limited</strong>  </p>\n</li>\n<li><strong>Total holding</strong>: 17,433,648 shares (13.992%, <em>up from 12.917%</em>).  </li>\n<li>\n<p><strong>Transactions</strong>: Bought 2,323,189 shares ($7.8M), sold 787,445 shares ($2.7M).  </p>\n</li>\n<li>\n<p><strong>BNZ Investment Services Limited</strong>  </p>\n</li>\n<li><strong>Total holding</strong>: 3,593,307 shares (2.884%, <em>up from 2.512%</em>).  </li>\n<li>\n<p><strong>Transactions</strong>: Bought 652,767 shares ($2.2M), sold 151,422 shares ($0.56M).  </p>\n</li>\n<li>\n<p><strong>Jarden Wealth Limited</strong>  </p>\n</li>\n<li><strong>Total holding</strong>: 383,032 shares (0.307%, <em>down from 0.381%</em>).  </li>\n<li><strong>Transactions</strong>: Net reduction (sold 133,777 shares, bought 1,389 shares).  </li>\n</ul>\n<h4><strong>Material Implication</strong>:</h4>\n<p>Significant increase in institutional holdings (~3.8% combined increase for FirstCape/Harbour/BNZ), suggesting growing institutional interest.  </p>\n<hr />\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1947,
-      "completion_tokens": 321,
-      "total_tokens": 2268,
+      "completion_tokens": 341,
+      "total_tokens": 2288,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:58:07.796034"
+    "processed_at": "2025-07-09T06:25:17.952426"
   },
   {
     "ticker": "JPR",
@@ -198,15 +274,15 @@
     "date": "20250709",
     "time": "1450",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln08s48g60s8.pdf",
-    "summary": "<p>Here\u2019s the concise extraction of material information from the Appendix 3Y notices:  </p>\n<h3><strong>Director Interest Changes \u2013 Key Points</strong></h3>\n<ul>\n<li><strong>Alexey Kruzhkov</strong>:  </li>\n<li><strong>1,000,000 JPRAN remuneration rights</strong> issued at <strong>$0.03 per right</strong> (director fees for Jan\u2013Jun 2025).  </li>\n<li>\n<p>Total JPRAN holdings post-change: <strong>17,482,100</strong>.  </p>\n</li>\n<li>\n<p><strong>Geoff Gander</strong>:  </p>\n</li>\n<li><strong>1,000,000 JPRAN remuneration rights</strong> issued at <strong>$0.03 per right</strong> (director fees for Jan\u2013Jun 2025).  </li>\n<li>\n<p>Total JPRAN holdings post-change: <strong>9,164,700 (direct)</strong>; <strong>1,265,283 JPR (indirect)</strong>.  </p>\n</li>\n<li>\n<p><strong>Keith Martens</strong>:  </p>\n</li>\n<li><strong>833,333 JPRAN remuneration rights</strong> issued at <strong>$0.03 per right</strong> (director fees for Jan\u2013Jun 2025).  </li>\n<li>Total holdings post-change: <strong>833,333 JPRAN (indirect)</strong>; <strong>4,988,600 JPR (indirect)</strong>.  </li>\n</ul>\n<p>No closed-period trading violations.  </p>\n<p><strong>Note</strong>: No material impact on liquidity, capital structure, or valuation (standard director remuneration issuance).  </p>\n<p><em>(Boilerplate and non-material details omitted as per instructions.)</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Change of Directors\u2019 Interests</strong>:<br />\n- <strong>Alexey Kruzhkov</strong>:<br />\n  - <strong>1,000,000 JPRAN</strong> (Remuneration Share Rights) issued at <strong>$0.03</strong> per right as director fees for Jan-Jun 2025.<br />\n  - Total JPRAN holdings now <strong>17,482,100</strong>.  </p>\n<ul>\n<li><strong>Geoff Gander</strong>:  </li>\n<li><strong>1,000,000 JPRAN</strong> (Remuneration Share Rights) issued at <strong>$0.03</strong> per right as director fees for Jan-Jun 2025.  </li>\n<li>\n<p>Total holdings:  </p>\n<ul>\n<li>Direct: <strong>278,912 JPR</strong> (Ordinary Shares), <strong>9,164,700 JPRAN</strong>.  </li>\n<li>Indirect: <strong>1,265,283 JPR</strong> (via superannuation entity).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Keith Martens</strong>:  </p>\n</li>\n<li><strong>833,333 JPRAN</strong> (Remuneration Share Rights) issued at <strong>$0.03</strong> per right as director fees for Jan-Jun 2025.  </li>\n<li>Total holdings: <strong>4,988,600 JPR</strong>, <strong>833,333 JPRAN</strong> (indirect via consulting entity).  </li>\n</ul>\n<p><strong>Key Point</strong>:<br />\n- No market trading activity; all changes relate to <strong>director fee settlements via equity issuance</strong> at a <strong>$0.03 deemed valuation</strong>.</p>",
     "usage": {
       "prompt_tokens": 2812,
-      "completion_tokens": 289,
-      "total_tokens": 3101,
+      "completion_tokens": 291,
+      "total_tokens": 3103,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:58:27.051827"
+    "processed_at": "2025-07-09T06:25:45.969308"
   },
   {
     "ticker": "CRS",
@@ -217,15 +293,15 @@
     "date": "20250709",
     "time": "1422",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzwsxlvwcb5.pdf",
-    "summary": "<ul>\n<li><strong>ASX Price Query Response</strong>: No undisclosed material information identified by Caprice Resources.  </li>\n<li><strong>Upcoming Catalyst</strong>: Drill results from Island Gold Project expected in 3-5 weeks (assays submitted May-June 2025).  </li>\n<li><strong>Recent Trading Volatility</strong>: Company attributes no specific explanation to recent price/volume movements.  </li>\n</ul>\n<p><em>No material capital markets or trading actions required based on this announcement.</em></p>",
+    "summary": "<ul>\n<li><strong>Response to Price Query</strong>: No undisclosed material information identified.  </li>\n<li><strong>Drilling Update</strong>: Results from Island Gold Project drilling (completed 1 June 2025) expected in 3\u20135 weeks (by early August 2025). Samples were submitted blind to the lab, with strict confidentiality protocols.  </li>\n<li><strong>Recent Trading</strong>: Company unaware of reasons for price volatility (8 July: high $0.056; 9 July: low $0.043) or elevated volume.  </li>\n</ul>\n<p><strong>Key Takeaway</strong>: Market reaction may be anticipating drill results, but no leakage or imminent announcement confirmed.</p>",
     "usage": {
-      "prompt_tokens": 2163,
-      "completion_tokens": 86,
-      "total_tokens": 2249,
+      "prompt_tokens": 2161,
+      "completion_tokens": 124,
+      "total_tokens": 2285,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:55:29.309492"
+    "processed_at": "2025-07-09T06:22:55.575370"
   },
   {
     "ticker": "EMP",
@@ -236,15 +312,15 @@
     "date": "20250709",
     "time": "1422",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzrlvslwly4.pdf",
-    "summary": "<p><strong>Capital Raising Announcement</strong><br />\n- <strong>Structure</strong>: Placement<br />\n- <strong>Total Raised</strong>: ~A$3.7M (120M new shares at A$0.031/share)<br />\n- <strong>Key Dates</strong>:<br />\n  - Settlement: 15 July 2025<br />\n  - Allotment/Quotation: ~16 July 2025  </p>\n<p><strong>Material Use of Proceeds</strong>:<br />\n- Advance Judith-2 Well to Final Investment Decision (Vic/P47 permit)<br />\n- Secure Valaris 107 jack-up rig option fee and long-lead items (e.g., wellhead)  </p>\n<p><strong>Resource Highlights</strong>:<br />\n- <strong>2C Contingent Resource</strong>: 166 BCF (certified by GaffneyCline)<br />\n- <strong>Unrisked P50 Prospective Resource</strong>: 1.86 TCF (Judith Gas Field)  </p>\n<p><strong>Strategic Context</strong>:<br />\n- Adjacent to existing infrastructure (Tuna Platform 14km away, Orbost Gas Plant 40km)<br />\n- Targets East Coast gas shortage (spot price surge to ~A$20/GJ).</p>",
+    "summary": "<p><strong>Capital Raising Announcement</strong>:<br />\n- <strong>Structure</strong>: Placement<br />\n- <strong>Total capital raised</strong>: AUD $3.7 million<br />\n- <strong>Issue price</strong>: $0.031 per share (11.4% discount to last close, 0.7% premium to 15-day VWAP)<br />\n- <strong>Use of proceeds</strong>: Advance Judith-2 Well (Exploration Permit Vic/P47), secure Valaris 107 rig, long-lead items, and working capital.<br />\n- <strong>Key dates</strong>: Settlement on 15 July 2025, allotment/quoting around 16 July 2025.  </p>\n<p><strong>Key Operational Highlights</strong>:<br />\n- Independent validation of <strong>166 BCF 2C Contingent Resource</strong> and <strong>1.86 TCF P50 Prospective Resources</strong> (Gippsland Basin).<br />\n- Proximity to infrastructure (14km from Tuna Platform, 40km from Orbost Gas Plant).<br />\n- Strategic partnering process underway for appraisal drilling (targeting mid-2026).  </p>\n<p><strong>Market Context</strong>:<br />\n- East coast gas price surge (~A$20/GJ) due to supply disruptions (Longford outage).  </p>\n<p><em>Omitted non-material details: Director quotes, unit conversions, legal boilerplate.</em></p>",
     "usage": {
       "prompt_tokens": 2281,
-      "completion_tokens": 223,
-      "total_tokens": 2504,
+      "completion_tokens": 253,
+      "total_tokens": 2534,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:53:57.225350"
+    "processed_at": "2025-07-09T06:20:42.002188"
   },
   {
     "ticker": "EMP",
@@ -255,15 +331,15 @@
     "date": "20250709",
     "time": "1422",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmztpmb3fpt0.pdf",
-    "summary": "<h3><strong>Capital Raising Announcement Summary (Placement)</strong></h3>\n<ul>\n<li><strong>Structure</strong>: Placement (no SPP or entitlement offer)  </li>\n<li><strong>Total Securities Issued</strong>: 120,000,000 ordinary shares (EMP)  </li>\n<li><strong>Issue Price</strong>: AUD 0.031 per share  </li>\n<li><strong>Capital Raised</strong>: AUD 3.72 million (120M \u00d7 AUD 0.031)  </li>\n<li><strong>Use of Proceeds</strong>: Advance Judith-2 Well (VIC/P47) and corporate/admin costs  </li>\n<li><strong>Lead Manager</strong>: Argonaut Securities (6% fee)  </li>\n<li><strong>Placement Capacity Used</strong>:  </li>\n<li><strong>15% under LR 7.1</strong>: 105,500,000 shares  </li>\n<li><strong>10% under LR 7.1A</strong>: 14,500,000 shares  </li>\n<li><strong>Proposed Issue Date</strong>: 16 July 2025  </li>\n<li><strong>No shareholder approval required</strong> (utilizes placement capacity).</li>\n</ul>",
+    "summary": "<p><strong>Capital Raising Announcement Summary:</strong><br />\n- <strong>Structure:</strong> Placement<br />\n- <strong>Total Securities Issued:</strong> 120,000,000 ordinary shares (EMP)<br />\n- <strong>Issue Price:</strong> AUD 0.031 per share<br />\n- <strong>Capital Raised (Gross):</strong> AUD 3.72 million<br />\n- <strong>Use of Proceeds:</strong> Funding VIC/P47 activities (Judith-2 Well) and corporate/admin costs.<br />\n- <strong>Timetable:</strong> Proposed issue date \u2013 16 July 2025.<br />\n- <strong>Placement Capacity:</strong><br />\n  - 15% capacity (Listing Rule 7.1): 105,500,000 shares<br />\n  - Additional 10% capacity (7.1A): 14,500,000 shares<br />\n- <strong>Broker:</strong> Argonaut Securities (6% fee).<br />\n- <strong>No underwriting or escrow.</strong>  </p>\n<p><strong>Key Exclusion:</strong> No security holder approval required (utilizes 7.1 + 7.1A capacities).</p>",
     "usage": {
       "prompt_tokens": 1771,
-      "completion_tokens": 196,
-      "total_tokens": 1967,
+      "completion_tokens": 206,
+      "total_tokens": 1977,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:53:05.852090"
+    "processed_at": "2025-07-09T06:19:38.496823"
   },
   {
     "ticker": "JDO",
@@ -274,15 +350,15 @@
     "date": "20250709",
     "time": "1419",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzp0zygqqp4.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 1,106,537 deferred share rights and options (JDOAH) lapsed due to unmet conditions (30/06/2025).  </li>\n<li><strong>Impact on Capital Structure</strong>: No consideration paid; unquoted JDOAH balance reduced to 96,898,507.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted: 1,117,685,772 ordinary shares (JDO), 750,000 capital notes (JDOPA).  </li>\n<li>Unquoted: 10,736,566 options (JDOAA).  </li>\n</ul>\n<p>No material trading or capital markets implications identified.</p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>ASX Code</strong>: JDOAH  </li>\n<li><strong>Description</strong>: DEFERRED SHARE RIGHTS AND VARIOUS OPTIONS  </li>\n<li><strong>Number Ceased</strong>: 1,106,537  </li>\n<li><strong>Reason</strong>: Lapse due to unmet conditions  </li>\n<li>\n<p><strong>Date of Cessation</strong>: 30/06/2025  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (JDO)</strong>: 1,117,685,772  </li>\n<li><strong>Capital Notes (JDOPA)</strong>: 750,000  </li>\n<li><strong>Unquoted Options (JDOAA)</strong>: 10,736,566  </li>\n<li><strong>Remaining Deferred Rights (JDOAH)</strong>: 96,898,507  </li>\n</ul>\n<p><strong>Impact</strong>: Minor reduction in potential dilution (0.1% of total JDOAH), no material change to capital structure. No consideration paid.</p>",
     "usage": {
       "prompt_tokens": 1127,
-      "completion_tokens": 138,
-      "total_tokens": 1265,
+      "completion_tokens": 200,
+      "total_tokens": 1327,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:57:10.473046"
+    "processed_at": "2025-07-09T06:25:00.047396"
   },
   {
     "ticker": "CR9",
@@ -293,15 +369,15 @@
     "date": "20250709",
     "time": "1418",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzltgm68yhd.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>General Meeting Notice</strong></h4>\n<ul>\n<li><strong>Purpose</strong>: Seek shareholder approval for:  </li>\n<li><strong>Issue of Lead Manager Options</strong>: 200M options to CPS Capital Group (exercise price: $0.002; expiry: 3 years).  </li>\n<li><strong>Ratification of prior issues</strong>:  <ul>\n<li><strong>Consultant Shares</strong>: 2.65M shares issued at $0.005 (24 Dec 2024).  </li>\n<li><strong>Placement Securities</strong>: 68.44M shares + 68.44M options issued at $0.002 (6 May 2025).  </li>\n</ul>\n</li>\n<li><strong>Meeting Date</strong>: 7 Aug 2025 (record date: 5 Aug 2025).  </li>\n<li><strong>Impact on Capital Structure</strong>: Ratification frees up ASX Listing Rule 7.1 capacity (15% limit).  </li>\n<li><strong>Voting Exclusions</strong>: Applies to related parties of issuances.  </li>\n</ul>\n<p><strong>Board Recommendation</strong>: Supports all resolutions.  </p>\n<p><strong>No material operational or financial data disclosed.</strong>  </p>\n<p><em>(Omitted: Meeting logistics, proxy instructions, boilerplate.)</em></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>(ASX: CR9 - Corella Resources Ltd - Notice of General Meeting)</strong>  </p>\n<ol>\n<li><strong>Meeting Purpose</strong>:  </li>\n<li><strong>Resolution 1</strong>: Approval to issue 200,000,000 Lead Manager Options (exercise price: $0.002; expiry: 3 years post-issue) to CPS Capital Group Pty Ltd as part of the Rights Issue underwriting agreement.  </li>\n<li><strong>Resolution 2</strong>: Ratification of prior issue of 2,651,000 Consultant Shares at $0.005/share (total value: $13,255) to Westside Drilling Pty Ltd.  </li>\n<li>\n<p><strong>Resolution 3</strong>: Ratification of prior Placement (announced 2 May 2025):  </p>\n<ul>\n<li>68,438,115 Placement Shares issued at $0.002/share ($136,876 raised).  </li>\n<li>68,438,115 free-attaching Placement Options (exercise price: $0.002; expiry: 28 April 2028).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Voting Exclusions</strong>:  </p>\n</li>\n<li>\n<p>Votes excluded from affiliates of CPS Capital (Resolution 1), Westside Drilling (Resolution 2), and Placement Participants (Resolution 3).  </p>\n</li>\n<li>\n<p><strong>Meeting Details</strong>:  </p>\n</li>\n<li><strong>Date/Time</strong>: 7 August 2025, 11:30 AM AWST.  </li>\n<li><strong>Record Date</strong>: 5 August 2025 (11:30 AM AWST).  </li>\n<li>\n<p><strong>Proxy Deadline</strong>: 5 August 2025 (11:30 AM AWST).  </p>\n</li>\n<li>\n<p><strong>Capital Impact</strong>:  </p>\n</li>\n<li>Ratifications (Resolutions 2\u20133) will preserve the company\u2019s 15% placement capacity under ASX Listing Rule 7.1.  </li>\n</ol>\n<p><strong>Action</strong>: No immediate trading impact. Pass/fail of resolutions affects future capital flexibility.</p>",
     "usage": {
       "prompt_tokens": 10823,
-      "completion_tokens": 231,
-      "total_tokens": 11054,
+      "completion_tokens": 382,
+      "total_tokens": 11205,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:53:43.183890"
+    "processed_at": "2025-07-09T06:20:20.397977"
   },
   {
     "ticker": "JDO",
@@ -312,15 +388,15 @@
     "date": "20250709",
     "time": "1416",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzj4wz51g9y.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Appendix 3G \u2013 Notification of issue/conversion of unquoted securities  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Conversion</strong>: 23,830 unquoted options (JDOAA) converted to 3,236 ordinary shares (JDO) on 16/04/2025.  </li>\n<li><strong>Method</strong>: Net settlement (no cash paid; option holders received fewer shares in lieu of exercise price).  </li>\n<li><strong>Legacy Plan</strong>: Options originated from a Legacy LTI Plan, with no KMP involvement.  </li>\n<li><strong>Post-Issue Shares Outstanding</strong>: 1,117,685,772 JDO ordinary shares (quoted).  </li>\n<li><strong>Unquoted Securities</strong>: 10,712,736 options (JDOAA) and 98,005,044 deferred share rights/options (JDOAH) remain outstanding.  </li>\n</ul>\n<p><strong>Impact</strong>: Negligible dilution (~0.0003% of ordinary shares). No material trading or capital structure implications.</p>",
+    "summary": "<ul>\n<li><strong>Type</strong>: Notification of unquoted equity securities conversion  </li>\n<li><strong>Details</strong>:  </li>\n<li><strong>3,236 ordinary shares (JDO)</strong> issued on 16/04/2025 via net settlement of legacy options (no cash exercise).  </li>\n<li><strong>23,830 options (JDOAA)</strong> converted to ordinary shares (part of Legacy LTI Plan).  </li>\n<li><strong>KMP Involvement</strong>: No key management personnel involved.  </li>\n<li><strong>Post-issue shares outstanding</strong>: 1,117,685,772 ordinary shares (JDO).  </li>\n<li><strong>Unquoted securities</strong>: 10,712,736 options (JDOAA) and 98,005,044 deferred share rights/options (JDOAH) remain.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (minor dilution from option conversion).</em></p>",
     "usage": {
-      "prompt_tokens": 1518,
-      "completion_tokens": 210,
-      "total_tokens": 1728,
+      "prompt_tokens": 1520,
+      "completion_tokens": 172,
+      "total_tokens": 1692,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:58:43.383227"
+    "processed_at": "2025-07-09T06:26:00.196493"
   },
   {
     "ticker": "JPR",
@@ -331,15 +407,15 @@
     "date": "20250709",
     "time": "1414",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzft1q4ymgf.pdf",
-    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: Notification of 833,333 unquoted <strong>Share Rights (JPRAN)</strong> issued on 09/07/2025.  </li>\n<li><strong>Purpose</strong>: Issued to director Keith Martens in lieu of fees for 1 Jan 2025 \u2013 30 Jun 2025 (non-cash consideration).  </li>\n<li><strong>Additional Issuance Pending</strong>: A further 833,334 Share Rights remain to be issued.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Quoted: <strong>1,279,885,521 ordinary shares (JPR)</strong>.  </li>\n<li>Unquoted: <strong>25,480,133 Share Rights (JPRAN)</strong>.  </li>\n</ul>\n<p><em>No material trading or valuation impact identified (routine director fee settlement).</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Jupiter Energy Limited \u2013 Appendix 3G):</h3>\n<ul>\n<li><strong>Unquoted Securities Issued</strong>: 833,333 <strong>JPRAN</strong> (Share Rights) issued on <strong>09/07/2025</strong>.  </li>\n<li><strong>Purpose</strong>: Issued to director <strong>Keith Martens</strong> in lieu of fees for the period <strong>1 Jan 2025 \u2013 30 Jun 2025</strong> (non-cash consideration).  </li>\n<li><strong>Additional Rights Pending</strong>: A further 833,334 Share Rights may be issued (total potential issuance: <strong>1,666,667</strong>).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Quoted: <strong>1,279,885,521</strong> JPR (Ordinary Shares).  </li>\n<li>Unquoted: <strong>25,480,133</strong> JPRAN (Share Rights).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Dilutive issuance (non-cash, director remuneration). No immediate liquidity event.</p>",
     "usage": {
       "prompt_tokens": 1311,
-      "completion_tokens": 164,
-      "total_tokens": 1475,
+      "completion_tokens": 199,
+      "total_tokens": 1510,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:54:48.273390"
+    "processed_at": "2025-07-09T06:22:07.902838"
   },
   {
     "ticker": "LIT",
@@ -350,15 +426,15 @@
     "date": "20250709",
     "time": "1411",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmzc3f6jqdxv.pdf",
-    "summary": "<p><strong>Summary:</strong>  </p>\n<ul>\n<li><strong>Strategy Update Webinar</strong>: Livium Ltd (ASX: LIT) will host a shareholder webinar on <strong>14 July 2025 at 2pm AEST</strong> to discuss the Strategic Update released on 3 July 2025.  </li>\n<li><strong>No material trading/capital markets information identified</strong>.  </li>\n</ul>\n<p><em>Note: Announcement is informational only; no actionable capital markets data (e.g., raising, financials, or material corporate actions) disclosed.</em></p>",
+    "summary": "<ul>\n<li><strong>Webinar Announcement</strong>: Livium Ltd (ASX: LIT) will host a shareholder webinar on <strong>14 July 2025 at 2pm AEST</strong> to discuss the strategic update released on 3 July 2025.  </li>\n<li><strong>No material trading or capital markets information identified</strong>.  </li>\n</ul>\n<p>(Omit operational/financial details as this is a non-material corporate update.)</p>",
     "usage": {
       "prompt_tokens": 801,
-      "completion_tokens": 98,
-      "total_tokens": 899,
+      "completion_tokens": 80,
+      "total_tokens": 881,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:56:32.317299"
+    "processed_at": "2025-07-09T06:23:35.966902"
   },
   {
     "ticker": "BGA",
@@ -369,15 +445,15 @@
     "date": "20250709",
     "time": "1410",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmz8rkhg1wnc.pdf",
-    "summary": "<ul>\n<li><strong>Business Closure</strong>: Bega Group (ASX:BGA) to wind down Peanut Company of Australia (PCA) operations over 18 months, including facilities in Kingaroy and Tolga (Queensland).  </li>\n<li><strong>Financial Impact</strong>: PCA incurred annual operating losses of $5-10M; shutdown to eliminate these losses. Expected one-off cash costs (redundancies, etc.) of $5-10M.  </li>\n<li><strong>Reason</strong>: Unsustainable business model due to industry headwinds (import competition, low peanut production, high costs). No viable buyer found.  </li>\n<li><strong>Workforce Impact</strong>: ~150 affected employees; redundancies and support offered.  </li>\n<li><strong>Remaining Operations</strong>: Bega retains other Queensland facilities (Crestmead, Malanda).  </li>\n</ul>\n<p>No material financial/trading dates or capital structure changes identified.</p>",
+    "summary": "<ul>\n<li><strong>Business Closure</strong>: Bega Group (BGA) to wind down Peanut Company of Australia (PCA) operations over 18 months, closing Kingaroy and Tolga facilities.  </li>\n<li><strong>Financial Impact</strong>: PCA incurred annual losses of $5-10M; shutdown to eliminate ongoing losses with one-off costs of $5-10M (mostly redundancies).  </li>\n<li><strong>Reason for Closure</strong>: Unsustainable business model due to industry headwinds (import competition, high costs, declining production).  </li>\n<li><strong>No Material Capital/Liquidity Impact</strong>: Bega retains other Queensland facilities; shutdown costs are manageable relative to group operations.  </li>\n</ul>\n<p><em>No material trading or capital markets action required.</em></p>",
     "usage": {
       "prompt_tokens": 859,
-      "completion_tokens": 174,
-      "total_tokens": 1033,
+      "completion_tokens": 141,
+      "total_tokens": 1000,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:56:49.691745"
+    "processed_at": "2025-07-09T06:24:49.423505"
   },
   {
     "ticker": "PAT",
@@ -388,15 +464,15 @@
     "date": "20250709",
     "time": "1358",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmz46r81s2ml.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Shares Issued</strong>: 5,000,000 at <strong>$0.06 per share</strong> (total <strong>$300,000 AUD</strong>)  </li>\n<li><strong>Announcement Date</strong>: 26 May 2025 | <strong>Cleansing Notice Date</strong>: 9 July 2025  </li>\n</ul>\n<p><em>(No other material information identified; rest is regulatory boilerplate.)</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Share Placement  </li>\n<li><strong>Shares Issued</strong>: 5,000,000 at $0.06 per share (total AUD $300,000)  </li>\n<li><strong>Key Date</strong>: Cleansing notice lodged 9 July 2025  </li>\n</ul>\n<p><em>Omitted legal boilerplate and non-material compliance statements.</em></p>",
     "usage": {
       "prompt_tokens": 644,
-      "completion_tokens": 91,
-      "total_tokens": 735,
+      "completion_tokens": 76,
+      "total_tokens": 720,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:56:58.553110"
+    "processed_at": "2025-07-09T06:24:52.501694"
   },
   {
     "ticker": "PAT",
@@ -407,15 +483,15 @@
     "date": "20250709",
     "time": "1357",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmz1znqlcm0x.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement - PATRIOT RESOURCES LIMITED</strong></h3>\n<h4><strong>Capital Raising (Placement)</strong></h4>\n<ul>\n<li><strong>Structure</strong>: Placement (previously announced via Appendix 3B on 26-May-2025).  </li>\n<li><strong>Securities Issued</strong>: 5,000,000 ordinary fully paid shares (ASX: PAT).  </li>\n<li><strong>Issue Price</strong>: AUD 0.06 per share.  </li>\n<li><strong>Issue Date</strong>: 09/07/2025.  </li>\n<li><strong>Outstanding Securities to Issue</strong>:  </li>\n<li>6,000,000 broker options (exercise price AUD 0.09, expiry 2 years from issue, pending shareholder approval).  </li>\n</ul>\n<h4><strong>Post-Issuance Capital Structure</strong></h4>\n<ul>\n<li><strong>Total Ordinary Shares on Issue</strong>: <strong>165,022,455</strong> (quoted).  </li>\n<li><strong>Unquoted Securities</strong>:  </li>\n<li>Various options and performance rights (see table in original doc for full breakdown).  </li>\n</ul>\n<p>No other material trading or capital structure updates identified.</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Type:</strong> Placement  </li>\n<li><strong>Securities Issued:</strong> 5,000,000 ordinary fully paid shares (ASX: PAT)  </li>\n<li><strong>Issue Price:</strong> AUD 0.06 per share  </li>\n<li><strong>Issue Date:</strong> 09/07/2025  </li>\n<li><strong>Pending Issuance:</strong> 6,000,000 broker options (exercise price AUD 0.09, expiry 2 years from issue) subject to shareholder approval  </li>\n<li><strong>Post-Issue Shares Outstanding:</strong> 165,022,455 ordinary shares  </li>\n<li><strong>Outstanding Unquoted Securities:</strong> Multiple options and performance rights (see ASX codes in announcement for details)  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1647,
-      "completion_tokens": 209,
-      "total_tokens": 1856,
+      "completion_tokens": 145,
+      "total_tokens": 1792,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:56:00.634041"
+    "processed_at": "2025-07-09T06:23:19.975480"
   },
   {
     "ticker": "PAT",
@@ -426,15 +502,15 @@
     "date": "20250709",
     "time": "1355",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmyzmtm6byr1.pdf",
-    "summary": "<ul>\n<li><strong>New Options Issuance</strong>: 6,000,000 unquoted options (expiry 09-Jul-2027, exercise price $0.09).  </li>\n<li><strong>Total Ordinary Shares Outstanding</strong>: 160,022,455 (quoted).  </li>\n<li><strong>Total Unquoted Securities</strong>: Includes 6M new options + existing unquoted options/rights (detailed in 4.2).  </li>\n</ul>\n<p><em>No material impact on liquidity/capital structure identified (non-cash consideration, minimal issue price).</em></p>",
+    "summary": "<h3>Summary (Appendix 3G - Issue of Unquoted Securities):</h3>\n<ul>\n<li><strong>Security Issued</strong>: 6,000,000 unquoted options (new class).  </li>\n<li><strong>Exercise Price</strong>: AUD 0.09.  </li>\n<li><strong>Expiry Date</strong>: 09-Jul-2027.  </li>\n<li><strong>Underlying Security</strong>: PAT ordinary shares (fully paid).  </li>\n<li><strong>Total Ordinary Shares Outstanding</strong>: 160,022,455 (quoted).  </li>\n<li><strong>Total Unquoted Options Outstanding</strong>: ~49,799,375 (across multiple series).  </li>\n</ul>\n<p><em>Note: No new capital raised (options issued at nominal cost). Material only for dilution/convertible securities tracking.</em></p>",
     "usage": {
       "prompt_tokens": 1961,
-      "completion_tokens": 109,
-      "total_tokens": 2070,
+      "completion_tokens": 142,
+      "total_tokens": 2103,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:55:41.547739"
+    "processed_at": "2025-07-09T06:23:01.710927"
   },
   {
     "ticker": "OSL",
@@ -445,15 +521,15 @@
     "date": "20250709",
     "time": "1348",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmyw391hd9t2.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Placement to a director (Dr Gabriel Liberatore) under SPP terms  </li>\n<li><strong>Securities Issued</strong>:  </li>\n<li><strong>Ordinary Shares (OSL)</strong>: 17,271 shares at <strong>AUD 1.158/share</strong>  </li>\n<li><strong>Attaching Options</strong>: 17,271 options (new class), exercisable at <strong>AUD 1.20</strong> expiring <strong>31-Jul-2027</strong>  </li>\n<li><strong>Approval</strong>: Shareholder approval obtained at EGM on <strong>8-Jul-2025</strong>  </li>\n<li><strong>Issue Date</strong>: <strong>8-Aug-2025</strong>  </li>\n<li><strong>Use of Proceeds</strong>: Clinical trials, administration, working capital</li>\n</ul>",
+    "summary": "<h3>Capital Raising Announcement Summary:</h3>\n<ul>\n<li><strong>Structure</strong>: Placement  </li>\n<li><strong>Securities Issued</strong>:  </li>\n<li><strong>Ordinary Shares (OSL)</strong>: 17,271 shares at <strong>AUD 1.158/share</strong>  </li>\n<li><strong>Attaching Options</strong>: 17,271 options (new class, expiry 31-Jul-2027, exercise price <strong>AUD 1.20</strong>)  </li>\n<li><strong>Purpose</strong>: Funds for clinical trials, administration, and working capital.  </li>\n<li><strong>Issue Date</strong>: 8-Aug-2025  </li>\n<li><strong>Shareholder Approval</strong>: Obtained at EGM on 8-Jul-2025.  </li>\n<li><strong>Key Condition</strong>: Issuance to director Dr. Gabriel Liberatore under SPP terms.  </li>\n</ul>\n<p><em>(No underwriting, lead manager, or escarrangements noted.)</em></p>",
     "usage": {
       "prompt_tokens": 2175,
-      "completion_tokens": 144,
-      "total_tokens": 2319,
+      "completion_tokens": 171,
+      "total_tokens": 2346,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-09T05:55:21.540793"
+    "processed_at": "2025-07-09T06:22:48.015534"
   },
   {
     "ticker": "MRC",
