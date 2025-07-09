@@ -1,0 +1,19 @@
+{
+  "ticker": "SHF",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967743",
+  "id": "02967743",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1044",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmsj69r4vf1k.pdf",
+  "summary": "Got it. Please provide the ASX announcement PDF (or its text contents), and I\u2019ll extract the material information in the concise format you\u2019ve requested.  \n\n**Example outputs for common scenarios:**  \n\n1. **Capital Raising Announcement**  \n   - *Type:* Placement + SPP  \n   - *Amount:* AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n   - *Key Dates:* Ex-date 15/06, Record 18/06, SPP Close 30/06.  \n\n2. **Quarterly Report (4C)**  \n   - *Cash Balance:* AUD 12.5M (prev. AUD 15.2M).  \n   - *Highlights:* Sales up 22% QoQ, costs down 8%.  \n\n3. **Trading Halt Request**  \n   - *Reason:* Pending capital raising announcement.  \n\n4. **Other Announcement (e.g., Acquisition)**  \n   - *Deal:* Acquire X Co. for AUD 100M (50% scrip, 50% cash).  \n   - *Conditions:* Shareholder + regulatory approval required.  \n\n5. **No Material Information Identified**  \n\nPaste the text or upload the PDF, and I\u2019ll apply this strict filter.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 276,
+    "total_tokens": 496,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T01:43:37.126912"
+}
