@@ -1,0 +1,19 @@
+{
+  "ticker": "AT1",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968223",
+  "id": "02968223",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1353",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp59fc1qpnm2.pdf",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will:  \n\n1. **Identify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly).  \n2. **Extract only material information** relevant to trading or capital markets, formatted as ultra-concise bullet points.  \n3. **Strictly adhere to your rules** (omit boilerplate, prioritise brevity, focus on valuation/liquidity impact).  \n\nExample outputs:  \n\n---  \n**Trading Halt Request**  \n- Reason: Pending announcement of a material acquisition.  \n\n**Capital Raising Announcement**  \n- Structure: $50M placement + $10M SPP.  \n- Key dates: Ex-date 15/03, Record 18/03, Close 05/04.  \n\n**Quarterly (4C)**  \n- Cash balance: $12.5M (QoQ -$2.1M).  \n- Highlights: Production 10,000 oz Au (guidance 9.5\u201311k oz).  \n\n**Other Announcement**  \n- Major contract signed: $200M revenue over 3 years.  \n- FY24 EBITDA guidance raised to $50\u201355M (prev. $45\u201350M).  \n\n**No material information identified**  \n---  \n\nReady to analyze your document.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 282,
+    "total_tokens": 507,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T04:02:55.258778"
+}
