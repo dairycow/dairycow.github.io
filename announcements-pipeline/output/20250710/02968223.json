@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1353",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp59fc1qpnm2.pdf",
-  "summary": "Understood. Here\u2019s how I\u2019ll format summaries based on the announcement type:\n\n**1. Trading Halt Request**  \n- *Reason*: [Single-sentence reason, e.g., \"Pending release of material transaction details.\"]  \n\n**2. Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer, etc.]  \n- *Amount*: [AUD total raised or targeted]  \n- *Key Dates*: Ex-date [XX/XX/XXXX], Record [XX/XX/XXXX], Close [XX/XX/XXXX].  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD [X.X million]  \n- *Highlights*: [1\u20132 bullet points on key operational/financial metrics].  \n\n**4. Other Announcements**  \n- [Bullet 1: Material impact on valuation/liquidity/capital structure]  \n- [Bullet 2: Secondary point if critical]  \n\n**If unclear/no material info**:  \n- \"No material information identified.\"  \n\nProvide the PDF or text, and I\u2019ll extract the relevant details accordingly. No fluff.",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will analyze it to extract only material information relevant for trading or capital markets decisions, formatted as concise bullet points according to the specified guidelines.  \n\nIf the document is unavailable, here are hypothetical examples of how I would summarize different announcement types based on your rules:  \n\n---  \n**1. Trading Halt Request:**  \n- Reason: Pending announcement of a material capital raising.  \n\n**2. Capital Raising Announcement (Placement + SPP):**  \n- Structure: A$50M Placement (insto) + A$10M SPP (retail).  \n- Key dates: Ex-date (DD/MM), Record date (DD/MM), SPP close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C):**  \n- Cash balance: A$15.2M (prior quarter: A$20.1M).  \n- Highlights: Production 12koz Au (guidance 10-14koz), costs A$1,250/oz.  \n\n**4. Other Announcement (Strategic Acquisition):**  \n- Acquiring Asset X for A$100M (50% scrip, 50% cash).  \n- Funding: A$50M equity raise (TBA) + debt.  \n\n**5. No Material Information Identified:**  \n- Routine director change or AGM notice without capital/operational impact.  \n\n---  \nProvide the announcement text, and I\u2019ll deliver a tailored summary.",
   "usage": {
-    "prompt_tokens": 225,
-    "completion_tokens": 249,
-    "total_tokens": 474,
+    "prompt_tokens": 223,
+    "completion_tokens": 317,
+    "total_tokens": 540,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T05:33:38.238939"
+  "processed_at": "2025-07-10T05:51:29.996537"
 }

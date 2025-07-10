@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1402",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp5fcvgq5lcq.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its text content), and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points **strictly** per your guidelines.  \n\nFor now, here\u2019s how I would structure the output based on common announcement types:  \n\n---  \n\n### **Example Placeholder Outputs**  \n\n#### **Trading Halt Request**  \n- Reason: Pending material capital raising announcement.  \n\n#### **Capital Raising Announcement**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M).  \n- Key dates: Ex-date 15/10/23, Record 16/10/23, SPP close 30/10/23.  \n\n#### **Appendix 4C (Quarterly Cash Flow)**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Cash burn: AUD 2.7M (operating activities).  \n- Key highlight: Revenue up 15% QoQ to AUD 4.1M.  \n\n#### **Other Material Announcement**  \n- Major contract signed: AUD 25M over 3 years (20% of market cap).  \n- Leadership change: CEO resigns effective immediately; no successor named.  \n\n#### **No Material Information Identified**  \n- Routine operational update (e.g., minor permit renewal).  \n\n---  \n\n**Next Steps**: Share the announcement text/PDF, and I\u2019ll parse it to match the above style. No fluff, only trading-relevant facts.",
+  "summary": "Understood. Please provide the ASX announcement PDF text you'd like me to analyze, and I\u2019ll extract only the material information in the strict, concise format you\u2019ve requested.  \n\nExamples of my output for different announcement types:  \n\n- **Trading Halt Request**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"Placement + SPP to raise A$50M. Ex-date: 15/03, Record: 18/03, Close: 25/03.\"  \n- **4C (Quarterly)**: \"Cash A$12.5M (prior A$15.2M). Revenue A$4.3M (+22% QoQ).\"  \n- **Other**: \"Asset sale of A$30M to reduce debt. Major project permit approved.\"  \n\n**Note**: If no material details are found, I\u2019ll respond: *\"No material information identified.\"*  \n\nReady for your document.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 347,
-    "total_tokens": 577,
+    "completion_tokens": 201,
+    "total_tokens": 431,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T05:35:21.590125"
+  "processed_at": "2025-07-10T05:53:48.418718"
 }
