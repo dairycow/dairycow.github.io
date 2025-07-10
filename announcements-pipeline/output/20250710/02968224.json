@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1402",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp5fcvgq5lcq.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract **only** the material information relevant for trading or capital markets decisions in concise bullet points, following your specified format.  \n\nExample outputs based on common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- *Reason*: Pending announcement regarding a material capital raising.  \n\n**2. Capital Raising Announcement (Placement + SPP)**  \n- *Structure*: A$50M placement at A$0.30/share (12% discount) + A$10M SPP.  \n- *Key dates*: Ex-date 15 Oct, record date 17 Oct, SPP closes 30 Oct.  \n\n**3. Appendix 4C (Quarterly Cash Flow)**  \n- *Cash balance*: A$2.1M (down from A$3.5M prior quarter).  \n- *Cash burn*: A$1.4M quarterly (operational).  \n\n**4. Other Material Announcement**  \n- *Takeover offer*: Unsolicited bid at A$1.20/share (30% premium to last close).  \n- *Asset sale*: Divesting non-core division for A$25M (expected completion Q4).  \n\n**5. No Material Information Identified**  \n---  \n\nAttach the PDF or paste the text, and I\u2019ll provide a similarly structured summary.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information relevant for trading or capital markets decisions in concise bullet points, strictly following your specified format.  \n\nIf you share the announcement type (e.g., Trading Halt, Capital Raising, Quarterly Report), I can tailor the summary accordingly. If the document lacks material information, I will note: *No material information identified*.  \n\nReady to proceed\u2014upload or describe the announcement.  \n\n**Example Outputs**:  \n- **Capital Raising**: Placement @ $0.50/share, raising $20M; SPP up to $5M. Ex-date: 15/03, Close: 30/03.  \n- **Appendix 4C**: Cash balance $12.3M, quarterly burn $1.8M. Production up 15% QoQ.  \n- **Trading Halt**: Pending announcement of material acquisition.  \n- **Other**: Major contract signed ($50M revenue over 2 yrs); CEO resignation announced.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 297,
-    "total_tokens": 527,
+    "completion_tokens": 215,
+    "total_tokens": 445,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T04:43:04.525114"
+  "processed_at": "2025-07-10T05:04:40.342374"
 }
