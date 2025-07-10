@@ -1,0 +1,19 @@
+{
+  "ticker": "ATM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968404",
+  "id": "02968404",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250711",
+  "time": "0826",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lpssn7y9xmpg.pdf",
+  "summary": "Understood. Please provide:  \n\n1. **The ASX announcement PDF** (or its key details if you can't upload the file).  \n2. **The announcement type** (e.g., Capital Raising, Trading Halt, Quarterly, M&A) if you know it.  \n\nI\u2019ll promptly extract *only* material trading/capital markets information in concise bullet points, adhering strictly to your guidelines.  \n\nIf the document is unclear or lacks material details, I\u2019ll note: *No material information identified*.  \n\nExample outputs:  \n- **Trading Halt**: \"Pending release of material acquisition details.\"  \n- **Capital Raising**: \"Entitlement Offer, AUD 150M, ex-date: 15 Oct, close: 30 Oct.\"  \n- **Quarterly (4C)**: \"Cash balance AUD 12.5M, quarterly cash burn AUD 1.2M.\"  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 238,
+    "completion_tokens": 193,
+    "total_tokens": 431,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T22:33:45.360361"
+}
