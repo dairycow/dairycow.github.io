@@ -7,13 +7,13 @@
   "date": "20250711",
   "time": "0943",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq1lv2wx1wsg.pdf",
-  "summary": "Understood. When you provide the ASX announcement PDF or its key details, I will analyze it and summarize **only** the material information relevant for trading or capital markets decisions, adhering strictly to your format rules.  \n\nFor example:  \n\n1. **Capital Raising Announcement**  \n   - *Structure*: Placement + SPP  \n   - *Total raised*: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n   - *Key dates*: Ex-date \u2013 [dd/mm/yy], SPP close \u2013 [dd/mm/yy]  \n\n2. **Appendix 4C (Quarterly Cash Flow)**  \n   - *Cash balance*: AUD 12.3M (prior quarter: AUD 15.1M)  \n   - *Highlights*: Revenue AUD 4.2M (+18% QoQ), no debt drawn  \n\n3. **Trading Halt Request**  \n   - *Reason*: Pending announcement of material acquisition.  \n\n4. **Other Announcement (e.g., M&A)**  \n   - *Key point 1*: Acquiring [Target] for AUD 100M (50% scrip, 50% cash).  \n   - *Key point 2*: EPS accretive immediately; funding via new debt facility.  \n\n**If no material details are found**, I will note: *\"No material information identified.\"*  \n\nPlease share the announcement text or PDF, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or key details from it), and I will extract **only material information relevant for trading or capital markets decisions**, formatted as **concise bullet points** tailored to the announcement type.  \n\nFor example:  \n\n### **If it's a Capital Raising Announcement:**  \n- **Type:** [Placement / SPP / Entitlement Offer]  \n- **Amount Raised (AUD):** [X million]  \n- **Key Dates:** [Ex-date / Record date / Close date]  \n\n### **If it's a Trading Halt Request:**  \n- **Reason:** [Pending material announcement / Capital raising / Other]  \n\n### **If it's a Quarterly Report (Appendix 4C):**  \n- **Cash Balance (AUD):** [X million]  \n- **Key Highlights:** [Operational/financial milestones]  \n\n**Other Announcements:** Only the 2-3 most critical points impacting valuation, liquidity, or capital structure.  \n\n*If unclear or lacks material info:*  \n- \"No material information identified.\"  \n\n**Drop the document or key details, and I\u2019ll process it accordingly.**",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 317,
-    "total_tokens": 542,
+    "completion_tokens": 243,
+    "total_tokens": 468,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T23:51:44.639222"
+  "processed_at": "2025-07-10T23:58:29.891019"
 }
