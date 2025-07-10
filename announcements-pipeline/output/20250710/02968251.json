@@ -1,0 +1,19 @@
+{
+  "ticker": "NSB",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968251",
+  "id": "02968251",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1553",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp7z3ldwskb8.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its key text), and I will analyze it according to your specifications. I\u2019ll extract only material information relevant for trading or capital markets decisions, formatted as concise bullet points.  \n\nIf the document type is unclear or lacks material information, I will note: **\"No material information identified.\"**  \n\n**Example Outputs:**  \n\n1. **Capital Raising Announcement**  \n   - Structure: Placement + SPP  \n   - Total raised: AUD 50M (Placement: AUD 40M / SPP: AUD 10M cap)  \n   - Key dates: Ex-date 15 Oct, Record 16 Oct, SPP close 30 Oct.  \n\n2. **Appendix 4C (Quarterly Cash Flow)**  \n   - Cash balance: AUD 12.5M (prev. AUD 15.2M)  \n   - Net operating cash outflow: AUD 2.7M (reduced from AUD 3.1M)  \n   - Milestone: First revenue received (AUD 1.2M).  \n\n3. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement.  \n\n4. **Other Announcement (Material Contract)**  \n   - Signed 5-year offtake agreement with major miner (volume: 50ktpa).  \n   - Includes AUD 25M prepayment (received next quarter).  \n\nLet me know the announcement text or upload the PDF, and I\u2019ll proceed.",
+  "usage": {
+    "prompt_tokens": 223,
+    "completion_tokens": 315,
+    "total_tokens": 538,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T06:01:31.366962"
+}
