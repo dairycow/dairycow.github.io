@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1402",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp5fcvgq5lcq.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information relevant for trading or capital markets decisions in concise bullet points, strictly following your specified format.  \n\nIf you share the announcement type (e.g., Trading Halt, Capital Raising, Quarterly Report), I can tailor the summary accordingly. If the document lacks material information, I will note: *No material information identified*.  \n\nReady to proceed\u2014upload or describe the announcement.  \n\n**Example Outputs**:  \n- **Capital Raising**: Placement @ $0.50/share, raising $20M; SPP up to $5M. Ex-date: 15/03, Close: 30/03.  \n- **Appendix 4C**: Cash balance $12.3M, quarterly burn $1.8M. Production up 15% QoQ.  \n- **Trading Halt**: Pending announcement of material acquisition.  \n- **Other**: Major contract signed ($50M revenue over 2 yrs); CEO resignation announced.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text content), and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points **strictly** per your guidelines.  \n\nFor now, here\u2019s how I would structure the output based on common announcement types:  \n\n---  \n\n### **Example Placeholder Outputs**  \n\n#### **Trading Halt Request**  \n- Reason: Pending material capital raising announcement.  \n\n#### **Capital Raising Announcement**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M).  \n- Key dates: Ex-date 15/10/23, Record 16/10/23, SPP close 30/10/23.  \n\n#### **Appendix 4C (Quarterly Cash Flow)**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Cash burn: AUD 2.7M (operating activities).  \n- Key highlight: Revenue up 15% QoQ to AUD 4.1M.  \n\n#### **Other Material Announcement**  \n- Major contract signed: AUD 25M over 3 years (20% of market cap).  \n- Leadership change: CEO resigns effective immediately; no successor named.  \n\n#### **No Material Information Identified**  \n- Routine operational update (e.g., minor permit renewal).  \n\n---  \n\n**Next Steps**: Share the announcement text/PDF, and I\u2019ll parse it to match the above style. No fluff, only trading-relevant facts.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 215,
-    "total_tokens": 445,
+    "completion_tokens": 347,
+    "total_tokens": 577,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T05:04:40.342374"
+  "processed_at": "2025-07-10T05:35:21.590125"
 }
