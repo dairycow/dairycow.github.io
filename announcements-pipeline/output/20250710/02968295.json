@@ -1,0 +1,19 @@
+{
+  "ticker": "GFL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968295",
+  "id": "02968295",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1643",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lpc6vpz8pp51.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF or key details** from it (e.g., title, type, and raw text excerpts). I\u2019ll immediately extract only material information per your strict guidelines.  \n\n**Example Outputs:**  \n1. **Trading Halt Request**  \n   - Reason: Pending release of capital raising details.  \n\n2. **Capital Raising Announcement**  \n   - Structure: A$50M placement + A$10M SPP.  \n   - Key dates: Ex-date 15 Oct, Record 16 Oct, SPP closes 30 Oct.  \n\n3. **Quarterly Report (4C)**  \n   - Cash balance: A$12.5M (up from A$8.2M prior quarter).  \n   - Shipments: 1,200 tonnes (\u219115% QoQ).  \n\n4. **Other Announcement**  \n   - Major contract signed: 3-year supply deal with Tier-1 automaker (est. A$100M revenue).  \n   - CEO resignation effective immediately; CFO interim replacement.  \n\n**If no material info is present**, I\u2019ll state:  \n- *No material information identified.*  \n\nReady to analyze your document.",
+  "usage": {
+    "prompt_tokens": 218,
+    "completion_tokens": 254,
+    "total_tokens": 472,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T07:01:16.703058"
+}
