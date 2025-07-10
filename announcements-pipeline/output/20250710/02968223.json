@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1353",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp59fc1qpnm2.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key text) for review, and I will extract **only** the material information relevant for trading/capital markets decisions in the strict format requested, including:  \n\n- **Trading halt reason** (if applicable)  \n- **Capital raising details** (type, AUD amount, key dates)  \n- **Quarterly report highlights** (cash balance, key metrics)  \n- **Other material events** (M&A, leadership changes, asset sales, etc.)  \n\nI will omit all fluff (director names, legal disclaimers, non-material operational updates) and respond with **concise bullet points**. If the document lacks material information, I will state: *\"No material information identified.\"*  \n\nGo ahead and share the announcement.",
+  "summary": "Understood. Here\u2019s how I\u2019ll format summaries based on the announcement type:\n\n**1. Trading Halt Request**  \n- *Reason*: [Single-sentence reason, e.g., \"Pending release of material transaction details.\"]  \n\n**2. Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer, etc.]  \n- *Amount*: [AUD total raised or targeted]  \n- *Key Dates*: Ex-date [XX/XX/XXXX], Record [XX/XX/XXXX], Close [XX/XX/XXXX].  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD [X.X million]  \n- *Highlights*: [1\u20132 bullet points on key operational/financial metrics].  \n\n**4. Other Announcements**  \n- [Bullet 1: Material impact on valuation/liquidity/capital structure]  \n- [Bullet 2: Secondary point if critical]  \n\n**If unclear/no material info**:  \n- \"No material information identified.\"  \n\nProvide the PDF or text, and I\u2019ll extract the relevant details accordingly. No fluff.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 164,
-    "total_tokens": 389,
+    "completion_tokens": 249,
+    "total_tokens": 474,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T05:02:22.573158"
+  "processed_at": "2025-07-10T05:33:38.238939"
 }
