@@ -7,13 +7,13 @@
   "date": "20250710",
   "time": "1353",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp59fc1qpnm2.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I will generate a concise summary per your specified format.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**:  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - Structure: $50M placement + $10M SPP.  \n   - Key dates: Ex-date 15/04, Record 18/04, Close 30/04.  \n\n3. **Quarterly Report (4C)**:  \n   - Cash balance: $12.5M (Q-end).  \n   - Revenue up 15% QoQ; customer growth to 45K.  \n\n4. **Other Announcement**:  \n   - Strategic acquisition of XYZ Co for $200M (funded via debt).  \n   - FY24 EBITDA guidance raised to $90M\u2013$100M.  \n\nIf you share the document or its core details, I\u2019ll provide a tailored summary.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key text) for review, and I will extract **only** the material information relevant for trading/capital markets decisions in the strict format requested, including:  \n\n- **Trading halt reason** (if applicable)  \n- **Capital raising details** (type, AUD amount, key dates)  \n- **Quarterly report highlights** (cash balance, key metrics)  \n- **Other material events** (M&A, leadership changes, asset sales, etc.)  \n\nI will omit all fluff (director names, legal disclaimers, non-material operational updates) and respond with **concise bullet points**. If the document lacks material information, I will state: *\"No material information identified.\"*  \n\nGo ahead and share the announcement.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 225,
-    "total_tokens": 450,
+    "completion_tokens": 164,
+    "total_tokens": 389,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T04:41:31.397823"
+  "processed_at": "2025-07-10T05:02:22.573158"
 }
