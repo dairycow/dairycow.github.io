@@ -1,0 +1,19 @@
+{
+  "ticker": "BFL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968614",
+  "id": "02968614",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250711",
+  "time": "1239",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq9dwftxlf6m.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will generate a concise summary strictly adhering to your criteria:  \n\n**Example Outputs Based on Common Scenarios:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: AU$50M placement + AU$10M SPP.  \n   - *Key Dates*: Ex-date 15/09, Record 18/09, SPP close 30/09.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AU$12.5M (prev. AU$15.2M).  \n   - *Highlights*: Revenue AU$8.1M (+22% QoQ), client growth to 1,250 (+15%).  \n\n4. **Other Announcement (e.g., M&A)**  \n   - *Key Points*: Acquiring Target Co. for AU$100M (50% scrip, 50% cash).  \n   - *Condition*: Subject to shareholder approval (meeting 20/10).  \n\n**Next Steps**:  \nShare the announcement text or clarify its type, and I\u2019ll extract only material details. If no PDF is available, confirm the headline/key sections.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 300,
+    "total_tokens": 530,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-11T03:23:01.991287"
+}
