@@ -7,13 +7,13 @@
   "date": "20250711",
   "time": "1239",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq9dwftxlf6m.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will generate a concise summary strictly adhering to your criteria:  \n\n**Example Outputs Based on Common Scenarios:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: AU$50M placement + AU$10M SPP.  \n   - *Key Dates*: Ex-date 15/09, Record 18/09, SPP close 30/09.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AU$12.5M (prev. AU$15.2M).  \n   - *Highlights*: Revenue AU$8.1M (+22% QoQ), client growth to 1,250 (+15%).  \n\n4. **Other Announcement (e.g., M&A)**  \n   - *Key Points*: Acquiring Target Co. for AU$100M (50% scrip, 50% cash).  \n   - *Condition*: Subject to shareholder approval (meeting 20/10).  \n\n**Next Steps**:  \nShare the announcement text or clarify its type, and I\u2019ll extract only material details. If no PDF is available, confirm the headline/key sections.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text), and I will extract and summarize **only** the material information in the requested format, tailored to the announcement type.  \n\nExample outputs based on hypothetical announcements:  \n\n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Type: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 40M at $0.50/share; SPP: AUD 10M cap)  \n- Key dates: Ex-date 15 Oct, Record date 17 Oct, SPP close 31 Oct.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.3M (QoQ -15%).  \n- Highlights: Gold production 5,000oz (vs 4,200oz prior Q); costs AUD 1,200/oz.  \n\n**Other Announcement (e.g., acquisition):**  \n- Acquiring 100% of X Co for AUD 80M (50% scrip, 50% cash).  \n- Conditional on shareholder approval (meeting date TBA).  \n\n**No material information identified:**  \n- Routine director appointment announcement.  \n\n**Now share the announcement text/PDF, and I\u2019ll proceed.**  \n\n*(Note: If the PDF is lengthy, highlight the relevant sections or paste the critical text to ensure accuracy.)*",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 300,
-    "total_tokens": 530,
+    "completion_tokens": 304,
+    "total_tokens": 534,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-11T03:23:01.991287"
+  "processed_at": "2025-07-11T04:12:48.884236"
 }
