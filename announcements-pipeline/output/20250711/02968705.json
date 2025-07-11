@@ -1,0 +1,19 @@
+{
+  "ticker": "RIE",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968705",
+  "id": "02968705",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250711",
+  "time": "1620",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lqjy34wsqdqz.pdf",
+  "summary": "**Example Summary (if the announcement is a Capital Raising):**  \n- **Type:** Placement + SPP  \n- **Total Raised:** AUD 50 million (Placement AUD 40m, SPP AUD 10m)  \n- **Key Dates:** Ex-date 15/05, Record 17/05, SPP Close 31/05  \n\n**Example Summary (if the announcement is a Quarterly Report):**  \n- **Cash Balance:** AUD 12.3m (vs. AUD 15.1m prior quarter)  \n- **Highlights:** Revenue AUD 5.2m (+22% QoQ), production 10,000oz gold  \n\n**Example Summary (if Trading Halt):**  \n- **Reason:** Pending capital raising announcement  \n\n---  \n**For your actual document**, provide the PDF or its key details (e.g., announcement type, issuer name), and I\u2019ll draft a tailored summary per above rules. If unclear:  \n- *No material information identified*.",
+  "usage": {
+    "prompt_tokens": 231,
+    "completion_tokens": 210,
+    "total_tokens": 441,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-11T06:27:24.310012"
+}
