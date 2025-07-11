@@ -7,13 +7,13 @@
   "date": "20250711",
   "time": "0943",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq1lv2wx1wsg.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** (or key details from it), and I will extract **only material information relevant for trading or capital markets decisions**, formatted as **concise bullet points** tailored to the announcement type.  \n\nFor example:  \n\n### **If it's a Capital Raising Announcement:**  \n- **Type:** [Placement / SPP / Entitlement Offer]  \n- **Amount Raised (AUD):** [X million]  \n- **Key Dates:** [Ex-date / Record date / Close date]  \n\n### **If it's a Trading Halt Request:**  \n- **Reason:** [Pending material announcement / Capital raising / Other]  \n\n### **If it's a Quarterly Report (Appendix 4C):**  \n- **Cash Balance (AUD):** [X million]  \n- **Key Highlights:** [Operational/financial milestones]  \n\n**Other Announcements:** Only the 2-3 most critical points impacting valuation, liquidity, or capital structure.  \n\n*If unclear or lacks material info:*  \n- \"No material information identified.\"  \n\n**Drop the document or key details, and I\u2019ll process it accordingly.**",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will generate a concise, material-only summary per your specified format.  \n\nIf the PDF is unavailable, here\u2019s how I\u2019ll respond based on common ASX announcement types:  \n\n**Example Outputs:**  \n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material acquisition announcement.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - *Structure*: $50M placement at $0.20/share (12.5% discount) + $5M SPP.  \n   - *Key Dates*: Ex-date 15/05, Record 17/05, SPP closes 31/05.  \n\n3. **Quarterly (Appendix 4C)**  \n   - *Cash Balance*: $10.2M (prior quarter: $12.1M).  \n   - *Highlight*: Revenue $3.5M (+22% QoQ).  \n\n4. **Material Contract Signed**  \n   - *Key Point*: 5-year supply deal with Fortune 500 co., est. $100M revenue.  \n\n5. **No Material Information**  \n   - (If the doc contains only governance updates or negligible details).  \n\n**Next Steps**: Share the announcement text/headline, and I\u2019ll adhere strictly to the rules above.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 243,
-    "total_tokens": 468,
+    "completion_tokens": 305,
+    "total_tokens": 530,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-10T23:58:29.891019"
+  "processed_at": "2025-07-11T00:05:48.333423"
 }
