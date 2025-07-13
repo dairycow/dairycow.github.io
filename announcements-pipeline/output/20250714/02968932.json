@@ -7,13 +7,13 @@
   "date": "20250714",
   "time": "0921",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lrw86116c2c0.pdf",
-  "summary": "Understood. Below is a structured response adhering strictly to your guidelines. Please provide the ASX announcement PDF (or its key details), and I will extract only the material information relevant for trading or capital markets decisions in the requested concise format. If the document type/contents are unclear, I will respond with:  \n\n**\"No material information identified.\"**  \n\nExample outputs for common scenarios:  \n\n### **1. Trading Halt Request**  \n- Reason: Pending announcement regarding capital raising.  \n\n### **2. Capital Raising Announcement**  \n- Structure: 1-for-4 pro rata entitlement offer.  \n- Total raised: AUD 150 million (institutional tranche: AUD 100m; retail: AUD 50m).  \n- Key dates: Ex-date: [DD/MM], Record date: [DD/MM], Close date: [DD/MM].  \n\n### **3. Quarterly Report (Appendix 4C)**  \n- Cash balance: AUD 12.5m (QoQ -15%).  \n- Highlights: Production +8% QoQ; receivables delayed (AUD 3.2m overdue).  \n\n### **4. Other Announcement (e.g., M&A, Asset Sale, Guidance Update)**  \n- Acquisition of [Target] for AUD 200m (20% EPS accretive in FY24).  \n- FY24 EBITDA guidance revised to AUD 50m-55m (prev. AUD 60m-65m).  \n\n### **5. No Material Information**  \n- No material information identified.  \n\nSubmit the document (or paste text), and I will reply accordingly.",
+  "summary": "Understood. When reviewing the ASX announcement PDF, I\u2019ll extract *only* the material information relevant for trading or capital markets decisions, adhering strictly to the rules:\n\n### **Trading Halt Request (Example Response)**  \n- *Reason:* Pending announcement of a capital raising.\n\n### **Capital Raising Announcement (Example Response)**  \n- *Structure:* $50M placement + $10M SPP.  \n- *Key Dates:* Ex-date 15/10, Record 18/10, Close 30/10.  \n\n### **Quarterly Report (Appendix 4C) (Example Response)**  \n- *Cash Balance:* $12.3M (AUD), down from $15.1M last quarter.  \n- *Highlights:* Record quarterly sales ($5.2M), new contract signed with [Key Client].  \n\n### **Other Announcement (Example Response)**  \n- *Material Impact:*  \n  1. Major partnership with [Blue-Chip Co.], expected to boost FY25 revenue by ~20%.  \n  2. CEO resignation effective immediately; interim CEO appointed.  \n\n(If unclear, I\u2019ll state: *\"No material information identified.\"*)  \n\nPlease provide the ASX announcement PDF or key details, and I\u2019ll parse it accordingly.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 336,
-    "total_tokens": 561,
+    "completion_tokens": 266,
+    "total_tokens": 491,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-13T23:32:33.999221"
+  "processed_at": "2025-07-13T23:45:02.507164"
 }
