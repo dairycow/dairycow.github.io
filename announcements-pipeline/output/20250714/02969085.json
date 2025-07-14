@@ -1,0 +1,19 @@
+{
+  "ticker": "GBZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969085",
+  "id": "02969085",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "1537",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06ls8y3cylkln9.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I will extract **only the material information** relevant for trading or capital markets decisions, formatted as **concise bullet points** based on the announcement type (e.g., trading halt, capital raising, quarterly report, etc.).  \n\nIf the document isn't provided, here\u2019s how I\u2019d respond for common scenarios:  \n\n### **Example Outputs Based on Announcement Type**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement of a capital raise.  \n\n2. **Capital Raising Announcement**  \n   - *Type*: Placement + SPP  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap)  \n   - *Key Dates*: Ex-date \u2013 DD/MM, Record \u2013 DD/MM, Close \u2013 DD/MM  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AUD XX.XM  \n   - *Key Highlights*: Production Y% \u2191, Revenue AUD ZM, Costs AUD WM  \n\n4. **Other Announcement (Material Impact):**  \n   - Major asset sale: AUD XXXM proceeds.  \n   - Debt refinancing: New facility AUD YYYM at X% interest.  \n\n**If no material information is found:**  \n- **Response**: \"No material information identified.\"  \n\nPlease share the announcement, and I\u2019ll refine the summary accordingly.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 315,
+    "total_tokens": 545,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-14T05:53:10.239091"
+}
