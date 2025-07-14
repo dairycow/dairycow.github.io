@@ -1,0 +1,19 @@
+{
+  "ticker": "BSX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969163",
+  "id": "02969163",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "1733",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lsgwnkfx4pg7.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will analyze it strictly for material capital markets/relevant trading information, summarizing concisely per the guidelines:  \n\n**Example Output Formats:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending material acquisition announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Type: $50M institutional placement + $10M SPP.  \n   - Use of funds: Debt reduction (60%) + working capital (40%).  \n   - Dates: Ex-date (DD/MM), Record (DD/MM), Close (DD/MM).  \n\n3. **Quarterly Report (4C):**  \n   - Cash balance: $15.2M (QoQ -$3.1M).  \n   - Revenue: $22M (QoQ +12%).  \n   - Key item: Delayed project A (liquidity risk flagged).  \n\n4. **Other Announcement:**  \n   - Major contract win: 3-year, $75M revenue (FY25-27).  \n   - CEO resignation effective immediately; interim appointee named.  \n\n**Note:** If the document is unclear or lacks material data, I\u2019ll respond: *\"No material information identified.\"*  \n\nAttach/share the announcement, and I\u2019ll parse it accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 287,
+    "total_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-14T07:40:21.644407"
+}
