@@ -7,13 +7,13 @@
   "date": "20250714",
   "time": "1733",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lsgwnkfx4pg7.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will analyze it strictly for material capital markets/relevant trading information, summarizing concisely per the guidelines:  \n\n**Example Output Formats:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending material acquisition announcement.  \n\n2. **Capital Raising Announcement:**  \n   - Type: $50M institutional placement + $10M SPP.  \n   - Use of funds: Debt reduction (60%) + working capital (40%).  \n   - Dates: Ex-date (DD/MM), Record (DD/MM), Close (DD/MM).  \n\n3. **Quarterly Report (4C):**  \n   - Cash balance: $15.2M (QoQ -$3.1M).  \n   - Revenue: $22M (QoQ +12%).  \n   - Key item: Delayed project A (liquidity risk flagged).  \n\n4. **Other Announcement:**  \n   - Major contract win: 3-year, $75M revenue (FY25-27).  \n   - CEO resignation effective immediately; interim appointee named.  \n\n**Note:** If the document is unclear or lacks material data, I\u2019ll respond: *\"No material information identified.\"*  \n\nAttach/share the announcement, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or paste its text, and I\u2019ll extract *only* the material information relevant for trading or capital markets decisions in the concise format described.  \n\nIf you can't share the document, here\u2019s a template of how I\u2019ll structure summaries for common announcement types:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending material capital raising announcement.  \n\n2. **Capital Raising (e.g., Placement, Entitlement Offer)**  \n   - *Type*: Institutional Placement + SPP  \n   - *Amount*: AUD 50M (AUD 40M placement + AUD 10M SPP)  \n   - *Key Dates*: Ex-date 15/04, Record 16/04, Close 30/04.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AUD 12.3M (prior quarter: AUD 15.1M).  \n   - *Key Highlights*: Revenue AUD 5M (+20% qoq), burn rate AUD 2.8M.  \n\n4. **Other Material Announcements**  \n   - *Acquisition*: AUD 25M asset purchase (funded via debt).  \n   - *Guidance Update*: FY24 EBITDA lowered to AUD 10M\u201312M (prev. AUD 15M).  \n\nIf the announcement is unclear or lacks actionable data, I\u2019ll note: *No material information identified*.  \n\nProvide the document, and I\u2019ll distill it immediately.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 287,
-    "total_tokens": 512,
+    "completion_tokens": 331,
+    "total_tokens": 556,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-14T07:40:21.644407"
+  "processed_at": "2025-07-14T07:53:24.179869"
 }
