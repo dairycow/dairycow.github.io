@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969111",
+  "id": "02969111",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "1627",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lsbzzvxcn6by.pdf",
+  "summary": "### Summary of CitiFirst Instalment MINIs Announcement  \n**Document Type**: Product terms update for leveraged equity instruments (Instalment MINIs).  \n\n#### Key Material Points:  \n- **Current Interest Rate**: 8.30% p.a., effective from **15-Jul-25**.  \n\u8a98\u81f4  \n- **Product Structure**:  \n  - Leveraged instruments with partial payment (first instalment) and a final loan amount due at expiry.  \n  - **Stop Loss Trigger Levels**: Listed for each MINI, indicating automatic exit if underlying share price falls to this level.  \n  - **Gearing**: Ranges from ~10% to ~80%, affecting exposure (e.g., higher gearing = higher risk/return).  \n    - Example: **A2MJOB** (A2 Milk) has 47.11% gearing, stop loss at $4.07 (43.63% below current price $7.22).  \n  - **Dividend Treatment**: Most MINIs pay dividends to investors (e.g., \"Pay to investor\").  \n\n- **Expiry Dates**: Vary by instrument (e.g., **A2MJOB** expiry: 26-May-2026).  \n\n#### Trading Implications:  \n- **Risk Metrics**: % from stop loss shows cushion before automatic unwinding (e.g., **AGLJOA** has 28.11% buffer).  \n- **Liquidity/Valuation Impact**: High-geared MINIs (e.g., **BENJOC** at 63.61%) are more sensitive to underlying price swings.  \n\n**No material corporate actions or capital structure changes identified**.  \n\n*Note: Boilerplate/disclaimer text excluded as non-material.*",
+  "usage": {
+    "prompt_tokens": 23367,
+    "completion_tokens": 359,
+    "total_tokens": 23726,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-14T06:51:45.709971"
+}
