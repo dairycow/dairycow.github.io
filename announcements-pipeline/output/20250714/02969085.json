@@ -7,13 +7,13 @@
   "date": "20250714",
   "time": "1537",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06ls8y3cylkln9.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I will extract **only the material information** relevant for trading or capital markets decisions, formatted as **concise bullet points** based on the announcement type (e.g., trading halt, capital raising, quarterly report, etc.).  \n\nIf the document isn't provided, here\u2019s how I\u2019d respond for common scenarios:  \n\n### **Example Outputs Based on Announcement Type**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement of a capital raise.  \n\n2. **Capital Raising Announcement**  \n   - *Type*: Placement + SPP  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap)  \n   - *Key Dates*: Ex-date \u2013 DD/MM, Record \u2013 DD/MM, Close \u2013 DD/MM  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AUD XX.XM  \n   - *Key Highlights*: Production Y% \u2191, Revenue AUD ZM, Costs AUD WM  \n\n4. **Other Announcement (Material Impact):**  \n   - Major asset sale: AUD XXXM proceeds.  \n   - Debt refinancing: New facility AUD YYYM at X% interest.  \n\n**If no material information is found:**  \n- **Response**: \"No material information identified.\"  \n\nPlease share the announcement, and I\u2019ll refine the summary accordingly.",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I will:  \n\n1. **Identify the announcement type** (e.g., capital raising, trading halt, quarterly).  \n2. Extract **only material information** per your specified format.  \n3. Exclude all fluff (boilerplate, director names, non-material updates).  \n\nIf no material details are found, I\u2019ll state: *\"No material information identified.\"*  \n\n**Example Outputs:**  \n- **Trading Halt:** *\"Halt requested pending release of capital raising details.\"*  \n- **Capital Raising:** *\"Entitlement Offer at $0.50/share to raise $100M. Ex-date: 15 Oct, Record: 18 Oct, Close: 25 Oct.\"*  \n- **Quarterly (4C):** *\"Cash balance $12.5M; Q2 revenue $8.2M (+15% QoQ).\"*  \n\nProvide the document/content, and I\u2019ll deliver a razor-sharp summary.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 315,
-    "total_tokens": 545,
+    "completion_tokens": 223,
+    "total_tokens": 453,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-14T05:53:10.239091"
+  "processed_at": "2025-07-14T06:18:40.975922"
 }
