@@ -7,13 +7,13 @@
   "date": "20250714",
   "time": "1733",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lsgwnkfx4pg7.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or paste its text, and I\u2019ll extract *only* the material information relevant for trading or capital markets decisions in the concise format described.  \n\nIf you can't share the document, here\u2019s a template of how I\u2019ll structure summaries for common announcement types:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending material capital raising announcement.  \n\n2. **Capital Raising (e.g., Placement, Entitlement Offer)**  \n   - *Type*: Institutional Placement + SPP  \n   - *Amount*: AUD 50M (AUD 40M placement + AUD 10M SPP)  \n   - *Key Dates*: Ex-date 15/04, Record 16/04, Close 30/04.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AUD 12.3M (prior quarter: AUD 15.1M).  \n   - *Key Highlights*: Revenue AUD 5M (+20% qoq), burn rate AUD 2.8M.  \n\n4. **Other Material Announcements**  \n   - *Acquisition*: AUD 25M asset purchase (funded via debt).  \n   - *Guidance Update*: FY24 EBITDA lowered to AUD 10M\u201312M (prev. AUD 15M).  \n\nIf the announcement is unclear or lacks actionable data, I\u2019ll note: *No material information identified*.  \n\nProvide the document, and I\u2019ll distill it immediately.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text extracts), and I will generate a concise, material-focused summary adhering strictly to your guidelines.  \n\nFor context, here\u2019s how I would approach common scenarios based on your rules:  \n\n**Example 1: Trading Halt Request**  \n- *Reason*: Pending release of capital raising details.  \n\n**Example 2: Capital Raising Announcement (Placement + SPP)**  \n- *Structure*: A$50M placement (A$0.20/share) + A$10M SPP.  \n- *Key dates*: Ex-date 15/10/23, SPP closes 30/10/23.  \n\n**Example 3: Quarterly Report (Appendix 4C)**  \n- *Cash balance*: A$12.1M (prior quarter: A$15.4M).  \n- *Key highlights*: Production 5,000oz Au (guidance 4,500\u20135,500oz), costs A$1,200/oz.  \n\n**Example 4: Other Announcement (M&A)**  \n- *Material terms*: Acquiring X Co for A$100M (50% scrip, 50% cash).  \n- *Conditions*: FIRB approval required, expected H1 2024.  \n\n**For personal use only**. *No material information identified* will be returned if the document lacks actionable data.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 331,
-    "total_tokens": 556,
+    "completion_tokens": 301,
+    "total_tokens": 526,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-14T07:53:24.179869"
+  "processed_at": "2025-07-14T08:17:36.835902"
 }
