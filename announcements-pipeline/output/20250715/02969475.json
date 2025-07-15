@@ -7,13 +7,13 @@
   "date": "20250715",
   "time": "1443",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltf403d17wk2.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or relevant excerpts), and I'll extract only material capital markets/trading information, formatted as concise bullet points per your strict criteria.  \n\nExample outputs based on common announcement types:  \n\n**Trading Halt Request:**  \n- *Reason:* Pending material acquisition announcement.  \n\n**Capital Raising (Placement + SPP):**  \n- *Structure:* AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n- *Key Dates:* Ex-date 15/04, Record 18/04, SPP close 30/04.  \n\n**Quarterly (4C):**  \n- *Cash:* AUD 12.5M (prior qtr: AUD 15.2M).  \n- *Highlights:* Production +8% QoQ, costs reduced to AUD 950/oz.  \n\n**Other Material Announcement:**  \n- Major customer contract terminated (>30% of FY23 revenue).  \n- Board approval for AUD 200M asset divestment (H1 2025 completion).  \n\n**No Material Information Identified** (if applicable).  \n\nReady to analyze your document.",
+  "summary": "Understood. Please **upload the ASX announcement PDF** you'd like analyzed, and I will:  \n\n- Quickly determine the announcement type.  \n- Extract **only material trading/capital markets information** based on the rules above.  \n- Provide a **concise bullet-point summary**, omitting all fluff.  \n\nExample Outputs:  \n\n**For a Trading Halt Request**  \n- *Reason:* Pending capital raising announcement.  \n\n**For a Capital Raising (Placement + SPP)**  \n- *Structure:* $50M placement + $10M SPP at $0.30/share (10% discount to TERP).  \n- *Dates:* Ex-date 15 May, SPP closes 5 June.  \n\n**For Appendix 4C (Quarterly Cash Flow)**  \n- *Cash burn:* $2.1M (vs. $1.8M prior quarter).  \n- *Closing cash:* $12.4M (no debt).  \n\n**For Other Announcements**  \n- Major asset sale: $150M, funding debt repayment.  \n- CEO resignation (effective immediately).  \n\n*Note:* I\u2019ll strictly adhere to your rules\u2014no commentary, only actionable data. If unclear or immaterial: \"No material information identified.\"  \n\n**Go ahead and share the PDF.**",
   "usage": {
     "prompt_tokens": 220,
-    "completion_tokens": 248,
-    "total_tokens": 468,
+    "completion_tokens": 270,
+    "total_tokens": 490,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-15T04:53:16.762430"
+  "processed_at": "2025-07-15T05:18:24.145174"
 }
