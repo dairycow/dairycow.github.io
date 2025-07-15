@@ -1,0 +1,19 @@
+{
+  "ticker": "INS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969475",
+  "id": "02969475",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250715",
+  "time": "1443",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltf403d17wk2.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant excerpts), and I'll extract only material capital markets/trading information, formatted as concise bullet points per your strict criteria.  \n\nExample outputs based on common announcement types:  \n\n**Trading Halt Request:**  \n- *Reason:* Pending material acquisition announcement.  \n\n**Capital Raising (Placement + SPP):**  \n- *Structure:* AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n- *Key Dates:* Ex-date 15/04, Record 18/04, SPP close 30/04.  \n\n**Quarterly (4C):**  \n- *Cash:* AUD 12.5M (prior qtr: AUD 15.2M).  \n- *Highlights:* Production +8% QoQ, costs reduced to AUD 950/oz.  \n\n**Other Material Announcement:**  \n- Major customer contract terminated (>30% of FY23 revenue).  \n- Board approval for AUD 200M asset divestment (H1 2025 completion).  \n\n**No Material Information Identified** (if applicable).  \n\nReady to analyze your document.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 248,
+    "total_tokens": 468,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-15T04:53:16.762430"
+}
