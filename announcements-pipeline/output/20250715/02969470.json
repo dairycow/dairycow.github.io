@@ -1,0 +1,19 @@
+{
+  "ticker": "ZMM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969470",
+  "id": "02969470",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250715",
+  "time": "1415",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltdlt3r46v6l.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or its key details (title, document type, and main content points), and I will extract **only** the material information relevant for trading/capital markets decisions in concise bullet points, adhering to your strict formatting rules.  \n\nExamples:  \n\n**If a Trading Halt Request:**  \n- *Reason*: Pending material capital raising announcement.  \n\n**If a Capital Raising:**  \n- *Structure*: AUD 50M placement + AUD 10M SPP.  \n- *Key dates*: Ex-date 15/05, record 17/05, close 30/05.  \n\n**If Quarterly (4C):**  \n- *Cash balance*: AUD 12.3M (QoQ -15%).  \n- *Highlights*: Production 10,000oz Au (vs 8,000oz prior), costs AUD 1,200/oz.  \n\n**Other Announcements:**  \n- *Material impact*: Major offtake agreement signed (3-year, 50ktpa).  \n- *Liquidity change*: USD 100M debt facility secured.  \n\nAwaiting your document/details.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 245,
+    "total_tokens": 470,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-15T04:54:06.432527"
+}
