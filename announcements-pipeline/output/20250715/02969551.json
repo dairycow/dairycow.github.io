@@ -7,13 +7,13 @@
   "date": "20250715",
   "time": "1730",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltm91cwz4lw6.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will generate a strictly concise, material-only summary based on its type, formatted as per your guidelines (e.g., Trading Halt, Capital Raising, Quarterly Report, or other critical updates).  \n\nExample outputs:  \n- **Trading Halt**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"A$50M Placement + SPP; Ex-date: 15 Sep, Close: 30 Sep.\"  \n- **4C Quarterly**: \"Cash A$12.5M; Quarterly burn A$2.1M.\"  \n\nIf the document contains no material info, I will note: \"No material information identified.\"  \n\nProceed with the announcement text/details.",
+  "summary": "Understood. Please upload the ASX announcement PDF or provide the key details (e.g., announcement type, headline, or excerpts), and I will generate a summary strictly adhering to your guidelines.  \n\n**Example output formats for common scenarios:**  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - *Type*: Placement + SPP  \n   - *Amount*: AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n   - *Key Dates*: Ex-date 15 Oct, Record 18 Oct, Close 30 Oct.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash Balance*: AUD 12.5M (QoQ -10%).  \n   - *Highlights*: Revenue AUD 3M (+25% QoQ), production 15,000oz Au.  \n\n4. **Other Announcement**:  \n   - *Material Points*: Major asset sale (AUD 100M); debt reduced to AUD 20M.  \n\nIf no material information is present, I will state:  \n   - *No material information identified*.  \n\nGo ahead with the document/details.",
   "usage": {
     "prompt_tokens": 250,
-    "completion_tokens": 158,
-    "total_tokens": 408,
+    "completion_tokens": 270,
+    "total_tokens": 520,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-15T08:00:13.525812"
+  "processed_at": "2025-07-15T08:32:21.287301"
 }
