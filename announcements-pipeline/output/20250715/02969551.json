@@ -7,13 +7,13 @@
   "date": "20250715",
   "time": "1730",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltm91cwz4lw6.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its text, and I will extract only the material information relevant for trading or capital markets decisions, formatted as concise bullet points per your specifications.  \n\nExample responses based on hypothetical announcements:  \n\n**Trading Halt Request:**  \n- Trading halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Structure: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap)  \n- Key dates: Ex-date 15/03, Record date 18/03, SPP close 05/04.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.7M (prior quarter: AUD 15.2M).  \n- Key highlight: Quarterly revenue up 22% QoQ to AUD 4.3M.  \n\n**Other Announcement (M&A):**  \n- Acquisition of [Target] for AUD 25M (50% cash, 50% scrip).  \n- Expected EPS accretion: +8% in FY24.  \n\n**No material information identified.**  \n\nProvide the announcement, and I\u2019ll tailor the summary accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will generate a strictly concise, material-only summary based on its type, formatted as per your guidelines (e.g., Trading Halt, Capital Raising, Quarterly Report, or other critical updates).  \n\nExample outputs:  \n- **Trading Halt**: \"Pending release of capital raising details.\"  \n- **Capital Raising**: \"A$50M Placement + SPP; Ex-date: 15 Sep, Close: 30 Sep.\"  \n- **4C Quarterly**: \"Cash A$12.5M; Quarterly burn A$2.1M.\"  \n\nIf the document contains no material info, I will note: \"No material information identified.\"  \n\nProceed with the announcement text/details.",
   "usage": {
     "prompt_tokens": 250,
-    "completion_tokens": 260,
-    "total_tokens": 510,
+    "completion_tokens": 158,
+    "total_tokens": 408,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-15T07:48:04.918392"
+  "processed_at": "2025-07-15T08:00:13.525812"
 }
