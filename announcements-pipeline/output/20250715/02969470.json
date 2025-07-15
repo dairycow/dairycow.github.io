@@ -7,13 +7,13 @@
   "date": "20250715",
   "time": "1415",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltdlt3r46v6l.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, or excerpts), and I will extract and format the material information strictly per your guidelines.  \n\n**Example Outputs:**  \n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of capital raising details.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - *Dates*: Ex-date 15/05, Record 18/05, SPP close 05/06.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: AUD 12.3M (Q-end).  \n   - *Highlights*: Revenue AUD 4.1M (+22% QoQ), 3 new contracts signed.  \n\n4. **Other Announcement**:  \n   - *Key points*: Major asset sale (AUD 75M), CEO resignation effective immediately.  \n\nIf the document lacks material data, I will note: *No material information identified*.  \n\nProvide the announcement, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or paste the relevant text, and I will extract the material information in the requested concise bullet-point format, adhering strictly to the guidelines.  \n\nI will categorize and summarize based on the announcement type, focusing only on trading, capital markets, or valuation-impacting details. If the document lacks material information, I will promptly state: **\"No material information identified.\"**  \n\nSubmit the announcement, and I\u2019ll parse it immediately.  \n\n*Example Outputs for Clarity:*  \n\n**Trading Halt Request:**  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Placement to raise AUD 50M at AUD 0.30/share (10% discount).  \n- SPP to raise up to AUD 10M, closes [date].  \n\n**Quarterly Report (4C):**  \n- Cash balance AUD 2.1M (QoQ -15%).  \n- Revenue AUD 5M (\u219130% YoY), shipments 12,000t (+8%).  \n\n**Other Announcement:**  \n- Major contract win: AUD 100M over 3 years.  \n- Debt facility extended to AUD 75M (from AUD 50M).  \n\nReady for your document.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 266,
-    "total_tokens": 491,
+    "completion_tokens": 265,
+    "total_tokens": 490,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-15T05:19:22.185085"
+  "processed_at": "2025-07-15T05:46:20.722445"
 }
