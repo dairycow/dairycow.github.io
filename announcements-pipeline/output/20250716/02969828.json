@@ -7,13 +7,13 @@
   "date": "20250716",
   "time": "1400",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvgy7j4f6q7j.pdf",
-  "summary": "Understood. Provide the ASX announcement PDF, and I will extract only the material information relevant for trading or capital markets decisions in a concise, bullet-point format\u2014strictly tailored to the announcement type.  \n\nIf the document type is unclear or lacks material details, I will state:  \n**\"No material information identified.\"**  \n\nOtherwise, expect:  \n- **Trading Halt Requests:** *Reason only (one line).*  \n- **Capital Raising Announcements:** *Structure (Placement, SPP, Entitlement Offer), total AUD raised, key dates (ex-date, record date, close date).*  \n- **Quarterly Reports (4C):** *Key operational/financial highlights + closing cash balance (AUD).*  \n- **Other Announcements:** *2\u20133 critical points affecting valuation, liquidity, or capital structure.*  \n\nBoilerplate, director names, and non-material details will be omitted.  \n\n**Ready for upload.**",
+  "summary": "Understood. Please provide:  \n1. **The ASX announcement PDF** (or a clear summary of its content).  \n2. **The announcement type** (e.g., Trading Halt, Capital Raising, Quarterly Report).  \n\nIf you\u2019re unsure of the type, I\u2019ll infer it from the content and extract material details per the rules above.  \n\n*Example Output* (if you shared a capital raising announcement):  \n- **Type**: Placement + SPP  \n- **Total raised**: AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap)  \n- **Key dates**: Ex-date: 15 Sep, Record: 16 Sep, SPP Close: 30 Sep  \n\nGo ahead and share the document details.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 200,
-    "total_tokens": 425,
+    "completion_tokens": 161,
+    "total_tokens": 386,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-16T04:52:12.772491"
+  "processed_at": "2025-07-16T05:19:03.259901"
 }
