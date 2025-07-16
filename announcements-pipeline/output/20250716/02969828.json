@@ -7,13 +7,13 @@
   "date": "20250716",
   "time": "1400",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvgy7j4f6q7j.pdf",
-  "summary": "Understood. For any ASX announcement PDF you provide, I will extract *only* material information relevant to trading or capital markets decisions, formatted as concise bullet points.  \n\n**Output will adhere strictly to:**  \n- **Trading Halt Requests:** Only the reason (one line).  \n- **Capital Raisings:** Structure, total AUD raised, key dates (ex-date, record date, close date).  \n- **Quarterly Reports (4C):** Operational/financial highlights and closing cash balance (AUD).  \n- **Other Announcements:** 2-3 critical points impacting valuation, liquidity, or capital structure.  \n- **Non-material/boilerplate:** Omitted entirely.  \n\n**If unclear/insignificant:** \"No material information identified.\"  \n\n**Example Outputs:**  \n1. *Trading Halt:* \"Pending release of material acquisition details.\"  \n2. *Capital Raising:* \"$50M Placement. Ex-date: 15 Aug, Bookbuild: 18 Aug.\"  \n3. *Quarterly (4C):* \"Cash $12.1M, Q3 revenue up 22% QoQ to $8.4M.\"  \n4. *Other:* \"Major customer contract loss (30% of FY23 revenue). Board renewal with 2 resignations.\"  \n\nProceed with your PDF\u2014I will analyze and summarize accordingly.",
+  "summary": "Understood. Provide the ASX announcement PDF, and I will extract only the material information relevant for trading or capital markets decisions in a concise, bullet-point format\u2014strictly tailored to the announcement type.  \n\nIf the document type is unclear or lacks material details, I will state:  \n**\"No material information identified.\"**  \n\nOtherwise, expect:  \n- **Trading Halt Requests:** *Reason only (one line).*  \n- **Capital Raising Announcements:** *Structure (Placement, SPP, Entitlement Offer), total AUD raised, key dates (ex-date, record date, close date).*  \n- **Quarterly Reports (4C):** *Key operational/financial highlights + closing cash balance (AUD).*  \n- **Other Announcements:** *2\u20133 critical points affecting valuation, liquidity, or capital structure.*  \n\nBoilerplate, director names, and non-material details will be omitted.  \n\n**Ready for upload.**",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 285,
-    "total_tokens": 510,
+    "completion_tokens": 200,
+    "total_tokens": 425,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-16T04:09:53.920727"
+  "processed_at": "2025-07-16T04:52:12.772491"
 }
