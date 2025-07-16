@@ -7,13 +7,13 @@
   "date": "20250716",
   "time": "1540",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvl22gsbrthw.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I\u2019ll extract the material information in the requested format.  \n\n**Example Outputs Based on Common Scenarios**:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of capital raising details.  \n\n2. **Capital Raising (Placement + SPP)**:  \n   - *Structure*: AUD 50M placement + AUD 10M SPP.  \n   - *Key dates*: Ex-date 15/07/2025; SPP closes 30/07/2025.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash balance*: AUD 12.3M (QoQ -5%).  \n   - *Key highlight*: Production up 20% vs prior quarter.  \n\n4. **Merger Announcement**:  \n   - *Material point*: All-scrip acquisition of [Target] at 0.5x share swap.  \n   - *Condition*: Subject to shareholder approval (meeting 25/08/2025).  \n\n5. **No Material Information Identified**:  \n   - (If the document is routine governance/administrative).  \n\nProvide the announcement or key details, and I\u2019ll distill it accordingly.",
+  "summary": "Understood. Please provide:  \n\n1. **The ASX announcement PDF** (or text extract) for review.  \n2. **The announcement type** (if known, e.g., \"Trading Halt,\" \"Capital Raising\").  \n\nWithout the document or type, I cannot generate a summary.  \n\n**Example Outputs Based on Common Scenarios**:  \n\n- **Trading Halt**:  \n  - *Reason*: Pending release of material transaction details.  \n\n- **Capital Raising (Placement + SPP)**:  \n  - *Structure*: AUD 50M Placement + AUD 10M SPP.  \n  - *Key Dates*: Ex-date 15/11, Record 18/11, SPP closes 30/11.  \n\n- **Quarterly (4C)**:  \n  - *Cash Balance*: AUD 2.1M (prior quarter: AUD 3.4M).  \n  - *Highlight*: Delayed customer payments (~AUD 1.2M overdue).  \n\nSubmit the document, and I\u2019ll extract material details per your guidelines.  \n\nFor now: **No material information identified** (no input provided).",
   "usage": {
     "prompt_tokens": 244,
-    "completion_tokens": 278,
-    "total_tokens": 522,
+    "completion_tokens": 246,
+    "total_tokens": 490,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-16T05:49:14.509850"
+  "processed_at": "2025-07-16T06:00:25.602278"
 }
