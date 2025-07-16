@@ -1,0 +1,19 @@
+{
+  "ticker": "USL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970129",
+  "id": "02970129",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "0948",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwcwwzy4kk1k.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will analyze it per your requested format\u2014extracting only material trading or capital markets information in concise bullet points, tailored to the announcement type.  \n\nIf you share the document, I will immediately:  \n1. **Classify** the announcement type (e.g., capital raising, trading halt, quarterly).  \n2. **Extract** only material details (e.g., raise size, key dates, cash balance, regulatory impacts).  \n3. **Format** strictly per your rules\u2014no fluff, no commentary.  \n\n*Example Outputs:*  \n- *Trading Halt:* \"Pending release of material acquisition details.\"  \n- *Capital Raising:* \"A$50M placement @ A$0.20/share (10% discount). Ex-date: 15 Oct; SPP closes 30 Nov.\"  \n- *4C Report:* \"Cash A$12.5M; quarterly burn A$1.2M; milestone X achieved (A$5M receipt expected Q4).\"  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 228,
+    "total_tokens": 453,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-16T23:53:21.425240"
+}
