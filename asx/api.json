@@ -1,5 +1,81 @@
 [
   {
+    "ticker": "SEC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969933",
+    "id": "02969933",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250716",
+    "time": "1814",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvrlz8q6lj51.pdf",
+    "summary": "<ul>\n<li><strong>Daily NTA Estimate (Pre-tax):</strong> $2.491 per share as at 15 July 2025 (unaudited).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 519,
+      "completion_tokens": 38,
+      "total_tokens": 557,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-16T08:29:22.808864"
+  },
+  {
+    "ticker": "WMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969932",
+    "id": "02969932",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250716",
+    "time": "1803",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvrgrn8zvbk5.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li>\n<p>1,000,000 WMGAK options expired unexercised on 15/07/2025 (exercise price $0.30).  </p>\n</li>\n<li>\n<p><strong>Updated Capital Structure</strong>:  </p>\n</li>\n<li>Ordinary shares (WMG): 96,788,344.  </li>\n<li>Remaining unquoted options (varying expiry dates/strike prices, see Part 3.2 for details).  </li>\n</ul>\n<p>No material impact on liquidity or valuation (routine expiry of out-of-the-money options).</p>",
+    "usage": {
+      "prompt_tokens": 1338,
+      "completion_tokens": 110,
+      "total_tokens": 1448,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-16T08:28:30.532817"
+  },
+  {
+    "ticker": "WMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969931",
+    "id": "02969931",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250716",
+    "time": "1803",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvrdl58hgvpw.pdf",
+    "summary": "<ul>\n<li><strong>Type</strong>: Option expiry notification (Appendix 3H)  </li>\n<li><strong>Security ceased</strong>: WMGAE options (16,000,000) expiring 15-JUL-2025 at $0.30, unexercised.  </li>\n<li><strong>Impact</strong>: No consideration paid; ordinary shares (WMG) remain unchanged at 96,788,344. Other unquoted options outstanding (see Part 3.2 for details).  </li>\n<li><strong>No material liquidity/capital structure impact</strong> (routine expiry of out-of-the-money options).  </li>\n</ul>\n<p><em>Note: Summary excludes boilerplate and non-material details.</em></p>",
+    "usage": {
+      "prompt_tokens": 1338,
+      "completion_tokens": 125,
+      "total_tokens": 1463,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-16T08:30:16.877195"
+  },
+  {
+    "ticker": "IHH",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969930",
+    "id": "02969930",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250716",
+    "time": "1758",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvr9fzq16kdk.pdf",
+    "summary": "<ul>\n<li><strong>Index Methodology Change</strong>: The Markit iBoxx Global Developed Markets Liquid High Yield Capped Index (AUD Hedged) will remove the 10% cap on Rule 144A TRACE-Eligible bonds, effective <strong>1 August 2025</strong>.  </li>\n<li><strong>Impacted ETF</strong>: iShares Global High Yield Bond (AUD Hedged) ETF (<strong>ASX:IHHY</strong>) will reflect this change in its benchmark index.  </li>\n<li><strong>Expanded Universe</strong>: Post-change, the index will gradually include more TRACE-Eligible 144A bonds.  </li>\n<li><strong>PDS Update</strong>: A revised Product Disclosure Statement will be issued on the effective date.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified for other listed ETFs (IHCB, IHEB, AESG, IUSG, ULTB).</strong></p>",
+    "usage": {
+      "prompt_tokens": 1718,
+      "completion_tokens": 172,
+      "total_tokens": 1890,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-16T08:27:23.366559"
+  },
+  {
     "ticker": "SHP",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969927",
     "id": "02969927",
@@ -8,15 +84,15 @@
     "date": "20250716",
     "time": "1751",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvr1ybczs0b8.pdf",
-    "summary": "<h3><strong>Material Information Extracted from South Harz Potash Ltd (ASX: SHP) General Meeting Notice (15 August 2025):</strong></h3>\n<h4><strong>Capital Raisings &amp; Shareholder Approvals</strong></h4>\n<ol>\n<li><strong>Capital Raising Structure</strong>:  </li>\n<li><strong>Placement (2 Tranches)</strong>:  <ul>\n<li><strong>Tranche 1</strong>: 180.3m shares issued (75.6m under LR 7.1 + 104.8m under LR 7.1A) at <strong>$0.003/share</strong>, raising <strong>$541k</strong>.  </li>\n<li><strong>Tranche 2</strong>: Up to 332.5m shares + 166.3m options (1:2 ratio) subject to approval (Resolutions 3\u20134).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Rights Issue</strong>: 1-for-3 non-renounceable offer at $0.003/share (+ free options), aiming to raise <strong>$1.28m</strong>.  </p>\n</li>\n<li>\n<p><strong>Key Dates</strong>:  </p>\n</li>\n<li><strong>General Meeting</strong>: 15 August 2025 (record date: 13 August 2025).  </li>\n<li>\n<p><strong>Consolidation (Resolution 8)</strong>: 15:1 share consolidation effective post-meeting (fractions rounded up).  </p>\n</li>\n<li>\n<p><strong>Director Participation (Resolution 6)</strong>:  </p>\n</li>\n<li><strong>Leonard Jubber</strong>: 23m shares + 11.5m options ($69k).  </li>\n<li><strong>Rory Luff</strong>: 71m shares + 35.5m options ($213k).  </li>\n<li>\n<p><strong>Reinout Koopmans</strong>: 4m shares + 2m options ($12k).  </p>\n</li>\n<li>\n<p><strong>Other Approvals</strong>:  </p>\n</li>\n<li><strong>Ratification of Prior Issues</strong>: 5m options to Director Richard Pearce (Resolution 2).  </li>\n<li>\n<p><strong>Financial Advisor Options</strong>: 15m options to Morgans Corporate Ltd (Resolution 7).  </p>\n</li>\n<li>\n<p><strong>Use of Funds</strong>:  </p>\n</li>\n<li>\n<p>Dual-asset strategy (acquisitions), South Harz Project development, working capital, and placement costs.  </p>\n</li>\n<li>\n<p><strong>Trading Impact</strong>:  </p>\n</li>\n<li>Pre-consolidation shares: 1.28bn; post-consolidation: ~142.8m (15:1 ratio).  </li>\n</ol>\n<h4><strong>Voting Exclusions</strong>:</h4>\n<ul>\n<li>Related parties excluded from voting on Resolutions 1\u20137 per ASX rules.  </li>\n</ul>\n<p><strong>Summary</strong>: Shareholders to vote on capital raises, director issuances, and consolidation. Key focus on dilution (10.28% from director participation) and liquidity post-consolidation.  </p>\n<hr />\n<p><strong>Brevity Note</strong>: Omitted routine procedural details; focused on material trading/capital impacts.</p>",
+    "summary": "<h3><strong>Material Information Summary \u2013 South Harz Potash Ltd (ASX: SHP) General Meeting Announcement</strong></h3>\n<h4><strong>Capital Raising &amp; Security Issuances</strong>:</h4>\n<ol>\n<li><strong>Placement Structure</strong>:  </li>\n<li><strong>Tranche 1</strong>: Ratification of 180.3M shares issued (75.6M under LR 7.1, 104.8M under LR 7.1A) at <strong>$0.003/share</strong>, raising <strong>A$541K</strong> (Resolutions 1a, 1b).  </li>\n<li><strong>Tranche 2</strong>: Approval sought for:  <ul>\n<li><strong>125.7M shares + 62.8M options</strong> (LR 7.1, raising <strong>A$377K</strong>) (Resolution 3).  </li>\n<li><strong>206.8M shares + 103.4M options</strong> (issued as consideration for services) (Resolution 4).  </li>\n</ul>\n</li>\n<li><strong>Director Participation</strong>: 98M shares + 49M options to directors (Resolution 6a\u2013c).  </li>\n<li>\n<p><strong>Attaching Options</strong>: 1 free option per 2 placement shares (exercisable at <strong>$0.006</strong>, 2-year expiry) (Resolutions 5, 7).  </p>\n</li>\n<li>\n<p><strong>Rights Issue</strong>:  </p>\n</li>\n<li><strong>1-for-3 non-renounceable entitlement offer</strong> at <strong>$0.003/share</strong>, aiming to raise <strong>A$1.28M</strong>. Includes free options (1 per 2 shares).  </li>\n</ol>\n<h4><strong>Capital Consolidation</strong>:</h4>\n<ul>\n<li><strong>15:1 consolidation</strong> of shares, options, and performance rights (Resolution 8). Fractional holdings rounded up (\u22650.5).  </li>\n</ul>\n<h4><strong>Key Dates</strong>:</h4>\n<ul>\n<li><strong>General Meeting</strong>: <strong>15 August 2025</strong> (3:00 PM WST).  </li>\n<li><strong>Proxy Deadline</strong>: <strong>13 August 2025</strong> (3:00 PM AWST).  </li>\n<li><strong>Consolidation Effective</strong>: <strong>15 August 2025</strong> (if approved).  </li>\n</ul>\n<h4><strong>Use of Funds</strong>:</h4>\n<ul>\n<li>Dual-asset strategy (acquisition + project development), working capital, and placement costs.  </li>\n</ul>\n<h4><strong>Voting Exclusions</strong>:</h4>\n<ul>\n<li>Resolutions 1\u20137 exclude votes from participants/related parties (e.g., placement investors, directors, advisors).  </li>\n</ul>\n<h4><strong>Material Dilution</strong>:</h4>\n<ul>\n<li>Post-consolidation shares: <strong>142.8M</strong> (from 2.14B pre-consolidation).  </li>\n<li>Director participation dilutes existing shareholders by <strong>10.28%</strong> (aggregate).  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>Note: Excludes director remuneration, legal boilerplate, and routine operational details.</em></p>",
     "usage": {
       "prompt_tokens": 23002,
-      "completion_tokens": 562,
-      "total_tokens": 23564,
+      "completion_tokens": 561,
+      "total_tokens": 23563,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:59:33.832898"
+    "processed_at": "2025-07-16T08:29:42.979634"
   },
   {
     "ticker": "NRX",
@@ -27,15 +103,15 @@
     "date": "20250716",
     "time": "1735",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqwhx28jjvb.pdf",
-    "summary": "<ul>\n<li><strong>Director's Securities Acquisition</strong>:  </li>\n<li>Victor Rajasooriar (indirect interest via spouse/trust) acquired:  <ul>\n<li><strong>7,142,857 fully paid ordinary shares</strong> for <strong>AUD $100,000</strong>.  </li>\n<li><strong>20,000,000 unquoted options</strong> (exercisable at <strong>AUD $0.025</strong> by <strong>16 July 2030</strong>).  </li>\n<li><strong>40,000,000 performance rights</strong> (no consideration).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Nature of change</strong>: Participation in private placement and incentive securities issuance (per meeting notice dated <strong>11 June 2025</strong>).  </p>\n</li>\n<li>\n<p><strong>Closed period</strong>: No trading during closed period without clearance.  </p>\n</li>\n</ul>\n<p><em>Omitted: Non-material details (legal boilerplate, trustee names, etc.).</em></p>",
+    "summary": "<h3>Summary (Appendix 3Y - Change of Director\u2019s Interest Notice):</h3>\n<ul>\n<li><strong>Director</strong>: Victor Rajasooriar (indirect interest via spouse and trust).  </li>\n<li><strong>Securities Acquired</strong>:  </li>\n<li><strong>7,142,857 fully paid ordinary shares</strong> (consideration: $100,000).  </li>\n<li><strong>20,000,000 unquoted options</strong> (exercise price: $0.025, expiry: 16 July 2030).  </li>\n<li><strong>40,000,000 performance rights</strong> (no consideration).  </li>\n<li><strong>Nature of Change</strong>: Participation in private placement and incentive securities issuance (per notice dated 11 June 2025).  </li>\n<li><strong>No trading during closed period</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1196,
-      "completion_tokens": 162,
-      "total_tokens": 1358,
+      "completion_tokens": 157,
+      "total_tokens": 1353,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:22.198910"
+    "processed_at": "2025-07-16T08:30:07.323844"
   },
   {
     "ticker": "NRX",
@@ -46,15 +122,15 @@
     "date": "20250716",
     "time": "1731",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqslr4m5ghj.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Notice Under Section 708A(5)  </li>\n<li><strong>Material Information</strong>:  </li>\n<li>Noronex Limited issued <strong>7,142,857 fully paid ordinary shares</strong> without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li>Compliance confirmed with Chapter 2M and sections 674/674A of the Act.  </li>\n<li>No undisclosed material information affecting investor assessment as of the notice date.  </li>\n</ul>\n<p><em>No further trading or capital markets actions required based on this notice.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Notice Under Section 708A(5) (On-Sale Exemption for Previously Issued Shares)  </li>\n<li><strong>Key Point</strong>: Noronex Limited issued <strong>7,142,857 shares</strong> without disclosure under Part 6D.2 of the Corporations Act. These shares are now exempt from on-sale restrictions under Section 708A(5).  </li>\n<li><strong>Material Implication</strong>: No new capital raised or pricing/timing details disclosed. Pure compliance notice confirming prior issuance meets regulatory exemptions.  </li>\n</ul>\n<p><strong>Final Summary</strong>: No material trading or capital markets impact identified beyond formalizing regulatory clearance for existing shares.</p>",
     "usage": {
       "prompt_tokens": 688,
-      "completion_tokens": 109,
-      "total_tokens": 797,
+      "completion_tokens": 130,
+      "total_tokens": 818,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:57:03.182601"
+    "processed_at": "2025-07-16T08:28:23.373345"
   },
   {
     "ticker": "NRX",
@@ -65,15 +141,15 @@
     "date": "20250716",
     "time": "1728",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqpz762ttg0.pdf",
-    "summary": "<ul>\n<li><strong>Issue of Performance Rights</strong>: 40,000,000 NRXAN performance rights issued (non-cash, director incentives).  </li>\n<li><strong>Issue of Unquoted Options</strong>: 20,000,000 new unquoted options (exercise price: $0.025, expiry: 16 July 2030).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Ordinary shares (NRX): 558,385,213  </li>\n<li>Quoted options (NRXO): 72,930,180 (expiring 07-Aug-2026)  </li>\n<li>Unquoted performance rights (NRXAN): 49,000,000  </li>\n<li>Other unquoted options: 42,230,206 (incl. new issue).  </li>\n</ul>\n<p><em>No material trading or capital-raising implications identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance Details</strong>:  </li>\n<li><strong>Performance Rights</strong>: 40,000,000 NRXAN issued (non-cash, director incentive).  </li>\n<li>\n<p><strong>Unquoted Options</strong>: 20,000,000 new options issued (exercise price: $0.025, expiry: 16 July 2030).  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (NRX)</strong>: 558,385,213 (quoted).  </li>\n<li><strong>Performance Rights (NRXAN)</strong>: 49,000,000 (unquoted).  </li>\n<li><strong>Unquoted Options (New Class)</strong>: 20,000,000 (exercisable at $0.025).  </li>\n</ul>\n<p><strong>Note</strong>: No material cash consideration involved; aligns with prior Appendix 3B disclosure (12-May-2025).</p>",
     "usage": {
       "prompt_tokens": 1949,
-      "completion_tokens": 169,
-      "total_tokens": 2118,
+      "completion_tokens": 179,
+      "total_tokens": 2128,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:56:53.565345"
+    "processed_at": "2025-07-16T08:27:28.254158"
   },
   {
     "ticker": "ETM",
@@ -84,15 +160,15 @@
     "date": "20250716",
     "time": "1728",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqmwfwkt3mw.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 2,880,000 unquoted performance rights (ETMAC) expired without exercise/conversion on 15/07/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li><strong>Quoted Securities</strong>:  <ul>\n<li>ETM (Ordinary): 1,551,408,678  </li>\n<li>ETMO (Options): 68,750,022 (expiring 04-Aug-2026).  </li>\n</ul>\n</li>\n<li><strong>Unquoted Securities</strong>: ETMAC (Performance Rights): 85,800,004 remaining.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 2,880,000 unquoted performance rights (ETMAC) expired without exercise/conversion on 15/07/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li><strong>ETM (Ordinary Shares)</strong>: 1,551,408,678  </li>\n<li><strong>ETMO (Options Expiring 04-Aug-2026)</strong>: 68,750,022  </li>\n<li><strong>ETMAC (Performance Rights)</strong>: 85,800,004 (remaining).  </li>\n</ul>\n<p>No material impact on capital structure or liquidity identified.</p>",
     "usage": {
       "prompt_tokens": 1018,
-      "completion_tokens": 133,
-      "total_tokens": 1151,
+      "completion_tokens": 124,
+      "total_tokens": 1142,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:01:22.100111"
+    "processed_at": "2025-07-16T08:31:55.342194"
   },
   {
     "ticker": "XAM",
@@ -103,15 +179,15 @@
     "date": "20250716",
     "time": "1721",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqj9scjqxnx.pdf",
-    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change (Indirect):</strong> Ganbayar Lkhagvasuren increased indirect holdings via Bastion Mining Pte Ltd (25% stake) by acquiring <strong>18,064,698 XAM shares</strong> at <strong>$0.08/share</strong> (total ~$1.45M) through an off-market takeover offer (9\u201315 July 2025).  </li>\n<li><strong>Total Indirect Holdings Post-Change:</strong> <strong>2,018,551,656 XAM shares</strong>.  </li>\n<li><strong>Closed Period Compliance:</strong> No trading during a closed period.  </li>\n</ul>\n<p><strong>No material impact on capital structure or liquidity.</strong> Excludes non-trade-related disclosures.</p>",
+    "summary": "<h3>Summary of Appendix 3Y: Change of Director\u2019s Interest Notice</h3>\n<p><strong>Material Information:</strong><br />\n- <strong>Director:</strong> Ganbayar Lkhagvasuren<br />\n- <strong>Change in Indirect Interest:</strong> Acquired <strong>18,064,698 XAM shares</strong> (fully paid ordinary) via Bastion Mining Pte Ltd (his 25% holding gives him a relevant interest under Corps Act s608(3)(a)).<br />\n- <strong>Transaction Details:</strong><br />\n  - <strong>Price:</strong> $0.08 per share (total ~$1.45M).<br />\n  - <strong>Method:</strong> Off-market takeover offer acceptances (9\u201315 July 2025).<br />\n- <strong>Post-Transaction Holding:</strong> <strong>2,018,551,656 XAM shares</strong> (indirect).  </p>\n<p><strong>No material impact on liquidity/capital structure identified.</strong> Omit if director trades are routine.  </p>\n<p><em>(Note: Appendix 3Y filings are typically non-price-sensitive unless the scale suggests strategic intent or alignment with other material events.)</em></p>",
     "usage": {
       "prompt_tokens": 1209,
-      "completion_tokens": 136,
-      "total_tokens": 1345,
+      "completion_tokens": 208,
+      "total_tokens": 1417,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:59.625190"
+    "processed_at": "2025-07-16T08:31:30.865647"
   },
   {
     "ticker": "URF",
@@ -122,15 +198,15 @@
     "date": "20250716",
     "time": "1717",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvqfg7hrjd5n.pdf",
-    "summary": "<ul>\n<li><strong>NAV Update</strong>: Unaudited post-tax NAV as at 11 July 2025 was <strong>$0.456 per unit</strong>, based on a reference NAV of <strong>$0.556 per unit</strong> (30 June 2025) adjusted for AUD:USD FX rate of <strong>0.6578</strong>.  </li>\n<li><strong>Special Distribution</strong>: Declared <strong>$0.10 per stapled security</strong> (record date: 9 July 2025).  </li>\n<li><strong>Pending Valuation</strong>: Half-year property valuations (30 June 2025) are underway; final NAV may change. Report expected by <strong>late August 2025</strong>.  </li>\n<li><strong>FX Sensitivity</strong>: NAV is adjusted for currency fluctuations (AUD:USD).  </li>\n<li><strong>Without transaction costs</strong>: NAV does not account for future property disposal costs, which may reduce NAV.  </li>\n</ul>\n<p><em>Omitted: Boilerplate, disclaimers, and non-material operational details.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>US Masters Residential Property Group (URF) \u2013 NAV Update</strong>  </p>\n<ul>\n<li><strong>Weekly NAV (11 July 2025):</strong> $0.456 per unit (unaudited, post-tax).  </li>\n<li><strong>Key Adjustments:</strong>  </li>\n<li>Based on June 2025 monthly NAV of $0.556 (AUD:USD 0.6581), adjusted for FX rate <strong>0.6578</strong> (11 July).  </li>\n<li>Excludes intra-month accruals; subject to change pending final property valuations.  </li>\n<li><strong>Special Distribution:</strong> $0.10 per stapled security (record date: 9 July 2025).  </li>\n<li><strong>Upcoming Catalyst:</strong> Half-year financial report (June 2025) with independent property valuations expected <strong>late August 2025</strong>.  </li>\n<li><strong>Note:</strong> NAV excludes future property disposal costs.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 912,
-      "completion_tokens": 188,
-      "total_tokens": 1100,
+      "completion_tokens": 191,
+      "total_tokens": 1103,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:56:01.554796"
+    "processed_at": "2025-07-16T08:26:39.085473"
   },
   {
     "ticker": "KSM",
@@ -141,15 +217,15 @@
     "date": "20250716",
     "time": "1713",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvq8g9pz9yqv.pdf",
-    "summary": "<h3><strong>K2 Australian Small Cap Fund Monthly Update Summary</strong></h3>\n<h4><strong>Key Fund Data:</strong></h4>\n<ul>\n<li><strong>Fund Return (June 2025):</strong> +1.14% (net of fees)  </li>\n<li><strong>FYTD Return (2024/25):</strong> +7.27%  </li>\n<li><strong>Inception Return (pa):</strong> +4.82%  </li>\n<li><strong>Top Holdings:</strong>  </li>\n<li><strong>SGH Ltd (10.8%)</strong> \u2013 Strong long-term growth outlook, leveraging AI/robotics and land assets.  </li>\n<li><strong>Summerset Group (6.5%)</strong> \u2013 Preferred aging demographic play, valued at 10x forward earnings.  </li>\n<li><strong>Bendigo Bank (6.5%)</strong>, <strong>Lifestyle Communities (6.0%)</strong>, <strong>National Storage REIT (5.7%)</strong>.  </li>\n<li><strong>Sector Exposure:</strong>  </li>\n<li><strong>Financials/Real Estate (43.5%, +5.2% MoM)</strong> \u2013 Major contributor to performance.  </li>\n<li><strong>Industrials (15.5%, +1.5% MoM)</strong> \u2013 Led by SGH.  </li>\n<li><strong>Notable Performers:</strong>  </li>\n<li><strong>Boss Energy (BOE):</strong> +18% MoM.  </li>\n<li><strong>Judo Capital (JDO), Kina Securities (KSL):</strong> Solid contributions.  </li>\n</ul>\n<h4><strong>Market Commentary:</strong></h4>\n<ul>\n<li>Geopolitical tensions (Israel-Iran) had muted market impact; equities rose amid lower volatility.  </li>\n<li>Focus on upcoming US tariff expiration (9 July) and Q2 earnings (mid-single-digit growth expected).  </li>\n</ul>\n<h4><strong>Fund Characteristics:</strong></h4>\n<ul>\n<li><strong>Strategy:</strong> Absolute return, small-cap biased (AUD/NZ).  </li>\n<li><strong>Cash Position:</strong> -3.8% (net equity exposure: 103.8%).  </li>\n<li><strong>Management Fee:</strong> 1.31%.  </li>\n</ul>\n<p><strong>Actions:</strong> Monitor SGH\u2019s capital allocation strategy and Summerset\u2019s aging demographic tailwinds. No material capital structure changes noted.  </p>\n<hr />\n<p><strong>Note:</strong> Excluded non-material operational commentary and disclaimers. Focused on tradable insights.</p>",
+    "summary": "<p>Here's the concise extraction of material information from the ASX announcement:</p>\n<p><strong>Fund Performance &amp; Strategy Update:</strong>\n- <strong>Monthly Return:</strong> +1.14% (June 2025).<br />\n- <strong>Top Holdings:</strong><br />\n  - SGH Ltd (10.8%), Summerset Group (6.5%), Bendigo Bank (6.5%).<br />\n- <strong>Sector Exposure:</strong><br />\n  - Financials/Real Estate (43.5%, +5.2% MoM), Industrials (15.5%, +1.5% MoM).<br />\n- <strong>Notable Movers:</strong><br />\n  - Boss Energy (BOE): +18% MoM.<br />\n- <strong>Key Themes:</strong><br />\n  - Aging demographic focus (Summerset Group preferred over Gemlife Communities).<br />\n  - SGH highlighted for capital allocation strategy and land redevelopment potential.  </p>\n<p><strong>Fund Characteristics:</strong><br />\n- <strong>Style:</strong> Growth at a Reasonable Price (GARP).<br />\n- <strong>Management Fee:</strong> 1.31%; Performance Fee: 15.38% above high watermark.<br />\n- <strong>Cash Position:</strong> -3.8% (net equity exposure: 103.8%).  </p>\n<p><strong>No material capital markets actions (e.g., raising, halt) identified.</strong><br />\n<em>(Omitted: geopolitical commentary, historical performance tables, boilerplate disclaimers.)</em></p>",
     "usage": {
       "prompt_tokens": 8140,
-      "completion_tokens": 443,
-      "total_tokens": 8583,
+      "completion_tokens": 277,
+      "total_tokens": 8417,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:00.521374"
+    "processed_at": "2025-07-16T08:29:52.954869"
   },
   {
     "ticker": "KGD",
@@ -160,15 +236,15 @@
     "date": "20250716",
     "time": "1712",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvq689q1k4v7.pdf",
-    "summary": "<h3><strong>Material Information Summary \u2013 Kula Gold Limited (ASX: KGD) \u2013 Quarterly Report (30 June 2025)</strong></h3>\n<h4><strong>Key Operational Highlights:</strong></h4>\n<ul>\n<li><strong>Mt Palmer Gold Project (80% JV):</strong>  </li>\n<li>High-grade drilling results (selected intercepts):  <ul>\n<li>18m @ <strong>4.4g/t Au</strong> (incl. 2m @ <strong>31.3g/t Au</strong>)  </li>\n<li>20m @ <strong>7.5g/t Au</strong> (incl. 6m @ <strong>23.8g/t Au</strong>)  </li>\n<li>3m @ <strong>33.6g/t Au</strong> (shallow, open-pit potential noted)  </li>\n</ul>\n</li>\n<li>Expenditure milestone met to earn 80% interest.  </li>\n<li>\n<p>Resource definition for tailings nearing completion (Q3 2025).  </p>\n</li>\n<li>\n<p><strong>Kirup Project (70% JV):</strong>  </p>\n</li>\n<li>New high-grade rock chip assay: <strong>4.3g/t Au</strong>.  </li>\n<li>\n<p>Exploring JV/sale options for Mustang Prospect.  </p>\n</li>\n<li>\n<p><strong>Wozi Niobium Project (Malawi):</strong>  </p>\n</li>\n<li>Tenement granted; maiden drilling planned in Q4 2025.  </li>\n</ul>\n<h4><strong>Financial &amp; Liquidity:</strong></h4>\n<ul>\n<li><strong>Cash balance (30 June 2025):</strong> <strong>$206k</strong> (down from $595k last quarter).  </li>\n<li><strong>Quarterly cash burn:</strong> <strong>$540k</strong> (operating activities).  </li>\n<li><strong>Remaining funding:</strong> <strong>0.38 quarters</strong> (3.5 months) based on current run-rate.  </li>\n<li><strong>Financing available:</strong>  </li>\n<li>Unsecured loan facility: <strong>$500k</strong> ($349k drawn).  </li>\n<li>ATM equity facility: <strong>$1M</strong> (standby, expires 2029).  </li>\n</ul>\n<h4><strong>Corporate Actions:</strong></h4>\n<ul>\n<li>Actively seeking funding/joint ventures for projects (Mt Palmer, Kirup).  </li>\n</ul>\n<p><strong>Conclusion:</strong> Material drilling results at Mt Palmer, but liquidity constraints (limited runway) raise refinancing risks. Monitor JV/funding updates.  </p>\n<p><em>(Note: Non-material details like tenement lists, director fees, and technical disclosures omitted.)</em></p>",
+    "summary": "<h3><strong>Kula Gold Limited \u2013 Quarterly Report (June 2025) \u2013 Material Highlights</strong></h3>\n<h4><strong>Exploration Results</strong></h4>\n<ul>\n<li><strong>High-grade gold intercepts at Mt Palmer Gold Project (80% JV):</strong>  </li>\n<li><strong>1m splits:</strong>  <ul>\n<li>18m @ <strong>4.4g/t</strong> (incl. 2m @ <strong>31.3g/t</strong>)  </li>\n<li>7m @ <strong>7.7g/t</strong> (incl. 3m @ <strong>17.2g/t</strong>)  </li>\n</ul>\n</li>\n<li><strong>3m composites:</strong>  <ul>\n<li>9m @ <strong>13.6g/t</strong> (incl. 3m @ <strong>38.4g/t</strong>)  </li>\n<li>20m @ <strong>7.5g/t</strong> (incl. 6m @ <strong>23.8g/t</strong>)  </li>\n</ul>\n</li>\n<li>Shallow mineralization suggests potential <strong>low-cost open-pit extraction</strong>.  </li>\n<li><strong>Resource definition work on historic tailings</strong> nearing completion (early Q3 2025).  </li>\n</ul>\n<h4><strong>Corporate &amp; Financials</strong></h4>\n<ul>\n<li><strong>Cash balance (30 June 2025):</strong> <strong>$206k</strong> (down from $595k last quarter).  </li>\n<li><strong>Quarterly cash burn:</strong> <strong>$540k</strong> (operating activities).  </li>\n</ul>",
     "usage": {
       "prompt_tokens": 6784,
-      "completion_tokens": 451,
-      "total_tokens": 7235,
+      "completion_tokens": 265,
+      "total_tokens": 7049,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:57:22.642867"
+    "processed_at": "2025-07-16T08:28:42.560398"
   },
   {
     "ticker": "PMC",
@@ -179,15 +255,15 @@
     "date": "20250716",
     "time": "1710",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvq3v7n4ttpd.pdf",
-    "summary": "<ul>\n<li><strong>Restructure via Scheme of Arrangement</strong>: PMC shares to be exchanged for New Units in Platinum International Fund Complex ETF (ASX: PIXX).  </li>\n<li><strong>Special Dividend</strong>: To be paid if Scheme is approved, approximately equal to retained earnings (post restructure costs), partially franked (~60.75% in example).  </li>\n<li><strong>Timetable</strong>: Valuation Date expected 22 August 2025; Scheme implementation expected 25 August 2025.  </li>\n<li><strong>Dividend Reinvestment Plan</strong>: Suspended immediately; will not apply to Special Dividend if Scheme proceeds.  </li>\n<li><strong>Worked Example (30 June 2025)</strong>:  </li>\n<li>Special Dividend: <strong>$0.1450 per share</strong> (retained earnings: $0.1472/share, net of costs).  </li>\n<li>Scheme Consideration: <strong>262 New Units per 1,000 shares</strong> (based on NTA/share of $1.3360 and Fund NAV/unit of $5.0986).  </li>\n<li><strong>Final Announcement</strong>: Special Dividend amount to be confirmed by 10am on implementation date (25 August 2025).  </li>\n</ul>\n<p><em>(Note: Values are illustrative based on 30 June assumptions; final figures subject to Valuation Date adjustments.)</em></p>",
+    "summary": "<ul>\n<li><strong>Scheme of Arrangement &amp; Special Dividend</strong>:  </li>\n<li>PMC shares will be exchanged for units in Platinum International Fund Complex ETF (ASX: PIXX) if Scheme is approved.  </li>\n<li>\n<p><strong>Special Dividend</strong> (if Scheme proceeds):  </p>\n<ul>\n<li>Amount \u2248 retained earnings post restructure costs (estimated <strong>A$0.1450/share</strong> in example, but final amount TBA).  </li>\n<li><strong>Franked at ~60.75%</strong> (30% tax rate).  </li>\n<li><strong>Final amount announced by 10am on 25 Aug 2025</strong> (expected implementation date).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Timetable</strong>:  </p>\n</li>\n<li><strong>Scheme Meeting</strong>: ~11 Aug 2025 (work examples update).  </li>\n<li><strong>Valuation Date</strong>: 22 Aug 2025 (business day pre-implementation).  </li>\n<li>\n<p><strong>Implementation</strong>: Expected 25 Aug 2025.  </p>\n</li>\n<li>\n<p><strong>Dividend Reinvestment Plan (DRP)</strong>: Suspended immediately; no DRP for Special Dividend if Scheme proceeds.  </p>\n</li>\n<li>\n<p><strong>Key Metric (Example)</strong>:  </p>\n</li>\n<li><strong>Post-tax NTA/share</strong>: A$1.3360 (post-dividend &amp; costs).  </li>\n<li><strong>Conversion Ratio</strong>: 1,000 PMC shares \u2192 262 PIXX units (example only; NAV-driven).  </li>\n</ul>\n<p><em>Note: Examples are illustrative; final figures depend on Valuation Date data.</em></p>",
     "usage": {
       "prompt_tokens": 2190,
-      "completion_tokens": 256,
-      "total_tokens": 2446,
+      "completion_tokens": 289,
+      "total_tokens": 2479,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:59:06.788280"
+    "processed_at": "2025-07-16T08:29:21.322788"
   },
   {
     "ticker": "ILU",
@@ -198,15 +274,15 @@
     "date": "20250716",
     "time": "1709",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvq1g94zdq6q.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement (Form 604 - Change in Substantial Holding)</strong></h3>\n<ul>\n<li><strong>Substantial Holder</strong>: State Street Corporation and subsidiaries (including State Street Bank and Trust Company, State Street Global Advisors entities).  </li>\n<li><strong>Total Voting Power</strong>: <strong>8.08%</strong> (previously <strong>6.65%</strong>) in Iluka Resources Limited (ASX:ILU) ordinary shares.  </li>\n<li><strong>Key Changes</strong>:  </li>\n<li>Net increase in voting power due to securities lending/collateral transactions (detailed in Annexure A).  </li>\n<li>Majority of changes relate to stock borrow/lend activities and collateral management (no outright acquisition/disposal).  </li>\n<li><strong>Relevant Interests</strong>:  </li>\n<li>State Street Bank and Trust Company holds the largest stake (<strong>1.99M shares</strong>, ~5.7% voting power).  </li>\n<li>Other entities (SSGA Australia, Europe, etc.) hold smaller positions.  </li>\n<li><strong>Nature of Transactions</strong>:  </li>\n<li><strong>Securities lending agreements</strong> (no early recall rights; no fixed return dates).  </li>\n<li><strong>Voting rights restrictions</strong>: Only enforceable if borrower defaults.  </li>\n</ul>\n<p><strong>Material Impact</strong>: No direct market-moving transaction (e.g., equity raising or takeover). Monitoring advised for shifts in institutional ownership patterns.  </p>\n<p><strong>Verification</strong>: Confirmed via Annexures A\u2013C (securities lending/collateral terms).  </p>\n<p><em>Brevity note: Omitted granular changes (e.g., individual small transactions) per summary rules.</em></p>",
+    "summary": "<h3><strong>Summary of Form 604 \u2013 Change in Substantial Holding (ILUKA RESOURCES LIMITED)</strong></h3>\n<ul>\n<li><strong>Substantial Holder</strong>: State Street Corporation and subsidiaries  </li>\n<li><strong>Voting Power Change</strong>:  </li>\n<li><strong>Previous</strong>: 6.65% (28,572,560 votes)  </li>\n<li><strong>Current</strong>: 8.08% (34,699,678 votes)  </li>\n<li><strong>Key Changes</strong>:  </li>\n<li>Increase in voting power driven by securities lending/borrowing activities (collateral transfers, stock loans).  </li>\n<li>No immediate recall rights for lenders; standard securities lending terms apply.  </li>\n<li><strong>Material Impact</strong>:  </li>\n<li>Institutional stake increase may signal adjusted positioning by State Street entities.  </li>\n</ul>\n<p><em>Note: No capital structure changes or corporate actions announced.</em></p>",
     "usage": {
       "prompt_tokens": 12275,
-      "completion_tokens": 306,
-      "total_tokens": 12581,
+      "completion_tokens": 160,
+      "total_tokens": 12435,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:17.135901"
+    "processed_at": "2025-07-16T08:30:03.190263"
   },
   {
     "ticker": "LNR",
@@ -217,15 +293,15 @@
     "date": "20250716",
     "time": "1708",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvpzbfx3cmy6.pdf",
-    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- <strong>Structure:</strong> Pro-rata non-renounceable rights issue (3:4 entitlement ratio) with free attaching shares (1:3).<br />\n- <strong>Capital Raised:</strong> Up to $2,107,636 AUD (before costs).<br />\n- <strong>Issue Price:</strong> $0.001/share.<br />\n- <strong>Key Dates:</strong><br />\n  - Record Date: 9 July 2025.<br />\n  - General Meeting (Consolidation vote): 1 August 2025.<br />\n- <strong>Underwriting:</strong> Fully underwritten by Inyati Capital (6% fee); partially sub-underwritten by director Peter Pawlowitsch.<br />\n- <strong>Use of Funds:</strong> Exploration, working capital, offer expenses.<br />\n- <strong>Post-Offer Shares Outstanding:</strong> ~5.62 billion (pre-consolidation).<br />\n- <strong>Attaching Options:</strong> Up to 1.14 billion options (exercisable at $0.001125, 4-year term) subject to shareholder approval.<br />\n- <strong>Proposed Consolidation:</strong> 30:1 share consolidation pending shareholder approval (post-offer).  </p>\n<p><strong>Eligibility:</strong> Excludes shareholders outside Australia/NZ (non-renounceable; no compensation for dilution).</p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li><strong>Structure</strong>: Pro-rata non-renounceable rights offer (3:4 entitlement) with free attaching shares (1:3).  </li>\n<li><strong>Issue Price</strong>: AUD 0.001 per share.  </li>\n<li><strong>Total Raised</strong>: Up to AUD 2,107,636 (before costs).  </li>\n<li><strong>Key Dates</strong>: Record date \u2013 9 July 2025.  </li>\n<li><strong>Underwritten</strong>: Fully by Inyati Capital Pty Ltd (6% fee), partially sub-underwritten by director Peter Pawlowitsch.  </li>\n<li>\n<p><strong>Use of Funds</strong>: Exploration, working capital, offer expenses.  </p>\n</li>\n<li>\n<p><strong>Post-Offer Capital Structure</strong>:  </p>\n</li>\n<li>~2.81 billion new shares issued (pre-consolidation), total shares ~5.62 billion (pre-consolidation).  </li>\n<li>\n<p>Secondary offer of 1.14 billion options (AUD 0.001125 exercise price, 4-year expiry).  </p>\n</li>\n<li>\n<p><strong>General Meeting (1 Aug 2025)</strong>:  </p>\n</li>\n<li>\n<p>Shareholder approval sought for 30:1 share consolidation post-offer.  </p>\n</li>\n<li>\n<p><strong>Eligibility</strong>: Excludes shareholders outside Australia/NZ; no renounceable value for ineligible holders.  </p>\n</li>\n</ul>\n<p><em>Omitted: Legal boilerplate, director names, operational details without material impact.</em></p>",
     "usage": {
       "prompt_tokens": 1546,
-      "completion_tokens": 255,
-      "total_tokens": 1801,
+      "completion_tokens": 282,
+      "total_tokens": 1828,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:01:16.988243"
+    "processed_at": "2025-07-16T08:31:46.470759"
   },
   {
     "ticker": "NRX",
@@ -236,7 +312,7 @@
     "date": "20250716",
     "time": "1707",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvptzgkjmvnc.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 7,142,857 new ordinary fully paid shares (ASX: NRX) issued.  </li>\n<li><strong>Issue Price</strong>: AUD 0.014 per share.  </li>\n<li><strong>Issue Date</strong>: 16 July 2025.  </li>\n<li><strong>Total Issued Capital Post-Issuance</strong>:  </li>\n<li>Ordinary shares: 565,528,070 (quoted).  </li>\n<li>Options (expiring 07-Aug-2026): 72,930,180 (quoted).  </li>\n<li>Performance rights/unquoted options: 31,230,206.  </li>\n<li><strong>Context</strong>: Part of a placement previously announced on 12 May 2025 (Appendix 3B). No further tranches pending.</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Capital Structure Update</strong>:  </li>\n<li><strong>7,142,857 new ordinary shares (NRX)</strong> issued at <strong>AUD 0.014 per share</strong> (total ~AUD 100,000).  </li>\n<li>\n<p><strong>Issue date</strong>: 16 July 2025 (previously announced on 12 May 2025 via Appendix 3B as a placement).  </p>\n</li>\n<li>\n<p><strong>Post-Issue Capital</strong>:  </p>\n</li>\n<li><strong>Quoted</strong>: 565,528,070 NRX shares + 72,930,180 NRXO options.  </li>\n<li><strong>Unquoted</strong>: 9,000,000 performance rights (NRXAN) + 22,230,206 NRXAM options.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1358,
       "completion_tokens": 155,
@@ -244,7 +320,7 @@
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:56:40.339271"
+    "processed_at": "2025-07-16T08:27:15.084269"
   },
   {
     "ticker": "PAI",
@@ -255,15 +331,15 @@
     "date": "20250716",
     "time": "1707",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvprw4d0r5kz.pdf",
-    "summary": "<ul>\n<li><strong>Special Dividend Announcement</strong>:  </li>\n<li>Special Dividend to be paid if Scheme of Arrangement is implemented, equal to retained earnings (net of costs) at Valuation Date (~$0.1457/share in example).  </li>\n<li>Expected implementation date: <strong>25 August 2025</strong>; Valuation Date: <strong>22 August 2025</strong>.  </li>\n<li>\n<p>Dividend franked at <strong>63.72%</strong> (25% tax rate) in example, but final amount subject to change.  </p>\n</li>\n<li>\n<p><strong>Scheme of Arrangement</strong>:  </p>\n</li>\n<li>Shareholders to receive units in Platinum Asia Fund Complex ETF (PAXX) in exchange for PAI shares.  </li>\n<li>\n<p>Example exchange ratio: 1,000 PAI shares \u2192 195 PAXX units (based on 30 June 2025 NTA/NAV).  </p>\n</li>\n<li>\n<p><strong>Dividend Reinvestment Plan (DRP)</strong>: Suspended immediately; will not apply to Special Dividend.  </p>\n</li>\n<li>\n<p><strong>Key Dates</strong>:  </p>\n</li>\n<li>Further worked examples to be provided by <strong>11 August 2025</strong>.  </li>\n<li>Final dividend amount announced by <strong>10am on implementation date (25 August 2025)</strong>.  </li>\n</ul>\n<p><em>Note: Figures based on illustrative examples; final values depend on conditions at Valuation Date.</em></p>",
+    "summary": "<ul>\n<li><strong>Special Dividend Announcement</strong>:  </li>\n<li>Special Dividend to be paid if Scheme of Arrangement (restructuring) becomes effective.  </li>\n<li>Amount \u2248 retained earnings (after costs), estimated at <strong>$0.1457/share</strong> in example (not final).  </li>\n<li><strong>Franked at ~63.72%</strong> (25% tax rate).  </li>\n<li>\n<p>Final amount confirmed by <strong>25 August 2025</strong> (expected implementation date).  </p>\n</li>\n<li>\n<p><strong>Scheme of Arrangement</strong>:  </p>\n</li>\n<li>Shareholders to receive units in <strong>Platinum Asia Fund Complex ETF (ASX: PAXX)</strong> in exchange for shares.  </li>\n<li>Example exchange ratio: <strong>1,000 shares \u2192 195 New Units</strong> (based on 30 June NTA/NAV; illustrative only).  </li>\n<li>\n<p><strong>Valuation Date</strong>: Expected 22 August 2025 (business day pre-implementation).  </p>\n</li>\n<li>\n<p><strong>Dividend Reinvestment Plan (DRP)</strong>: Suspended immediately; will not apply to Special Dividend if Scheme proceeds.  </p>\n</li>\n<li>\n<p><strong>Key Dates</strong>:  </p>\n</li>\n<li><strong>Scheme Meeting</strong>: 12 August 2025 (updated examples to be provided on 11 August).  </li>\n<li>\n<p><strong>Implementation</strong>: Expected 25 August 2025.  </p>\n</li>\n<li>\n<p><strong>Non-material</strong>: Worked examples are illustrative; final figures depend on Valuation Date metrics.  </p>\n</li>\n</ul>\n<p><em>Note: No capital raising or trading halt requested.</em></p>",
     "usage": {
       "prompt_tokens": 2190,
-      "completion_tokens": 257,
-      "total_tokens": 2447,
+      "completion_tokens": 289,
+      "total_tokens": 2479,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:55.722641"
+    "processed_at": "2025-07-16T08:31:25.664827"
   },
   {
     "ticker": "AR1",
@@ -274,15 +350,15 @@
     "date": "20250716",
     "time": "1700",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvpl9d501kh2.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Michael Hansel indirectly held 881,842 Performance Rights via trusts (Hamick Pty Ltd and MHHG Holdings Pty Ltd).  </li>\n<li><strong>Disposal</strong>: All 881,842 Performance Rights lapsed due to unmet vesting conditions (no value received).  </li>\n<li><strong>Remaining Holdings</strong>:  </li>\n<li>400,000 shares (Hamick)  </li>\n<li>100,000 shares + 514,943 escrowed shares (MHHG; escrow until 30 June 2026).  </li>\n</ul>\n<p>No material trading or capital markets impact identified.</p>",
+    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Change of Director\u2019s Interest Notice  </li>\n<li><strong>Director</strong>: Michael Hansel  </li>\n<li><strong>Key Change</strong>: Lapse of 881,842 unvested Performance Rights (value: $Nil) due to unmet KPI conditions.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>400,000 shares (held indirectly via Hamick Pty Ltd)  </li>\n<li>100,000 shares + 514,943 escrowed shares (held indirectly via MHHG Holdings Pty Ltd).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified</em> (routine disclosure of lapsed incentives).</p>",
     "usage": {
       "prompt_tokens": 1175,
-      "completion_tokens": 120,
-      "total_tokens": 1295,
+      "completion_tokens": 125,
+      "total_tokens": 1300,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:01:26.331786"
+    "processed_at": "2025-07-16T08:32:02.895076"
   },
   {
     "ticker": "MC2",
@@ -293,15 +369,15 @@
     "date": "20250716",
     "time": "1700",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvpj5jcz17kl.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Warrants</strong>: 4,640,371 warrants (<strong>MC2AJ</strong>) expired on 11-Jul-2025 without exercise (strike: CAD 5.60).  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li><strong>Quoted Securities</strong>: 12,398,771 CDIs (<strong>MC2</strong>) remain outstanding.  </li>\n<li><strong>Unquoted Securities</strong>: Includes remaining options (e.g., <strong>MC2AG</strong>, <strong>MC2AH</strong>, <strong>MC2AK</strong>) and common shares (<strong>MC2AA</strong>: 94,086,994).  </li>\n</ul>\n<p><em>No material impact on liquidity or capital structure identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 4,640,371 MC2AJ warrants expired on <strong>11-Jul-2025</strong> (Exercise price: CAD 5.60).  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted CDIs (MC2): <strong>12,398,771</strong>  </li>\n<li>Unquoted warrants (MC2AK): <strong>3,362,500</strong> (expiring 07-Feb-2026, CAD 5.85)  </li>\n<li>Common shares (MC2AA): <strong>94,086,994</strong>.  </li>\n</ul>\n<p>No material impact on capital structure or liquidity identified.</p>",
     "usage": {
       "prompt_tokens": 1296,
-      "completion_tokens": 135,
-      "total_tokens": 1431,
+      "completion_tokens": 131,
+      "total_tokens": 1427,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:01:08.540123"
+    "processed_at": "2025-07-16T08:31:38.245573"
   },
   {
     "ticker": "ZEO",
@@ -312,15 +388,15 @@
     "date": "20250716",
     "time": "1659",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvpg2rbdfpvn.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Notice</strong>: H &amp; C Wellbeing Pty Ltd, WFC Nominees Australia Pty Ltd, and 392649 Pty Ltd collectively acquired a <strong>6.35%</strong> stake in Zeotech Limited (119.4M shares) as of 28/02/25.  </li>\n<li><strong>Recent Acquisitions</strong>:  </li>\n<li><strong>H &amp; C Wellbeing</strong>: Purchased <strong>5M shares</strong> on 26/06/25 for <strong>$300k</strong> (avg. <strong>$0.06/share</strong>).  </li>\n<li><strong>WFC Nominees</strong>: Bought <strong>2.9M shares</strong> on 24/06/25 for <strong>$208k</strong> (avg. <strong>$0.072/share</strong>).  </li>\n<li><strong>392649 Pty Ltd</strong>: Acquired <strong>1.95M shares</strong> on 30/06/25 for <strong>$128.6k</strong> (avg. <strong>$0.066/share</strong>).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<p><strong>Substantial Holder Notice Summary:</strong>  </p>\n<ul>\n<li><strong>New Substantial Holder:</strong> H &amp; C Wellbeing Pty Ltd (and related entities - WFC Nominees Australia Pty Ltd, 392649 Pty Ltd) acquired a <strong>6.35% stake</strong> (119,393,849 ordinary shares) in Zeotech Limited as of <strong>28/02/25</strong>.  </li>\n<li><strong>Key Acquisitions (Cash):</strong>  </li>\n<li><strong>H &amp; C Wellbeing:</strong> Largest purchase of 5M shares for AUD 300,000 on 26/06/25.  </li>\n<li><strong>WFC Nominees:</strong> 2.9M shares for AUD 208,809.50 on 24/06/25.  </li>\n<li><strong>392649 Pty Ltd:</strong> 1.95M shares for AUD 128,589.05 on 30/06/25.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity; monitoring for further accumulation.</em></p>",
     "usage": {
       "prompt_tokens": 1863,
-      "completion_tokens": 204,
-      "total_tokens": 2067,
+      "completion_tokens": 194,
+      "total_tokens": 2057,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:46.031940"
+    "processed_at": "2025-07-16T08:31:19.549056"
   },
   {
     "ticker": "LNU",
@@ -331,15 +407,15 @@
     "date": "20250716",
     "time": "1658",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvpcrz391w6y.pdf",
-    "summary": "<h3><strong>Material Information Summary \u2013 Linius Technologies Limited General Meeting (14 August 2025)</strong></h3>\n<h4><strong>1. Capital Raising Details</strong></h4>\n<ul>\n<li><strong>Placement (June 2025):</strong>  </li>\n<li><strong>Structure:</strong> Placement + Free-Attaching Options.  </li>\n<li><strong>Amount Raised:</strong> AUD $350,000 (via 350M shares @ $0.001/share).  </li>\n<li>\n<p><strong>Options Issued:</strong> 70M free-attaching options (1:5 ratio, exercise price $0.002, expiry 30 June 2027).  </p>\n</li>\n<li>\n<p><strong>Convertible Note Facility (June 2025):</strong>  </p>\n</li>\n<li><strong>Total Facility:</strong> Up to $3M (Tranche 1: $350K issued; Tranche 2: up to $2.65M proposed).  </li>\n<li><strong>Terms:</strong>  <ul>\n<li>Face value: $1.00/note.  </li>\n<li>Coupon: 20% p.a. (capitalized).  </li>\n<li>Conversion price: $0.001/share.  </li>\n<li>Maturity: 24 months from issue.  </li>\n</ul>\n</li>\n</ul>\n<h4><strong>2. Key Resolutions</strong></h4>\n<ul>\n<li><strong>Ratification of Prior Issues (Resolutions 1\u20133):</strong>  </li>\n<li>\n<p>Approval for past issuance of 350M shares (Resolution 1), 70M options (Resolution 2), and $350K convertible notes (Resolution 3).  </p>\n</li>\n<li>\n<p><strong>New Issuances (Resolutions 4\u201315):</strong>  </p>\n</li>\n<li><strong>Tranche 2 Notes:</strong>  <ul>\n<li>Up to <strong>1,583,750 notes</strong> to non-related parties (Resolution 4).  </li>\n<li>Notes to related parties (Directors) for cash (Resolutions 5\u20137) and in lieu of remuneration (Resolutions 8\u201311).  </li>\n</ul>\n</li>\n<li><strong>Incentive Securities (ZEPOs):</strong>  <ul>\n<li><strong>45M zero-exercise price options</strong> per Director (Resolutions 12\u201315), vesting upon share price milestones ($0.005, $0.01, $0.015).  </li>\n</ul>\n</li>\n</ul>\n<h4><strong>3. Dilution Impact</strong></h4>\n<ul>\n<li><strong>Maximum Potential Share Issuance:</strong>  </li>\n<li><strong>From Notes:</strong> Up to ~2.36B shares (if all Tranche 2 notes convert).  </li>\n<li><strong>From ZEPOs:</strong> 180M shares (if all options exercised).  </li>\n<li><strong>Existing Shares:</strong> 6.5B (dilution impact: ~11% from notes + ~2.7% from ZEPOs).  </li>\n</ul>\n<h4><strong>4. Key Dates</strong></h4>\n<ul>\n<li><strong>Record Date for Voting:</strong> 12 August 2025 (7:00 PM AEST).  </li>\n<li><strong>Meeting Date:</strong> 14 August 2025 (10:00 AM AEST, virtual).  </li>\n</ul>\n<h4><strong>5. Voting Exclusions</strong></h4>\n<ul>\n<li>Related parties (e.g., Directors) excluded from voting on resolutions where they directly benefit.  </li>\n</ul>\n<h3><strong>Conclusion</strong></h3>\n<ul>\n<li><strong>Material Impact:</strong> Significant dilution risk from potential conversions; cash conservation via director remuneration in securities.  </li>\n<li><strong>Action:</strong> Shareholders to approve/disapprove capital structure changes and related-party transactions.  </li>\n</ul>\n<p><em>No material operational or financial updates identified.</em></p>",
+    "summary": "<h3><strong>Material Information Summary \u2013 Linius Technologies Limited General Meeting (14 Aug 2025)</strong></h3>\n<h4><strong>1. Capital Raisings</strong></h4>\n<ul>\n<li><strong>Placement (June 2025):</strong>  </li>\n<li><strong>Issued:</strong> 350M shares at $0.001/share ($350K raised).  </li>\n<li><strong>Free-attaching options:</strong> 70M options (1:5 ratio), exercise $0.002, expiry 30 Jun 2027 (subject to approval under <strong>Resolution 2</strong>).  </li>\n<li>\n<p><strong>Purpose:</strong> Fund go-to-market plan, sales expansion, working capital.  </p>\n</li>\n<li>\n<p><strong>Convertible Notes Facility (Tranche 1 &amp; 2):</strong>  </p>\n</li>\n<li><strong>Tranche 1 (issued):</strong> $350K (350K notes) at $1.00 face value, 20% p.a. interest, convertible at $0.001/share. Max dilution: ~7.4% (<strong>Resolution 3</strong>).  </li>\n<li><strong>Tranche 2 (proposed):</strong> Up to $2.65M (2.65M notes), including:  <ul>\n<li>$1.58M to non-related parties (<strong>Resolution 4</strong>).  </li>\n<li>$585K to related parties (directors Bongiorno, Jones, Rinarelli; <strong>Resolutions 5\u20137</strong>).  </li>\n<li>$480K to directors in lieu of cash remuneration (<strong>Resolutions 8\u201311</strong>).  </li>\n</ul>\n</li>\n</ul>\n<hr />\n<h4><strong>2. Director Remuneration &amp; Incentives</strong></h4>\n<ul>\n<li><strong>Convertible Notes in Lieu of Cash (Resolutions 8\u201311):</strong>  </li>\n<li><strong>Total:</strong> 480,752 notes issued (face value $1.00) to directors, converting at $0.001/share. Max dilution: ~11.03%.  </li>\n<li>\n<p><strong>Interest:</strong> 20% p.a. (capitalized).  </p>\n</li>\n<li>\n<p><strong>Zero-Exercise Price Options (ZEPOs) (Resolutions 12\u201315):</strong>  </p>\n</li>\n<li><strong>45M ZEPOs per director</strong> (Bongiorno, McNeill, Demetriou, Jones).  </li>\n<li><strong>Vesting:</strong> Tied to share price milestones ($0.005, $0.01, $0.015 VWAP).  </li>\n<li><strong>Max dilution:</strong> ~2.69%.  </li>\n</ul>\n<hr />\n<h4><strong>3. Key Dates &amp; Voting Exclusions</strong></h4>\n<ul>\n<li><strong>Meeting:</strong> 14 Aug 2025, 10:00 AM AEST (virtual).  </li>\n<li><strong>Voting Exclusions:</strong> Votes from related parties (directors/note recipients) excluded for Resolutions 1\u201315 unless voted as directed proxies.  </li>\n</ul>\n<hr />\n<h4><strong>4. Dilution Impact</strong></h4>\n<ul>\n<li><strong>Placement + Tranche 1 Notes:</strong> ~7.4% dilution (if fully converted).  </li>\n<li><strong>Tranche 2 Notes + ZEPOs:</strong> Potential <strong>13.72% aggregate dilution</strong>.  </li>\n</ul>\n<hr />\n<h4><strong>Critical Points for Traders</strong></h4>\n<ul>\n<li><strong>Approval Likelihood:</strong> Resolutions 1\u20134 (capital raises) likely pass; Resolutions 5\u201315 (related-party) face higher scrutiny.  </li>\n<li><strong>Liquidity Risk:</strong> High dilution (~21% total) if all convertible instruments exercise.  </li>\n<li><strong>Price Sensitivity:</strong> Low current price ($0.001) increases conversion risk; ZEPOs create sell pressure if milestones met.  </li>\n</ul>\n<p><strong>Conclusion:</strong> Focus on passage of capital-related resolutions (1\u20134) and dilution risks. Monitor director remuneration approvals (8\u201315) for governance concerns.  </p>\n<p><em>(No material operational/financial data provided in announcement.)</em></p>",
     "usage": {
       "prompt_tokens": 31108,
-      "completion_tokens": 664,
-      "total_tokens": 31772,
+      "completion_tokens": 752,
+      "total_tokens": 31860,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:58:55.546816"
+    "processed_at": "2025-07-16T08:29:14.412718"
   },
   {
     "ticker": "AR1",
@@ -350,15 +426,15 @@
     "date": "20250716",
     "time": "1654",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvp8rk7ymsd8.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Daniel Jauncey disposed of <strong>12,247,812 unvested Performance Rights</strong> (lapsed due to unmet vesting conditions).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li><strong>Direct shares</strong>: 14,874,431  </li>\n<li><strong>Indirect shares</strong>: 243,954,688 (via Moose 2.0 Pty Ltd and Yellow Gear Pty Ltd, including 1,584,798 under escrow until 30 June 2026).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified; routine disclosure of director's interest adjustment.</em></p>",
+    "summary": "<h3>Summary of Appendix 3Y - Change of Director\u2019s Interest Notice:</h3>\n<ul>\n<li><strong>Director</strong>: Daniel Jauncey  </li>\n<li><strong>Key Change</strong>: Lapse of <strong>12,247,812 Performance Rights</strong> (unquoted) due to unmet vesting conditions.  </li>\n<li><strong>Securities Held Post-Change</strong> (direct/indirect):  </li>\n<li><strong>Shares</strong>: 14,874,431 (direct), 8,269,890 (via Moose), 235,100,000 (via Yellow Gear), plus 1,584,798 escrowed shares (to 30 June 2026).  </li>\n<li><strong>No trading during closed period</strong>.  </li>\n</ul>\n<p>No material impact on liquidity or capital structure identified.</p>",
     "usage": {
       "prompt_tokens": 1192,
-      "completion_tokens": 124,
-      "total_tokens": 1316,
+      "completion_tokens": 148,
+      "total_tokens": 1340,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:56:09.004087"
+    "processed_at": "2025-07-16T08:26:43.785560"
   },
   {
     "ticker": "RAU",
@@ -369,15 +445,15 @@
     "date": "20250716",
     "time": "1653",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvp4l0ccx31h.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>AGM Presentation / Corporate Update</strong>  </p>\n<ul>\n<li><strong>Mineral Resource Estimate (MRE) Update (Tiros Project, Brazil):</strong>  </li>\n<li><strong>1.9Bt total resource</strong> (12% increase) at <strong>12% TiO\u2082</strong> and <strong>4,000ppm TREO</strong>, including <strong>104Mt ultra-high grade</strong> at <strong>23% TiO\u2082</strong> and <strong>8,850ppm TREO</strong>.  </li>\n<li><strong>Contained metal</strong>: 165Mt TiO\u2082, 5.5Mt TREO (1.5Mt magnet REEs).  </li>\n<li>\n<p>JORC-compliant, with 37% increase in Measured &amp; Indicated resources to <strong>1.4Bt</strong>.  </p>\n</li>\n<li>\n<p><strong>Metallurgical Test Work:</strong>  </p>\n</li>\n<li>Focus on titanium and REE recovery; initial results expected Q3 2025.  </li>\n<li>\n<p>Pilot plant targeted for early 2026; scoping study to follow.  </p>\n</li>\n<li>\n<p><strong>Project Highlights:</strong>  </p>\n</li>\n<li>Location: Minas Gerais, Brazil (mining-friendly, infrastructure-rich).  </li>\n<li>Low-cost advantages: Soft clay host, no drilling/blasting required.  </li>\n<li>\n<p>ESG focus: Water-efficient extraction, partnerships for magnet production.  </p>\n</li>\n<li>\n<p><strong>Capital Structure:</strong>  </p>\n</li>\n<li>\n<p><strong>92.6M shares on issue</strong>; fully diluted <strong>108.3M securities</strong> (incl. options/warrants).  </p>\n</li>\n<li>\n<p><strong>Upcoming Catalysts:</strong>  </p>\n</li>\n<li>Environmental studies, test results (Q3 2025), scoping study (early 2026).  </li>\n</ul>\n<p><em>No capital raising, financials, or trading halt details identified.</em>  </p>\n<hr />\n<p><strong>Note:</strong> Excluded general market commentary, disclaimers, and non-material operational details. Focused on resource metrics, timelines, and project-specific catalysts.</p>",
+    "summary": "<h3>Summary of Material Information:</h3>\n<p><strong>Announcement Type:</strong> <strong>CEO AGM Presentation</strong>  </p>\n<h4>Key Highlights:</h4>\n<ul>\n<li><strong>Mineral Resource Estimate (MRE) Update (Tiros Project):</strong>  </li>\n<li>Total Resource: <strong>1.9Bt</strong> (\u219112% from prior).  </li>\n<li>Measured &amp; Indicated: <strong>1.4Bt @ 12% TiO\u2082 + 4,000ppm TREO</strong> (\u219137%), including <strong>104Mt @ 23% TiO\u2082 + 8,850ppm TREO</strong>.  </li>\n<li>\n<p>Contained metal: <strong>165Mt TiO\u2082</strong>, <strong>5.5Mt TREO</strong> (27% MREO ratio).  </p>\n</li>\n<li>\n<p><strong>Metallurgical Test Work:</strong>  </p>\n</li>\n<li>Initial programs underway for TiO\u2082 and TREO recovery; results expected <strong>Q3 2025</strong>.  </li>\n<li>\n<p>Scoping study anticipated <strong>early 2026</strong>.  </p>\n</li>\n<li>\n<p><strong>Project Pipeline:</strong>  </p>\n</li>\n<li>Pilot plant targeted for <strong>early 2026</strong>.  </li>\n<li>\n<p>Environmental studies in progress (focus on water efficiency).  </p>\n</li>\n<li>\n<p><strong>Strategic Partnerships:</strong>  </p>\n</li>\n<li>\n<p>Collaborations with MagBras (REE magnets), Progesys (engineering), and Sete Solu\u00e7\u00f5es (EIA).  </p>\n</li>\n<li>\n<p><strong>Capital Structure (Fully Diluted):</strong>  </p>\n</li>\n<li><strong>108.3M securities</strong> (92.6M shares + 15.7M options/warrants/rights).  </li>\n</ul>\n<h4>No material capital raising, operational disruptions, or financial updates identified.</h4>",
     "usage": {
       "prompt_tokens": 4543,
-      "completion_tokens": 372,
-      "total_tokens": 4915,
+      "completion_tokens": 312,
+      "total_tokens": 4855,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T07:56:20.210194"
+    "processed_at": "2025-07-16T08:26:55.130275"
   },
   {
     "ticker": "DRE",
@@ -388,15 +464,15 @@
     "date": "20250716",
     "time": "1653",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250716/pdf/06lvp6ns4jkwjs.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> Notification of cessation of securities (Appendix 3H)<br />\n<strong>Entity:</strong> Dreadnought Resources Ltd (ASX: DRE)  </p>\n<h4>Key Points:</h4>\n<ul>\n<li><strong>Securities Ceased:</strong> 3,500,000 unquoted options (ASX code: DREAL) expiring 14-Jul-2025 at $0.065 exercise price.  </li>\n<li><strong>Reason:</strong> Expiry without exercise or conversion.  </li>\n<li><strong>Impact on Capital Structure:</strong>  </li>\n<li>Ordinary shares (DRE): 5,079,500,000 remain outstanding.  </li>\n<li>Other unquoted options/rights unchanged (see table for details).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Notification of cessation of securities<br />\n detective  </li>\n<li><strong>Security Cessation Details:</strong>  </li>\n<li><strong>Code &amp; Description:</strong> DREAL (OPTION EXPIRING 14-JUL-2025 EX $0.065)  </li>\n<li><strong>Number Ceased:</strong> 3,500,000  </li>\n<li><strong>Reason:</strong> Expiry without exercise or conversion  </li>\n<li>\n<p><strong>Date of Cessation:</strong> 14/07/2025  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital:</strong>  </p>\n</li>\n<li><strong>Ordinary Shares (DRE):</strong> 5,079,500,000  </li>\n<li><strong>Other Outstanding Options/Right:</strong> Multiple unquoted options/rights (see table), including DREAL now at 0.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond expiry of out-of-the-money options.</em></p>",
     "usage": {
       "prompt_tokens": 1243,
-      "completion_tokens": 156,
-      "total_tokens": 1399,
+      "completion_tokens": 178,
+      "total_tokens": 1421,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-16T08:00:27.987138"
+    "processed_at": "2025-07-16T08:31:14.454823"
   },
   {
     "ticker": "RAU",
