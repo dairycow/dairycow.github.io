@@ -7,13 +7,13 @@
   "date": "20250717",
   "time": "1308",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwmdynl1qwmb.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, excerpts), and I will generate a ruthlessly concise summary tailored to capital markets relevance, strictly adhering to your guidelines.  \n\nExample Output Styles:  \n- **Trading Halt**: \"Reason: Pending capital raising announcement.\"  \n- **Capital Raising**: \"Structure: $50M placement + $10M SPP. Key dates: Ex-date 15/05, Close 30/05.\"  \n- **Appendix 4C**: \"Cash balance: $12.3M. Quarterly cash burn: $2.1M. Milestone: Phase 2 trial enrolled 80%.\"  \n\nSubmit the document/text, and I\u2019ll distill it to *only* material trading/capital markets information.",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement PDF, and I will:  \n\n1. **Identify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly).  \n2. **Extract only material information** per your strict criteria.  \n3. **Format concisely as bullet points**, omitting all fluff.  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement**  \n- Structure: 1-for-4 Entitlement Offer @ $0.50/share.  \n- Total raised: $75M (AUD).  \n- Key dates: Ex-date 15/03, Record 18/03, Close 29/03.  \n\n**Appendix 4C (Quarterly)**  \n- Cash burn: $2.1M (AUD).  \n- Closing cash: $12.4M (AUD).  \n- Milestone: Phase 2 trials commenced.  \n\n**Other Announcement**  \n- Major contract signed: $50M revenue over 3 years.  \n- CEO resignation effective immediately.  \n---  \n\nReady to analyze your document.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 168,
-    "total_tokens": 393,
+    "completion_tokens": 231,
+    "total_tokens": 456,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-17T03:20:57.845117"
+  "processed_at": "2025-07-17T04:10:57.014950"
 }
