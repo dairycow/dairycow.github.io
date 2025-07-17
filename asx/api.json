@@ -1,5 +1,24 @@
 [
   {
+    "ticker": "ALC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970258",
+    "id": "02970258",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250717",
+    "time": "1530",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwqrhn93g87n.pdf",
+    "summary": "<ul>\n<li><strong>Appendix 4C and Quarterly Cash Flow Report</strong>: To be released on <strong>24 July 2025</strong>.  </li>\n<li><strong>Investor Webcast</strong>: Scheduled for <strong>10:30am AEST on 24 July 2025</strong> to discuss operational/commercial highlights.  </li>\n</ul>\n<p><em>No further material information identified (e.g., financial figures, capital actions, or trading halts).</em></p>",
+    "usage": {
+      "prompt_tokens": 870,
+      "completion_tokens": 79,
+      "total_tokens": 949,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-17T05:47:54.639210"
+  },
+  {
     "ticker": "APZ",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970257",
     "id": "02970257",
@@ -8,15 +27,15 @@
     "date": "20250717",
     "time": "1510",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwqk8xsnhmb3.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>New Acquisition \u2013 Adelaide Portfolio</strong></h4>\n<ul>\n<li><strong>Acquisition:</strong> Purchase of 19 retirement village properties (129 villas/apartments) from ACH Group.  </li>\n<li><strong>Purchase Price:</strong> $19M (pre-transaction costs).  </li>\n<li><strong>Locations:</strong> Predominantly inner-metropolitan Adelaide suburbs (e.g., Adelaide CBD, Glenunga, Glynde, Magill).  </li>\n<li><strong>Current Use:</strong> Mix of residential leases (below-market rents) and Retirement Village (RV) licenses (governed by Retirement Villages Act).  </li>\n<li><strong>Strategy:</strong> Convert RV licenses to residential leases over time, targeting higher rental income.  </li>\n<li><strong>Initial Yield:</strong> ~6% (mix of residential rent and deferred management fee accruals).  </li>\n<li><strong>Funding:</strong> Debt-financed.  </li>\n<li><strong>Expected Settlement:</strong> August 2025.  </li>\n</ul>\n<h4><strong>Key Financials (Implied Pricing):</strong></h4>\n<ul>\n<li><strong>Per Dwelling:</strong> ~$395K (unencumbered residential) to ~$65K (RV license with 25% deferred fee).  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "summary": "<p><strong>Acquisition Announcement \u2013 Material Information:</strong><br />\n- <strong>Portfolio Details:</strong> Acquisition of 19 properties (129 villas/apartments) in Adelaide, primarily inner-metropolitan suburbs with median house prices &gt;$1M.<br />\n- <strong>Purchase Price:</strong> $19M (pre-costs), with implied pricing ranging from ~$65k (RV licenses) to ~$395k (unencumbered residential villas).<br />\n- <strong>Strategy:</strong> Convert Retirement Village (RV) licenses to standard Residential leases upon tenant turnover to align with Aspen\u2019s rental targets.<br />\n- <strong>Yield:</strong> Initial yield ~6% (mix of rental income and deferred management fees).<br />\n- <strong>Funding:</strong> Debt-financed; settlement expected <strong>August 2025</strong>.  </p>\n<p><em>Omitted:</em> Non-material details (e.g., specific suburb names, CEO contact info, disclaimer boilerplate).</p>",
     "usage": {
       "prompt_tokens": 1378,
-      "completion_tokens": 236,
-      "total_tokens": 1614,
+      "completion_tokens": 178,
+      "total_tokens": 1556,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:28.937045"
+    "processed_at": "2025-07-17T05:45:13.830876"
   },
   {
     "ticker": "RPG",
@@ -27,15 +46,15 @@
     "date": "20250717",
     "time": "1505",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwqg6x0rq6zb.pdf",
-    "summary": "<ul>\n<li><strong>Director Resignation</strong>: Mr. James Raptis to resign as Director effective 30 September 2025.  </li>\n<li><strong>Board Changes</strong>: Negotiations underway with two potential new directors to strengthen the Board.  </li>\n<li><strong>New Leadership</strong>: Russell Garnett appointed as CEO and Managing Director.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Board Change</strong>: Mr. James Raptis (Director) to resign effective 30 September 2025.  </li>\n<li><strong>New Leadership</strong>: Russell Garnett appointed as CEO and Managing Director.  </li>\n<li><strong>Board Expansion</strong>: Negotiations underway with two potential directors to strengthen the board and set a new direction.  </li>\n</ul>\n<p><strong>No material financial or trading impact identified.</strong></p>",
     "usage": {
       "prompt_tokens": 567,
-      "completion_tokens": 72,
-      "total_tokens": 639,
+      "completion_tokens": 74,
+      "total_tokens": 641,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:56.365862"
+    "processed_at": "2025-07-17T05:45:50.123292"
   },
   {
     "ticker": "RPG",
@@ -46,15 +65,15 @@
     "date": "20250717",
     "time": "1503",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwqcmgbk66tg.pdf",
-    "summary": "<h3>Key Material Information:</h3>\n<ul>\n<li><strong>Director Resignation</strong>: James Raptis intends to resign as director, effective <strong>30 September 2025</strong>.  </li>\n<li><strong>ASX Query Response</strong>: Company denies awareness of undisclosed material information or any explanation for recent price/volume volatility (shares surged from <strong>$0.085 to $0.24</strong> between 10\u201317 July 2025).  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rule 3.1 (continuous disclosure).  </li>\n</ul>\n<p><em>Omitted: Routine legal/process details, query letter boilerplate.</em></p>",
+    "summary": "<ul>\n<li><strong>Director Resignation</strong>: James Raptis to resign as director effective 30 September 2025.  </li>\n<li><strong>No Material Undisclosed Information</strong>: Company confirms no undisclosed information explaining recent trading activity.  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rule 3.1 (continuous disclosure).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1807,
-      "completion_tokens": 121,
-      "total_tokens": 1928,
+      "completion_tokens": 75,
+      "total_tokens": 1882,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:20:57.191141"
+    "processed_at": "2025-07-17T05:47:51.767264"
   },
   {
     "ticker": "MA1",
@@ -65,15 +84,15 @@
     "date": "20250717",
     "time": "1455",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwq7yjxdcjtm.pdf",
-    "summary": "<p><strong>Daily NTA Estimate Announcement</strong><br />\n- Unaudited NTA per unit of MA Credit Income Trust (ASX: MA1) as of 16 July 2025: <strong>$2.0084</strong>.  </p>\n<p><em>(No other material information identified.)</em></p>",
+    "summary": "<p><strong>Summary of ASX Announcement: Daily NTA Update</strong>  </p>\n<ul>\n<li><strong>Unaudited NTA per unit (16 July 2025):</strong> $2.0084 (MA Credit Income Trust, ASX: MA1).  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
     "usage": {
       "prompt_tokens": 440,
-      "completion_tokens": 55,
-      "total_tokens": 495,
+      "completion_tokens": 57,
+      "total_tokens": 497,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:18:51.288577"
+    "processed_at": "2025-07-17T05:46:38.712098"
   },
   {
     "ticker": "IMP",
@@ -84,15 +103,15 @@
     "date": "20250717",
     "time": "1451",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwq55q7yw41q.pdf",
-    "summary": "<p><strong>Summary of Material Information:</strong>  </p>\n<ul>\n<li><strong>Fund Performance (June 2025):</strong>  </li>\n<li><strong>IMPQ Fund:</strong> +0.2% (underperformed benchmark by 0.6%).  </li>\n<li><strong>Benchmark (ASX Small Ords):</strong> +0.8%.  </li>\n<li><strong>Top Contributors:</strong> PEXA Group (+7.0%), Australian Ethical (+8.3%), Meridian Energy (+4.2%).  </li>\n<li>\n<p><strong>Key Detractors:</strong> IDP Education (-52.9%), Immutep (-15.8%), Genetic Signatures (-24.0%).  </p>\n</li>\n<li>\n<p><strong>Portfolio Update:</strong>  </p>\n</li>\n<li><strong>Cash Holdings:</strong> 8.0%.  </li>\n<li><strong>Top Holdings:</strong> Meridian Energy (6.1%), AUB Group (5.1%), PEXA Group (5.1%).  </li>\n<li>\n<p><strong>ESG Metrics:</strong> Portfolio carbon intensity 88.6% lower than ASX300.  </p>\n</li>\n<li>\n<p><strong>Material Company Developments:</strong>  </p>\n</li>\n<li><strong>Alpha HPA (Portfolio Holding):</strong> Progress on Stage 2 HPA project; offtake agreements secured. Technology reduces emissions by 70% vs. traditional methods, with applications in AI data centers (30x thermal conductivity improvement).  </li>\n<li><strong>Meridian Energy:</strong> Approved acquisition of NZ Windfarms; early termination of demand response agreement due to improved hydro conditions.  </li>\n<li>\n<p><strong>IDP Education:</strong> Weak FY25 outlook due to softness in English testing/student placements (Canada, UK, Australia); fund retains position expecting recovery.  </p>\n</li>\n<li>\n<p><strong>No Material Capital Markets Activity Identified</strong> (e.g., no capital raising, M&amp;A, or material corporate actions).  </p>\n</li>\n</ul>\n<p><em>Note: ESG engagements and general macro commentary omitted per summary rules.</em></p>",
+    "summary": "<h3><strong>Summary of Material Information (ASX: IMPQ - Monthly Report, June 2025)</strong></h3>\n<h4><strong>Key Updates</strong></h4>\n<ul>\n<li><strong>Fund Performance</strong>:  </li>\n<li>Fund return: <strong>+0.2%</strong> (underperformed benchmark S&amp;P/ASX Small Ordinaries Accumulation Index at <strong>+0.8%</strong>).  </li>\n<li><strong>Top contributors</strong>: PEXA Group (<strong>+7.0%</strong>), Australian Ethical (<strong>+8.3%</strong>), Meridian Energy (<strong>+4.2%</strong>).  </li>\n<li>\n<p><strong>Top detractors</strong>: IDP Education (<strong>-52.9%</strong>), Immutep (<strong>-15.8%</strong>), Genetic Signatures (<strong>-24.0%</strong>).  </p>\n</li>\n<li>\n<p><strong>Meridian Energy</strong>:  </p>\n</li>\n<li>NZ Windfarms acquisition approved; <strong>upgrading Te Rere Hau wind project</strong> (future capacity <strong>170MW</strong>).  </li>\n<li>\n<p>Early termination of demand response agreement with NZ Aluminium Smelter due to <strong>improved hydro conditions</strong>.  </p>\n</li>\n<li>\n<p><strong>IDP Education</strong>:  </p>\n</li>\n<li>Weak FY25 trading update due to soft demand in <strong>English testing &amp; student placements</strong> (Canada, Australia, UK).  </li>\n<li>\n<p>Fund retains <strong>modest position</strong>, anticipating recovery in UK &amp; Australia markets.  </p>\n</li>\n<li>\n<p><strong>Alpha HPA (Portfolio Holding)</strong>:  </p>\n</li>\n<li>Progress on <strong>Stage 2 HPA project</strong> (lower emissions, high-purity output for semiconductor/data center cooling).  </li>\n<li>\n<p>Potential <strong>30x thermal conductivity improvement</strong> vs. silica-based alternatives.  </p>\n</li>\n<li>\n<p><strong>Portfolio Metrics</strong>:  </p>\n</li>\n<li><strong>42 holdings</strong>, <strong>8.0% cash</strong>.  </li>\n<li>ESG score (<strong>7.3</strong>) <strong>28% above benchmark (5.7)</strong>.  </li>\n<li>\n<p><strong>Carbon intensity</strong> <strong>88.6% below ASX300</strong>, <strong>87.2% below Small Ords</strong>.  </p>\n</li>\n<li>\n<p><strong>ESG Highlights</strong>:  </p>\n</li>\n<li>Engagements with IDP Education on <strong>modern slavery, cyber security, chair succession</strong>.  </li>\n<li>Perennial submitted <strong>annual PRI report</strong> (signatory since 2009).  </li>\n</ul>\n<h4><strong>No Material Capital Markets Activity Identified</strong></h4>\n<p><em>(No new capital raising, M&amp;A, or material corporate actions disclosed.)</em>  </p>\n<hr />\n<p><strong>Note</strong>: Excluded routine operational, governance, and promotional content. Focused on valuation-impacting updates.</p>",
     "usage": {
       "prompt_tokens": 2866,
-      "completion_tokens": 364,
-      "total_tokens": 3230,
+      "completion_tokens": 490,
+      "total_tokens": 3356,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:20:31.664739"
+    "processed_at": "2025-07-17T05:47:44.286869"
   },
   {
     "ticker": "PBH",
@@ -103,15 +122,15 @@
     "date": "20250717",
     "time": "1451",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwq3099sky88.pdf",
-    "summary": "<p><strong>Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Substantial Holder Notice:</strong> MIXI Australia Pty Ltd has acquired a 9.15% stake (30,834,395 shares) in PointsBet Holdings Limited (ASX:PBH).  </li>\n<li><strong>Takeover Offer:</strong> MIXI Australia intends to make an off-market takeover bid for all PointsBet shares at <strong>A$1.20 per share</strong>.  </li>\n<li><strong>Pre-Bid Agreements:</strong>  </li>\n<li>Secured commitments for <strong>30.8M shares</strong> (~9.15%) via agreements with:  <ul>\n<li>Bennelong Long Short Equity Management (9,286,588 shares)  </li>\n<li>Pictet Asset Management (21,547,807 shares).  </li>\n</ul>\n</li>\n<li><strong>Key Conditions:</strong>  </li>\n<li>Shareholders bound to accept MIXI\u2019s offer unless a <strong>higher rival bid</strong> emerges.  </li>\n<li>Offer must be made within <strong>2 months</strong> (by ~16 September 2025).  </li>\n</ul>\n<p><strong>Actions for Traders:</strong> Monitor for takeover bid launch or competing offers above A$1.20/share.  </p>\n<p><em>Omitted: Legal boilerplate, ancillary contract terms.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Form 603 - Notice of Initial Substantial Holder):</h3>\n<ul>\n<li><strong>Substantial Holder</strong>: MIXI Australia Pty Ltd (9.15% voting power)  </li>\n<li><strong>Date of Becoming Substantial Holder</strong>: 16/07/2025  </li>\n<li><strong>Total Shares Held</strong>: 30,834,395 PointsBet shares  </li>\n<li><strong>From Bennelong</strong>: 9,286,588 shares (via pre-bid acceptance agreement at $1.20/share)  </li>\n<li><strong>From Pictet</strong>: 21,547,807 shares (via pre-bid acceptance agreement at $1.20/share)  </li>\n<li><strong>Key Condition</strong>: MIXI Australia must make a formal takeover offer within 2 months (by 16/09/2025).  </li>\n<li><strong>Offer Price</strong>: $1.20 per PointsBet share (subject to potential matching of higher competing bids).  </li>\n</ul>\n<p><strong>Material Implications</strong>:<br />\n- Potential take-private transaction at $1.20/share (~$37M total consideration).<br />\n- 9.15% stake acquisition signals strategic intent; further developments likely upon formal offer.  </p>\n<p><em>(Note: Assumes 2025 date is a typo; confirm timeline with issuer if critical.)</em></p>",
     "usage": {
       "prompt_tokens": 14392,
-      "completion_tokens": 233,
-      "total_tokens": 14625,
+      "completion_tokens": 254,
+      "total_tokens": 14646,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:18:15.122875"
+    "processed_at": "2025-07-17T05:46:08.855833"
   },
   {
     "ticker": "GMD",
@@ -122,15 +141,15 @@
     "date": "20250717",
     "time": "1446",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpzwkzdcc81.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Employee Incentive Scheme Issuance (Appendix 3G)  </li>\n<li><strong>Securities Issued</strong>: 29,766 unlisted Share Rights (GMDAAF) under Equity Incentive Plan  </li>\n<li><strong>Recipients</strong>: Non-Executive Directors (including KMP: Anthony Kiernan, Gerard Kaczmarek, Jacqueline Murray, Michael Bowen)  </li>\n<li><strong>Purpose</strong>: FY2026 grants in lieu of director fees ($40k for chairperson, $30k for others), vesting on 30 June 2026 if tenure continues.  </li>\n<li><strong>Total Quoted Shares Outstanding</strong>: 1,130,548,057 ordinary shares (GMD).  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issue Type</strong>: Unquoted employee incentive scheme securities (Share Rights) \u2013 <strong>29,766</strong> issued.  </li>\n<li><strong>Recipients</strong>: Key management personnel (KMP) \u2013 <strong>Anthony Kiernan (9,159)</strong>, <strong>Gerard Kaczmarek (6,869)</strong>, <strong>Jacqueline Murray (6,869)</strong>, <strong>Michael Bowen (6,869)</strong>.  </li>\n<li><strong>Vesting Condition</strong>: Rights vest if directors remain in office by <strong>30 June 2026</strong>.  </li>\n<li><strong>Total Ordinary Shares Outstanding</strong>: <strong>1,130,548,057</strong> (quoted).  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified (routine incentive issuance).</em></p>",
     "usage": {
       "prompt_tokens": 1692,
-      "completion_tokens": 154,
-      "total_tokens": 1846,
+      "completion_tokens": 143,
+      "total_tokens": 1835,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:19:07.137160"
+    "processed_at": "2025-07-17T05:46:44.609440"
   },
   {
     "ticker": "ING",
@@ -141,15 +160,15 @@
     "date": "20250717",
     "time": "1444",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpxctwx6pbd.pdf",
-    "summary": "<h3>Substantial Holder Notice (Ceasing to be a Substantial Holder)</h3>\n<ul>\n<li><strong>Holder</strong>: Mitsubishi UFJ Financial Group, Inc.  </li>\n<li><strong>Company</strong>: Inghams Group Limited (ASX: ING)  </li>\n<li><strong>Ceased to be a substantial holder</strong>: 16 July 2025  </li>\n<li><strong>Previous substantial holding notice date</strong>: 15 July 2025  </li>\n<li><strong>Key transactions</strong> (via Morgan Stanley-controlled entities):  </li>\n<li><strong>Purchases</strong>:  <ul>\n<li>11 &amp; 14 July 2025 \u2013 Multiple buy trades totalling <strong>~70,000 shares</strong> (~AUD <strong>~300k</strong> aggregate consideration).  </li>\n</ul>\n</li>\n<li><strong>Sales</strong>:  <ul>\n<li>11 &amp; 14 July 2025 \u2013 Multiple sell trades totalling <strong>~100,000 shares</strong> (~AUD <strong>~400k</strong> aggregate consideration).  </li>\n</ul>\n</li>\n<li><strong>Net impact</strong>: <strong>Reduction in MUFG's holdings below 5%</strong> (exact net change not quantified in notice).  </li>\n</ul>\n<p><strong>Relevance</strong>: Indicates institutional divestment, potentially signaling reduced stake or passive ownership adjustments. No immediate liquidity or capital structure impact.  </p>\n<p><em>(Note: Detailed transaction breakdown omitted for brevity; net effect is material.)</em></p>",
+    "summary": "<h3><strong>Form 605 Summary: Notice of Ceasing to be a Substantial Holder</strong></h3>\n<p><strong>Company:</strong> Inghams Group Limited (ASX: ING)<br />\n<strong>Substantial Holder:</strong> Mitsubishi UFJ Financial Group, Inc.  </p>\n<h4><strong>Key Material Information:</strong></h4>\n<ul>\n<li><strong>Ceased to be a substantial holder</strong> as of <strong>15 July 2025</strong> (holding &lt;5%).  </li>\n<li><strong>Significant transactions on 11\u201314 July 2025</strong> (via Morgan Stanley-controlled entities):  </li>\n<li><strong>Total shares sold:</strong> <strong>108,750</strong> (across multiple trades).  </li>\n<li><strong>Total shares purchased:</strong> <strong>46,839</strong> (across multiple trades).  </li>\n<li><strong>Net reduction in holdings:</strong> <strong>~61,911 shares</strong> (~0.4% of issued capital, assuming 162.7M shares).  </li>\n<li><strong>Voting rights affected:</strong> Reduction in influence post-disposal.  </li>\n</ul>\n<h4><strong>Additional Context:</strong></h4>\n<ul>\n<li><strong>Securities lending agreements</strong> (Annexure B) confirm no restrictions on voting rights.  </li>\n</ul>\n<p><strong>Impact:</strong> Reduced institutional ownership may influence liquidity and sentiment.  </p>\n<p><em>Note: Exact net % change depends on total shares outstanding (not disclosed here).</em></p>",
     "usage": {
       "prompt_tokens": 8251,
-      "completion_tokens": 254,
-      "total_tokens": 8505,
+      "completion_tokens": 251,
+      "total_tokens": 8502,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:18:36.700162"
+    "processed_at": "2025-07-17T05:46:35.178100"
   },
   {
     "ticker": "DDB",
@@ -160,15 +179,15 @@
     "date": "20250717",
     "time": "1443",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpv9lm2bqy3.pdf",
-    "summary": "<ul>\n<li><strong>Name Change Approved</strong>: Shareholders approved the change of company name to <strong>BWE Drilling Limited</strong> (from Dynamic Group Holdings Limited).  </li>\n<li><strong>ASX Ticker Update</strong>: Proposed ticker code change from <strong>DDB</strong> to <strong>BWE</strong> (effective date to be announced).  </li>\n<li><strong>Proxy Votes</strong>: Resolution passed unanimously (100% votes in favor).  </li>\n</ul>\n<p><em>No material impact on valuation, liquidity, or capital structure identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Name Change Approved</strong>: Shareholders approved the change of company name from <em>Dynamic Group Holdings Limited</em> to <em>BWE Drilling Limited</em>.  </li>\n<li><strong>ASX Ticker Update</strong>: Pending ASIC approval, the ASX code will change from <em>DDB</em> to <em>BWE</em>.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
     "usage": {
       "prompt_tokens": 839,
-      "completion_tokens": 92,
-      "total_tokens": 931,
+      "completion_tokens": 72,
+      "total_tokens": 911,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:17:39.726576"
+    "processed_at": "2025-07-17T05:45:55.876370"
   },
   {
     "ticker": "NWC",
@@ -179,15 +198,15 @@
     "date": "20250717",
     "time": "1441",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwprrs4hcvkf.pdf",
-    "summary": "<h3><strong>Material Information Summary (Takeover Offer Update)</strong></h3>\n<ul>\n<li><strong>Increased unconditional takeover offer</strong> from Kinterra at <strong>$0.066/share</strong>, rising to <strong>$0.067/share</strong> if Kinterra\u2019s stake exceeds 30% by <strong>24 July 2025</strong>.  </li>\n<li><strong>Board assessment</strong>: Kinterra\u2019s offer may constitute a <strong>Superior Proposal</strong> vs. CAML\u2019s existing $0.065/share bid.  </li>\n<li><strong>Matching right triggered</strong>: CAML has <strong>5 business days</strong> (until <strong>24 July 2025</strong>) to match Kinterra\u2019s offer.  </li>\n<li><strong>Current recommendation</strong>: Board retains <strong>support for CAML bid</strong> pending CAML\u2019s response.  </li>\n<li><strong>Shareholder action advised</strong>: <strong>TAKE NO ACTION</strong> until further board guidance.  </li>\n</ul>\n<p><em>(Omitted: Director names, contact details, boilerplate disclaimers, project/operational details.)</em></p>",
+    "summary": "<ul>\n<li><strong>Takeover Offer Update</strong>: Kinterra increased off-market takeover bid to <strong>A$0.066/share</strong> (or <strong>A$0.067/share</strong> if Kinterra's stake exceeds 30% by <strong>24 July 2025</strong>).  </li>\n<li><strong>Offer Status</strong>: Now <strong>unconditional</strong>.  </li>\n<li><strong>Superior Proposal</strong>: New World Board considers Kinterra's offer potentially superior to CAML's existing A$0.065/share bid.  </li>\n<li><strong>Matching Right Triggered</strong>: CAML has <strong>5 business days</strong> (until <strong>24 July 2025</strong>) to match Kinterra's offer.  </li>\n<li><strong>Shareholder Guidance</strong>: Board advises <strong>no action</strong> until further notice; maintains current CAML recommendation pending matching right outcome.  </li>\n</ul>\n<p><em>Omitted: Background details, director names, legal disclaimers, and operational project info (non-material to immediate trading decision).</em></p>",
     "usage": {
       "prompt_tokens": 1401,
-      "completion_tokens": 193,
-      "total_tokens": 1594,
+      "completion_tokens": 186,
+      "total_tokens": 1587,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:05.440744"
+    "processed_at": "2025-07-17T05:44:45.334657"
   },
   {
     "ticker": "MAH",
@@ -198,15 +217,15 @@
     "date": "20250717",
     "time": "1440",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpph1kgp02j.pdf",
-    "summary": "<ul>\n<li><strong>Director\u2019s Share Transaction</strong>: Dharmendra Chandran acquired 256,300 unquoted Share Rights under the Non-Executive Director Salary Sacrifice Plan (FY26 grant) for AUD $73,750.  </li>\n<li><strong>No Closed Period Trading</strong>: The transaction did not occur during a closed period requiring prior clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<p><strong>Summary of ASX Announcement: Appendix 3Y - Change of Director\u2019s Interest Notice</strong>  </p>\n<ul>\n<li><strong>Director</strong>: Dharmendra Chandran  </li>\n<li><strong>Transaction Type</strong>: Acquisition of <strong>256,300 unquoted Share Rights</strong> under the Non-Executive Director Salary Sacrifice Plan (FY26 grant).  </li>\n<li><strong>Consideration</strong>: $73,750 (previously disclosed in 2018).  </li>\n<li><strong>Holding Post-Transaction</strong>:  </li>\n<li>118,099 fully paid ordinary shares (subject to restrictions)  </li>\n<li>118,099 unquoted Share Rights (FY25 grant)  </li>\n<li>256,300 unquoted Share Rights (FY26 grant)  </li>\n<li><strong>Closed Period Trading</strong>: No.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
     "usage": {
       "prompt_tokens": 1279,
-      "completion_tokens": 75,
-      "total_tokens": 1354,
+      "completion_tokens": 163,
+      "total_tokens": 1442,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:45.463645"
+    "processed_at": "2025-07-17T05:45:26.661533"
   },
   {
     "ticker": "MAH",
@@ -217,15 +236,15 @@
     "date": "20250717",
     "time": "1439",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpm4572djtz.pdf",
-    "summary": "<ul>\n<li><strong>Director Share Rights Acquisition</strong>: Gregory Richard Evans acquired 128,200 unquoted Share Rights under the Non-Executive Director Salary Sacrifice Plan (FY26 grant).  </li>\n<li><strong>Consideration</strong>: $36,875 paid under the plan (terms disclosed 5 July 2018).  </li>\n<li><strong>No Closed Period Trading</strong>: No trading occurred during a closed period requiring prior clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Change of Director\u2019s Interest Notice  </li>\n<li><strong>Director:</strong> Gregory Richard Evans  </li>\n<li><strong>Date of Change:</strong> 17 July 2025  </li>\n<li><strong>Securities Acquired:</strong> 128,200 Share Rights (unquoted)  </li>\n<li><strong>Consideration:</strong> $36,875 under Non-Executive Director Salary Sacrifice Plan  </li>\n<li><strong>Holding Post-Change:</strong> 128,200 Share Rights held in Macmahon Holdings Limited Employee Share Ownership Plans Trust  </li>\n<li><strong>Closed Period Trading:</strong> No  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1050,
-      "completion_tokens": 87,
-      "total_tokens": 1137,
+      "completion_tokens": 117,
+      "total_tokens": 1167,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:20:20.562788"
+    "processed_at": "2025-07-17T05:47:25.757593"
   },
   {
     "ticker": "MAH",
@@ -236,15 +255,15 @@
     "date": "20250717",
     "time": "1437",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpjp1d6hjh6.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change (Appendix 3Y)</strong>:  </li>\n<li><strong>Director</strong>: Maree Naomi Arnason acquired <strong>271,800 unquoted Share Rights</strong> (issued under Non-Executive Director Salary Sacrifice Plan).  </li>\n<li><strong>Consideration</strong>: $78,214 (salary sacrifice, per FY26 grant).  </li>\n<li><strong>No trading during closed period</strong>.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).</p>",
+    "summary": "<h3>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice</h3>\n<ul>\n<li><strong>Director</strong>: Maree Naomi Arnason  </li>\n<li><strong>Transaction</strong>: Acquired <strong>271,800 unquoted Share Rights</strong> under Macmahon\u2019s <strong>Non-Executive Director Salary Sacrifice Plan</strong> (FY26 grant).  </li>\n<li><strong>Consideration</strong>: <strong>$78,214</strong> (salary sacrifice).  </li>\n<li><strong>Date of Change</strong>: <strong>17 July 2025</strong>.  </li>\n<li><strong>Closed Period Trading</strong>: <strong>No</strong> (no breach).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong> (Typical director interest disclosure; no liquidity/VWAP effects.)</p>",
     "usage": {
       "prompt_tokens": 1050,
-      "completion_tokens": 95,
-      "total_tokens": 1145,
+      "completion_tokens": 133,
+      "total_tokens": 1183,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:19:28.569513"
+    "processed_at": "2025-07-17T05:47:01.961857"
   },
   {
     "ticker": "YAR",
@@ -255,15 +274,15 @@
     "date": "20250717",
     "time": "1433",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpfsf2l206j.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: New securities issuance from conversion of options  </li>\n<li><strong>Securities Issued</strong>: 1,500,000 fully paid ordinary shares (ASX: YAR) from exercise of options (YARAX)  </li>\n<li><strong>Exercise Details</strong>:  </li>\n<li>Conversion price: AUD 0.006 per share  </li>\n<li>Exercise dates: 8 July 2025 (single day)  </li>\n<li>Key management participant (Lucas Braceras) exercised all 1.5M options held  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Total ordinary shares on issue: 556,211,485 (quoted)  </li>\n<li>Remaining unquoted options:  <ul>\n<li>3M YARAX (expiry 08-Jan-2029 @ AUD 0.006)  </li>\n<li>10M YARAW (expiry 30-May-2028 @ AUD 0.04)  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading or capital markets impact beyond dilution from exercise of in-the-money options by KMP.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 1,500,000 fully paid ordinary shares (YAR) issued from conversion of options (YARAX) at AUD 0.006 per share.  </li>\n<li><strong>Key Holder</strong>: KMP Lucas Braceras exercised 1,500,000 options (full tranche).  </li>\n<li><strong>Issued Capital Post-Conversion</strong>: 556,211,485 ordinary shares (YAR) on issue.  </li>\n<li><strong>Outstanding Options</strong>: Remaining YARAX options (3,000,000) and YARAW options (10,000,000) unquoted.  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1557,
-      "completion_tokens": 218,
-      "total_tokens": 1775,
+      "completion_tokens": 135,
+      "total_tokens": 1692,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:42.621269"
+    "processed_at": "2025-07-17T05:45:18.272663"
   },
   {
     "ticker": "MIR",
@@ -274,15 +293,15 @@
     "date": "20250717",
     "time": "1432",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwpcldppr7v8.pdf",
-    "summary": "<ul>\n<li><strong>Capital Raising Outcome</strong>: Successfully raised $85.1 million via Entitlement Offer and Top-Up Facility (119% take-up, scaled back).  </li>\n<li><strong>Offer Price</strong>: Shares issued at $3.06, now trading higher. New shares eligible for 6.5\u00a2 final dividend.  </li>\n<li><strong>Portfolio Performance</strong>: Highlighted top performers (e.g., Temple &amp; Webster +127%, Hub24 +93%) and detractors (e.g., IDP Education -75%, OFX -67%).  </li>\n<li><strong>Cash Position</strong>: 11% of portfolio held in cash post-raising; disciplined approach to deploying capital.  </li>\n<li><strong>Dividend Capacity</strong>: Significant franking credits available to support future dividends.  </li>\n</ul>\n<p><em>No material trading or capital structure impacts beyond the above.</em></p>",
+    "summary": "<p><strong>Capital Raising Announcement:</strong><br />\n- Successfully raised <strong>$85.1 million</strong> via <strong>Entitlement Offer</strong> with <strong>119% take-up</strong> (including Top-Up Facility).<br />\n- <strong>Offer price</strong>: $3.06 per share (trading above this post-raise).<br />\n- New shares eligible for <strong>final dividend of 6.5 cents per share</strong>.  </p>\n<p><strong>Portfolio Highlights (FY25):</strong><br />\n- <strong>Top performers</strong>: Temple &amp; Webster (+127%), Hub 24 (+93%), Life360 (+97%).<br />\n- <strong>Key detractors</strong>: IDP Education (-75%), OFX (-67%), Reece (-42%).<br />\n- <strong>Cash position</strong>: 11% of portfolio value post-raise.  </p>\n<p><strong>Outlook:</strong><br />\n- Focus on disciplined investment approach; excess cash held for future opportunities.<br />\n- Expects market volatility to create mid/small-cap buying opportunities.  </p>\n<p><em>Omitted:</em> Non-material holdings, operational boilerplate, disclaimer text.</p>",
     "usage": {
       "prompt_tokens": 1731,
-      "completion_tokens": 160,
-      "total_tokens": 1891,
+      "completion_tokens": 201,
+      "total_tokens": 1932,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:21:33.408916"
+    "processed_at": "2025-07-17T05:48:07.234281"
   },
   {
     "ticker": "CAA",
@@ -293,15 +312,15 @@
     "date": "20250717",
     "time": "1422",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwp5gcbz68fn.pdf",
-    "summary": "<p><strong>Acquisition Announcement Summary:</strong><br />\n- <strong>Target:</strong> Comsupply Pty Ltd (Perth-based aluminium systems/hardware distributor)<br />\n- <strong>Revenue:</strong> ~$15M annually<br />\n- <strong>Strategic Rationale:</strong> Expands Capral's WA footprint; includes patented QRK partition systems for national growth.<br />\n- <strong>Structure:</strong> Standalone operation post-acquisition; integration planned.<br />\n- <strong>Condition:</strong> Completion subject to customary conditions.  </p>\n<p><em>Omitted: Management quotes, operational details, non-material background.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Acquisition  </li>\n<li><strong>Target:</strong> Comsupply Pty Ltd (aluminium systems &amp; hardware distributor, Western Australia)  </li>\n<li><strong>Revenue:</strong> Target generates ~$15M annual revenue  </li>\n<li><strong>Strategic Rationale:</strong> Expands Capral\u2019s aluminium systems/hardware offering; includes patented QRK partition systems for potential national expansion  </li>\n<li><strong>Integration:</strong> Comsupply to operate standalone initially, reporting into Capral\u2019s Building Systems division  </li>\n<li><strong>Conditions:</strong> Subject to customary completion conditions  </li>\n</ul>\n<p><em>Omitted:</em> Management quotes, operational details of Comsupply, contact info.</p>",
     "usage": {
       "prompt_tokens": 781,
-      "completion_tokens": 105,
-      "total_tokens": 886,
+      "completion_tokens": 123,
+      "total_tokens": 904,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:21:17.972348"
+    "processed_at": "2025-07-17T05:48:01.686980"
   },
   {
     "ticker": "IS3",
@@ -312,15 +331,15 @@
     "date": "20250717",
     "time": "1421",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwp3666r3d5g.pdf",
-    "summary": "<p><strong>Substantial Holder Notice Summary (ASX Form 603):</strong><br />\n- <strong>Substantial Holder:</strong> Lee Bee Chen<br />\n- <strong>Date Became Substantial Holder:</strong> 14 July 2025<br />\n- <strong>Details:</strong><br />\n  - Holds <strong>102,460,273 fully paid ordinary shares</strong> in Synergy Group Limited (6.00% voting power).<br />\n  - <strong>Nature of Interest:</strong> Direct registered holder.<br />\n  - <strong>Consideration:</strong> No cash/non-cash details disclosed.  </p>\n<p><strong>No material trading or capital markets impact identified</strong> (disclosure of existing holding only).</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<ul>\n<li><strong>Substantial Holder Disclosure</strong>:  </li>\n<li><strong>Holder</strong>: Lee Bee Chen  </li>\n<li><strong>Date of Becoming Substantial Holder</strong>: 14 July 2025  </li>\n<li><strong>Shares Acquired</strong>: 102,460,273 <strong>Fully Paid Ordinary Shares</strong>  </li>\n<li><strong>Voting Power</strong>: <strong>6.00%</strong> (of 1,709,788,935 total votes)  </li>\n<li><strong>Consideration</strong>: <strong>Cash</strong> (no further details disclosed)  </li>\n</ul>\n<p>No other material information for trading or capital markets decisions identified.  </p>\n<p><em>(Note: Date \"14/07/2025\" appears incorrect/typo\u2014likely intended as 2018.)</em>  </p>\n<hr />\n<p><strong>Formatting Note</strong>: Excluded legal boilerplate, form instructions, and non-material associations. Focused solely on equity stake details impacting ownership structure.</p>",
     "usage": {
       "prompt_tokens": 1445,
-      "completion_tokens": 124,
-      "total_tokens": 1569,
+      "completion_tokens": 179,
+      "total_tokens": 1624,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:19:19.385863"
+    "processed_at": "2025-07-17T05:46:50.736318"
   },
   {
     "ticker": "GBZ",
@@ -331,15 +350,15 @@
     "date": "20250717",
     "time": "1421",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwp10pl7drwp.pdf",
-    "summary": "<p><strong>Substantial Holding Notice (Form 604) Summary:</strong>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> Wise Walkers Limited  </li>\n<li><strong>Change in Voting Power:</strong> Decreased from <strong>9.99% (89,018,700 shares)</strong> to <strong>7.85% (111,111,111 shares)</strong> due to dilution from a share issuance (27/06/2025).  </li>\n<li><strong>Recent Share Acquisition:</strong>  </li>\n<li><strong>16/04/2024:</strong> Acquired <strong>22,092,411 shares</strong> via placement at <strong>$198,832 total consideration</strong>.  </li>\n<li><strong>Current Holding:</strong>  </li>\n<li><strong>111,111,111 ordinary shares</strong> held beneficially.  </li>\n</ul>\n<p><strong>No other material information identified.</strong>  </p>\n<p><em>(Note: Decline in % voting power reflects increased share issuance by the company, not a reduction in Wise Walkers' holdings.)</em></p>",
+    "summary": "<h3><strong>ASX Announcement Summary</strong></h3>\n<p><strong>Form 604 \u2013 Change in Substantial Holding (GBM Resources Limited)</strong>  </p>\n<ul>\n<li><strong>Substantial Holder</strong>: Wise Walkers Limited  </li>\n<li><strong>Change Date</strong>: 27 June 2025 (voting power dilution due to share issuance)  </li>\n<li><strong>Previous Holding</strong>: 89,018,700 ordinary shares (9.99% voting power)  </li>\n<li><strong>Current Holding</strong>: 111,111,111 ordinary shares (7.85% voting power)  </li>\n<li><strong>Key Transaction</strong>:  </li>\n<li><strong>16 April 2024</strong>: Placement of 22,092,411 shares at $198,832 consideration.  </li>\n</ul>\n<p><strong>Material Impact</strong>: Dilution reduces Wise Walkers' voting power despite increased shareholding. No new associations or control changes noted.  </p>\n<p><em>(Omitted: Addresses, director names, legal boilerplate.)</em></p>",
     "usage": {
       "prompt_tokens": 1522,
-      "completion_tokens": 177,
-      "total_tokens": 1699,
+      "completion_tokens": 179,
+      "total_tokens": 1701,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:20:13.814342"
+    "processed_at": "2025-07-17T05:47:20.472959"
   },
   {
     "ticker": "GCI",
@@ -350,15 +369,15 @@
     "date": "20250717",
     "time": "1414",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnxh5mcgqjf.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: Daily NTA updates are routine and do not typically contain material trading or capital markets information unless there is a significant deviation from expected values or accompanying commentary. This is a standard disclosure with no actionable data.)</p>",
+    "summary": "<p><strong>ASX Announcement Summary - Daily NTA Update</strong><br />\n- <strong>NTA per unit (16 July 2025):</strong> $2.0136 (unaudited, approximate).  </p>\n<p><strong>No material information identified</strong> (routine NTA disclosure without trading or capital impact).</p>",
     "usage": {
       "prompt_tokens": 454,
-      "completion_tokens": 50,
-      "total_tokens": 504,
+      "completion_tokens": 58,
+      "total_tokens": 512,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:21:14.674550"
+    "processed_at": "2025-07-17T05:47:58.999167"
   },
   {
     "ticker": "MAH",
@@ -369,15 +388,15 @@
     "date": "20250717",
     "time": "1407",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnt0nphwws1.pdf",
-    "summary": "<p><strong>Summary of Appendix 3G - Macmahon Holdings Limited (MAH):</strong>  </p>\n<ul>\n<li><strong>New Share Rights Issuance</strong>: 656,300 unquoted MAHAO Share Rights issued under the Non-Executive Director Salary Sacrifice Plan (2018).  </li>\n<li><strong>Key Management Personnel (KMP) Allocations</strong>:  </li>\n<li>Greg Evans: 128,200  </li>\n<li>Maree Arnason: 271,800  </li>\n<li>Dharmendra Chandran: 256,300  </li>\n<li><strong>Vesting Schedule</strong>:  </li>\n<li>50% to vest after 1H26 results (February 2026), remaining 50% after FY26 results (August 2026).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Quoted ordinary shares (MAH): 2,154,985,818  </li>\n<li>Unquoted MAHAO Share Rights: 986,235 (total post-issue).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine employee incentive issuance).</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Employee incentive scheme issuance (unquoted securities)<br />\npermalink- <strong>Details</strong>:  </li>\n<li><strong>656,300 Share Rights</strong> (MAHAO) issued on <strong>17/07/2025</strong> under the Non-Executive Director Salary Sacrifice Plan.  </li>\n<li><strong>Recipients</strong>:  <ul>\n<li>Greg Evans: 128,200  </li>\n<li>Maree Arnason: 271,800  </li>\n<li>Dharmendra Chandran: 256,300  </li>\n</ul>\n</li>\n<li><strong>Vesting</strong>: 50% in Feb 2026 (post-1H26 results), 50% in Aug 2026 (post-FY26 results).  </li>\n<li><strong>Total unquoted Share Rights outstanding</strong>: 986,235 (MAHAO).  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified (routine employee incentive issuance).</em></p>",
     "usage": {
       "prompt_tokens": 1676,
-      "completion_tokens": 213,
-      "total_tokens": 1889,
+      "completion_tokens": 179,
+      "total_tokens": 1855,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:20:44.481351"
+    "processed_at": "2025-07-17T05:47:49.267819"
   },
   {
     "ticker": "ATH",
@@ -388,15 +407,15 @@
     "date": "20250717",
     "time": "1406",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnqqd9g5f0x.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 79,999,800 ordinary fully paid shares (ASX: ATH) issued due to the exercise of options (ATHAC).  </li>\n<li><strong>Issue Details</strong>:  </li>\n<li>Issue price: <strong>USD 0.003 per share</strong>.  </li>\n<li>Issue date: <strong>17 July 2025</strong>.  </li>\n<li>Rank equally with existing shares.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Total ordinary shares on issue: <strong>9,207,370,486</strong>.  </li>\n<li>Key unquoted options remain outstanding (e.g., ATHAC: 40,000,200 options remaining).  </li>\n<li><strong>Key Management Involvement</strong>: Options exercised by KMP <strong>David Stamler</strong> (79,999,800 shares).  </li>\n</ul>\n<p><em>No material trading or capital markets action required; routine issuance from option conversion.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 79,999,800 ordinary fully paid shares (ATH) issued due to conversion of options (ATHAC).  </li>\n<li><strong>Issue Price</strong>: USD 0.003 per share.  </li>\n<li><strong>Key Management Involvement</strong>: Options exercised by KMP David Stamler (79,999,800 shares).  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>Ordinary shares (ATH) on issue: 9,207,370,486.  </li>\n<li>Unlisted options outstanding: Multiple tranches with varying expiry dates and exercise prices.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond standard option conversion.</em></p>",
     "usage": {
       "prompt_tokens": 1817,
-      "completion_tokens": 176,
-      "total_tokens": 1993,
+      "completion_tokens": 132,
+      "total_tokens": 1949,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:53.257462"
+    "processed_at": "2025-07-17T05:45:47.857486"
   },
   {
     "ticker": "MEG",
@@ -407,15 +426,15 @@
     "date": "20250717",
     "time": "1405",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnndlhqjn42.pdf",
-    "summary": "<p>No material information identified for trading or capital markets decisions.<br />\n- This is a routine disclosure of a director's initial shareholding and options (1M ordinary shares / 3M unlisted options), with no immediate impact on capital structure or liquidity.</p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(The Appendix 3X is a routine disclosure of initial director holdings and does not contain information relevant to trading or capital markets decisions.)</em></p>",
     "usage": {
       "prompt_tokens": 779,
-      "completion_tokens": 51,
-      "total_tokens": 830,
+      "completion_tokens": 35,
+      "total_tokens": 814,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:22.623000"
+    "processed_at": "2025-07-17T05:45:06.551664"
   },
   {
     "ticker": "RCM",
@@ -426,15 +445,15 @@
     "date": "20250717",
     "time": "1402",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnkxf779rk0.pdf",
-    "summary": "<h3><strong>Summary of ASX Announcement (Change of Director\u2019s Interests)</strong></h3>\n<ul>\n<li><strong>Key Event:</strong> Directors issued new options approved at EGM on 7 July 2025.  </li>\n<li><strong>Options Issued:</strong>  </li>\n<li><strong>Exercise Price:</strong> $0.04008  </li>\n<li><strong>Expiry:</strong> 17 July 2030  </li>\n<li>\n<p><strong>Issued to Directors (Total):</strong> <strong>~12.96 million options</strong> (details below).  </p>\n<ul>\n<li><strong>Daniel Smith (Indirect):</strong> 798,519  </li>\n<li><strong>Michael McNeilly (Direct):</strong> 798,519  </li>\n<li><strong>Michael Schlumpberger (Direct):</strong> 798,519  </li>\n<li><strong>Richard Stacey Anthon (Direct/Nambia Pty Ltd):</strong> 798,519  </li>\n<li><strong>Martin Holland (Indirect/Holland Intl.):</strong> <strong>9,582,223</strong>  </li>\n</ul>\n</li>\n<li>\n<p><strong>Capital Structure Note:</strong> Follows a <strong>1:12 share consolidation</strong> effective 16 July 2025 (adjusted option exercise prices reflected).  </p>\n</li>\n<li><strong>Closed Period:</strong> No trading during a closed period.  </li>\n</ul>\n<p><strong>No other material trading or capital markets impacts identified.</strong>  </p>\n<p><em>(Note: Excluded routine disclosures of pre/post-consolidation holdings, non-traded interests, and legal boilerplate.)</em></p>",
+    "summary": "<h3><strong>Summary of Material Information</strong></h3>\n<ul>\n<li><strong>Type</strong>: Change of Director\u2019s Interest Notices (Appendix 3Y)  </li>\n<li><strong>Key Updates</strong>:  </li>\n<li><strong>Daniel Smith (Indirect)</strong>:  <ul>\n<li>Post-consolidation (1:12) holdings: 116,274 shares; 70,899 options ($0.204 exp. 2027); 833,334 options ($0.0612 exp. 2030); <strong>new 798,519 options ($0.04008 exp. 2030)</strong>.  </li>\n</ul>\n</li>\n<li><strong>Michael McNeilly (Direct)</strong>:  <ul>\n<li>Post-consolidation: 1,666,667 shares; 277,500 options ($4.008 exp. 2026); <strong>new 798,519 options ($0.04008 exp. 2030)</strong>.  </li>\n</ul>\n</li>\n<li><strong>Michael Schlumpberger (Direct)</strong>:  <ul>\n<li>Post-consolidation: 841,615 shares; 305,047 options ($0.204 exp. 2029); <strong>new 798,519 options ($0.04008 exp. 2030)</strong>.  </li>\n</ul>\n</li>\n<li><strong>Martin Holland (Indirect)</strong>:  <ul>\n<li>Post-consolidation: 113,685 shares; <strong>new 9,582,223 options ($0.04008 exp. 2030)</strong>.  </li>\n</ul>\n</li>\n<li><strong>Common Details</strong>:  </li>\n<li>All changes approved at EGM (7 July 2025).  </li>\n<li><strong>No closed-period trading</strong>.  </li>\n</ul>\n<p><strong>Conclusion</strong>: No immediate material impact on liquidity or capital structure. Noteworthy for future dilution (options issuance).</p>",
     "usage": {
       "prompt_tokens": 5523,
-      "completion_tokens": 270,
-      "total_tokens": 5793,
+      "completion_tokens": 340,
+      "total_tokens": 5863,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:19.896157"
+    "processed_at": "2025-07-17T05:45:03.681867"
   },
   {
     "ticker": "RCM",
@@ -445,15 +464,15 @@
     "date": "20250717",
     "time": "1400",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwnh9yncdhs0.pdf",
-    "summary": "<ul>\n<li><strong>Security Type</strong>: 25,552,595 unlisted options issued  </li>\n<li><strong>Exercise Price</strong>: AUD 0.04  </li>\n<li><strong>Expiry Date</strong>: 17 July 2030  </li>\n<li><strong>Purpose</strong>: Director remuneration (non-cash)  </li>\n<li><strong>Approval</strong>: Approved via resolutions 2\u20138 at EGM on 7 July 2025  </li>\n<li><strong>Underlying Security</strong>: RCM ordinary shares  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li>Total unquoted options on issue: 25,552,595 (new class) + existing unquoted options (sum of other classes).  </li>\n<li>Total quoted securities unchanged.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond dilutive effect of new options.</em></p>",
+    "summary": "<h3>Summary:</h3>\n<p><strong>Type:</strong> Appendix 3G - Notification of Unquoted Securities Issuance<br />\n- <strong>Security Issued:</strong> 25,552,595 Unlisted Options<br />\n- <strong>Exercise Price:</strong> AUD 0.040<br />\n- <strong>Expiry Date:</strong> 17 July 2030<br />\n- <strong>Underlying Security:</strong> RCM Ordinary Shares (Fully Paid)<br />\n- <strong>Purpose:</strong> Director remuneration (non-cash)<br />\n- <strong>Approval:</strong> Shareholder approval obtained via EGM on 7 July 2025.  </p>\n<p><strong>Note:</strong> No immediate liquidity or capital structure impact (unquoted, non-dilutive until exercised).</p>",
     "usage": {
       "prompt_tokens": 1873,
-      "completion_tokens": 155,
-      "total_tokens": 2028,
+      "completion_tokens": 134,
+      "total_tokens": 2007,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:49.135055"
+    "processed_at": "2025-07-17T05:45:33.673728"
   },
   {
     "ticker": "NWC",
@@ -464,15 +483,15 @@
     "date": "20250717",
     "time": "1348",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwn8rz9j716s.pdf",
-    "summary": "<p><strong>Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Revised Offer Price:</strong> Increased to <strong>A$0.066 per NWR share</strong> (from A$0.063), representing premiums of 135.7% to last close, 230% to last placement price (A$0.020).  </li>\n<li><strong>Offer Now Unconditional:</strong> All conditions waived; Kinterra holds <strong>19.43% voting power</strong> in NWR.  </li>\n<li><strong>Potential Further Increase:</strong> Offer price may rise to <strong>A$0.067/share</strong> if Kinterra\u2019s stake exceeds <strong>30% by 24 July 2025</strong>.  </li>\n<li><strong>Payment Acceleration:</strong> Accepting shareholders receive payment within <strong>5 business days</strong> (previously longer).  </li>\n<li><strong>Competitive Position:</strong> Revised offer (A$0.066) <strong>exceeds rival CAML\u2019s bid</strong> (A$0.065).  </li>\n<li><strong>Interim Funding:</strong> Kinterra matches CAML\u2019s proposed <strong>US$6.5M loan facility</strong> for NWR\u2019s Antler Project.  </li>\n<li><strong>On-Market Purchases:</strong> Broker appointed to buy NWR shares <strong>at or below offer price</strong>; disclosures via ASX notices.  </li>\n</ul>\n<p><strong>Actionable Takeaways:</strong><br />\n- Immediate liquidity opportunity for shareholders at a <strong>significant premium to historical prices</strong>.<br />\n- Deadline to monitor: <strong>24 July 2025</strong> (potential price bump to A$0.067).<br />\n- Rival bid dynamics may drive further adjustments.  </p>\n<p><em>Omitted: Legal boilerplate, director names, non-competitive historical premiums.</em></p>",
+    "summary": "<p><strong>Material Information Summary (Takeover Offer Update):</strong><br />\n- <strong>Offer Price Increased:</strong> A$0.066 per share (from A$0.063), representing premiums of 135.7%-230% to historical metrics.<br />\n- <strong>Offer Declared Unconditional:</strong> No remaining conditions; payment terms reduced to <strong>5 business days</strong> after acceptance.<br />\n- <strong>Potential Further Increase:</strong> Price may rise to <strong>A$0.067/share</strong> if Kinterra\u2019s stake exceeds <strong>30% by 24 July 2025</strong>.<br />\n- <strong>Competing Offer Comparison:</strong> Kinterra\u2019s revised bid (A$0.066) exceeds CAML\u2019s offer (A$0.065).<br />\n- <strong>Interim Funding Proposal:</strong> Kinterra matches CAML\u2019s terms for a <strong>US$6.5M loan facility</strong> to NWR.<br />\n- <strong>On-Market Purchases:</strong> Broker appointed to buy shares at/below offer price; transactions disclosed via ASX notices.  </p>\n<p><em>Omitted: Legal boilerplate, director names, non-material background.</em></p>",
     "usage": {
       "prompt_tokens": 2152,
-      "completion_tokens": 322,
-      "total_tokens": 2474,
+      "completion_tokens": 222,
+      "total_tokens": 2374,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:16:13.221337"
+    "processed_at": "2025-07-17T05:44:53.074576"
   },
   {
     "ticker": "YAR",
@@ -483,15 +502,15 @@
     "date": "20250717",
     "time": "1346",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwn69v4k1ywz.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 86,045,322 new YAR ordinary fully paid shares issued.  </li>\n<li><strong>Issue Date</strong>: 16 July 2025.  </li>\n<li><strong>Purpose</strong>: Part consideration for acquisition of Resource Chain Pty Ltd (owner of Rolleston South Coal Project).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total YAR ordinary shares on issue will be 640,756,807.  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing shares.  </li>\n</ul>\n<p><em>No material trading or capital raising implications identified (non-cash transaction).</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 86,045,322 new ordinary fully paid shares (ASX: YAR) issued on 16/07/2025.  </li>\n<li><strong>Purpose</strong>: Part consideration for acquisition of Resource Chain Pty Ltd (owner of Rolleston South Coal Project).  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue: 640,756,807 (quoted) + 14.5M unquoted options.  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing ordinary shares.  </li>\n</ul>\n<p><em>(Note: No cash consideration involved; execution is via conversion of performance rights.)</em></p>",
     "usage": {
       "prompt_tokens": 1495,
-      "completion_tokens": 116,
-      "total_tokens": 1611,
+      "completion_tokens": 129,
+      "total_tokens": 1624,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-17T05:19:38.815069"
+    "processed_at": "2025-07-17T05:47:05.906109"
   },
   {
     "ticker": "CUF",
