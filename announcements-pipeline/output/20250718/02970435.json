@@ -7,13 +7,13 @@
   "date": "20250718",
   "time": "0842",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxbg0szfdjfc.pdf",
-  "summary": "Got it. Here\u2019s how I\u2019ll structure responses for equity capital markets-relevant ASX announcements:  \n\n### **Trading Halt Request**  \n- *Reason*: [One-line summary of the halt reason (e.g., \"Pending capital raising announcement\")].  \n\n### **Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer]  \n- *Amount*: AUD [X] million  \n- *Key Dates*: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n- *Use of Funds*: [Top 1-2 priority uses if disclosed]  \n\n### **Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD [X]m  \n- *Cash Burn (if applicable)*: AUD [X]m (net outflow)  \n- *Key Highlights*: [Major operational milestones, revenue/expense surprises, material contingencies]  \n\n### **Other Announcement Types**  \n- **M&A/Asset Sale**: [Deal size, counterparty, material conditions]  \n- **Material Contract**: [Key terms, duration, financial impact]  \n- **Governance Change**: [Only if CEO/CFO change or major board overhaul]  \n- **Regulatory/Litigation**: [Only if fines/penalties >5% market cap or existential risk]  \n\n*If unclear or immaterial*: \"No material information identified.\"  \n\n**Example Responses:**  \n*Capital Raising*:  \n- *Structure*: Placement + SPP  \n- *Amount*: AUD 50m (Placement AUD 40m, SPP AUD 10m)  \n- *Key Dates*: Ex 15/04, Record 16/04, Close 30/04  \n- *Use of Funds*: Debt reduction (AUD 30m), growth capex (AUD 20m)  \n\n*4C*:  \n- *Cash Balance*: AUD 12.5m  \n- *Cash Burn*: AUD 2.1m (QoQ)  \n- *Key Highlights*: Sales +15% QoQ; new commercial agreement signed  \n\nLet me know if you'd like me to analyze a specific ASX announcement PDF.",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I\u2019ll extract the material information in the requested concise format.  \n\nExample outputs based on announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending a material announcement regarding a capital raising.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP  \n   - *Total raised*: AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n   - *Key dates*: Ex-date: DD/MM/YYYY, Record: DD/MM/YYYY, Close: DD/MM/YYYY  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: AUD 12.5M  \n   - *Highlights*: Quarterly revenue AUD 3.2M (+15% QoQ), milestone X achieved.  \n\n4. **Other Announcement**:  \n   - *Material impact*: Major contract signed (AUD 100M over 3 years).  \n   - *Liquidity update*: Debt facility extended to AUD 25M.  \n\n**If you share the announcement (or paste text), I\u2019ll summarize it per the rules above.** No fluff, just trading-relevant points.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 479,
-    "total_tokens": 709,
+    "completion_tokens": 282,
+    "total_tokens": 512,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-17T23:06:29.065075"
+  "processed_at": "2025-07-17T23:22:03.843661"
 }
