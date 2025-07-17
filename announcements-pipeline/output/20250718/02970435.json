@@ -7,13 +7,13 @@
   "date": "20250718",
   "time": "0842",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxbg0szfdjfc.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract the material information in the requested concise bullet-point format, tailored to the announcement type.  \n\nIf you share the content, I will immediately return:  \n1. **Announcement Type** (e.g., Capital Raising, Quarterly, Trading Halt)  \n2. **Material Information** (strictly relevant to trading/capital markets, no fluff).  \nExample outputs:  \n\n**Trading Halt:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising (Placement):**  \n- AUD 50M at $0.20/share (10% discount).  \n- Key dates: Ex-date 15/03, Bookbuild 18/03.  \n\n**Appendix 4C:**  \n- Cash balance AUD 2.1M (QoQ -15%).  \n- Quarterly cash burn AUD 0.4M.  \n\n**Other Announcement:**  \n- Major asset sale: AUD 30M (~50% of market cap).  \n- board Change: CEO resigning effective immediately.  \n\nIf no material data: *No material information identified.*  \n\nReady for your document.",
+  "summary": "Got it. Here\u2019s how I\u2019ll structure responses for equity capital markets-relevant ASX announcements:  \n\n### **Trading Halt Request**  \n- *Reason*: [One-line summary of the halt reason (e.g., \"Pending capital raising announcement\")].  \n\n### **Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer]  \n- *Amount*: AUD [X] million  \n- *Key Dates*: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM]  \n- *Use of Funds*: [Top 1-2 priority uses if disclosed]  \n\n### **Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: AUD [X]m  \n- *Cash Burn (if applicable)*: AUD [X]m (net outflow)  \n- *Key Highlights*: [Major operational milestones, revenue/expense surprises, material contingencies]  \n\n### **Other Announcement Types**  \n- **M&A/Asset Sale**: [Deal size, counterparty, material conditions]  \n- **Material Contract**: [Key terms, duration, financial impact]  \n- **Governance Change**: [Only if CEO/CFO change or major board overhaul]  \n- **Regulatory/Litigation**: [Only if fines/penalties >5% market cap or existential risk]  \n\n*If unclear or immaterial*: \"No material information identified.\"  \n\n**Example Responses:**  \n*Capital Raising*:  \n- *Structure*: Placement + SPP  \n- *Amount*: AUD 50m (Placement AUD 40m, SPP AUD 10m)  \n- *Key Dates*: Ex 15/04, Record 16/04, Close 30/04  \n- *Use of Funds*: Debt reduction (AUD 30m), growth capex (AUD 20m)  \n\n*4C*:  \n- *Cash Balance*: AUD 12.5m  \n- *Cash Burn*: AUD 2.1m (QoQ)  \n- *Key Highlights*: Sales +15% QoQ; new commercial agreement signed  \n\nLet me know if you'd like me to analyze a specific ASX announcement PDF.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 248,
-    "total_tokens": 478,
+    "completion_tokens": 479,
+    "total_tokens": 709,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-17T22:55:29.444735"
+  "processed_at": "2025-07-17T23:06:29.065075"
 }
