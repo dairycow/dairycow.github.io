@@ -1,0 +1,19 @@
+{
+  "ticker": "ADG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970222",
+  "id": "02970222",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "1308",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwmdynl1qwmb.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, excerpts), and I will generate a ruthlessly concise summary tailored to capital markets relevance, strictly adhering to your guidelines.  \n\nExample Output Styles:  \n- **Trading Halt**: \"Reason: Pending capital raising announcement.\"  \n- **Capital Raising**: \"Structure: $50M placement + $10M SPP. Key dates: Ex-date 15/05, Close 30/05.\"  \n- **Appendix 4C**: \"Cash balance: $12.3M. Quarterly cash burn: $2.1M. Milestone: Phase 2 trial enrolled 80%.\"  \n\nSubmit the document/text, and I\u2019ll distill it to *only* material trading/capital markets information.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 168,
+    "total_tokens": 393,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T03:20:57.845117"
+}
