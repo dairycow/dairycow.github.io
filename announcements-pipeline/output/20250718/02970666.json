@@ -1,0 +1,19 @@
+{
+  "ticker": "IMU",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970666",
+  "id": "02970666",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250718",
+  "time": "1622",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxxvrkjdcqgm.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points.  \n\nIf the document is:  \n- **Trading Halt**: Reason only.  \n- **Capital Raising**: Structure, total raised (AUD), key dates.  \n- **Quarterly Report (4C)**: Key operational/financial highlights, closing cash balance.  \n- **Other Announcements**: Only 2-3 critical points impacting valuation, liquidity, or capital structure.  \n\nIf unclear or immaterial: *\"No material information identified.\"*  \n\nProvide the document or text, and I\u2019ll summarize it strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 152,
+    "total_tokens": 397,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-18T06:42:55.609133"
+}
