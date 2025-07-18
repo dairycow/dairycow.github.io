@@ -7,13 +7,13 @@
   "date": "20250718",
   "time": "1622",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxxvrkjdcqgm.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as concise bullet points.  \n\nIf the document is:  \n- **Trading Halt**: Reason only.  \n- **Capital Raising**: Structure, total raised (AUD), key dates.  \n- **Quarterly Report (4C)**: Key operational/financial highlights, closing cash balance.  \n- **Other Announcements**: Only 2-3 critical points impacting valuation, liquidity, or capital structure.  \n\nIf unclear or immaterial: *\"No material information identified.\"*  \n\nProvide the document or text, and I\u2019ll summarize it strictly per your rules.",
+  "summary": "Understood. Please provide the ASX announcement PDF or paste its material content, and I will extract only the key trading or capital markets information in the requested concise format (bullet points, tailored to announcement type).  \n\nExample outputs:  \n\n**Capital Raising Announcement**  \n- Type: Placement + SPP  \n- Amount: AUD 50M (Placement AUD 40M, SPP AUD 10M)  \n- Key dates: Ex-date 15/06, Record 18/06, SPP close 30/06.  \n\n**Appendix 4C (Quarterly)**  \n- Cash balance: AUD 12.5M (prior quarter AUD 15.2M).  \n- Key highlight: Gold production 8,200oz (guidance 8,000oz).  \n\n**Trading Halt**  \n- Reason: Pending capital raising announcement.  \n\n**Other Announcement**  \n- Strategic acquisition of [Asset] for AUD 25M (30% EPS accretive).  \n- Debt facility increased to AUD 100M (from AUD 60M).  \n\nIf no material details are found, I will reply: *No material information identified*.  \n\nGo ahead with the announcement text or file.",
   "usage": {
     "prompt_tokens": 245,
-    "completion_tokens": 152,
-    "total_tokens": 397,
+    "completion_tokens": 251,
+    "total_tokens": 496,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-18T06:42:55.609133"
+  "processed_at": "2025-07-18T07:03:56.393511"
 }
