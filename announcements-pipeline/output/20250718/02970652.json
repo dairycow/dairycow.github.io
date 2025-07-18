@@ -6,14 +6,5 @@
   "price_sensitive": false,
   "date": "20250718",
   "time": "1546",
-  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxwpk5pbftnp.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** you'd like analyzed, and I will:  \n\n1. **Quickly identify the announcement type** (e.g., trading halt, capital raising, Appendix 4C, M&A, etc.).  \n2. **Extract only material information** relevant to trading or capital markets decisions.  \n3. **Format the summary as concise bullet points**, tailored to the announcement type (per your guidelines).  \n4. **Exclude all fluff** (legal boilerplate, director names, non-material operational updates).  \n\nIf the document lacks material information, I\u2019ll state: *\"No material information identified.\"*  \n\n**Example Outputs:**  \n\n- **Trading Halt:** *\"Halt requested pending release of capital raising details.\"*  \n- **Capital Raising:** *\"A$50M placement + A$10M SPP. Ex-date: 15 Oct, Bookbuild: 18 Oct, SPP close: 30 Oct.\"*  \n- **Appendix 4C:** *\"Cash balance A$2.1M (QoQ -15%). Net operating cash outflow A$1.4M. Milestone: Phase 1 trial completed.\"*  \n- **Other:** *\"Strategic acquisition of X for A$100M, funded via 70% scrip. Expected EPS accretive in FY25.\"*  \n\n**Next Steps:** Upload/share the announcement, and I\u2019ll provide the summary.",
-  "usage": {
-    "prompt_tokens": 230,
-    "completion_tokens": 306,
-    "total_tokens": 536,
-    "prompt_tokens_details": null
-  },
-  "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-18T06:02:19.660869"
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxwpk5pbftnp.pdf"
 }
