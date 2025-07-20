@@ -1,5 +1,24 @@
 [
   {
+    "ticker": "KI1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970794",
+    "id": "02970794",
+    "pages": 13,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "0815",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lz15yld6j98g.pdf",
+    "summary": "<h3><strong>Kingfisher Trust 2019-1 (ASX: KI1) \u2013 Investor Report Summary</strong></h3>\n<h4><strong>Key Details</strong></h4>\n<ul>\n<li><strong>Reporting Period End Date:</strong> 30 Jun 2025  </li>\n<li><strong>Payment Date:</strong> 21 Jul 2025  </li>\n<li><strong>Next Payment Date:</strong> 19 Aug 2025  </li>\n<li><strong>Current Aggregate Principal Balance (Pool):</strong> <strong>AUD 339.3m</strong> (down from AUD 344.4m prior period)  </li>\n<li><strong>Closing Cash Balance (Trust):</strong> Not explicitly stated (but <strong>Total Available Income = AUD 1.82m</strong>, surplus of AUD 197.8k distributed).  </li>\n</ul>\n<h4><strong>Credit Performance</strong></h4>\n<ul>\n<li><strong>Delinquencies (30+ days):</strong> <strong>1.81%</strong> of pool by balance (AUD 6.14m)  </li>\n<li>\n<blockquote>\n<p>60 days: 0.82% (AUD 2.8m)  </p>\n</blockquote>\n</li>\n<li>\n<blockquote>\n<p>180 days: 0.47% (AUD 1.58m)  </p>\n</blockquote>\n</li>\n<li><strong>Charge-offs:</strong> <strong>None</strong> in current period; cumulative gross loss remains <strong>AUD 40.6k</strong> (fully covered).  </li>\n<li><strong>Prepayment Rate (CPR):</strong> <strong>17.55%</strong> (up from prior periods).  </li>\n</ul>\n<h4><strong>Pool Stratification</strong></h4>\n<ul>\n<li><strong>Weighted Avg. LTV:</strong> <strong>41.11%</strong> (Current LTV); <strong>30.33%</strong> (Indexed LTV)  </li>\n<li><strong>Occupancy:</strong> 81.1% owner-occupied, 18.9% investment.  </li>\n<li><strong>Interest Rates:</strong> Wt. avg. <strong>6.19%</strong> (majority between 5.75%\u20137.50%).  </li>\n</ul>\n<h4><strong>Note Class Performance</strong></h4>\n<p>| Class       | Rating (Moody\u2019s/Fitch) | Balance (AUD) | Principal Repayment (AUD) | Interest Paid (AUD) |<br />\n|-------------|------------------------|---------------|---------------------------|---------------------|<br />\n| <strong>A1</strong>      | Aaa(sf)/AAAsf          | 284.4m        | 4.29m                     | 1.18m               |<br />\n| <strong>A2</strong>      | Aaa(sf)/AAAsf          | 20.6m         | 310k                      | 97.5k               |<br />\n| <strong>B</strong>       | Aa1(sf)                | 19.2m         | 289k                      | 96.1k               |<br />\n| <strong>C</strong>       | Aa2(sf)                | 5.48m         | 82.7k                     | 29.9k               |  </p>\n<ul>\n<li><strong>No defaults</strong> or missed payments across all tranches.  </li>\n</ul>\n<h4><strong>Liquidity &amp; Facilities</strong></h4>\n<ul>\n<li><strong>Liquidity Facility:</strong> Undrawn (AUD 3.39m limit).  </li>\n<li><strong>Swap Receipts:</strong> Net <strong>AUD 82.7k</strong> (hedging income).  </li>\n</ul>\n<h4><strong>Material Changes</strong></h4>\n<ul>\n<li><strong>Principal Reduction:</strong> <strong>AUD 5.12m</strong> repaid this period (primarily to senior notes).  </li>\n<li><strong>High Prepayments:</strong> Accelerated repayments may signal refinancing activity.  </li>\n</ul>\n<p><strong>Conclusion:</strong> Stable performance; minimal credit risk, but monitor prepayment trends and delinquency roll rates.  </p>\n<hr />\n<p><strong>Note:</strong> Lacks material triggers for trading action (e.g., credit deterioration, capital changes). Operational details only.</p>",
+    "usage": {
+      "prompt_tokens": 20599,
+      "completion_tokens": 730,
+      "total_tokens": 21329,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-20T22:19:44.996605"
+  },
+  {
     "ticker": "IKE",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970793",
     "id": "02970793",
@@ -8,15 +27,15 @@
     "date": "20250721",
     "time": "0749",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lz0yd80f6n8n.pdf",
-    "summary": "<h3><strong>Capital Raising Announcement Summary</strong></h3>\n<p><strong>Structure:</strong><br />\n- Placement + Share Purchase Plan (SPP)  </p>\n<p><strong>Placement Details:</strong><br />\n- <strong>Total shares issued:</strong> 22,222,223 (IKE)<br />\n- <strong>Issue price:</strong> AUD 0.81 per share (or NZD 0.88 equivalent)<br />\n- <strong>Issue date:</strong> 22 July 2025  </p>\n<p><strong>SPP Details:</strong><br />\n- <strong>Potential additional shares:</strong> Up to ~2,469,135 (subject to scaleback)<br />\n- <strong>Expected SPP issue date:</strong> ~14 August 2025  </p>\n<p><strong>Post-Issue Capital:</strong><br />\n- <strong>Total ordinary shares on issue:</strong> 183,478,219 (quoted)<br />\n- <strong>Unquoted securities:</strong> 10,195,618 options (IKEAA)  </p>\n<p><em>Omitted: Non-material transactional details, legal boilerplate.</em></p>",
+    "summary": "<ul>\n<li><strong>Capital Raising Structure</strong>: Placement and Share Purchase Plan (SPP)  </li>\n<li><strong>Placement Details</strong>:  <ul>\n<li><strong>Number of shares issued</strong>: 22,222,223  </li>\n<li><strong>Issue price</strong>: AUD 0.81 (NZD 0.88 equivalent)  </li>\n<li><strong>Issue date</strong>: 22 July 2025  </li>\n</ul>\n</li>\n<li>\n<p><strong>SPP Details</strong>:  </p>\n<ul>\n<li><strong>Potential additional shares</strong>: Up to ~2,469,135  </li>\n<li><strong>Expected SPP issue date</strong>: On or around 14 August 2025  </li>\n</ul>\n</li>\n<li>\n<p><strong>Post-Issue Capital Structure</strong>:  </p>\n</li>\n<li><strong>Total quoted ordinary shares</strong>: 183,478,219  </li>\n<li><strong>Unquoted options</strong>: 10,195,618 (IKEAA)  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, currency conversion details, non-material timelines.</em></p>",
     "usage": {
       "prompt_tokens": 1333,
-      "completion_tokens": 185,
-      "total_tokens": 1518,
+      "completion_tokens": 178,
+      "total_tokens": 1511,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-20T21:59:54.840474"
+    "processed_at": "2025-07-20T22:18:50.119140"
   },
   {
     "ticker": "CEN",
@@ -27,14 +46,14 @@
     "date": "20250721",
     "time": "0730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lz0r9tm8yw40.pdf",
-    "summary": "<h3><strong>Monthly Operating Report \u2013 June 2025 Highlights</strong></h3>\n<h4><strong>Key Operational &amp; Financial Data</strong></h4>\n<ul>\n<li><strong>Mass Market Sales &amp; Netback</strong>  </li>\n<li>Electricity &amp; gas sales: <strong>410GWh</strong> (vs. 416GWh in June 2024).  </li>\n<li>\n<p>Netback: <strong>$146.32/MWh</strong> (vs. $126.34/MWh in June 2024).  </p>\n</li>\n<li>\n<p><strong>Wholesale Business</strong>  </p>\n</li>\n<li>Contracted electricity sales: <strong>810GWh</strong> (vs. 795GWh in June 2024).  </li>\n<li>Net revenue: <strong>$186.08/MWh</strong> (vs. $167.12/MWh in June 2024).  </li>\n<li>\n<p>Generation cost: <strong>$54.27/MWh</strong> (vs. $54.53/MWh in June 2024).  </p>\n</li>\n<li>\n<p><strong>Hydro &amp; Storage (as of 14 July 2025)</strong>  </p>\n</li>\n<li>South Island storage: <strong>95% of mean</strong>.  </li>\n<li>North Island storage: <strong>148% of mean</strong>.  </li>\n<li>\n<p>Clutha inflows: <strong>84% of mean</strong> (down from 100% in May 2025).  </p>\n</li>\n<li>\n<p><strong>Otahuhu Futures (Q4 2025)</strong>  </p>\n</li>\n<li>\n<p><strong>$138.3/MWh</strong> (15 Jul) vs. <strong>$133.05/MWh</strong> (30 Jun) vs. <strong>$137.35/MWh</strong> (30 May).  </p>\n</li>\n<li>\n<p><strong>Renewable Projects</strong>  </p>\n</li>\n<li><strong>Glenbrook BESS (Q1 2026, $163m)</strong>  </li>\n<li><strong>Kowhai Park Solar (Q2 2026, $273m, JV with Lightsource bp)</strong>  </li>\n<li>\n<p><strong>Te Mihi Geothermal (Q3 2027, $712m)</strong>  </p>\n</li>\n<li>\n<p><strong>Gas Contracts</strong>  </p>\n</li>\n<li>\n<p>Contracted gas volume (next 12 months): <strong>7.5PJ</strong>.  </p>\n</li>\n<li>\n<p><strong>Unallocated Costs</strong>  </p>\n</li>\n<li>\n<p><strong>$17.9m</strong> spent on proposed <strong>Manawa acquisition</strong> ($10.9m transaction costs, $6.9m integration prep).  </p>\n</li>\n<li>\n<p><strong>Market Demand</strong>  </p>\n</li>\n<li>NZ electricity demand: <strong>+1.2% YoY (June 2024)</strong>, <strong>-0.5% vs. June 2023</strong>.  </li>\n</ul>\n<h4><strong>ESG Metrics</strong></h4>\n<ul>\n<li>GHG emissions: <strong>190kt CO2-e</strong> (vs. 250kt in Q4 FY24).  </li>\n<li>Employee gender balance: <strong>46% women, 52% men</strong>.  </li>\n</ul>\n<p><strong>No capital markets announcements or material liquidity events identified.</strong></p>",
+    "summary": "<h3><strong>Monthly Operating Report \u2013 Key Material Information</strong></h3>\n<h4><strong>Operational Highlights (June 2025 vs. June 2024)</strong></h4>\n<ul>\n<li><strong>Mass market electricity &amp; gas sales</strong>: 410GWh (vs. 416GWh), <strong>netback \u2191 to $146.32/MWh</strong> (vs. $126.34/MWh).  </li>\n<li><strong>Wholesale electricity sales</strong>: 810GWh (vs. 795GWh), <strong>net revenue \u2191 to $186.08/MWh</strong> (vs. $167.12/MWh).  </li>\n<li><strong>Generation costs</strong>: $54.27/MWh (vs. $54.53/MWh); <strong>own generation cost \u2191 to $47.3/MWh</strong> (vs. $42.1/MWh).  </li>\n<li><strong>Otahuhu futures (Q4 CY25)</strong>: $<strong>138.3/MWh</strong> (as of 15 July 2025, up from $133.05/MWh in June).  </li>\n</ul>\n<h4><strong>Hydro Storage &amp; Forward Markets (as of 14 July 2025)</strong></h4>\n<ul>\n<li><strong>South Island storage</strong>: <strong>95% of mean</strong> (\u2193 from prior).  </li>\n<li><strong>North Island storage</strong>: <strong>148% of mean</strong> (\u2191 from prior).  </li>\n<li><strong>Clutha inflows</strong>: <strong>84% of mean</strong> (down from 100% in May).  </li>\n</ul>\n<h4><strong>Renewable Projects Under Construction</strong></h4>\n<ul>\n<li><strong>Glenbrook BESS (Q1 CY26)</strong>: $163m.  </li>\n<li><strong>Kowhai Park Solar (Q2 CY26, JV)</strong>: $273m.  </li>\n<li><strong>Te Mihi Stage 2 geothermal (Q3 CY27)</strong>: $712m.  </li>\n</ul>\n<h4><strong>ESG Metrics (Q4 FY25)</strong></h4>\n<ul>\n<li><strong>GHG emissions</strong>: \u2193 24% YoY (190kt CO\u2082-e vs. 250kt).  </li>\n<li><strong>Gas contracted (next 12M)</strong>: <strong>7.5PJ</strong>.  </li>\n</ul>\n<h4><strong>Liquidity &amp; Costs</strong></h4>\n<ul>\n<li><strong>Unallocated costs for Manawa acquisition</strong>: <strong>$17.9m</strong> ($10.9m transaction + $6.9m integration).  </li>\n</ul>\n<p><strong>No material capital markets activity (e.g., raising, M&amp;A completion) identified.</strong>  </p>\n<p><em>(Summary excludes non-material operational/ESG details.)</em></p>",
     "usage": {
       "prompt_tokens": 3567,
-      "completion_tokens": 548,
-      "total_tokens": 4115,
+      "completion_tokens": 484,
+      "total_tokens": 4051,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-20T22:00:19.078624"
+    "processed_at": "2025-07-20T22:19:11.412718"
   }
 ]
