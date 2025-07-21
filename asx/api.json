@@ -1,5 +1,81 @@
 [
   {
+    "ticker": "GW1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971109",
+    "id": "02971109",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1457",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzssfshwxtfn.pdf",
+    "summary": "<ul>\n<li><strong>Resignation of Chairman</strong>: Mr. Rick Anthon resigns as non-executive chairman (effective immediately).  </li>\n<li><strong>New Chairman Appointed</strong>: Mr. James Brown, current non-executive director (experienced in lithium/battery materials), appointed as new non-executive chairman (effective immediately).  </li>\n</ul>\n<p>No material financial, operational, or capital structure impacts identified.</p>",
+    "usage": {
+      "prompt_tokens": 628,
+      "completion_tokens": 75,
+      "total_tokens": 703,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:05:12.084048"
+  },
+  {
+    "ticker": "ANO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971108",
+    "id": "02971108",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250721",
+    "time": "1456",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzsq1tqm16xq.pdf",
+    "summary": "<ul>\n<li><strong>Price Query Response</strong>: ANO confirms no undisclosed information driving recent share price increase (from $0.83 to $1.04) or heightened trading volume (36,825 shares).  </li>\n<li><strong>FY25 Outlook</strong>: Reiterates 30 June 2025 announcement as current estimate for FY25 results; no material deviation from guidance.  </li>\n<li><strong>Compliance</strong>: Confirms adherence to ASX Listing Rules (including Rule 3.1) and board-authorized response.  </li>\n</ul>\n<p><strong>No material information identified</strong> beyond price movement clarification and compliance status.</p>",
+    "usage": {
+      "prompt_tokens": 2090,
+      "completion_tokens": 115,
+      "total_tokens": 2205,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:04:21.215585"
+  },
+  {
+    "ticker": "ODA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971106",
+    "id": "02971106",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1439",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzsgj04jbhj5.pdf",
+    "summary": "<ul>\n<li><strong>New SaaS Contracts</strong>: Six new 3-year contracts signed with Community Transport Providers, commencing 1 July 2025, with total revenue of ~$1M over the term.  </li>\n<li><strong>Revenue Impact</strong>: Total ~$1.5M from previously announced contracts (3-year terms) and ~$1M from new contracts, both material to Orcoda.  </li>\n<li><strong>Contract Clarification</strong>: Corrects prior announcement, confirming four trial participants and detailing contract terms.  </li>\n</ul>\n<p>(No trading or capital markets action required; operational update only.)</p>",
+    "usage": {
+      "prompt_tokens": 1157,
+      "completion_tokens": 112,
+      "total_tokens": 1269,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:05:22.478519"
+  },
+  {
+    "ticker": "MFD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971105",
+    "id": "02971105",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1430",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzsbm116gcr2.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a routine AGM notice with no impact on trading, valuation, or capital structure. Omitted non-material details per instructions.)</p>",
+    "usage": {
+      "prompt_tokens": 424,
+      "completion_tokens": 37,
+      "total_tokens": 461,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:04:15.493995"
+  },
+  {
     "ticker": "EUR",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971102",
     "id": "02971102",
@@ -8,15 +84,15 @@
     "date": "20250721",
     "time": "1423",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzs2xcxbp2l0.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Drilling Program Commenced</strong>: 2,000m diamond drilling program initiated at Tanbreez Rare Earth Project (Greenland), targeting <strong>resource expansion</strong> of the Fjord Eudialyte Deposit (current MRE: 22.56Mt total).  </li>\n<li><strong>Investment Valuation</strong>: EUR\u2019s 63M shares in Critical Metals Corp (Nasdaq: CRML) valued at <strong>~A$305.6M</strong> (based on CRML\u2019s US$3.03/share as of 11 July 2025).  </li>\n<li><strong>Funding Milestone</strong>: Critical Metals Corp received non-binding <strong>Letter of Interest (LoI)</strong> from US EXIM Bank for <strong>US$120M (A$185M) non-dilutive funding</strong> (15-year term, subject to approvals).  </li>\n<li><strong>Project Timeline</strong>: DFS and regulatory reports expected by <strong>Q4 2025</strong>; drilling aims to support <strong>Bankable Feasibility Study (BFS)</strong>.  </li>\n<li><strong>Resource Clarity</strong>: No material changes to prior MRE (13 March 2025 announcement); drilling results pending lab assays (~3\u20134 months).  </li>\n</ul>\n<p><strong>Note</strong>: Excluded immaterial details (JORC tables, visual estimates, director quotes). Focused on liquidity, valuation, and project catalysts.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>Key Points:</strong></h4>\n<ul>\n<li><strong>Drilling Program Commenced:</strong> 2,000m diamond drilling started at Tanbreez Rare Earth Project (Greenland) to expand the <strong>existing Mineral Resource Estimate</strong> (Indicated: 8.76Mt, Inferred: 13.8Mt, Total: 22.56Mt).  </li>\n<li><strong>Investment Value:</strong> EUR holds <strong>63M shares in Critical Metals Corp</strong> (Nasdaq: CRML), valued at <strong>US$199.7M (~A$305.6M)</strong> as of 11 July 2025 (subject to market fluctuations).  </li>\n<li><strong>EXIM Bank Funding LoI:</strong> Critical Metals Corp received a <strong>non-binding Letter of Interest</strong> for <strong>US$120M (A$185M) non-dilutive funding</strong> (15-year term) contingent on permitting and feasibility milestones.  </li>\n<li><strong>Visual Core Estimates (Caution):</strong> Initial drill core shows <strong>eudialyte (25\u201340%), feldspars (40%), and arfvedsonite (35%)</strong>\u2014lab assays (3\u20134 months pending) required for economic validation.  </li>\n<li><strong>No Material Change Confirmed:</strong> Company reaffirms no new data materially alters prior resource estimates (last updated 13 March 2025).  </li>\n</ul>\n<h4><strong>Omitted Details:</strong></h4>\n<ul>\n<li>JORC table updates, director commentary, non-material operational logistics.  </li>\n</ul>\n<p><strong>Conclusion:</strong> Focus on resource expansion drilling, affiliated investment valuation, and potential funding for project development.</p>",
     "usage": {
       "prompt_tokens": 6083,
-      "completion_tokens": 273,
-      "total_tokens": 6356,
+      "completion_tokens": 316,
+      "total_tokens": 6399,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:03.464626"
+    "processed_at": "2025-07-21T05:04:37.652981"
   },
   {
     "ticker": "AQX",
@@ -27,15 +103,34 @@
     "date": "20250721",
     "time": "1423",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzs517b2x1zy.pdf",
-    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: James Myers indirectly acquired 12,500,000 ordinary shares at $0.004 per share and 12,500,000 unlisted options (expiring 30 June 2028, exercise price $0.008) via Molo Capital Pty Ltd.  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>32,500,000 ordinary shares  </li>\n<li>50,000,000 quoted options (AQXOC, expiring 19-Aug-2026, $0.02 exercise)  </li>\n<li>12,500,000 unlisted options (as above).  </li>\n<li><strong>Reason</strong>: Part of a share placement approved at 4 July 2025 general meeting (refer Appendix 2A).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine director interest disclosure).</p>",
+    "summary": "<ul>\n<li><strong>Director's Securities Acquisition</strong>:  </li>\n<li><strong>James Myers</strong> (indirectly via Molo Capital Pty Ltd) acquired:  <ul>\n<li><strong>12,500,000 ordinary shares</strong> at <strong>$0.004 per share</strong> on <strong>17 July 2025</strong>.  </li>\n<li><strong>12,500,000 unlisted options</strong> (expiring 30 June 2028, exercise price $0.008) for <strong>no consideration</strong> (attached to shares).  </li>\n</ul>\n</li>\n<li><strong>Total Holdings Post-Transaction</strong>:  </li>\n<li><strong>32,500,000 ordinary shares</strong>  </li>\n<li><strong>50,000,000 quoted options</strong> (AQXOC, expiry 19-Aug-2026, exercise $0.02)  </li>\n<li><strong>12,500,000 unlisted options</strong> (as above).  </li>\n<li><strong>Context</strong>: Part of a <strong>broader share placement</strong> (referenced in Appendix 2A, 17 July 2025) approved at a <strong>General Meeting on 4 July 2025</strong>.  </li>\n</ul>\n<p><em>No material impact on liquidity, valuation, or capital structure identified. Disclosures are routine director interest updates.</em></p>",
     "usage": {
       "prompt_tokens": 1290,
-      "completion_tokens": 171,
-      "total_tokens": 1461,
+      "completion_tokens": 234,
+      "total_tokens": 1524,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:28.879095"
+    "processed_at": "2025-07-21T05:03:43.053022"
+  },
+  {
+    "ticker": "FCL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971101",
+    "id": "02971101",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1423",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzs0t0mks1tp.pdf",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 6,500 new CHESS Depository Interests (CDIs, ASX: FCL) issued from exercised options.  </li>\n<li><strong>Breakdown</strong>:  <ul>\n<li>4,500 CDIs issued at AUD 2.3426 per security (Employee Share Plan).  </li>\n<li>2,000 CDIs issued at AUD 2.5038 per security (Employee Share Plan).  </li>\n</ul>\n</li>\n<li><strong>Issue Date</strong>: 21 July 2025.  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li><strong>Quoted</strong>: 338,506,165 FCL CDIs.  </li>\n<li><strong>Unquoted</strong>: 1,682,500 options (FCLAB) and 20,716,156 options (FCLAA).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1984,
+      "completion_tokens": 170,
+      "total_tokens": 2154,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:04:05.203256"
   },
   {
     "ticker": "RZI",
@@ -46,110 +141,53 @@
     "date": "20250721",
     "time": "1411",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrw82hv5q4s.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 36,893 ordinary fully paid shares (RZI) issued on 16/07/2025 via cashless exercise of 61,117 options under Employee Incentive Plan.  </li>\n<li><strong>Estimated Value</strong>: Consideration per share ~AUD 0.630767.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li><strong>Quoted</strong>: 105,352,380 RZI ordinary shares.  </li>\n<li><strong>Unquoted</strong>: ~6.1M options/rights across multiple series (detailed in Part 4.2).  </li>\n<li><strong>Ranking</strong>: New shares rank equally with existing ordinary shares.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond minor dilution from option exercise.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities):</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 36,893 ordinary fully paid shares (RZI) issued via cashless exercise of 61,117 options (RZIAG).  </li>\n<li><strong>Issue Date</strong>: 16 July 2025.  </li>\n<li><strong>Consideration Value</strong>: Implied AUD 0.630767 per share (cashless exercise).  </li>\n<li><strong>Employee Incentive Plan</strong>: Options exercised under the company\u2019s employee incentive scheme.  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li><strong>Quoted</strong>: 105,352,380 RZI shares outstanding.  </li>\n<li><strong>Unquoted</strong>: 6,072,182 options/rights across multiple series (see doc for details).  </li>\n</ul>\n<p><strong>No material trading or capital structure impact identified (minor dilution from option exercise).</strong></p>",
     "usage": {
       "prompt_tokens": 1858,
-      "completion_tokens": 152,
-      "total_tokens": 2010,
+      "completion_tokens": 185,
+      "total_tokens": 2043,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:37.946294"
+    "processed_at": "2025-07-21T05:04:10.590344"
   },
   {
-    "ticker": "LEG",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971098",
-    "id": "02971098",
-    "pages": 4,
+    "ticker": "ARV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971099",
+    "id": "02971099",
+    "pages": 18,
     "price_sensitive": false,
     "date": "20250721",
-    "time": "1402",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrp9xyf5llx.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 500,000 LEGAP options lapsed due to unmet conditions (holder ceased employment).  </li>\n<li><strong>Date of Cessation</strong>: 18/07/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Ordinary shares (LEG): 2,914,477,185.  </li>\n<li>Other unlisted options: LEGAR (25,000,000), LEGAQ (8,500,000), LEGAP (0).  </li>\n</ul>\n<p>No material trading or capital impact identified.</p>",
+    "time": "1407",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrsdk88s1h0.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Artemis Resources Limited - ARV):</strong>  </p>\n<h3><strong>Key Material Information:</strong></h3>\n<ul>\n<li><strong>Project Updates:</strong>  </li>\n<li>\n<p><strong>Carlow Gold-Copper Project</strong>  </p>\n<ul>\n<li><strong>JORC Resource:</strong> 374koz Gold + 64kt Copper + 8kt Cobalt.  </li>\n<li><strong>Explansion Plans:</strong> Drilling to test strike/extensions (Sept 2025 quarter), including \"The Gap\" (7m @ 2.9g/t Au in prior drilling) and deeper mineralization (4m @ 11.1g/t Au &amp; 2.0% Cu).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Titan Gold Prospect</strong> (2km west of Carlow):  </p>\n<ul>\n<li>Surface gold occurrences (e.g., 51.8g/t Au in rock chips).  </li>\n<li>Initial RC drilling (Mar 2025) intersected 1m @ 16.4g/t Au.  </li>\n<li>Planned RC drilling (Sept 2025) targeting gravity anomalies (G1, G4).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Cassowary Project</strong> (IOCG target):  </p>\n<ul>\n<li>Large undrilled intrusion near Madura Crustal Boundary.  </li>\n<li>EL applications pending (potential grant Sept 2025).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Financial/Liquidity:</strong>  </p>\n</li>\n<li><strong>Cash Balance (Apr 2025):</strong> A$2.33m.  </li>\n<li>\n<p><strong>Market Cap (18 Jul 2025):</strong> A$12.6m (2.529bn shares @ A$0.005).  </p>\n</li>\n<li>\n<p><strong>Catalysts:</strong>  </p>\n</li>\n<li>Upcoming drilling at Carlow/Titan (Sept 2025 quarter).  </li>\n<li>Cassowary tenement grant/gravity survey (post-grant).  </li>\n</ul>\n<p><strong>No material capital raises, financial results, or corporate actions noted.</strong>  </p>\n<hr />\n<p><em>Note: Excludes forward-looking statements, disclaimers, and non-material operational details.</em></p>",
     "usage": {
-      "prompt_tokens": 1120,
-      "completion_tokens": 113,
-      "total_tokens": 1233,
+      "prompt_tokens": 7639,
+      "completion_tokens": 401,
+      "total_tokens": 8040,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:32.298972"
+    "processed_at": "2025-07-21T05:02:59.413952"
   },
   {
-    "ticker": "CDT",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971096",
-    "id": "02971096",
-    "pages": 3,
-    "price_sensitive": false,
+    "ticker": "INV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971094",
+    "id": "02971094",
+    "pages": 5,
+    "price_sensitive": true,
     "date": "20250721",
-    "time": "1359",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrjjfqdyrp5.pdf",
-    "summary": "<p><strong>Director's Interest Change Notice (Appendix 3Y)</strong><br />\n- <strong>Director</strong>: Stephen Stone<br />\n- <strong>Date of Change</strong>: 18 July 2025<br />\n- <strong>Transaction</strong>: On-market purchase of <strong>200,000 ordinary shares</strong> at <strong>$13,000</strong> (implied price: $0.065/share).<br />\n- <strong>Post-Transaction Holdings</strong>:<br />\n  - <strong>Ordinary shares</strong>: 3,240,570 (indirect/direct).<br />\n  - <strong>Unlisted options</strong>: Various (details unchanged).<br />\n- <strong>Closed Period</strong>: No trading during closed period.  </p>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "time": "1352",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrbwhgrjytg.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(The provided text appears to be fragmented and lacks substantive content or context regarding an ASX announcement. No actionable trading or capital markets details are discernible.)</p>",
     "usage": {
-      "prompt_tokens": 1381,
-      "completion_tokens": 132,
-      "total_tokens": 1513,
+      "prompt_tokens": 294,
+      "completion_tokens": 37,
+      "total_tokens": 331,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:07.586542"
-  },
-  {
-    "ticker": "FGG",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971095",
-    "id": "02971095",
-    "pages": 6,
-    "price_sensitive": false,
-    "date": "20250721",
-    "time": "1356",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzrfxgbzv2ql.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(The document is a marketing/webinar presentation with no specific capital markets, trading, or material financial updates relevant for immediate investment decisions.)</em></p>",
-    "usage": {
-      "prompt_tokens": 1147,
-      "completion_tokens": 35,
-      "total_tokens": 1182,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:13.496552"
-  },
-  {
-    "ticker": "ARG",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971093",
-    "id": "02971093",
-    "pages": 1,
-    "price_sensitive": false,
-    "date": "20250721",
-    "time": "1342",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzr6t4rhbr2m.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement: Weekly NTA Update</strong>  </p>\n<ul>\n<li><strong>Pre-tax NTA per share (18 July 2025):</strong> $10.72  </li>\n<li><strong>Share price (18 July 2025):</strong> $9.24  </li>\n<li><strong>Key Attributes:</strong> Diversified portfolio, no debt, fully franked dividends.  </li>\n<li><strong>No material capital markets or trading-sensitive information identified.</strong>  </li>\n</ul>\n<p><em>(Note: Routine weekly NTA disclosure; no corporate actions or material updates.)</em></p>",
-    "usage": {
-      "prompt_tokens": 586,
-      "completion_tokens": 101,
-      "total_tokens": 687,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:29:43.772844"
-  },
-  {
-    "ticker": "AU1",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971092",
-    "id": "02971092",
-    "pages": 2,
-    "price_sensitive": false,
-    "date": "20250721",
-    "time": "1338",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzr3z341c3lz.pdf",
-    "summary": "<p><strong>Key Material Information:</strong>  </p>\n<ul>\n<li><strong>Debt Facility Amendments with Macquarie Bank (MBL):</strong>  </li>\n<li>Interest rate margin reduced from <strong>3.75% to 3.25%</strong>.  </li>\n<li>Maturity extended to <strong>30 June 2028</strong>.  </li>\n<li>New <strong>$1.6M drawdown facility</strong> for growth initiatives.  </li>\n<li>Removal of <strong>interest cover ratio</strong> (previously 3x EBITDA/interest).  </li>\n<li>\n<p>New <strong>minimum liquidity covenant</strong>: $1.45M (rising to $2M from 1 July 2026).  </p>\n</li>\n<li>\n<p><strong>Convertible Note Extension with Peters Investments:</strong>  </p>\n</li>\n<li>Maturity extended from <strong>22 January 2026 to 31 December 2028</strong> (subject to shareholder approval).  </li>\n<li>Potential dilution: Peters Investments' voting power could increase from <strong>30.48% to 54.09%</strong> upon conversion.  </li>\n<li>\n<p><strong>General Meeting</strong> scheduled for <strong>27 August 2025</strong> for approval.  </p>\n</li>\n<li>\n<p><strong>Capital Structure Impact:</strong>  </p>\n</li>\n<li>Improved cost of debt and extended maturities enhance financial flexibility.  </li>\n<li>Potential significant equity dilution from convertible note conversion.  </li>\n</ul>\n<p><em>Omitted: Chairman quote, legal/approval process details, routine contacts.</em></p>",
-    "usage": {
-      "prompt_tokens": 1032,
-      "completion_tokens": 261,
-      "total_tokens": 1293,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:29.024190"
+    "processed_at": "2025-07-21T05:02:45.865261"
   },
   {
     "ticker": "GCI",
@@ -160,15 +198,15 @@
     "date": "20250721",
     "time": "1337",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzr1m6zyk2xv.pdf",
-    "summary": "<ul>\n<li><strong>NTA Update</strong>: Gryphon Capital Income Trust (ASX: GCI) unaudited Net Tangible Asset (NTA) per unit as at 18 July 2025: <strong>$2.0144</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>NTA per unit as at 18 July 2025</strong>: $2.0144 (unaudited, approximate).  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
       "prompt_tokens": 454,
-      "completion_tokens": 56,
-      "total_tokens": 510,
+      "completion_tokens": 35,
+      "total_tokens": 489,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:17.193895"
+    "processed_at": "2025-07-21T05:03:36.418747"
   },
   {
     "ticker": "ARR",
@@ -179,15 +217,34 @@
     "date": "20250721",
     "time": "1336",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzqzf56mnsnw.pdf",
-    "summary": "<p><strong>Key Points from CEO Resignation Announcement:</strong>  </p>\n<ul>\n<li><strong>CEO Resignation:</strong> Chris Gibbs resigns as CEO and Executive Director, effective 31 July 2025.  </li>\n<li><strong>Interim Leadership:</strong> Joe Evers (President of Wyoming Rare) to continue leading U.S. operations, focusing on Halleck Creek Project development, including test mining and Pre-Feasibility Study.  </li>\n<li><strong>No Disruption Claimed:</strong> Board states \"business as usual\" with ongoing projects and executive search for new CEO.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (no changes to financials, strategy, or timelines).</em></p>",
+    "summary": "<ul>\n<li><strong>Resignation of CEO</strong>: Mr. Chris Gibbs resigns as CEO and Executive Director, effective 31 July 2025.  </li>\n<li><strong>Leadership Transition</strong>:  </li>\n<li>Mr. Joe Evers (President of Wyoming Rare) to continue leading U.S. operations, focusing on Halleck Creek Project development.  </li>\n<li>Ms. Megan McPherson to oversee Australian corporate operations.  </li>\n<li><strong>CEO Search</strong>: Board has engaged an executive search firm to appoint a new CEO.  </li>\n</ul>\n<p><em>No material financial, operational, or capital markets impact identified. Leadership change appears orderly with no disruption cited.</em></p>",
     "usage": {
       "prompt_tokens": 1049,
-      "completion_tokens": 129,
-      "total_tokens": 1178,
+      "completion_tokens": 122,
+      "total_tokens": 1171,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:48.047072"
+    "processed_at": "2025-07-21T05:04:26.410376"
+  },
+  {
+    "ticker": "REZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971089",
+    "id": "02971089",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1328",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzqvlxdwgkt0.pdf",
+    "summary": "<ul>\n<li><strong>Initial Substantial Shareholder Notice</strong>:  </li>\n<li><strong>REZ acquires 33,000,000 QML shares</strong> (7.1% stake) as part consideration for the sale of subsidiary Mount Mackenzie Mines Limited.  </li>\n<li><strong>Transaction date</strong>: 7 July 2025.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 670,
+      "completion_tokens": 68,
+      "total_tokens": 738,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:03:29.261339"
   },
   {
     "ticker": "RMS",
@@ -198,15 +255,15 @@
     "date": "20250721",
     "time": "1326",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzqs4rqhj2dv.pdf",
-    "summary": "<ul>\n<li><strong>Scheme of Arrangement Approved</strong>: Court approves acquisition of Spartan by Ramelius for $0.25 cash + 0.6957 Ramelius shares per Spartan share.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Effective Date</strong>: 22 July 2025 (ASX suspension from close of trading).  </li>\n<li><strong>Record Date</strong>: 24 July 2025 (5:00pm AWST).  </li>\n<li><strong>Implementation Date</strong>: 31 July 2025 (scheme consideration paid).</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Scheme of Arrangement Approval</strong>: Supreme Court of Western Australia approved the acquisition of Spartan Resources by Ramelius Resources.  </li>\n<li><strong>Scheme Consideration</strong>: $0.25 cash + 0.6957 Ramelius (ASX: RMS) shares per Spartan (ASX: SPR) share.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li><strong>Last Trading Date (SPR)</strong>: 22 July 2025  </li>\n<li><strong>Record Date</strong>: 24 July 2025 (5:00pm AWST)  </li>\n<li><strong>Implementation Date</strong>: 31 July 2025 (settlement of consideration).  </li>\n<li><strong>ASX Suspension</strong>: SPR shares will be suspended at close of trading on 22 July 2025.</li>\n</ul>",
     "usage": {
       "prompt_tokens": 955,
-      "completion_tokens": 104,
-      "total_tokens": 1059,
+      "completion_tokens": 151,
+      "total_tokens": 1106,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:29:54.744534"
+    "processed_at": "2025-07-21T05:03:12.577514"
   },
   {
     "ticker": "JPR",
@@ -217,15 +274,15 @@
     "date": "20250721",
     "time": "1321",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzqp4bqfnksm.pdf",
-    "summary": "<ul>\n<li><strong>Director Shareholding Change</strong>:  </li>\n<li><strong>Director</strong>: Geoff Gander  </li>\n<li><strong>Date of Change</strong>: 21 July 2025  </li>\n<li><strong>Change in Indirect Holdings</strong>:  <ul>\n<li><strong>Ordinary Shares (JPR)</strong>: Acquired 261,407 shares at $0.029 per share (on-market purchase).  </li>\n<li><strong>Total Indirect JPR Holdings After Change</strong>: 1,526,690 shares.  </li>\n</ul>\n</li>\n<li><strong>No Material Changes</strong> in direct holdings or remuneration share rights (JPRAN).  </li>\n<li><strong>Closed Period Trading</strong>: Not applicable (no trading during closed period).  </li>\n</ul>\n<p><em>No other material capital markets or trading information identified.</em></p>",
+    "summary": "<p><strong>Director's Interest Change Announcement (Appendix 3Y)</strong><br />\n- <strong>Director:</strong> Geoff Gander<br />\n- <strong>Change Type:</strong> On-market purchase of ordinary shares (JPR) via indirect interest (SVOBODA SUPERANNUATION PTY LTD).<br />\n- <strong>Details:</strong><br />\n  - <strong>Indirect acquisition:</strong> 261,407 JPR shares at $0.029 per share.<br />\n  - <strong>Total indirect holding after change:</strong> 1,526,690 JPR shares.<br />\n  - <strong>No change</strong> to direct holdings (278,912 JPR shares; 9,164,700 JPRAN rights).<br />\n- <strong>Not traded during closed period.</strong>  </p>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
     "usage": {
       "prompt_tokens": 1096,
-      "completion_tokens": 138,
-      "total_tokens": 1234,
+      "completion_tokens": 152,
+      "total_tokens": 1248,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:01.490174"
+    "processed_at": "2025-07-21T05:03:17.345832"
   },
   {
     "ticker": "IBC",
@@ -236,15 +293,15 @@
     "date": "20250721",
     "time": "1316",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzql3dfxy5k9.pdf",
-    "summary": "<h3><strong>Buy-Back Notification Summary (ASX: IBC)</strong></h3>\n<ul>\n<li><strong>Type:</strong> On-market buy-back  </li>\n<li><strong>Total shares bought back:</strong> 5,081,294  </li>\n<li><strong>Total consideration paid:</strong> AUD 2,264,005.06  </li>\n<li><strong>Price range:</strong> AUD 0.435 (low, 15/4/2025) to AUD 0.47 (high, 3/1/2024)  </li>\n<li><strong>Buy-back period:</strong> 22 July 2024 \u2013 18 July 2025 (extended from prior 12-month period)  </li>\n<li><strong>Broker:</strong> CMC Markets Stockbroking Limited  </li>\n<li><strong>No shareholder approval required</strong>  </li>\n</ul>\n<p><em>Key impact:</em> Reduces shares outstanding (~4.77% of total issued capital at start), signals capital return/capital management.</p>",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market  </li>\n<li><strong>Total Securities Bought Back</strong>: 5,081,294 (IBC ordinary shares)  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 2,264,005.06  </li>\n<li><strong>Price Range</strong>: AUD 0.435 (low, 15/4/2025) to AUD 0.47 (high, 3/1/2024)  </li>\n<li><strong>Buy-back Period</strong>: 22/7/2024 to 18/7/2025 (extended period)  </li>\n<li><strong>Broker</strong>: CMC Markets Stockbroking Limited  </li>\n<li><strong>Shares Outstanding Post Buy-back</strong>: 106,482,693  </li>\n</ul>\n<p><em>Key Implication</em>: Reduction in share capital (~4.77% of shares outstanding) at an average price of ~AUD 0.445/share. No shareholder approval required.</p>",
     "usage": {
       "prompt_tokens": 1414,
-      "completion_tokens": 172,
-      "total_tokens": 1586,
+      "completion_tokens": 180,
+      "total_tokens": 1594,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:38.598588"
+    "processed_at": "2025-07-21T05:05:28.885814"
   },
   {
     "ticker": "PMT",
@@ -255,15 +312,34 @@
     "date": "20250721",
     "time": "1303",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzqc5gkht6rd.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: The announcement is solely about an upcoming investor webinar to discuss a caesium Mineral Resource Estimate (MRE). No direct financial, trading, or capital-raising details are disclosed.)</em></p>",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Event:</strong> Investor webinar to discuss <strong>maiden Mineral Resource Estimate (MRE) for caesium</strong> at the Rigel and Vega zones (Shaakichiuwaanaan Property, Quebec).  </li>\n<li><strong>Key Update:</strong> Will cover potential significance of caesium discovery and progress on <strong>lithium-only Definitive Feasibility Study (DFS)</strong> for CV5.  </li>\n<li><strong>Webinar Timing:</strong> July 22, 2025 (AEST) / July 21, 2025 (EDT).  </li>\n</ul>\n<p><strong>No material capital markets or trading-impacting information disclosed.</strong> (Event is informational; no capital raising, operational/financial data, or material milestones with valuation implications).</p>",
     "usage": {
       "prompt_tokens": 809,
-      "completion_tokens": 45,
-      "total_tokens": 854,
+      "completion_tokens": 150,
+      "total_tokens": 959,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:31:16.315947"
+    "processed_at": "2025-07-21T05:05:01.960923"
+  },
+  {
+    "ticker": "REZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971083",
+    "id": "02971083",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250721",
+    "time": "1258",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzq818gp71w8.pdf",
+    "summary": "<p><strong>Capital Raising Announcement</strong><br />\n- <strong>Structure:</strong> Placement<br />\n- <strong>Amount Raised:</strong> AUD $1,137,502<br />\n- <strong>Price:</strong> 1.5 cents per share<br />\n- <strong>Use of Proceeds:</strong> Working capital<br />\n- <strong>Cleansing Notice:</strong> Issued under Section 708A(5)(e) (no disclosure under Part 6D.2)  </p>\n<p><em>Omitted: Legal boilerplate, director/contact details.</em></p>",
+    "usage": {
+      "prompt_tokens": 665,
+      "completion_tokens": 94,
+      "total_tokens": 759,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-21T05:03:23.458993"
   },
   {
     "ticker": "PCI",
@@ -274,15 +350,15 @@
     "date": "20250721",
     "time": "1244",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06lzq364n7ngv2.pdf",
-    "summary": "<ul>\n<li><strong>Daily NTA Update</strong>:  </li>\n<li><strong>Date</strong>: 18/07/2025  </li>\n<li><strong>Net Tangible Asset (NTA) per unit</strong>: AUD 1.100 (unaudited, approximate).  </li>\n</ul>\n<p><em>No other material information identified for trading or capital markets decisions.</em></p>",
+    "summary": "<ul>\n<li><strong>NTA Update (Daily)</strong>:  </li>\n<li><strong>Date</strong>: 18/07/2025  </li>\n<li><strong>NTA per unit</strong>: $1.100 (unaudited, approximate)  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 670,
-      "completion_tokens": 62,
-      "total_tokens": 732,
+      "completion_tokens": 51,
+      "total_tokens": 721,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-21T04:30:05.134675"
+    "processed_at": "2025-07-21T05:03:26.365028"
   },
   {
     "ticker": "BKI",
