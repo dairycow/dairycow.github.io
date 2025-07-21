@@ -6,5 +6,14 @@
   "price_sensitive": false,
   "date": "20250721",
   "time": "1819",
-  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06m013kv0wsb1t.pdf"
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06m013kv0wsb1t.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will generate a concise summary following your specified format\u2014focusing **only** on material trading/capital markets information, stripped of all non-essential content.  \n\nExamples of how I\u2019ll respond based on common announcement types:  \n\n---  \n**Capital Raising (Placement):**  \n- **Structure:** Placement to institutional investors.  \n- **Amount:** AUD 50M (AUD 0.50/share, 10% discount to VWAP).  \n- **Dates:** Ex-date: [DD/MM/YY], SPP opens: [DD/MM/YY].  \n\n**Appendix 4C (Quarterly):**  \n- **Cash balance:** AUD 12.3M (prior quarter: AUD 15.1M).  \n- **Cash burn:** AUD 2.8M (operating), AUD 1.5M (investing).  \n- **Key update:** Phase 2 trials delayed by 3 months.  \n\n**Trading Halt:**  \n- **Reason:** Pending announcement of capital raising.  \n\n**Other Announcement (M&A):**  \n- **Acquisition:** 100% of Target Co for AUD 200M (50% scrip, 50% cash).  \n- **Funding:** AUD 100M new debt facility secured.  \n\n**No material information identified:**  \n- [If the doc is procedural/non-material].  \n\n---  \nProvide the document/text, and I\u2019ll extract **only** what matters for trading or capital decisions.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 329,
+    "total_tokens": 559,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-21T09:16:58.361173"
 }
