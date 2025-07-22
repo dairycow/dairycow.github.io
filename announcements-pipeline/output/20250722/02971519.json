@@ -1,0 +1,19 @@
+{
+  "ticker": "CIN",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971519",
+  "id": "02971519",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250722",
+  "time": "1615",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250722/pdf/06m106jpnjjwm7.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or the key details from it, and I will generate a **concise, trading/capital markets-focused summary** per your specified format.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**:  \n   - Reason: Pending release of material exploration results.  \n\n2. **Capital Raising Announcement**:  \n   - Structure: Placement ($50M) + SPP ($10M cap).  \n   - Use of Funds: Debt reduction (60%), exploration (40%).  \n   - Dates: Ex-date 15/05, Record 18/05, SPP close 01/06.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - Cash Balance: $12.3M (QoQ -$2.1M).  \n   - Highlights: Gold production up 8%, FY24 guidance reiterated.  \n\n4. **Other Announcement**:  \n   - Material: Major offtake agreement signed (5-year, 20% revenue uplift).  \n   - Liquidity: $5M debt facility extended to Dec-2025.  \n\n**Provide the document or key details, and I\u2019ll extract only material information per your rules**.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 259,
+    "total_tokens": 479,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-22T06:40:19.604966"
+}
