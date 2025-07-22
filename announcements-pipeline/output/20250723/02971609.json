@@ -1,0 +1,19 @@
+{
+  "ticker": "ZMM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971609",
+  "id": "02971609",
+  "pages": 5,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "0810",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1dm3ghsmk92.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will extract only the material information relevant for trading or capital markets decisions, formatted as concise bullet points per your specified guidelines.  \n\nIf the document is unclear or lacks material details, I will note: **\"No material information identified.\"**  \n\nExamples of how I will structure outputs:  \n\n- **Trading Halt Request**: \"Halt requested pending release of capital raising details.\"  \n- **Capital Raising Announcement**: \"Placement to raise AUD 50M; Ex-date: 15 Oct, Record date: 18 Oct, Close date: 25 Oct.\"  \n- **Quarterly Report (4C)**: \"Cash balance AUD 12.5M; Quarterly cash burn AUD 1.2M; Key milestone: Phase 2 trial enrollment completed.\"  \n- **Other Announcement**: \"Strategic acquisition of [Target] for AUD 100M; Funding via AUD 70M equity + AUD 30M debt.\"  \n\nProvide the document, and I\u2019ll proceed.",
+  "usage": {
+    "prompt_tokens": 240,
+    "completion_tokens": 219,
+    "total_tokens": 459,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-22T22:12:53.511271"
+}
