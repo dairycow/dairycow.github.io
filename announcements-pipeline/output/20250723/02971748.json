@@ -7,13 +7,13 @@
   "date": "20250723",
   "time": "0903",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1q5vhhlynbd.pdf",
-  "summary": "Understood. Please provide:  \n1. **The ASX announcement PDF** (or its text), and  \n2. **The announcement type** (e.g., Capital Raising, Trading Halt, Quarterly Report, M&A).  \n\nI\u2019ll respond with a ruthlessly concise summary per your guidelines\u2014**only material details for trading/capital markets decisions**, stripped of fluff.  \n\n*Example outputs for common types:*  \n\n---  \n**Trading Halt Request**  \n\u2022 *Reason:* Pending release of material acquisition details.  \n\n**Capital Raising (Placement + SPP)**  \n\u2022 *Structure:* $50M placement (fully underwritten) + $10M SPP.  \n\u2022 *Use of proceeds:* Debt reduction (60%), exploration (40%).  \n\u2022 *Dates:* Ex-date 15/04, SPP closes 30/04.  \n\n**Quarterly (Appendix 4C)**  \n\u2022 *Cash (end-Q):* $2.1M (down from $3.4M).  \n\u2022 *Burns:* $1.3M operational, $0.5M capex.  \n\n**M&A Announcement**  \n\u2022 *Acquisition:* 100% of Target Co for $120M (50% scrip, 50% cash).  \n\u2022 *Conditions:* FIRB approval, due diligence by 30/06.  \n\n**No Material Information Identified**  \n---  \n\nDrop the document/details, and I\u2019ll compress it to essentials.",
+  "summary": "Understood. For any ASX announcement PDF you provide, I'll extract **only material information** relevant to trading or capital markets decisions, formatted as concise bullet points, adhering strictly to the following rules:  \n\n---\n\n### **Summary Format by Announcement Type**  \n**1. Trading Halt Request**  \n- *Reason only* (e.g., \"Pending release of material transaction details\").  \n\n**2. Capital Raising (Placement, SPP, Entitlement Offer, etc.)**  \n- *Structure* (e.g., \"A$50M placement + A$10M SPP\").  \n- *Key dates* (ex-date, record date, close date).  \n- *Use of proceeds* (if material, e.g., \"Debt reduction + growth initiatives\").  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash balance* (e.g., \"A$15.2M at quarter end\").  \n- *Key operational/financial highlights* (e.g., \"Revenue +25% QoQ\", \"Burn rate A$2.1M/month\").  \n\n**4. Other Announcements**  \n- Only 2-3 bullet points impacting *valuation, liquidity, or capital structure* (e.g., \"Major contract win worth A$100M over 3 years\").  \n- Ignore routine updates unless exceptional.  \n\n**If unclear/no material info:** \"No material information identified.\"  \n\n**Omit:** Legal boilerplate, director names, introductions, minor operational details.  \n\n---\n\n*Example Output for a Capital Raising Announcement:*  \n- **A$60M fully underwritten entitlement offer (1:4 @ A$0.20/share, 15% discount).**  \n- **Ex-date: 20 Oct 2023; Close: 3 Nov 2023.**  \n- **Proceeds for debt repayment (A$45M) and working capital (A$15M).**  \n\n---  \n*Provide the PDF or key excerpts, and I\u2019ll summarize accordingly.*",
   "usage": {
     "prompt_tokens": 220,
-    "completion_tokens": 308,
-    "total_tokens": 528,
+    "completion_tokens": 422,
+    "total_tokens": 642,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-22T23:12:32.490603"
+  "processed_at": "2025-07-22T23:33:16.323103"
 }
