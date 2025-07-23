@@ -7,13 +7,13 @@
   "date": "20250723",
   "time": "1650",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m28zwcn79p1k.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or relevant details from it), and I\u2019ll extract the material information in the requested format, tailored to the announcement type.  \n\n**Example Outputs Based on Common Scenarios:**  \n\n1. **Trading Halt Request:**  \n   - *Reason:* Pending release of material capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - *Structure:* 1-for-4 entitlement offer.  \n   - *Amount:* AUD 50 million.  \n   - *Key Dates:* Ex-date 15/05, record date 17/05, close date 30/05.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - *Cash balance:* AUD 12.3 million (quarter-end).  \n   - *Operational:* Production 10,000oz gold (up 15% QoQ).  \n\n4. **Other Announcement (e.g., M&A):**  \n   - *Key Points:* Acquisition of Asset X for AUD 100m (funded via debt).  \n\n**No material information identified** (if irrelevant/unclear).  \n\nProvide the document or key details, and I\u2019ll parse accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., company name, announcement type, headline, and critical data points), and I\u2019ll extract material information in the concise format you\u2019ve requested.  \n\nExample outputs based on common announcement types:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - *Key Dates*: Ex-date 15 Oct, Record 18 Oct, SPP close 5 Nov.  \n\n3. **Quarterly (4C) Report**  \n   - *Cash Balance*: AUD 12.5M (vs. AUD 15.2M prev quarter).  \n   - *Burn Rate*: AUD 2.7M/net cash outflow.  \n   - *Milestone*: First revenue AUD 0.5M from commercial launch.  \n\n4. **Other Material Announcement**  \n   - *Acquisition*: AUD 100M asset purchase, 30% equity consideration.  \n   - *Debt Facility*: New AUD 75M secured loan, maturity 2027.  \n\nIf no material details are found, I\u2019ll respond:  \n   - *No material information identified*.  \n\nReady for your input.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 254,
-    "total_tokens": 484,
+    "completion_tokens": 308,
+    "total_tokens": 538,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-23T07:16:14.358718"
+  "processed_at": "2025-07-23T07:41:02.571328"
 }
