@@ -7,13 +7,13 @@
   "date": "20250723",
   "time": "1222",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m21yc7lq41dl.pdf",
-  "summary": "Understood. Please upload or provide the ASX announcement PDF (or relevant excerpts), and I'll strictly apply these rules to extract material information in the requested format.  \n\nExample outputs based on common scenarios:  \n\n---  \n**Trading Halt Request Example:**  \n- Trading halted pending announcement of capital raising.  \n\n**Capital Raising Announcement Example:**  \n- Structure: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 45M; SPP: AUD 5M cap)  \n- Key dates: Ex-date 15 Sept, Record 18 Sept, SPP closes 30 Sept.  \n\n**Appendix 4C Example:**  \n- Cash receipts: AUD 12.5M (QoQ +15%).  \n- Cash balance: AUD 8.2M (prior quarter: AUD 10.1M).  \n- Key driver: Reduced customer receipts due to project delays.  \n\n**Other Announcement Example:**  \n- Major contract signed: AUD 200M over 3 years (transformational for revenue).  \n- CEO resignation effective immediately; no successor named.  \n\n---  \nProvide the document, and I\u2019ll respond *only* with the material facts in this style.",
+  "summary": "Understood. Please upload or provide the text of the ASX announcement you'd like analyzed, and I will extract the material information in the requested concise format, tailored to the specific announcement type. \n\nExample outputs based on common scenarios:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending announcement regarding a material acquisition.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: $50M placement + $10M SPP.  \n   - *Key dates*: Ex-date 15/09, Record 18/09, Close 30/09.  \n\n3. **Quarterly (4C) Report**  \n   - *Cash balance*: $12.4M (vs. $15.1M prior quarter).  \n   - *Highlight*: Revenue up 22% QoQ to $8.3M.  \n\n4. **Other Material Announcement**  \n   - Key contract win worth $45M over 3 years.  \n   - FY24 EBITDA guidance raised to $60M-$65M (prev. $55M-$60M).  \n\n**Note**: If no material information is found, I will clearly state: *\"No material information identified\"*. Provide the document, and I\u2019ll proceed.",
   "usage": {
     "prompt_tokens": 220,
-    "completion_tokens": 251,
-    "total_tokens": 471,
+    "completion_tokens": 268,
+    "total_tokens": 488,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-23T03:26:27.246148"
+  "processed_at": "2025-07-23T04:15:39.303888"
 }
