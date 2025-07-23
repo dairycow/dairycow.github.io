@@ -7,13 +7,13 @@
   "date": "20250723",
   "time": "1546",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m26txwt15vm7.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I will extract the material information in the exact concise format you've specified.  \n\n**Example Outputs (based on common scenarios):**  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of capital raising details.  \n\n2. **Capital Raising Announcement (Placement)**:  \n   - *Structure*: A$50M placement at A$0.20/share (10% discount).  \n   - *Key dates*: Ex-date 15/10, record 16/10, close 30/10.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: A$12.3M (vs. A$15.1M prior quarter).  \n   - *Highlights*: Revenue A$5M (+25% QoQ), 3 new contracts signed.  \n\n4. **Material M&A Announcement**:  \n   - *Deal*: Acquiring X Co for A$100M (50% scrip, 50% cash).  \n   - *Conditions*: Subject to shareholder approval (vote 20/11).  \n\n5. **No Material Information Identified**:  \n   - (For non-substantive updates).  \n\nProvide the document, and I\u2019ll distill it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will generate a concise, material-only summary following your specified format.  \n\n**Example Outputs Based on Common Announcement Types:**  \n\n**1. Trading Halt:**  \n- *Reason*: Pending release of capital raising details.  \n\n**2. Capital Raising (Placement + SPP):**  \n- *Structure*: AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n- *Key dates*: Ex-date 15 Oct, record date 18 Oct, SPP close 30 Oct.  \n\n**3. Appendix 4C (Quarterly):**  \n- *Cash balance*: AUD 12.5M (QoQ -10%).  \n- *Highlights*: Revenue AUD 5M (+25% QoQ); 2,000 new customers added.  \n\n**4. Other (Material):**  \n- *Acquisition*: USD 100M asset purchase, funded via debt (AUD 75M facility drawn).  \n- *Guidance*: FY24 EBITDA upgraded to AUD 40M\u201345M (prior: AUD 35M\u201340M).  \n\n**No Material Information Identified:**  \n- If the announcement contains only routine updates (e.g., director resignation without operational impact).  \n\nProvide the document, and I\u2019ll distill it accordingly.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 299,
-    "total_tokens": 524,
+    "completion_tokens": 300,
+    "total_tokens": 525,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-23T05:55:43.579005"
+  "processed_at": "2025-07-23T06:21:41.974088"
 }
