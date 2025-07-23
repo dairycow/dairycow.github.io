@@ -1,0 +1,19 @@
+{
+  "ticker": "SRZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971969",
+  "id": "02971969",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "1650",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m28zwcn79p1k.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant details from it), and I\u2019ll extract the material information in the requested format, tailored to the announcement type.  \n\n**Example Outputs Based on Common Scenarios:**  \n\n1. **Trading Halt Request:**  \n   - *Reason:* Pending release of material capital raising announcement.  \n\n2. **Capital Raising Announcement:**  \n   - *Structure:* 1-for-4 entitlement offer.  \n   - *Amount:* AUD 50 million.  \n   - *Key Dates:* Ex-date 15/05, record date 17/05, close date 30/05.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - *Cash balance:* AUD 12.3 million (quarter-end).  \n   - *Operational:* Production 10,000oz gold (up 15% QoQ).  \n\n4. **Other Announcement (e.g., M&A):**  \n   - *Key Points:* Acquisition of Asset X for AUD 100m (funded via debt).  \n\n**No material information identified** (if irrelevant/unclear).  \n\nProvide the document or key details, and I\u2019ll parse accordingly.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 254,
+    "total_tokens": 484,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T07:16:14.358718"
+}
