@@ -1,0 +1,19 @@
+{
+  "ticker": "ARC",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971890",
+  "id": "02971890",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "1222",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m21yc7lq41dl.pdf",
+  "summary": "Understood. Please upload or provide the ASX announcement PDF (or relevant excerpts), and I'll strictly apply these rules to extract material information in the requested format.  \n\nExample outputs based on common scenarios:  \n\n---  \n**Trading Halt Request Example:**  \n- Trading halted pending announcement of capital raising.  \n\n**Capital Raising Announcement Example:**  \n- Structure: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 45M; SPP: AUD 5M cap)  \n- Key dates: Ex-date 15 Sept, Record 18 Sept, SPP closes 30 Sept.  \n\n**Appendix 4C Example:**  \n- Cash receipts: AUD 12.5M (QoQ +15%).  \n- Cash balance: AUD 8.2M (prior quarter: AUD 10.1M).  \n- Key driver: Reduced customer receipts due to project delays.  \n\n**Other Announcement Example:**  \n- Major contract signed: AUD 200M over 3 years (transformational for revenue).  \n- CEO resignation effective immediately; no successor named.  \n\n---  \nProvide the document, and I\u2019ll respond *only* with the material facts in this style.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 251,
+    "total_tokens": 471,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T03:26:27.246148"
+}
