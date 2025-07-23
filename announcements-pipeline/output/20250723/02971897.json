@@ -1,0 +1,19 @@
+{
+  "ticker": "BGT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971897",
+  "id": "02971897",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "1228",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m22g06glnfm8.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, and critical excerpts), and I will:  \n\n- **Strictly extract material trading/capital markets information** (no fluff).  \n- **Format as concise bullet points** (e.g., type, $ amounts, dates, or catalysts).  \n- **Flag if unclear/unmaterial** (\"No material information identified\").  \n\nExample outputs:  \n---  \n**Trading Halt Request**  \n- Reason: Pending announcement of cap raise.  \n\n**Capital Raising**  \n- Type: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M at $0.50/sh; SPP: AUD 10M cap).  \n- Dates: Ex-date 15/03, SPP closes 30/03.  \n\n**Quarterly Report (4C)**  \n- Cash balance: AUD 12.5M (prior: AUD 15.2M).  \n- Revenue: AUD 3.1M (QoQ +8%).  \n\n**Acquisition Announcement**  \n- Target: XYZ Co for AUD 25M (50% scrip, 50% cash).  \n- Funding: AUD 12.5M via placement (new shares at $0.80).  \n\n**No material information identified**  \n---  \n*Provide the document, and I\u2019ll summarize accordingly.*",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 299,
+    "total_tokens": 529,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T03:23:13.678022"
+}
