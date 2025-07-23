@@ -7,13 +7,13 @@
   "date": "20250723",
   "time": "1546",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m26txwt15vm7.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will generate a concise, material-only summary following your specified format.  \n\n**Example Outputs Based on Common Announcement Types:**  \n\n**1. Trading Halt:**  \n- *Reason*: Pending release of capital raising details.  \n\n**2. Capital Raising (Placement + SPP):**  \n- *Structure*: AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n- *Key dates*: Ex-date 15 Oct, record date 18 Oct, SPP close 30 Oct.  \n\n**3. Appendix 4C (Quarterly):**  \n- *Cash balance*: AUD 12.5M (QoQ -10%).  \n- *Highlights*: Revenue AUD 5M (+25% QoQ); 2,000 new customers added.  \n\n**4. Other (Material):**  \n- *Acquisition*: USD 100M asset purchase, funded via debt (AUD 75M facility drawn).  \n- *Guidance*: FY24 EBITDA upgraded to AUD 40M\u201345M (prior: AUD 35M\u201340M).  \n\n**No Material Information Identified:**  \n- If the announcement contains only routine updates (e.g., director resignation without operational impact).  \n\nProvide the document, and I\u2019ll distill it accordingly.",
+  "summary": "Understood. Here\u2019s how I\u2019d format the summary based on the announcement type (assuming hypothetical content since no PDF was attached):\n\n---\n\n**Trading Halt Request:**  \n- Reason: Pending release of material announcement regarding capital raising.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Structure: A$50M placement + A$10M SPP.  \n- Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n**Appendix 4C (Quarterly Cash Flow):**  \n- Cash balance: A$12.3M (vs A$15.1M prior quarter).  \n- Net operating cash outflow: A$2.8M (driven by exploration costs).  \n\n**Other Material Announcement (Acquisition):**  \n- Acquiring Asset X for A$25M, funded by debt (A$15M) and equity (A$10M).  \n- Expected EPS accretion: +15% in FY25.  \n\n**No Material Information Identified:**  \n- (If the announcement is routine governance updates or non-price-sensitive data.)  \n\n--- \n\n*Note: Provide the PDF or specifics for a precise summary.*",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 300,
-    "total_tokens": 525,
+    "completion_tokens": 256,
+    "total_tokens": 481,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-23T06:21:41.974088"
+  "processed_at": "2025-07-23T06:56:39.775801"
 }
