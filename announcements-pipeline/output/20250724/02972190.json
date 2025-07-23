@@ -1,0 +1,19 @@
+{
+  "ticker": "RCE",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972190",
+  "id": "02972190",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "0905",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m2z70ymjb5fs.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or key details from it), and I will generate a **concise, material-only summary** tailored to its type, strictly following your formatting rules.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- **Type:** Placement + SPP  \n- **Amount:** AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- **Dates:** Ex-date: 15/04/24; Record: 16/04/24; SPP Close: 30/04/24.  \n\n**Appendix 4C (Quarterly):**  \n- **Cash Balance (AUD):** 12.5M (QoQ -2.1M).  \n- **Highlights:** Quarterly revenue up 15% to AUD 7.2M; R&D spend AUD 1.8M.  \n\n**Other Announcement:**  \n- Major customer contract signed (AUD 25M over 3 years).  \n- Board approves AUD 10M share buyback.  \n\nIf you share the document, I\u2019ll extract **only material trading/capital markets information** with this precision.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 271,
+    "total_tokens": 501,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T23:14:05.935567"
+}
