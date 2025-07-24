@@ -6,5 +6,14 @@
   "price_sensitive": false,
   "date": "20250724",
   "time": "1700",
-  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3mdn4g1ykvz.pdf"
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3mdn4g1ykvz.pdf",
+  "summary": "Understood. Here\u2019s the precise framework I\u2019ll apply to extract material information from any ASX announcement you provide:\n\n**1. Trading Halt Request**  \n- *Reason*: [Single-line explanation, e.g., \"Pending material transaction announcement\"]  \n\n**2. Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer, etc.]  \n- *Amount*: [$AUD X million]  \n- *Key Dates*: Ex-date [dd/mm], Record [dd/mm], Close [dd/mm]  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: [$AUD X million]  \n- *Operational/Financial Highlights*:  \n  - [Metric 1: e.g., \"Revenue: $Xm (+Y% YoY)\"]  \n  - [Metric 2: e.g., \"Production: X units (QoQ trend)\"]  \n\n**4. Other Announcements**  \n- [Point 1: Material impact, e.g., \"Acquisition of [Asset] for $Xm\"]  \n- [Point 2: e.g., \"Debt refinancing: New $Xm facility at Y% interest\"]  \n\n**If unclear/immaterial**: \"No material information identified.\"  \n\nProvide the PDF or key details, and I\u2019ll extract the essentials.  \n\n*Example Outputs*:  \n- *Trading Halt*: \"Pending capital raise announcement.\"  \n- *Capital Raise*: \"Entitlement Offer, $50m, Ex-date 15/04, Record 18/04, Close 30/04.\"  \n- *4C*: \"Cash $12.5m; Revenue $8m (+15% QoQ).\"  \n\nReady for your document.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 380,
+    "total_tokens": 600,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T08:33:35.360663"
 }
