@@ -1,0 +1,19 @@
+{
+  "ticker": "ZMM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972446",
+  "id": "02972446",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "1700",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3mdn4g1ykvz.pdf",
+  "summary": "Understood. Please upload the ASX announcement PDF, and I will extract only the material information relevant for trading or capital markets decisions, formatted as concise bullet points according to your specified guidelines.  \n\nIf the document contains:  \n- **Trading Halt Request** \u2192 I will state only the reason (one line).  \n- **Capital Raising Announcement** \u2192 I will note structure, total capital raised (AUD), and key dates.  \n- **Quarterly Report (Appendix 4C)** \u2192 I will list key operational/financial highlights and closing cash balance.  \n- **Other Announcement Types** \u2192 I will summarise the 2-3 most critical points impacting valuation, liquidity, or capital structure.  \n\nNo fluff\u2014just essential details. Ready when you are.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 161,
+    "total_tokens": 381,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T07:33:13.520955"
+}
