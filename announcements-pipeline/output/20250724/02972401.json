@@ -1,0 +1,19 @@
+{
+  "ticker": "BGT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972401",
+  "id": "02972401",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "1535",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3hv7jg12v8p.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or paste its key content, and I will extract the material information in the specified concise format (e.g., Trading Halt, Capital Raising, Quarterly, or other critical updates).  \n\nExample Output Formats:  \n\n**Trading Halt Request:**  \n- Reason: Pending capital raising announcement.  \n\n**Capital Raising Announcement:**  \n- Type: Placement + SPP  \n- Amount: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- Dates: Ex-date [DD/MM], Record [DD/MM], Close [DD/MM].  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Key highlights: Production up 15% QoQ; costs reduced by 10%.  \n\n**Other Announcement:**  \n- Major asset sale: AUD 200M, completion expected Q4 2024.  \n- Debt facility refinanced: AUD 100M, maturity extended to 2027.  \n\nIf no material details are found, I will note: *No material information identified*.  \n\nProceed with the announcement text/PDF.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 260,
+    "total_tokens": 485,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T05:49:23.709409"
+}
