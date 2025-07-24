@@ -1,0 +1,19 @@
+{
+  "ticker": "EMP",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972320",
+  "id": "02972320",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "1128",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m38t7qdqjqwp.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract only the material information in the strict format you\u2019ve outlined (e.g., trading halt reason, capital raising terms, or critical financial/operational highlights).  \n\nIf the announcement is:  \n- **Trading Halt**: I\u2019ll state the reason (e.g., \"Pending material acquisition announcement\").  \n- **Capital Raising**: I\u2019ll note structure, amount (AUD), and key dates.  \n- **Quarterly (4C)**: I\u2019ll list cash balance and critical metrics (e.g., \"Cash $5.2M; Q3 revenue $12M\").  \n- **Other**: I\u2019ll summarize 2-3 valuation-sensitive points (e.g., \"Major asset sale: $50M proceeds; Debt reduced by 30%\").  \n\nIf unclear or immaterial, I\u2019ll respond: **\"No material information identified.\"**  \n\nProceed by sharing the announcement text or key details.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 210,
+    "total_tokens": 440,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T01:43:44.898156"
+}
