@@ -7,13 +7,13 @@
   "date": "20250724",
   "time": "1241",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3c2zjw06vyb.pdf",
-  "summary": "Understood. Please provide the **ASX announcement PDF** or the key details from it (e.g., announcement type, headline, or excerpts), and I will apply the rules strictly to extract only material information relevant for trading or capital markets decisions.  \n\n**Example Outputs (based on common scenarios):**  \n\n1. **Trading Halt Request:**  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - *Structure*: A$50M placement (A$0.20/share) + A$10M SPP.  \n   - *Key dates*: Ex-date 15 Sep, Record 18 Sep, SPP close 30 Sep.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - *Cash balance*: A$12.1M (vs. A$15.3M prior quarter).  \n   - *Highlights*: Quarterly revenue A$4.2M (+15% QoQ), operational breakeven achieved.  \n\n4. **Other Announcement (Acquisition):**  \n   - *Material impact*: Acquires Asset X for A$30M (50% debt, 50% equity at A$0.25/share).  \n\nIf no material details are found, the response will be:  \n- *No material information identified*.  \n\nAttach/share the document, and I\u2019ll proceed.",
+  "summary": "Understood. Please provide:  \n1. The **ASX announcement PDF** (or its text) you'd like analyzed.  \n2. The **announcement type** if known (e.g., Trading Halt, Capital Raising, Quarterly).  \n\nI\u2019ll respond with a **strictly concise bullet-point summary** of material information, adhering to your formatting rules.  \n\n*Example Outputs:*  \n\n**Trading Halt Request:**  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising:**  \n- Structure: 1-for-4 entitlement offer + placement.  \n- Total raised: AUD 150m (AUD 100m placement + AUD 50m entitlement).  \n- Dates: Ex-date 15/04, Record 18/04, Close 30/04.  \n\n**Quarterly (4C):**  \n- Cash balance AUD 12.5m (QoQ -15%).  \n- Revenue AUD 8m (+25% YoY).  \n\n**Other Announcement:**  \n- Major asset sale: AUD 50m, completion Q3 2024.  \n- Debt reduced to AUD 20m (from AUD 70m).  \n\n**No material information identified.**  \n\n*Waiting for your document/text and announcement type...*",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 305,
-    "total_tokens": 535,
+    "completion_tokens": 266,
+    "total_tokens": 496,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-24T03:22:41.632993"
+  "processed_at": "2025-07-24T04:13:03.018711"
 }
