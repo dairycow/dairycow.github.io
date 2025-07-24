@@ -6,14 +6,5 @@
   "price_sensitive": false,
   "date": "20250724",
   "time": "1700",
-  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3mdn4g1ykvz.pdf",
-  "summary": "Understood. Please upload or provide the ASX announcement PDF (or a summary of its key contents), and I will extract only the material trading/capital markets information in the specified concise format.  \n\nWithout the document, here\u2019s how I would structure the output for common ASX announcement types based on your guidelines:  \n\n### **Example Outputs**  \n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material acquisition details.  \n\n2. **Capital Raising Announcement (e.g., Placement + SPP)**  \n   - *Structure*: AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n   - *Key Dates*: Ex-date 15/05/2024, Record 17/05/2024, SPP closes 31/05/2024.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash Balance*: AUD 12.3M (prior quarter: AUD 15.1M).  \n   - *Key Highlights*: Revenue AUD 5.2M (+18% QoQ), R&D spend AUD 3.1M.  \n\n4. **Other Material Announcement**  \n   - *Key Points*: Major contract win (AUD 25M over 3 years); CEO resigns (effective immediately).  \n\nLet me know if you'd like me to analyze a specific announcement.",
-  "usage": {
-    "prompt_tokens": 220,
-    "completion_tokens": 304,
-    "total_tokens": 524,
-    "prompt_tokens_details": null
-  },
-  "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-24T07:49:29.512385"
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3mdn4g1ykvz.pdf"
 }
