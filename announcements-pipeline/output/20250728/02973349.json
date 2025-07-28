@@ -7,13 +7,13 @@
   "date": "20250728",
   "time": "1418",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6s1z5crk6gt.pdf",
-  "summary": "Understood. Please upload or provide the ASX announcement PDF (or key excerpts/text), and I will extract **only** material information in the specified format, prioritizing trading/capital markets relevance with maximum concision.  \n\nExample outputs based on common announcement types:  \n\n**Trading Halt Request Example:**  \n- *Reason:* Pending release of material capital raising announcement.  \n\n**Capital Raising Announcement Example:**  \n- *Type:* Placement + SPP.  \n- *Amount:* AUD 50M (Placement: AUD 40M at $0.20/share; SPP: AUD 10M cap).  \n- *Key Dates:* Ex-date: 15/03/24; Record: 18/03/24; SPP Close: 05/04/24.  \n\n**Quarterly Report (4C) Example:**  \n- *Cash Balance:* AUD 12.5M (prior quarter: AUD 15.2M).  \n- *Burn Rate:* AUD 2.7M/qtr.  \n- *Milestone:* Phase 2 trial enrollment completed (90% target).  \n\n**Other Announcement Example:**  \n- *Material Impact:* Strategic acquisition of [Asset] for AUD 30M (50% scrip, 50% cash).  \n- *Conditions:* Approval from FIRB required (expected Q3 2024).  \n\n**If unclear/no material info:**  \n- *No material information identified.*  \n\nProvide the document, and I\u2019ll adhere strictly to these rules.",
+  "summary": "Understood. Provide the ASX announcement PDF or a clear summary of its contents, specifying the **announcement type** (e.g., Trading Halt, Capital Raising, Quarterly Report). I will extract **only material information** relevant to trading or capital markets decisions, formatted as concise bullet points per your strict guidelines.  \n\n*Example Outputs:*  \n\n**1. Capital Raising Announcement:**  \n- Type: 1-for-4 pro rata entitlement offer.  \n- Amount: AUD 50M (AUD 0.50/share).  \n- Key dates: Ex-date 15/03, Record 18/03, Close 29/03.  \n\n**2. Appendix 4C (Quarterly):**  \n- Cash balance: AUD 12.4M (prev. AUD 15.1M).  \n- Highlights: Production up 8% QoQ, costs down 5%.  \n\n**3. Trading Halt Request:**  \n- Reason: Pending capital raising announcement.  \n\n**4. Other Announcement (M&A):**  \n- Acquiring 100% of [Target] for AUD 80M (50% scrip, 50% cash).  \n- Funding: AUD 40M new debt facility.  \n\nIf no material data is found, I will state:  \n- *No material information identified.*  \n\nProceed with your document/details.",
   "usage": {
     "prompt_tokens": 220,
-    "completion_tokens": 313,
-    "total_tokens": 533,
+    "completion_tokens": 286,
+    "total_tokens": 506,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-28T05:06:25.341578"
+  "processed_at": "2025-07-28T05:43:14.566206"
 }
