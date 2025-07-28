@@ -7,13 +7,13 @@
   "date": "20250728",
   "time": "1706",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6zwsjhykpzh.pdf",
-  "summary": "Understood. Here's the strict, material-only summary template I'll follow based on announcement type:  \n\n**1. Trading Halt Request**  \n- *Reason*: [One-line rationale, e.g., \"Pending release of material acquisition details\"]  \n\n**2. Capital Raising Announcement**  \n- *Structure*: [Placement/SPP/Entitlement Offer + any tiered pricing]  \n- *Amount*: [AUD total raised or sought]  \n- *Key Dates*: Ex-date [dd/mm], Record [dd/mm], Close [dd/mm]  \n\n**3. Quarterly Report (Appendix 4C)**  \n- *Cash Balance*: [AUD as at quarter-end]  \n- *Key Highlights*: [1-2 bullets on revenue/production/debt milestones only if material]  \n\n**4. Other Announcements**  \n- [Bullet 1: Material financial/legal impact, e.g., \"Major asset sale at AUD X\"]  \n- [Bullet 2: Liquidity/capital structure change, e.g., \"New AUD Y debt facility\"]  \n\n**No Material Information Identified**: If irrelevant for trading/capital markets.  \n\n**Example Output**:  \nFor a *Capital Raising Announcement*:  \n- *Structure*: 1-for-4 Entitlement Offer @ AUD 0.25/share  \n- *Amount*: AUD 40m (~AUD 30m placement + AUD 10m SPP)  \n- *Key Dates*: Ex-date 15/06, Record 18/06, Close 02/07  \n\nFor a *Quarterly Report*:  \n- *Cash Balance*: AUD 12.5m (vs. AUD 15.2m prior quarter)  \n- *Highlights*: Gold production +8% QoQ; no debt drawn.  \n\nProceed by sharing the announcement text/PDF. I'll extract only material details per above.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., issuer name, announcement type, headline), and I will extract **only material information** in the strict format you've requested, prioritizing trading/capital markets relevance.  \n\nExample outputs for common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: AU$50M placement (fully underwritten) + AU$10M SPP.  \n- Key dates: Ex-date 15 Sep, Record 18 Sep, SPP close 30 Sep.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: AU$12.5M (Q4 2023).  \n- Revenue: AU$8.2M (up 15% QoQ).  \n\n**4. Other Announcement (M&A)**  \n- Proposed acquisition of [Target] for AU$100M (50% scrip, 50% cash).  \n- Completion expected Q1 2024, subject to shareholder approval.  \n\n**5. No Material Information Identified**  \n---  \n\n*Note:* I will omit all non-material fluff. Provide the document or key details, and I\u2019ll draft the summary.",
   "usage": {
     "prompt_tokens": 235,
-    "completion_tokens": 406,
-    "total_tokens": 641,
+    "completion_tokens": 277,
+    "total_tokens": 512,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-28T07:40:54.820359"
+  "processed_at": "2025-07-28T07:55:56.115804"
 }
