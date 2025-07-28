@@ -7,13 +7,13 @@
   "date": "20250728",
   "time": "1442",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6src1dqwrrx.pdf",
-  "summary": "**Summary of ASX Announcement (Sample Rules Applied):**  \n\n- **Example: Trading Halt Request**  \n  - *Reason:* Pending release of capital raising announcement.  \n\n- **Example: Capital Raising Announcement**  \n  - *Structure:* A$50M Placement + A$10M SPP.  \n  - *Key Dates:* Ex-date 15 Oct, Record 18 Oct, Close 30 Oct.  \n\n- **Example: Quarterly Report (Appendix 4C)**  \n  - *Cash Balance:* A$12.5M (QoQ -A$2.1M).  \n  - *Highlights:* Production up 15%, costs down 10%.  \n\n- **Example: Other Material Announcement**  \n  - *Key Points:* Asset sale for A$25M; CFO resigning.  \n\n*(If unclear or immaterial: \"No material information identified.\")*",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., document type, headline, or excerpts) for me to analyze. I will then extract only the material information as per your specified guidelines, formatted concisely.  \n\nExample output formats based on announcement types:  \n\n**Trading Halt Request**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement**  \n- Type: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap)  \n- Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n**Quarterly Report (4C)**  \n- Cash balance: AUD 12.5M (prev. AUD 15.2M)  \n- Quarterly cash burn: AUD 2.7M  \n- Milestone: First revenue AUD 1.1M from commercial launch.  \n\n**Other Announcement**  \n- Major asset sale: AUD 75M divestment of non-core division (10% of market cap).  \n- CEO resignation effective immediately; replacement search initiated.  \n\n**If unclear/no material info**  \n- No material information identified.  \n\nProvide the document or key details, and I\u2019ll respond accordingly.",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 189,
-    "total_tokens": 419,
+    "completion_tokens": 278,
+    "total_tokens": 508,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-28T05:49:49.288565"
+  "processed_at": "2025-07-28T06:04:24.722819"
 }
