@@ -7,13 +7,13 @@
   "date": "20250728",
   "time": "1706",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6zwsjhykpzh.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., issuer name, announcement type, headline), and I will extract **only material information** in the strict format you've requested, prioritizing trading/capital markets relevance.  \n\nExample outputs for common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: AU$50M placement (fully underwritten) + AU$10M SPP.  \n- Key dates: Ex-date 15 Sep, Record 18 Sep, SPP close 30 Sep.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: AU$12.5M (Q4 2023).  \n- Revenue: AU$8.2M (up 15% QoQ).  \n\n**4. Other Announcement (M&A)**  \n- Proposed acquisition of [Target] for AU$100M (50% scrip, 50% cash).  \n- Completion expected Q1 2024, subject to shareholder approval.  \n\n**5. No Material Information Identified**  \n---  \n\n*Note:* I will omit all non-material fluff. Provide the document or key details, and I\u2019ll draft the summary.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, issuer name, headline, or a brief excerpt), and I will extract only the material information as per your specified format.  \n\nExample outputs based on common scenarios:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement regarding capital raising.  \n\n**2. Capital Raising Announcement**  \n- Structure: $50M placement + $10M SPP.  \n- Key dates: Ex-date 15/05/2024, record date 17/05/2024, SPP close 31/05/2024.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: $12.4M (QoQ -$2.1M).  \n- Highlights: Gold production up 8% QoQ; costs reduced to $1,200/oz.  \n\n**4. Other Announcement (e.g., M&A, Divestment)**  \n- Asset sold: 100% of Project X for $75M cash.  \n- Impact: Net debt reduced to $50M (from $125M).  \n\nReply with the document or specifics to proceed. If none, I\u2019ll return:  \n*No material information identified*.",
   "usage": {
     "prompt_tokens": 235,
-    "completion_tokens": 277,
-    "total_tokens": 512,
+    "completion_tokens": 268,
+    "total_tokens": 503,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-28T07:55:56.115804"
+  "processed_at": "2025-07-28T08:04:23.380799"
 }
