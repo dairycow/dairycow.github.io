@@ -7,13 +7,13 @@
   "date": "20250729",
   "time": "1632",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m8gqt474xy73.pdf",
-  "summary": "Understood. Please provide:  \n1. The ASX announcement PDF or a clear description of its contents (e.g., \"Capital raising announcement for XYZ Ltd at $50M via placement\").  \n2. The announcement type (if identifiable).  \n\nI\u2019ll extract material information per your strict criteria.  \n\n*Example Outputs*:  \n\n**Trading Halt Request**:  \n- Halt requested pending release of capital raising details.  \n\n**Capital Raising Announcement**:  \n- Type: Placement + SPP.  \n- Amount: AUD 75M (AUD 60M placement, AUD 15M SPP).  \n- Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n**Appendix 4C (Quarterly)**:  \n- Cash balance: AUD 12.4M (prior quarter: AUD 15.1M).  \n- Cash burn: AUD 2.7M (operating), nil capex.  \n\n**Other Announcement**:  \n- Asset sale: AUD 200M divestment (net proceeds 70% debt reduction).  \n- FY24 guidance cut: EBITDA revised to AUD 50-55M (prior 65-70M).  \n\n**No material information identified** (if applicable).  \n\nProvide the document/details, and I\u2019ll apply this format.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I\u2019ll extract *only* material information relevant for trading or capital markets decisions, formatted as concise bullet points per your guidelines. If the document type is unclear or lacks material details, I\u2019ll note it explicitly.  \n\n**Example Outputs for Common Scenarios:**  \n\n1. **Capital Raising Announcement**  \n   - *Type:* Placement + SPP  \n   - *Amount:* AUD 50M (AUD 40M placement + AUD 10M SPP)  \n   - *Key Dates:* Ex-date 15/05, Record 16/05, Close 30/05.  \n\n2. **Appendix 4C (Quarterly Cash Flow)**  \n   - *Cash Balance:* AUD 12.5M (QoQ -2.1M).  \n   - *Key Highlight:* Production up 15%, costs below guidance.  \n\n3. **Trading Halt Request**  \n   - *Reason:* Pending announcement of capital raising.  \n\n4. **Other Announcement (Acquisition)**  \n   - *Deal:* Acquiring XYZ Co for AUD 200M (50% scrip, 50% cash).  \n   - *Impact:* FY25 EPS accretive by 10%.  \n\n*No material information identified* will be stated if irrelevant.  \n\n**Next Step:** Share the announcement text or PDF. I\u2019ll respond with the strict summary.",
   "usage": {
     "prompt_tokens": 227,
-    "completion_tokens": 282,
-    "total_tokens": 509,
+    "completion_tokens": 304,
+    "total_tokens": 531,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-29T06:48:39.715914"
+  "processed_at": "2025-07-29T07:08:26.466564"
 }
