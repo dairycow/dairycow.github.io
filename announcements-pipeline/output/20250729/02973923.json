@@ -7,13 +7,13 @@
   "date": "20250729",
   "time": "1420",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m89vqlvwnnv0.pdf",
-  "summary": "Understood. For any ASX announcement PDF you provide, I'll extract only the most material information in the strict format you've outlined, with ruthless conciseness and no extraneous details.  \n\n**Examples of how I\u2019ll respond based on common announcement types:**  \n\n1. **Trading Halt Request:**  \n   - *Reason:* Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement (e.g., Placement + SPP):**  \n   - *Structure:* Placement ($50M) + SPP ($10M cap).  \n   - *Use of funds:* Debt reduction (70%), working capital (30%).  \n   - *Key dates:* Ex-date: 15 Sep 2023, SPP close: 30 Sep 2023.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - *Cash balance:* $12.5M (vs. $15.2M prior quarter).  \n   - *Burn rate:* $2.7M/qtr, highlights: Production +15% QoQ.  \n\n4. **Other Material Announcement (e.g., M&A):**  \n   - *Acquisition:* 100% of Target Co for $200M (50% scrip, 50% cash).  \n   - *Conditions:* Subject to shareholder approval (meeting: 20 Nov 2023).  \n\n**If unclear/no material info:**  \n   - *No material information identified.*  \n\nPlease share the PDF or its text, and I\u2019ll provide a summary strictly adhering to this format.",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its key details), and I'll extract the material information in the requested format: concise, trading/capital markets-relevant bullet points, strictly tailored to the announcement type.  \n\n**Example Outputs for Reference:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending release of material acquisition announcement.  \n\n2. **Capital Raising Announcement (Placement + SPP)**  \n   - Structure: A$50M placement + A$10M SPP.  \n   - Key dates: Ex-date 15/06, Record 18/06, SPP close 30/06.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - Cash balance: A$12.5M (prev. A$15.2M).  \n   - Quarterly cash burn: A$2.7M. Product trial completion delayed to Q4.  \n\n4. **Other Announcement (Strategic Review)**  \n   - Divestment of non-core assets expected to yield A$30\u201340M.  \n   - CEO resignation effective immediately; interim CFO appointed.  \n\nIf the document isn\u2019t actionable for traders/investors, I\u2019ll note: *No material information identified*.  \n\nPlease share the announcement text or key details.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 328,
-    "total_tokens": 553,
+    "completion_tokens": 273,
+    "total_tokens": 498,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-29T04:38:08.484961"
+  "processed_at": "2025-07-29T05:08:27.793154"
 }
