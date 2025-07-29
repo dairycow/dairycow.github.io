@@ -1,0 +1,19 @@
+{
+  "ticker": "YAR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973921",
+  "id": "02973921",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250729",
+  "time": "1419",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m89qkhds0q9v.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or paste its text), and I'll extract the material information in the concise format outlined.  \n\nIf the document isn't available, here\u2019s how I\u2019d summarize common announcement types based on your instructions:  \n\n### **Examples of Expected Outputs**  \n1. **Trading Halt Request**  \n   - Reason: Pending announcement of capital raising.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - Structure: $50M placement + $10M SPP.  \n   - Price: $0.25/share (15% discount to last close).  \n   - Dates: Ex-date 15/05, SPP closes 30/05.  \n\n3. **Quarterly (Appendix 4C)**  \n   - Cash balance: $12.4M (QoQ -$2.1M).  \n   - Burn rate: $1.7M/month.  \n   - Milestone: Phase 2 trials commenced (25% enrollment).  \n\n4. **Merger Announcement**  \n   - Terms: 1:1 scrip merger with [Target] (implied 20% premium).  \n   - Conditions: Due diligence, shareholder approval.  \n\n5. **No Material Information Identified**  \n   - Routine operational update (e.g., minor board change).  \n\nProvide the document, and I\u2019ll tailor the summary precisely.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 297,
+    "total_tokens": 522,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-29T04:44:21.634282"
+}
