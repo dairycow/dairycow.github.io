@@ -1,0 +1,19 @@
+{
+  "ticker": "EDU",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973950",
+  "id": "02973950",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250729",
+  "time": "1534",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m8d4stzttg9m.pdf",
+  "summary": "Understood. For any ASX announcement PDF you provide, I'll extract **only** material information relevant to trading or capital markets decisions, formatted as concise bullet points, adhering strictly to the guidelines you've outlined.  \n\n**Examples of my responses:**  \n\n1. **Trading Halt Request:**  \n   - *Reason:* Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement:**  \n   - *Type:* Placement + SPP  \n   - *Total raised:* AUD 50M (Placement) + AUD 10M (SPP cap)  \n   - *Key dates:* Ex-date 15 Oct, Record 18 Oct, SPP close 30 Oct.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - *Cash balance:* AUD 12.5M (prior quarter: AUD 15.2M)  \n   - *Key highlights:* Production up 10% QoQ, costs down 5%.  \n\n4. **Other Announcement (e.g., M&A):**  \n   - *Acquisition:* AUD 200M asset purchase, 50% scrip + 50% cash.  \n   - *Funding:* New AUD 100M debt facility secured.  \n\n5. **No material information identified** (if the announcement lacks relevant data).  \n\nPlease share the ASX announcement PDF (or key excerpts), and I\u2019ll provide a tailored summary.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 296,
+    "total_tokens": 521,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-29T05:47:18.815558"
+}
