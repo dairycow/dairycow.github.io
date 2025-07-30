@@ -1,5 +1,43 @@
 [
   {
+    "ticker": "KMD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974724",
+    "id": "02974724",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250731",
+    "time": "0751",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06mbkt4zg8kgjg.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>Type</strong>: PERFORMANCE RIGHTS (KMDAK)  </li>\n<li><strong>Quantity</strong>: 2,623,324  </li>\n<li><strong>Reason</strong>: Lapse due to unmet conditions  </li>\n<li>\n<p><strong>Date</strong>: 31/07/2025  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (KMD)</strong>: 711,667,484  </li>\n<li><strong>Remaining Performance Rights (KMDAK)</strong>: 20,684,775  </li>\n</ul>\n<p>No material impact on trading or capital structure identified.</p>",
+    "usage": {
+      "prompt_tokens": 1020,
+      "completion_tokens": 121,
+      "total_tokens": 1141,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-30T21:57:40.013723"
+  },
+  {
+    "ticker": "KMD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974723",
+    "id": "02974723",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250731",
+    "time": "0750",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06mbkqt13q597c.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Lapse of Performance Rights:</strong> 2,623,324 performance rights lapsed (876,944 issued 20 Dec 2022; 1,746,380 issued 19 Dec 2023).  </li>\n<li><strong>Impact:</strong> Slight reduction in potential dilution (neutral to capital structure; no immediate trading impact).  </li>\n</ul>\n<p><em>(No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 324,
+      "completion_tokens": 85,
+      "total_tokens": 409,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-30T21:58:18.021709"
+  },
+  {
     "ticker": "DOW",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974722",
     "id": "02974722",
@@ -8,14 +46,14 @@
     "date": "20250731",
     "time": "0734",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06mbkkh6l23db9.pdf",
-    "summary": "<ul>\n<li><strong>BlackRock Group</strong> has filed a <strong>Notice of Initial Substantial Shareholder</strong> in <strong>Downer EDI Ltd (ASX: DOW)</strong>, disclosing relevant interests and voting rights.  </li>\n<li><strong>Total shares held</strong>: Multiple entities under BlackRock hold <strong>ordinary shares</strong>, with voting rights detailed in Annexure A (e.g., BlackRock Advisors UK holds 211,252 shares, BlackRock Investment Management Australia holds 5,935,999 shares, etc.).  </li>\n<li><strong>Recent acquisitions</strong>: Annexure B outlines on-market purchases between <strong>March\u2013July 2025</strong> at prices ranging from <strong>AUD 5.16 to AUD 6.93 per share</strong>. Key transactions include:  </li>\n<li><strong>BlackRock Institutional Trust Company</strong> bought 181,274 shares at AUD 5.71 on 30-Apr-2025.  </li>\n<li><strong>BlackRock Investment Management Australia</strong> bought 158,277 shares at AUD 6.54 on 10-Jul-2025.  </li>\n<li><strong>Securities lending</strong>: BlackRock entities have securities lending agreements (Annexure D) with counterparties like Goldman Sachs, J.P. Morgan, and UBS, allowing collateral transfers but restricting voting rights unless instructed by the borrower.  </li>\n</ul>\n<p><em>Material impact</em>: BlackRock\u2019s substantial holding and active trading may influence liquidity and price dynamics in DOW. Securities lending could dilute voting power temporarily.  </p>\n<p><strong>No capital raising, trading halt, or operational updates identified.</strong></p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Announcement Type:</strong> <em>Initial Substantial Shareholder Notice (Form 603)</em>  </p>\n<ul>\n<li><strong>Entity Acquiring Interest:</strong> BlackRock Inc. and subsidiaries (multiple entities listed) via securities lending agreements and on-market purchases.  </li>\n<li><strong>Total Voting Rights Acquired:</strong>  </li>\n<li><strong>Direct/Indirect Control:</strong> Aggregate voting rights exceed 5% (exact total not specified, but detailed breakdown provided across subsidiaries).  </li>\n<li><strong>Key Dates:</strong>  </li>\n<li><strong>Initial Acquisition Dates:</strong> Transactions occurred between March 31, 2025, and July 29, 2025 (detailed in Annexure B).  </li>\n<li><strong>Securities Lending Agreements:</strong>  </li>\n<li><strong>Structure:</strong> Collateral transfers and on-market purchases under Global Master Securities Lending Agreements (GMSLAs).  </li>\n<li><strong>Voting Rights:</strong> Borrower controls voting rights unless instructed by the lender (BlackRock).  </li>\n<li><strong>Transaction Details (Selected Highlights):</strong>  </li>\n<li><strong>Notable On-Market Purchases:</strong>  <ul>\n<li>BlackRock Investment Management (Australia) Ltd: Multiple transactions at prices ranging from <strong>AUD 5.16 to AUD 6.93 per share</strong>.  </li>\n<li>Largest single purchase: <strong>181,274 shares</strong> at AUD 5.71 (April 30, 2025).  </li>\n</ul>\n</li>\n<li><strong>In-Specie Transfers:</strong> Non-cash transactions (e.g., BlackRock Fund Advisors).  </li>\n</ul>\n<p><strong>Actionable Insight:</strong><br />\n- BlackRock\u2019s consolidated holding now crosses the 5% substantial shareholder threshold, indicating institutional accumulation.<br />\n- <strong>Liquidity Impact:</strong> Large on-market purchases suggest active trading interest in DOW.  </p>\n<p><strong>Omitted:</strong> Non-material counterparty legal details, exact breakdowns of minor transactions.</p>",
     "usage": {
       "prompt_tokens": 18501,
-      "completion_tokens": 303,
-      "total_tokens": 18804,
+      "completion_tokens": 365,
+      "total_tokens": 18866,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-30T21:52:16.828159"
+    "processed_at": "2025-07-30T21:57:32.985301"
   }
 ]
