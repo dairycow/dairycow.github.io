@@ -1,0 +1,19 @@
+{
+  "ticker": "DWG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974568",
+  "id": "02974568",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1451",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb0kwrfhm1tr.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or details from it), and I\u2019ll extract *only* the material information in the requested format: concise bullet points, tailored to the announcement type, with no fluff.  \n\n**Example Outputs (based on common scenarios):**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising (Placement + SPP):**  \n   - Type: AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n   - Dates: Ex-date 15/05, Record 17/05, SPP closes 30/05.  \n\n3. **Quarterly (4C):**  \n   - Cash balance: AUD 12.3M (QoQ -2.1M).  \n   - Highlights: Gold production 15koz (vs 12koz pcp), costs AUD 1,200/oz.  \n\n4. **Other Announcement (Asset Sale):**  \n   - Sale of X project for AUD 75M (conditional on approval).  \n   - Net debt reduced to AUD 20M post-transaction.  \n\nIf the document lacks tradable info or is unclear, I\u2019ll note:  \n   - *No material information identified.*  \n\n**Now, share the announcement text/PDF, and I\u2019ll summarize it strictly per your rules.**",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 300,
+    "total_tokens": 525,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T05:05:06.250502"
+}
