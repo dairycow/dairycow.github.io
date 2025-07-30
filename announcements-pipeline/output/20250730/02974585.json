@@ -1,0 +1,19 @@
+{
+  "ticker": "MPA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974585",
+  "id": "02974585",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1524",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb1xvsrrpn22.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will extract **only material information relevant for trading or capital markets decisions** in a ruthlessly concise format, adhering strictly to the rules above.  \n\nExamples of how I\u2019ll format outputs:  \n\n---  \n**Trading Halt Request**:  \n- *Reason*: Pending material acquisition announcement.  \n\n**Capital Raising Announcement (Placement)**:  \n- *Structure*: A$50M placement + A$10M SPP.  \n- *Key dates*: Ex-date 15/09, record 18/09, SPP close 30/09.  \n\n**Appendix 4C (Quarterly)**:  \n- *Cash balance*: A$12.5M (vs. A$15.2M last quarter).  \n- *Key highlight*: Production up 22% QoQ.  \n\n**Other Announcement (M&A)**:  \n- *Acquisition*: 100% of Target Co for A$200M (50% scrip, 50% cash).  \n- *Funding*: A$100M new debt facility secured.  \n\n**No material information identified** (if doc is boilerplate).  \n---  \n\nPlease share the announcement or key details, and I\u2019ll proceed.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 275,
+    "total_tokens": 500,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T05:43:33.606551"
+}
