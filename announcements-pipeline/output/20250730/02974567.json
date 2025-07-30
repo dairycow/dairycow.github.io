@@ -7,13 +7,13 @@
   "date": "20250730",
   "time": "1451",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb0hsxsy07gy.pdf",
-  "summary": "Understood. Here\u2019s how I\u2019ll extract material information based on your guidelines:\n\n**For a Trading Halt Request:**  \n- *Reason for halt*: [One-line explanation, e.g., \"Pending release of material transaction details\"].  \n\n**For a Capital Raising Announcement:**  \n- *Structure*: [Placement/SPP/Entitlement Offer, etc.].  \n- *Total raised*: [AUD amount, e.g., \"$50M\"].  \n- *Key dates*: Ex-date: [DD/MM], Record: [DD/MM], Close: [DD/MM].  \n\n**For Quarterly Report (Appendix 4C):**  \n- *Cash balance*: [AUD amount, e.g., \"$10.5M\"].  \n- *Key highlights*: [1-2 bullet points, e.g., \"Revenue up 15% QoQ\", \"Production target missed by 5%\"].  \n\n**Other Announcements:**  \n- [Bullet 1]: Material impact (e.g., \"Major asset sale for $100M\").  \n- [Bullet 2]: Liquidity/capital change (e.g., \"Debt refinancing at 5% lower interest\").  \n\nIf unclear or immaterial:  \n- *No material information identified*.  \n\nProvide the PDF, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I'll extract the material information in the requested concise format.  \n\nExample outputs based on common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending release of material capital raising announcement.  \n\n**2. Capital Raising Announcement (Placement + SPP)**  \n- Structure: A$50M placement (A$0.20/share) + A$10M SPP.  \n- Key dates: Ex-date 15/03, record date 18/03, SPP close 05/04.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: A$12.5M (QoQ -A$1.2M).  \n- Highlights: Production 15,000 oz (guidance: 14,000\u201316,000 oz), costs A$1,200/oz.  \n\n**4. Material Contract Signed**  \n- 5-year supply deal with Tier-1 buyer; minimum revenue A$100M.  \n\n**5. No material information identified**  \n---  \n\nLink or paste the document text, and I\u2019ll parse it accordingly.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 284,
-    "total_tokens": 509,
+    "completion_tokens": 263,
+    "total_tokens": 488,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-30T05:03:35.663094"
+  "processed_at": "2025-07-30T05:41:20.048363"
 }

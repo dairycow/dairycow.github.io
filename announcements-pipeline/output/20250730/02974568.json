@@ -7,13 +7,13 @@
   "date": "20250730",
   "time": "1451",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb0kwrfhm1tr.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF (or details from it), and I\u2019ll extract *only* the material information in the requested format: concise bullet points, tailored to the announcement type, with no fluff.  \n\n**Example Outputs (based on common scenarios):**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising (Placement + SPP):**  \n   - Type: AUD 50M placement (AUD 0.20/share) + AUD 10M SPP.  \n   - Dates: Ex-date 15/05, Record 17/05, SPP closes 30/05.  \n\n3. **Quarterly (4C):**  \n   - Cash balance: AUD 12.3M (QoQ -2.1M).  \n   - Highlights: Gold production 15koz (vs 12koz pcp), costs AUD 1,200/oz.  \n\n4. **Other Announcement (Asset Sale):**  \n   - Sale of X project for AUD 75M (conditional on approval).  \n   - Net debt reduced to AUD 20M post-transaction.  \n\nIf the document lacks tradable info or is unclear, I\u2019ll note:  \n   - *No material information identified.*  \n\n**Now, share the announcement text/PDF, and I\u2019ll summarize it strictly per your rules.**",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will generate a concise, material-only summary tailored to the announcement type per your strict guidelines.  \n\nExample format (based on common announcement types):  \n\n**Trading Halt Request**:  \n- Reason: Pending release of material acquisition details.  \n\n**Capital Raising (Placement + SPP)**:  \n- Total raised: AUD 50M (Placement AUD 40M, SPP AUD 10M).  \n- Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n**Appendix 4C (Quarterly)**:  \n- Cash balance: AUD 12.5M (QoQ -3M).  \n- Highlights: Revenue AUD 8M (+20% QoQ), production 50koz Au.  \n\n**Other (Material Change)**:  \n- Asset sale: Divesting X for AUD 30M, completes Q4.  \n- Guidance revised: FY24 EBITDA lifted to AUD 60-65M.  \n\n*No material information identified* will be stated if irrelevant. Proceed with your document.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 300,
-    "total_tokens": 525,
+    "completion_tokens": 242,
+    "total_tokens": 467,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-07-30T05:05:06.250502"
+  "processed_at": "2025-07-30T05:42:04.351096"
 }
