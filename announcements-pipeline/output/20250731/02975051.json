@@ -1,0 +1,19 @@
+{
+  "ticker": "BSA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975051",
+  "id": "02975051",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250731",
+  "time": "0937",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06mc96tcbqzzsw.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or paste the text if possible), and I will extract **only material information** relevant to trading or capital markets decisions in the exact structured format you outlined.  \n\nExample outputs based on common scenarios:  \n\n**1. Trading Halt Example:**  \n- *Trading Halt Request:* Pending release of material announcement regarding capital raising.  \n\n**2. Capital Raising Example:**  \n- *Structure:* A$50M placement + A$10M SPP.  \n- *Key Dates:* Ex-date 15/04, Record 18/04, Close 30/04.  \n\n**3. Quarterly (4C) Example:**  \n- *Cash Balance:* A$12.5M (QoQ -A$2.1M).  \n- *Highlights:* Gold production 8,200oz (vs guidance 7,500oz).  \n\n**4. Other Announcement Example:**  \n- *Material Impact:* Major offtake agreement signed with Glencore (5-year term).  \n- *Liquidity Impact:* Debt facility increased to A$100M (from A$50M).  \n\n**If you share the document/text, I will adhere strictly to your rules: ruthlessly concise, no fluff.**  \nIf no material details are found, I\u2019ll reply: *\"No material information identified.\"*",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 288,
+    "total_tokens": 513,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T23:52:46.209504"
+}
