@@ -1,0 +1,19 @@
+{
+  "ticker": "VIT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974567",
+  "id": "02974567",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1451",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb0hsxsy07gy.pdf",
+  "summary": "Understood. Here\u2019s how I\u2019ll extract material information based on your guidelines:\n\n**For a Trading Halt Request:**  \n- *Reason for halt*: [One-line explanation, e.g., \"Pending release of material transaction details\"].  \n\n**For a Capital Raising Announcement:**  \n- *Structure*: [Placement/SPP/Entitlement Offer, etc.].  \n- *Total raised*: [AUD amount, e.g., \"$50M\"].  \n- *Key dates*: Ex-date: [DD/MM], Record: [DD/MM], Close: [DD/MM].  \n\n**For Quarterly Report (Appendix 4C):**  \n- *Cash balance*: [AUD amount, e.g., \"$10.5M\"].  \n- *Key highlights*: [1-2 bullet points, e.g., \"Revenue up 15% QoQ\", \"Production target missed by 5%\"].  \n\n**Other Announcements:**  \n- [Bullet 1]: Material impact (e.g., \"Major asset sale for $100M\").  \n- [Bullet 2]: Liquidity/capital change (e.g., \"Debt refinancing at 5% lower interest\").  \n\nIf unclear or immaterial:  \n- *No material information identified*.  \n\nProvide the PDF, and I\u2019ll parse it accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 284,
+    "total_tokens": 509,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T05:03:35.663094"
+}
