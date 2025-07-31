@@ -1,5 +1,309 @@
 [
   {
+    "ticker": "BEZ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975406",
+    "id": "02975406",
+    "pages": 17,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1551",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md492c4tpkw5.pdf",
+    "summary": "<h3><strong>Material Information Summary for Trading/Capital Markets Decisions</strong></h3>\n<h4><strong>Corporate &amp; Governance</strong></h4>\n<ul>\n<li><strong>Board overhaul</strong>: New directors appointed (David Izzard, John Blake, Matthew Greentree); four directors removed at Special Meeting (24 June 2025).  </li>\n<li><strong>Ontario Cease Trade Order (CTO)</strong>: Active due to late filing of Canadian financials; impacts Canadian investor trading but not ASX liquidity.  </li>\n</ul>\n<h4><strong>Bau Project (Jugan Deposit)</strong></h4>\n<ul>\n<li><strong>Mining Lease Renewal (ML 05/2012/1D)</strong>: Pending approval by Sarawak authorities; critical for project advancement.  </li>\n<li><strong>Resource Estimate</strong>: Updated Jugan MRE (13.46Mt @ 1.67g/t Au for 721koz), with 89% in Measured/Indicated categories.  </li>\n<li><strong>Next-Gen Processing</strong>: Trials with Dundee Technologies (Canada) for arsenic removal/gold recovery underway.  </li>\n</ul>\n<h4><strong>Capital &amp; Liquidity</strong></h4>\n<ul>\n<li><strong>Cash Position</strong>: <strong>A$16.3M</strong> at quarter-end (down from A$20.6M previous quarter).  </li>\n<li><strong>Burn Rate</strong>: <strong>A$3.3M</strong> quarterly cash outflow (operations + exploration); ~5 quarters of funding remaining.  </li>\n<li><strong>Options</strong>: ~45M unlisted options outstanding at A$0.25\u2013A$0.45 strike prices (expiries 2025\u20132026).  </li>\n</ul>\n<h4><strong>Appendix 4C Highlights</strong></h4>\n<ul>\n<li><strong>Exploration Spend</strong>: <strong>A$1.36M</strong> (quarter); <strong>A$4.96M</strong> (YTD).  </li>\n<li><strong>Payments to Related Parties</strong>: <strong>A$251k</strong> (director fees).  </li>\n</ul>\n<h4><strong>Key Risks</strong></h4>\n<ul>\n<li>Delays in mining lease renewals (Bau/Jugan).  </li>\n<li>Ongoing legal dispute with Jura Trust (A$25k claim).  </li>\n</ul>\n<p><strong>No material capital-raising or trading halt details identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 9070,
+      "completion_tokens": 412,
+      "total_tokens": 9482,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:02:28.991128"
+  },
+  {
+    "ticker": "WGR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975403",
+    "id": "02975403",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1550",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md42mzps9ss4.pdf",
+    "summary": "<p><strong>Trading Halt Request:</strong><br />\n- Pending a further announcement.  </p>\n<p><em>(No other material information identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 291,
+      "completion_tokens": 25,
+      "total_tokens": 316,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:05:01.007182"
+  },
+  {
+    "ticker": "QRI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975405",
+    "id": "02975405",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250731",
+    "time": "1550",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md46t5g3rt80.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Qualitas Real Estate Income Fund \u2013 QRI):</strong>  </p>\n<ul>\n<li><strong>Distribution Declaration</strong>: July 2025 distribution of <strong>0.9526 cents per unit</strong>, implying an annualized distribution return of <strong>7.01%</strong> (based on forecast NTA of <strong>$1.60 per unit</strong>).  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1557,
+      "completion_tokens": 82,
+      "total_tokens": 1639,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:04:26.673844"
+  },
+  {
+    "ticker": "RAG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975404",
+    "id": "02975404",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1550",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md44qtjcwcm2.pdf",
+    "summary": "<p><strong>Appendix 5B (Quarterly Cash Flow Report) Summary \u2013 Ragnar Metals Limited (ASX: RAG)</strong>  </p>\n<ul>\n<li><strong>Cash Position</strong>: Closing cash balance of <strong>A$874k</strong> (down from A$3.637k last quarter).  </li>\n<li><strong>Cash Burn</strong>: Net operating cash outflow of <strong>A$483k</strong> (quarter); <strong>A$1.142m</strong> (12-month).  </li>\n<li><strong>Exploration Spend</strong>: A$132k (investing activities) + A$357k (operating activities) in current quarter.  </li>\n<li><strong>Funding Runway</strong>: <strong>1.42 quarters</strong> of funding remaining (A$874k cash vs A$615k quarterly outflows).  </li>\n<li><strong>Liquidity Risk</strong>: Indicated need for future capital raising or royalty income (expected from Kaiser Reef royalty deal in next 2 quarters).  </li>\n<li><strong>No Debt Facilities</strong>: Unused financing facilities <strong>A$0</strong>.  </li>\n</ul>\n<p><em>No material operational or revenue milestones disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 3038,
+      "completion_tokens": 205,
+      "total_tokens": 3243,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:06:12.225110"
+  },
+  {
+    "ticker": "QRI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975401",
+    "id": "02975401",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1549",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3ydppzp3xr.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Amount</strong>: AUD 0.009526 per unit (estimated, unfranked)  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Ex-date: 5/8/2025  </li>\n<li>Record date: 6/8/2025  </li>\n<li>Payment date: 15/8/2025  </li>\n<li>DRP election deadline: 7/8/2025, 17:00 (AEST)  </li>\n<li><strong>DRP Details</strong>:  </li>\n<li>No discount applied; price based on lesser of latest NTA or average ASX acquisition price during Board-set period.  </li>\n<li>Default option: Cash payment (non-participation).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1657,
+      "completion_tokens": 145,
+      "total_tokens": 1802,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:01:01.870310"
+  },
+  {
+    "ticker": "RAG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975402",
+    "id": "02975402",
+    "pages": 6,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1549",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md40jm3fjnzz.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Quarterly Activities Report (June 2025) Highlights:</strong>  </p>\n<h4><strong>Operational:</strong></h4>\n<ul>\n<li><strong>Olserum Project (Sweden):</strong> Confirmed <strong>Iron Oxide Copper Gold (IOCG)-style mineralisation</strong> across four key prospects (Domstugan, Tintorp, Klubbs/Riskebo, Gruvdalen).  </li>\n<li><strong>Land expansion post-quarter:</strong> Staked <strong>36 km\u00b2</strong> new tenure in Sweden, increasing total holdings to <strong>159 km\u00b2</strong>.  </li>\n<li><strong>Assay highlights:</strong>  </li>\n<li><strong>Domstugan:</strong> 0.8% Cu, 1.2 g/t Au, 48 g/t Ag  </li>\n<li><strong>Tintorp:</strong> 2.2% Cu, 0.3 g/t Au, 0.07% Mo  </li>\n<li><strong>Klubbs:</strong> 0.6% Cu, 0.05 g/t Au  </li>\n<li><strong>Gruvdalen:</strong> 1.1% Cu, 0.05 g/t Au  </li>\n</ul>\n<h4><strong>Corporate &amp; Investments:</strong></h4>\n<ul>\n<li><strong>Strategic investments:</strong>  </li>\n<li><strong>High-Tech Metals (HTM):</strong> $1.21M cornerstone placement at $0.15/share (total $2.5M raised).  </li>\n<li><strong>Kaiser Reef (KAU):</strong> Held strategic stake; <strong>Henty Mine</strong> produced <strong>4,069 oz Au</strong> (4.05 g/t head grade) from 15 May\u201330 June 2025.  </li>\n<li><strong>Cash outflows:</strong>  </li>\n<li><strong>Exploration spend:</strong> $489k.  </li>\n<li><strong>Related-party payments:</strong> $98k (salaries, consultancy).  </li>\n</ul>\n<h4><strong>Other:</strong></h4>\n<ul>\n<li><strong>Project pipeline:</strong> Assessing gold/critical minerals acquisitions.  </li>\n<li>No material production or development activity.  </li>\n</ul>\n<p><strong>Closing Note:</strong> No new exploration data or financial metrics materially impacting valuation. Forward focus on follow-up drilling and target generation in Sweden.  </p>\n<hr />\n<p><strong>Brevity Note:</strong> Omitted non-material details (e.g., tenement tables, address change, disclaimers).<br />\n<strong>Actionable Data:</strong> Exploration results and investment stakes may influence sentiment but no immediate capital markets action (e.g., raising, guidance change).</p>",
+    "usage": {
+      "prompt_tokens": 3534,
+      "completion_tokens": 464,
+      "total_tokens": 3998,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:03:19.196471"
+  },
+  {
+    "ticker": "AP2",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975400",
+    "id": "02975400",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250731",
+    "time": "1547",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3vz1sshlgl.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Reason: This is a routine director's interest change notice with no impact on trading, capital structure, or valuation.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1164,
+      "completion_tokens": 32,
+      "total_tokens": 1196,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:06:46.399710"
+  },
+  {
+    "ticker": "PGY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975399",
+    "id": "02975399",
+    "pages": 27,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1546",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3snrfckwh1.pdf",
+    "summary": "<h3><strong>Material Information Summary: Quarterly Report &amp; Appendix 5B (30 June 2025)</strong></h3>\n<h4><strong>1. Operational Highlights</strong></h4>\n<ul>\n<li><strong>WA-481P Prospective Resources Upgrade</strong>:  </li>\n<li><strong>Leander Gas Prospect</strong>: Increased to <strong>1,116 Bcf (mean gas) + 18 mmbbls condensate</strong>.  </li>\n<li><strong>Oil Prospects (Cliff Head SW, Babbler, Brahminy)</strong>: <strong>66 mmbbls (mean)</strong> combined.  </li>\n<li><strong>PRRT Tax Refund</strong>: Up to <strong>$4.5M</strong> expected from FY2025 claim (abandonment/decommissioning costs).  </li>\n<li><strong>Cliff Head Carbon Storage Project</strong>:  </li>\n<li>Received <strong>non-binding proposal</strong> from a foreign state-owned enterprise for a minority stake.  </li>\n<li>Joint venture partners (including a Korean consortium) in advanced discussions.  </li>\n<li><strong>Asset Repurposing</strong>: Cliff Head oil facilities (platform, pipelines, onshore plant) to transition to carbon storage.  </li>\n</ul>\n<h4><strong>2. Corporate Highlights</strong></h4>\n<ul>\n<li><strong>Capital Raising</strong>:  </li>\n<li><strong>$5M equity placement</strong> (completed).  </li>\n<li><strong>$1.8M convertible note</strong> facility (binding, extended maturity to Dec 2026).  </li>\n<li><strong>Cliff Head JV Acquisition</strong>: Pilot now owns <strong>100% of onshore assets</strong>; offshore transfer pending regulatory approval.  </li>\n<li><strong>Three Springs Solar Project</strong>: Sale process nearing completion; expected binding agreement next quarter.  </li>\n</ul>\n<h4><strong>3. Financial Position (Appendix 5B)</strong></h4>\n<ul>\n<li><strong>Cash Balance (30 June 2025)</strong>: <strong>$765k</strong>.  </li>\n<li><strong>Funding Liquidity</strong>:  </li>\n<li>Expected <strong>$4.5M PRRT refund</strong> (Q3 2025).  </li>\n<li>Additional <strong>$1.5M debt note</strong> secured against refund.  </li>\n<li>Proceeds from solar project sale pending.  </li>\n<li><strong>Quarterly Cash Burn</strong>: <strong>$1.43M</strong> (operating activities).  </li>\n<li><strong>Convertible Notes Outstanding</strong>: <strong>~$12.9M</strong> (various maturities, conversion prices $0.015\u2013$0.03).  </li>\n</ul>\n<h4><strong>4. Key Risks</strong></h4>\n<ul>\n<li><strong>Funding Shortfall</strong>: Liquidity covers ~1.2 quarters; reliant on PRRT refund/JV deals.  </li>\n<li><strong>Regulatory &amp; Execution Risk</strong>: Pending approvals for asset transfers/carbon storage project.  </li>\n</ul>\n<h3><strong>Conclusion</strong></h3>\n<p>Material developments include resource upgrades, PRRT refund, carbon storage JV progress, and capital raises. Liquidity remains tight pending inflows.  </p>\n<p><strong>Formatting Note</strong>: Extracted only high-impact items per guidelines; omitted operational minutiae, director names, and legal boilerplate.</p>",
+    "usage": {
+      "prompt_tokens": 14948,
+      "completion_tokens": 562,
+      "total_tokens": 15510,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:07:14.600561"
+  },
+  {
+    "ticker": "MVL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975398",
+    "id": "02975398",
+    "pages": 10,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1545",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3qg3qvbgn9.pdf",
+    "summary": "<h3><strong>Material Information Summary: Quarterly Activities Report (30 June 2025)</strong></h3>\n<h4><strong>Key Highlights:</strong></h4>\n<ul>\n<li><strong>Acquisition of Hanang Gold Project (Tanzania):</strong>  </li>\n<li>Regulatory approvals secured from Fair Competition Commission and Tax Authorities; Mining Commission approval expected in September 2025.  </li>\n<li>\n<p>Total consideration: <strong>USD $200,000 cash + A$175,000 in Marvel shares</strong>.  </p>\n</li>\n<li>\n<p><strong>Divestment of Mali Assets (Tabakorole &amp; Yanfolila):</strong>  </p>\n</li>\n<li>Binding SPA signed with Anchises Capital for <strong>$1.65M</strong> ($150k upfront, $1.5M deferred).  </li>\n<li>\n<p><strong>Completion delayed</strong> to 5 August 2025 due to Mali Cadastre licensing delays; terms may be revised.  </p>\n</li>\n<li>\n<p><strong>Cash Position:</strong>  </p>\n</li>\n<li><strong>Closing cash balance: A$4.264M</strong> (up from A$2.363M last quarter).  </li>\n<li>\n<p>Estimated funding runway: <strong>9.5 quarters</strong> based on current burn rate.  </p>\n</li>\n<li>\n<p><strong>Exploration Expenditure:</strong>  </p>\n</li>\n<li>\n<p><strong>A$146k</strong> spent in Mali (land tax/license fees); no production activities.  </p>\n</li>\n<li>\n<p><strong>Asset Sale Proceeds:</strong>  </p>\n</li>\n<li>Sold <strong>4.1M Evolution Energy shares</strong> for <strong>A$62,646</strong>; holds <strong>45.9M shares</strong> (market value: A$0.597M).  </li>\n</ul>\n<h4><strong>Material Risks:</strong></h4>\n<ul>\n<li><strong>Mali Tenement Renewals:</strong> Key licenses expired or under renewal; delays persist due to Cadastre backlog.  </li>\n</ul>\n<p><strong>Note:</strong> Excluded routine operational/administrative updates. Focused on liquidity, capital structure, and material transactions.</p>",
+    "usage": {
+      "prompt_tokens": 5164,
+      "completion_tokens": 352,
+      "total_tokens": 5516,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:00:19.632710"
+  },
+  {
+    "ticker": "RCM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975397",
+    "id": "02975397",
+    "pages": 45,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1545",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3nbs80kb7g.pdf",
+    "summary": "<h3><strong>Material Information Summary \u2013 Rapid Critical Metals Ltd (ASX: RCM)</strong></h3>\n<p><em>(Quarterly Activities Report for June 30, 2025)</em>  </p>\n<h4><strong>Capital Raising &amp; Acquisitions</strong></h4>\n<ul>\n<li><strong>$10.5M capital raising</strong> completed on July 16, 2025, via placement at $0.024/share (post-consolidation).  </li>\n<li>Funds allocated to acquire NSW silver projects ($6.5M) and working capital.  </li>\n<li>\n<p>Major shareholder Strata Investment Holdings pledged additional $500K (subject to approval).  </p>\n</li>\n<li>\n<p><strong>Acquisition of NSW Silver Projects</strong>:  </p>\n</li>\n<li>Completed July 24, 2025: 100% of Conrad and Webbs Silver Projects (New England Fold Belt, NSW) for $6.5M (cash + shares).  </li>\n<li>\n<p>Additional land expansion: 26x increase in tenure adjacent to Webbs Project (ELA 6911 granted post-quarter).  </p>\n</li>\n<li>\n<p><strong>Prophet River Acquisition (Canada)</strong>:  </p>\n</li>\n<li>Closed June 27, 2025: 100% of Gallium-Germanium Project (2,110 Ha) in British Columbia.  </li>\n<li>Historic drill results include grades up to <strong>1,500ppm Ge</strong> and <strong>40ppm Ga</strong>.  </li>\n</ul>\n<h4><strong>Asset Transactions</strong></h4>\n<ul>\n<li><strong>Tin Mountain Sale (USA)</strong>:  </li>\n<li>Sold to Iris Metals (ASX: IR1) for $550K in IR1 shares (30-day VWAP) + $300K cash + 2% royalty.  </li>\n<li>Retained other US lithium assets under evaluation.  </li>\n</ul>\n<h4><strong>Corporate Updates</strong></h4>\n<ul>\n<li><strong>Share Consolidation</strong>: 1:12 ratio completed July 16, 2025.  </li>\n<li><strong>Leadership Change</strong>: Byron Miles appointed Managing Director (July 24, 2025).  </li>\n</ul>\n<h4><strong>Financial &amp; Liquidity</strong></h4>\n<ul>\n<li><strong>Cash Balance</strong>: $142K at quarter-end (from $955K in prior quarter).  </li>\n<li><strong>Funding Runway</strong>: 0.27 quarters (post-$10.5M raising).  </li>\n<li><strong>Convertible Notes</strong>: $379K USD outstanding (maturity Nov 2026, conversion price $0.18).  </li>\n</ul>\n<h4><strong>Exploration Highlights</strong></h4>\n<ul>\n<li><strong>NSW</strong>: Geologic mapping and sampling planned for Webbs/Conrad projects.  </li>\n<li><strong>Canada</strong>: Geophysical work approved for Prophet River; drill targets under evaluation.  </li>\n<li><strong>Zimbabwe</strong>: Bend Nickel Project (50% interest) \u2013 exploration deferred pending market conditions.  </li>\n</ul>\n<hr />\n<p><strong>Next Steps</strong>: Shareholder approval for Strata\u2019s $500K placement tranche (EGM in Sep/Oct 2025).  </p>\n<p><em>No other material events identified post-quarter-end.</em></p>",
+    "usage": {
+      "prompt_tokens": 35758,
+      "completion_tokens": 561,
+      "total_tokens": 36319,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:02:08.829157"
+  },
+  {
+    "ticker": "RLC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975396",
+    "id": "02975396",
+    "pages": 15,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1544",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3l4479r4dw.pdf",
+    "summary": "<h3>Quarterly Report Summary (Appendix 4C)</h3>\n<ul>\n<li><strong>Cash balance (end of quarter):</strong> <strong>$97,864</strong>  </li>\n<li><strong>Exploration highlights (Burracoppin Gold Project):</strong>  </li>\n<li>Multiple drill targets identified at <strong>Lady Janet, Windmills, Shear Luck, and Zebra</strong> prospects based on soil sampling and geophysical data.  </li>\n<li>Targets show anomalous gold (e.g., &gt;5\u201310 ppb Au) with pathfinder elements, aligned with interpreted structures.  </li>\n<li><strong>Burracoppin Iron Project:</strong> Seeking farm-in partner; no fieldwork conducted.  </li>\n<li><strong>Corporate:</strong>    </li>\n<li>Received <strong>$50k interest-free subordinated loan</strong> from related party (director-associated entity).  </li>\n<li>Directors deferred remuneration until solvency improves.  </li>\n</ul>\n<h3>Key Implication</h3>\n<p><strong>Low liquidity risk:</strong> ~1.96 quarters of funding runway, with exploration progress dependent on securing additional capital or joint ventures.  </p>\n<p><em>No material capital-raising, trading halt, or valuation-impacting announcements identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 7960,
+      "completion_tokens": 214,
+      "total_tokens": 8174,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:04:17.043142"
+  },
+  {
+    "ticker": "PPY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975395",
+    "id": "02975395",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1544",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3hz4732hst.pdf",
+    "summary": "<h3><strong>Appendix 4C Quarterly Cash Flow Report Summary (Papyrus Australia Ltd)</strong></h3>\n<h4><strong>Material Information for Capital Markets:</strong></h4>\n<ol>\n<li><strong>Cash Position</strong>  </li>\n<li><strong>Closing cash balance (AUD):</strong> $302k (up from $263k last quarter).  </li>\n<li>\n<p><strong>Net cash used in operations (quarter):</strong> ($163k).  </p>\n</li>\n<li>\n<p><strong>Financing Activities</strong>  </p>\n</li>\n<li><strong>Proceeds from borrowings:</strong> $239k (quarter); $527k (YTD).  </li>\n<li>\n<p><strong>Equity issuance proceeds:</strong> $20k (from option exercises).  </p>\n</li>\n<li>\n<p><strong>Funding Outlook</strong>  </p>\n</li>\n<li><strong>Available funding (cash + undrawn facilities):</strong> $552k.  </li>\n<li>\n<p><strong>Estimated quarters of funding remaining:</strong> <strong>3.4 quarters</strong> (based on current burn rate).  </p>\n</li>\n<li>\n<p><strong>Key Risks</strong>  </p>\n</li>\n<li><strong>Negative operating cash flows persist</strong> ($436k net outflow YTD).  </li>\n<li>\n<p><strong>R&amp;D Tax Incentive Loan:</strong> $369k drawn at <strong>15% interest rate</strong> (via Radium Capital).  </p>\n</li>\n<li>\n<p><strong>Related-Party Payments</strong>  </p>\n</li>\n<li><strong>$5k total</strong> (director reimbursements, secretarial services).  </li>\n</ol>\n<p><em>No other material updates (e.g., revenue, M&amp;A, capital raises) identified.</em>  </p>\n<p><strong>Conclusion:</strong> Liquidity remains tight (~3 quarters runway); monitor further financing actions.</p>",
+    "usage": {
+      "prompt_tokens": 3169,
+      "completion_tokens": 290,
+      "total_tokens": 3459,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T05:56:38.789874"
+  },
+  {
+    "ticker": "PPY",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975394",
+    "id": "02975394",
+    "pages": 3,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1542",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3fkkl6t8kf.pdf",
+    "summary": "<ul>\n<li><strong>Quarterly Report (Appendix 4C) Highlights:</strong>  </li>\n<li><strong>Operational:</strong>  <ul>\n<li>Rapid Prototyping &amp; R&amp;D facility assembly commenced at UniSA.  </li>\n<li>Successful trials for banana fibre-based board and flat paper products (strong wet strength retention).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Financial:</strong>  </p>\n<ul>\n<li><strong>Closing cash balance:</strong> Not explicitly stated in provided text (check Appendix 4C attachment).  </li>\n<li>Received <strong>$238,236</strong> in R&amp;D Tax Incentive loan (April 2025) and <strong>$20,000</strong> from option exercises (May 2025).  </li>\n<li>Related-party payments totaled <strong>$4,909</strong> (disclosed).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Project Timelines (Indicative):</strong>  </p>\n</li>\n<li><strong>R&amp;D Facility:</strong> Prototype testing target Sep-2025; commercial design by Nov-2025.  </li>\n<li><strong>Australian Production Facility:</strong> Feasibility completed Jun-2025; operations targeted Jun-2026.  </li>\n<li><strong>Vietnam Facility:</strong> Feasibility by Sep-2025; Phase 1 operations by Jun-2026.  </li>\n</ul>\n<p><em>Omitted:</em> Non-material updates (internship program, Egypt JV committee progress).<br />\n<em>Note:</em> Cash balance not extracted; refer to full Appendix 4C for exact figure.</p>",
+    "usage": {
+      "prompt_tokens": 1445,
+      "completion_tokens": 268,
+      "total_tokens": 1713,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:06:38.511489"
+  },
+  {
+    "ticker": "MM8",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975393",
+    "id": "02975393",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250731",
+    "time": "1540",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md3c3cp7n882.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p><em>(Note: This announcement only discloses an address change, which has no impact on trading, valuation, or capital structure.)</em></p>",
+    "usage": {
+      "prompt_tokens": 477,
+      "completion_tokens": 33,
+      "total_tokens": 510,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:05:02.813167"
+  },
+  {
+    "ticker": "AWJ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975392",
+    "id": "02975392",
+    "pages": 5,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1540",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md38yczt65tf.pdf",
+    "summary": "<h3><strong>Auric Mining Ltd \u2013 Appendix 5B Quarterly Cash Flow Report (30 June 2025)</strong></h3>\n<h4><strong>Material Highlights:</strong></h4>\n<ul>\n<li><strong>Cash Position:</strong> Closing cash balance of <strong>$8.71M</strong> (up from $7.51M last quarter).  </li>\n<li><strong>Capital Raising:</strong> <strong>$6.66M</strong> raised via equity issuance (net proceeds $6.35M after costs).  </li>\n<li><strong>Operating Burn:</strong> <strong>Net operating cash outflow of $1.33M</strong> (staff/admin: $508K, exploration: $2.68M).  </li>\n<li><strong>Funding Runway:</strong> <strong>2.17 quarters</strong> of funding based on current burn rate (total liquidity $8.71M).  </li>\n<li><strong>Exploration Spend:</strong> <strong>$2.68M</strong> on exploration &amp; evaluation (quarter), <strong>$3.41M</strong> year-to-date.  </li>\n</ul>\n<h4><strong>Key Takeaways for Trading/Capital Markets:</strong></h4>\n<ol>\n<li><strong>Liquidity Buffer:</strong> Raised capital extends runway but remains tight (~2 quarters). Watch for further funding needs.  </li>\n<li><strong>Exploration Focus:</strong> High spend on exploration signals ongoing project development (Jeffreys Find gold sales contributed $5M YTD).  </li>\n<li><strong>No Debt Facilities:</strong> No outstanding borrowings or undrawn facilities.  </li>\n</ol>\n<p><em>No other material updates identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2985,
+      "completion_tokens": 272,
+      "total_tokens": 3257,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:05:10.273529"
+  },
+  {
+    "ticker": "AOA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975391",
+    "id": "02975391",
+    "pages": 22,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1537",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md36bxg6z853.pdf",
+    "summary": "<h3><strong>Ausmon Resources Limited \u2013 June 2025 Quarterly Report Summary</strong></h3>\n<h4><strong>Key Material Information for Trading/Capital Markets Decisions</strong></h4>\n<h4><strong>Exploration Highlights:</strong></h4>\n<p><strong>1. Rare Earth Elements (REE) \u2013 Limestone Coast, SA</strong><br />\n- <strong>Drilling Results (Peake, Wilkawatt, Parrakie):</strong><br />\n  - <strong>25PEAC005:</strong> 1m @ <strong>2,192 ppm TREO</strong> (high-grade intercept).<br />\n  - <strong>25WWAC027:</strong> 3m @ 766.5 ppm TREO (incl. 1m @ 1,088 ppm).<br />\n  - Additional significant assays ranging from <strong>472\u2013505 ppm TREO</strong>.<br />\n- <strong>Target Areas Identified:</strong> 3 zones (LC01, LC02, LC03) covering <strong>122 km\u00b2</strong> for follow-up drilling (200\u2013400m spacing).  </p>\n<p><strong>2. Cobalt/Base Metals \u2013 Broken Hill, NSW (Enmore EL 9220)</strong><br />\n- <strong>RC Drilling Results:</strong><br />\n  - <strong>Zinc:</strong> Avg. <strong>538 ppm</strong> (peak 1,168 ppm).<br />\n  - <strong>Gallium:</strong> Avg. <strong>26 ppm</strong> (critical mineral, supply-constrained).<br />\n- <strong>Future Plans:</strong> Diamond drilling to test IP anomalies in 2025/26.  </p>\n<h4><strong>Financial &amp; Liquidity Position (Appendix 5B):</strong></h4>\n<ul>\n<li><strong>Cash Balance (EOQ):</strong> <strong>$11k</strong> (down from $212k last quarter).  </li>\n<li><strong>Financing Facility (Fort Capital):</strong> <strong>$1.6M</strong> facility ($940k drawn; $660k unused).  </li>\n<li><strong>Estimated Funding Runway:</strong> <strong>2.03 quarters</strong> (based on current burn rate).  </li>\n</ul>\n<h4><strong>Corporate:</strong></h4>\n<ul>\n<li><strong>Payments to Related Parties:</strong> <strong>$110k</strong> (directors\u2019 fees, management costs).  </li>\n</ul>\n<h4><strong>Material Risks:</strong></h4>\n<ul>\n<li>Tight liquidity position ($11k cash); reliance on undrawn debt facility.  </li>\n</ul>\n<p><strong>Conclusion:</strong> High-grade REE results are the standout, but liquidity constraints warrant scrutiny. No capital raising announced, but funding runway is limited.  </p>\n<p><strong>Note:</strong> No material information on tenement changes, M&amp;A, or corporate actions.  </p>\n<hr />\n<p><em>Summary strictly excludes non-material operational/background details.</em></p>",
+    "usage": {
+      "prompt_tokens": 8736,
+      "completion_tokens": 479,
+      "total_tokens": 9215,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T06:05:55.110450"
+  },
+  {
     "ticker": "A11",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975390",
     "id": "02975390",
@@ -8,15 +312,15 @@
     "date": "20250731",
     "time": "1533",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md33htl61rk2.pdf",
-    "summary": "<h3><strong>ASX Quarterly Report (30 June 2025) \u2013 Atlantic Lithium Limited \u2013 Material Information</strong></h3>\n<h4><strong>Project Development (Ewoyaa Lithium Project, Ghana)</strong></h4>\n<ul>\n<li><strong>Mining Lease Negotiations</strong>: Advancing discussions with Ghanaian government to revise fiscal terms for the Ewoyaa Project, reflecting current lithium price conditions.  </li>\n<li><strong>Permitting Status</strong>: Parliamentary ratification of the Mining Lease is the final step; Cabinet has authorized revised terms for negotiation.  </li>\n</ul>\n<h4><strong>Exploration (C\u00f4te d\u2019Ivoire)</strong></h4>\n<ul>\n<li><strong>Spodumene Discoveries</strong>: New spodumene pegmatite found at 100%-owned Agboville and Rubino licenses.  </li>\n<li><strong>Soil Sampling Results</strong>: Rubino Phase 2 sampling identified lithium anomalies over a <strong>2.5km x 2.0km area</strong>, with assays up to <strong>1.25% Li\u2082O</strong>.  </li>\n</ul>\n<h4><strong>Financial &amp; Corporate</strong></h4>\n<ul>\n<li><strong>Cash Position</strong>: <strong>A$5.4m</strong> at quarter-end.  </li>\n<li><strong>Cost Reductions</strong>:  </li>\n<li>Executive Chairman transitioned to Non-Executive role.  </li>\n<li>Salary cuts for key management (CEO, CFO) and workforce reductions.  </li>\n<li><strong>Funding Dispute</strong>: Piedmont Lithium disputes sole-funding obligation for Ewoyaa development costs; <strong>US$0.93m (A$1.45m)</strong> contributed in Q2 2025.  </li>\n</ul>\n<h4><strong>Financing &amp; Offtake</strong></h4>\n<ul>\n<li><strong>Debt Financing</strong>: Engaged with banks/credit agencies to secure project debt funding.  </li>\n<li><strong>MIIF Investment</strong>: Ongoing discussions to finalize <strong>US$27.9m</strong> for 6% stake in Ghana subsidiaries (Stage 2 of strategic investment).  </li>\n</ul>\n<h3><strong>Key Risks/Omissions</strong></h3>\n<ul>\n<li>No definitive timeline for Mining Lease ratification.  </li>\n<li>Liquidity concern: <strong>1.4 quarters of funding</strong> remaining (A$5.4m cash vs. A$3.8m quarterly outgoings).  </li>\n</ul>\n<p><strong>Summary</strong>: Focus on Ewoyaa permitting, cost management, and exploration upside. Low cash runway highlights urgency for financing/resolution with Piedmont.</p>",
+    "summary": "<h3>Material Information Summary (Quarterly Activities and Cash Flow Report):</h3>\n<ul>\n<li><strong>Project Development (Ewoyaa Lithium Project, Ghana)</strong>  </li>\n<li>Advancing discussions with Ghanaian government to revise fiscal terms for Mining Lease, reflecting current lithium prices.  </li>\n<li>Parliamentary ratification of Mining Lease is final permitting step; Cabinet has authorized revised terms for negotiation.  </li>\n<li>\n<p>Project optimization work ongoing to reduce costs and peak funding requirements.  </p>\n</li>\n<li>\n<p><strong>Exploration (C\u00f4te d\u2019Ivoire)</strong>  </p>\n</li>\n<li>Spodumene pegmatite discovered at 100%-owned Agboville and Rubino licenses.  </li>\n<li>\n<p>Rubino Phase 2 soil sampling identified lithium anomalies over 2.5km x 2.0km area (up to 806ppm Li).  </p>\n</li>\n<li>\n<p><strong>Corporate &amp; Financials</strong>  </p>\n</li>\n<li><strong>Cash balance (30 June 2025):</strong> A$5.4m.  </li>\n<li>Cost-saving measures implemented: Executive Chairman transitioned to Non-Executive, salary reductions, and headcount rationalization.  </li>\n<li>Quarterly cash outflow: A$2.9m (exploration/development), partially offset by Piedmont funding (A$1.45m).  </li>\n<li>\n<p>Funding runway: ~1.4 quarters (per Appendix 5B).  </p>\n</li>\n<li>\n<p><strong>Key Risks/Negatives</strong>  </p>\n</li>\n<li>Uncertainty over Mining Lease ratification and revised fiscal terms.  </li>\n<li>\n<p>Dispute with Piedmont on sole funding of Development Costs (US$70m earn-in obligation).  </p>\n</li>\n<li>\n<p><strong>Other Material Updates</strong>  </p>\n</li>\n<li>MIIF\u2019s pending US$27.9m investment (6% stake in Ghana portfolio).  </li>\n<li>Engagement with financiers and offtake partners for project debt and concentrate sales.  </li>\n</ul>\n<p><em>Omitted:</em> Routine operational details, stakeholder event attendance, and non-material corporate updates.</p>",
     "usage": {
       "prompt_tokens": 12024,
-      "completion_tokens": 448,
-      "total_tokens": 12472,
+      "completion_tokens": 380,
+      "total_tokens": 12404,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:37:39.156189"
+    "processed_at": "2025-07-31T05:56:00.201873"
   },
   {
     "ticker": "DBF",
@@ -27,34 +331,15 @@
     "date": "20250731",
     "time": "1532",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md315f5mz2dp.pdf",
-    "summary": "<p><strong>Material Information for Trading/Capital Markets Decisions:</strong>  </p>\n<ol>\n<li><strong>Proposed Merger</strong>  </li>\n<li>Acquisition of four private agricultural companies (Duxton Dried Fruits, Orchards, Bees, Dairies) via schemes of arrangement and share purchase agreements.  </li>\n<li>Expected to increase gross assets to <strong>$298M</strong> (pro forma).  </li>\n<li>\n<p>Aims to diversify across geographies/commodities, enhance liquidity, and create operational synergies.  </p>\n</li>\n<li>\n<p><strong>Capital Structure Update</strong>  </p>\n</li>\n<li><strong>Sale of \"Kentucky\" aggregation</strong>: Settled for <strong>$38M</strong> (6,020ha land + 48ML water).  </li>\n<li><strong>Cash Position</strong>: Closing cash balance of <strong>$21.95M</strong> (including $23.1M in call deposits).  </li>\n<li>\n<p><strong>Debt Facilities</strong>:  </p>\n<ul>\n<li><strong>$40M term loan</strong> (drawn: $34M at 4.55\u20134.63%).  </li>\n<li><strong>$8M overdraft</strong> (drawn: $1.33M at 6.72%).  </li>\n<li><strong>$3M asset finance</strong> (drawn: $1.62M at 3.38\u20137.5%).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Operating Highlights</strong>  </p>\n</li>\n<li><strong>Cash Flow</strong>: Operating deficit of <strong>$5.06M</strong> due to winter/summer crop preparation and delayed cotton harvest proceeds.  </li>\n<li><strong>Commodity Prices</strong>:  <ul>\n<li>Livestock: Beef <strong>+20%</strong>, Lamb <strong>+41%</strong> YoY.  </li>\n<li>Crops: Wheat <strong>+2%</strong>, Cotton <strong>-3%</strong> YoY.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Weather Impact</strong>: NSW Forbes rainfall <strong>68% below 15-year average</strong>, affecting crop development.  </p>\n</li>\n<li>\n<p><strong>Appendix 4C Key Data</strong>  </p>\n</li>\n<li><strong>Investing Activities</strong>: Net <strong>+$35.18M</strong> (primarily from property sale).  </li>\n<li><strong>Financing Activities</strong>: Net <strong>-$6.38M</strong> (debt repayments).  </li>\n<li><strong>Funding Runway</strong>: <strong>7.12 quarters</strong> based on available liquidity ($36.01M total).  </li>\n</ol>\n<p><em>Omitted: Routine operational updates, director disclosures, non-material merger company details.</em></p>",
+    "summary": "<h3><strong>Quarterly Report (Appendix 4C) Summary</strong></h3>\n<ul>\n<li><strong>Key Operational Highlights:</strong>  </li>\n<li><strong>Proposed Merger:</strong> Acquisition of four agricultural companies (Duxton Dried Fruits, Orchards, Bees, Dairies) via schemes of arrangement to diversify geographies/commodities and boost scale (pro forma gross assets ~$298M).  </li>\n<li><strong>Portfolio:</strong> Managed 177,221ha (12,530ha owned, 164,961ha leased) with 18,195ML water entitlements.  </li>\n<li><strong>Weather Impact:</strong> NSW Forbes aggregation faced drought (68% below 15-year avg rainfall), affecting winter crops.  </li>\n<li>\n<p><strong>Commodity Prices:</strong> Livestock prices up YOY (beef +20%, lamb +41%); cotton prices down 3%.  </p>\n</li>\n<li>\n<p><strong>Financial Highlights:</strong>  </p>\n</li>\n<li><strong>Operating Cash Flow:</strong> Deficit of <strong>$5.06M</strong> (spend on 2026 crops, cotton harvest costs).  </li>\n<li><strong>Cash Balance:</strong> <strong>$21.95M</strong> at quarter end.  </li>\n<li>\n<p><strong>Asset Sale:</strong> Sold \"Kentucky\" aggregation for <strong>$38M</strong> (6,020ha land + water).  </p>\n</li>\n<li>\n<p><strong>Funding:</strong>  </p>\n</li>\n<li><strong>Available Liquidity:</strong> <strong>$36.01M</strong> (cash + undrawn facilities).  </li>\n<li><strong>Debt Facilities:</strong> <strong>$51M total</strong> (drawn: <strong>$36.94M</strong>; CBA secured loans).  </li>\n</ul>\n<hr />\n<p><strong>Material Information for Trading/Capital Markets:</strong><br />\n1. <strong>Merger expands scale/diversification</strong> ($298M pro forma assets).<br />\n2. <strong>Liquidity adequate</strong> (7.1 quarters of funding coverage).<br />\n3. <strong>Weak operating cash flow</strong> ($5.06M deficit) due to prep for 2026 crops.  </p>\n<p><em>Omitted:</em> Routine farming updates, non-material weather details.</p>",
     "usage": {
       "prompt_tokens": 7595,
-      "completion_tokens": 464,
-      "total_tokens": 8059,
+      "completion_tokens": 398,
+      "total_tokens": 7993,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:46:01.809075"
-  },
-  {
-    "ticker": "PPK",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975388",
-    "id": "02975388",
-    "pages": 5,
-    "price_sensitive": true,
-    "date": "20250731",
-    "time": "1531",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2ytzbqbz27.pdf",
-    "summary": "<ul>\n<li><strong>Price Query Response</strong>:  </li>\n<li>PPK confirms <em>no undisclosed material information</em> explains recent trading volatility.  </li>\n<li><strong>Potential catalyst for trading activity</strong>: Discussions regarding unsolicited offer for PPK\u2019s stake in Craig International Ballistics (CIB) terminated on <em>29 July 2025</em> after failed negotiations.  </li>\n<li>Compliance with ASX Listing Rules (3.1) confirmed.  </li>\n</ul>\n<p><strong>Key Takeaway</strong>: No active transaction or earnings surprise, but market speculation may have been linked to earlier, now-terminated CIB deal talks. No immediate trading impact expected.  </p>\n<p><em>(Omitted: Legal boilerplate, query formatting, routine compliance details.)</em></p>",
-    "usage": {
-      "prompt_tokens": 2186,
-      "completion_tokens": 139,
-      "total_tokens": 2325,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:46:10.646224"
+    "processed_at": "2025-07-31T06:04:50.497180"
   },
   {
     "ticker": "TOP",
@@ -65,15 +350,15 @@
     "date": "20250731",
     "time": "1530",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2wqlfbjljm.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 803,550 ordinary fully paid shares (ASX: TOP) ceased due to on-market buy-back.  </li>\n<li><strong>Cessation Date</strong>: 31 July 2025.  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 514,186.06.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 174,238,909 ordinary fully paid shares remaining.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Type</strong>: Cessation of Securities  </li>\n<li><strong>Security</strong>: 803,550 TOP ordinary fully paid shares  </li>\n<li><strong>Reason</strong>: Cancellation under on-market buy-back  </li>\n<li><strong>Cessation Date</strong>: 31/07/2025  </li>\n<li><strong>Consideration Paid</strong>: AUD 514,186.06  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 174,238,909 TOP ordinary shares (quoted)  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1010,
-      "completion_tokens": 93,
-      "total_tokens": 1103,
+      "completion_tokens": 97,
+      "total_tokens": 1107,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:40:42.420664"
+    "processed_at": "2025-07-31T05:59:32.553650"
   },
   {
     "ticker": "MPR",
@@ -84,15 +369,15 @@
     "date": "20250731",
     "time": "1530",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2tm7mzh710.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>1. Sale Transaction (Material Impact)</strong><br />\n- <strong>Sale of Renewable Energy Business</strong> to Wollemi Energy Group for <strong>~$19M cash</strong> (includes Lakeland Solar &amp; Storage Project, pipeline, and services business).<br />\n- <strong>Expected surplus cash post-sale</strong>: <strong>~$3.8M</strong> (1.1 cents/share).<br />\n- <strong>Payment terms</strong>: $17M at completion, $2M deferred (6 months post-completion).<br />\n- <strong>Conditions precedent</strong>: Contract/lease transfers, employee agreements, Lakeland Project re-energisation (August 2025).<br />\n- <strong>Completion</strong>: Expected <strong>August 2025</strong>. Shareholder approval obtained (16 July 2025).  </p>\n<p><strong>2. Future Use of Proceeds</strong><br />\n- Repay all liabilities, then decide between:<br />\n  - <strong>Return capital to shareholders</strong> (buyback/reduction/liquidation);<br />\n  - <strong>Acquire new business</strong> (backdoor listing); or<br />\n  - Combination of both.  </p>\n<p><strong>3. Lakeland Project Update</strong><br />\n- <strong>Transformer fault</strong> (May 2025) halted operations; repairs underway for <strong>August 2025 re-energisation</strong> (condition for sale completion).  </p>\n<p><strong>4. Appendix 4C (Quarterly Cash Flow)</strong><br />\n- <strong>Closing cash</strong>: <strong>$0.19M</strong> (down from net operating outflow of <strong>$0.3M</strong>).<br />\n- <strong>Debt facilities</strong>: <strong>&gt;$11.3M drawn</strong> (mixed secured/unsecured; maturities 2025\u20132031).<br />\n- <strong>Post-sale</strong>: Operating cash flows to cease; corporate costs reduced.  </p>\n<p><strong>Excluded</strong>: Routine operational updates, director payments, non-material pipeline details.</p>",
+    "summary": "<h3><strong>Key Material Information from MPower Group Limited Quarterly Report (30 June 2025)</strong></h3>\n<h4><strong>Corporate Action: Sale of Renewable Energy Business</strong></h4>\n<ul>\n<li><strong>Binding sale agreement</strong> signed with <strong>Wollemi Energy Group</strong> for <strong>~A$19M cash</strong> consideration.  </li>\n<li><strong>Assets sold</strong>: Renewable energy platform, Lakeland Solar &amp; Storage Project, project pipeline, and services business.  </li>\n<li><strong>Expected completion</strong>: August 2025 (shareholder approval obtained 16 July 2025).  </li>\n<li><strong>Post-sale net cash surplus</strong>: <strong>A$3.8M</strong> (~1.1 cents per share).  </li>\n<li><strong>Conditions precedent</strong>: Novation of contracts, employee transfers, and Lakeland Project re-energisation.  </li>\n</ul>\n<h4><strong>Capital Structure &amp; Liquidity Implications</strong></h4>\n<ul>\n<li><strong>Proceeds use</strong>: Repay all liabilities, then evaluate capital return (buyback/liquidation, backdoor listing, or hybrid).  </li>\n<li><strong>Cash position</strong>: <strong>A$0.19M</strong> (Q-end), <strong>A$0.23M</strong> total funding available (including unused facilities).  </li>\n</ul>\n<h4><strong>Operational &amp; Financial Highlights (Appendix 4C)</strong></h4>\n<ul>\n<li><strong>Cash receipts (Q)</strong>: <strong>A$1.33M</strong> (service revenue, Lakeland energy sales).  </li>\n<li><strong>Net operating cash outflow (Q)</strong>: <strong>A$0.30M</strong> (A$0.94M operating costs, A$0.41M staff costs).  </li>\n<li><strong>Lakeland Project</strong>: Offline since May 2025 (transformer fault), repairs expected August 2025 (condition for sale completion).  </li>\n<li><strong>Faraday Project</strong>: Sale discontinued due to rising connection costs (excluded from Wollemi sale).  </li>\n</ul>\n<h4><strong>Financing Facilities</strong></h4>\n<ul>\n<li><strong>Total debt facilities</strong>: <strong>A$11.4M</strong> (drawn: <strong>A$11.36M</strong>).  </li>\n<li><strong>A$3.69M unsecured</strong> (15%, maturity Nov 2025).  </li>\n<li><strong>A$1.44M secured</strong> (13.25%, maturity Nov 2025).  </li>\n<li><strong>A$6.27M secured</strong> (5.6%, maturity Apr 2031).  </li>\n</ul>\n<h3><strong>Conclusion</strong></h3>\n<p>Material focus: <strong>Pending A$19M asset sale</strong> (liquidity event) and <strong>post-deal capital strategy</strong>. Operational risks: Lakeland delays. No immediate funding concerns post-sale.</p>",
     "usage": {
       "prompt_tokens": 4394,
-      "completion_tokens": 365,
-      "total_tokens": 4759,
+      "completion_tokens": 512,
+      "total_tokens": 4906,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:42:40.978817"
+    "processed_at": "2025-07-31T05:59:56.762026"
   },
   {
     "ticker": "AOK",
@@ -103,15 +388,15 @@
     "date": "20250731",
     "time": "1530",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2rg7bbwd6k.pdf",
-    "summary": "<h3><strong>Material Information Summary (ASX: AOK \u2013 June 2025 Quarterly Report)</strong></h3>\n<h4><strong>Operational Highlights:</strong></h4>\n<ul>\n<li><strong>Production Update:</strong>  </li>\n<li>Rec Board-7 and 8 wells brought online, achieving <strong>peak flow of 275 mscf/d</strong> (sustained ~200 mscf/d).  </li>\n<li>Gross gas flows: <strong>32,830 mcf</strong> (vs. 22,799 mcf prior quarter). Net AOK gas flows after royalty: <strong>26,503 mcf</strong>.  </li>\n<li><strong>Asset Review:</strong>  </li>\n<li>Borba and Dempsey leases deemed <strong>immaterial</strong> (Borba leases expired). Focus shifts to Sacramento Basin and new ventures.  </li>\n<li>VBC wells shut-in; plans to reconnect via third-party infrastructure to cut costs.  </li>\n</ul>\n<h4><strong>Financial/Capital Structure:</strong></h4>\n<ul>\n<li><strong>Cash Balance:</strong> <strong>$0.90M</strong> (down from $1.4M last quarter).  </li>\n<li><strong>Settlement Agreement:</strong>  </li>\n<li><strong>$1M loan forgiveness</strong> from former director + $184k interest waived.  </li>\n<li>Paid <strong>$28k cash + issued 36M shares</strong> to settle historical fees.  </li>\n<li><strong>Cash Burn:</strong> Net operating cash outflow of <strong>$0.47M</strong> (1.91 quarters of funding left).  </li>\n<li><strong>Related-Party Payments:</strong> <strong>$61k</strong> (directors\u2019 salaries/super).  </li>\n</ul>\n<h4><strong>Forward Plans:</strong></h4>\n<ul>\n<li>Pursue new ventures (domestic/international).  </li>\n<li>Reconnect VBC wells and restart Dempsey/Stoney Creek production.  </li>\n</ul>\n<p><strong>No material capital raising or corporate action announced.</strong>  </p>\n<p><em>Brevity Note: Omitted routine ops, director names, and non-material lease details.</em></p>",
+    "summary": "<p>Here\u2019s the extracted material information from the ASX announcement, formatted as concise bullet points:</p>\n<p><strong>Quarterly Activities Report (June 2025) &amp; Appendix 5B Cash Flow Highlights:</strong><br />\n- <strong>Operational:</strong><br />\n  - Rec Board-7 and 8 wells online with sustained production of ~200 mscf/d (max 275 mscf/d). VBC wells shut due to third-party infrastructure issues; potential reconnection to another operator\u2019s system being evaluated.<br />\n  - <strong>Gas flows (Gross):</strong> 32,830 mcf (June quarter) vs. 22,799 mcf (March quarter).<br />\n  - Borba and Dempsey leases deemed immaterial; strategic focus shifted to Sacramento Basin and new ventures.  </p>\n<ul>\n<li><strong>Corporate:</strong>  </li>\n<li><strong>Settlement Agreement:</strong> $1M loan principal + $184k interest forgiven by former director in exchange for $28k cash + 36M shares issued (post-quarter).  </li>\n<li><strong>Cash Balance (30 June 2025):</strong> $0.9M (down from $1.4M in March 2025).  </li>\n<li>\n<p><strong>Cash Outflows (Quarter):</strong> Operating activities used $472k (incl. $149k production costs, $261k admin costs).  </p>\n</li>\n<li>\n<p><strong>Capital Structure Impact:</strong>  </p>\n</li>\n<li><strong>Shares Issued:</strong> 36M new shares (Settlement Agreement). Total shares on issue: 1,037,782,997.  </li>\n<li>\n<p><strong>Funding Runway:</strong> ~1.9 quarters based on current cash ($0.9M) and net operating outflows ($472k/quarter).  </p>\n</li>\n<li>\n<p><strong>Forward Plans:</strong>  </p>\n</li>\n<li>Reconnect VBC wells to adjacent infrastructure, restart Dempsey/Stoney Creek wells.  </li>\n<li>Assess domestic/international new ventures.  </li>\n</ul>\n<p><em>Omitted: AGM details, routine disclosures, non-material lease specifics.</em></p>",
     "usage": {
       "prompt_tokens": 5615,
-      "completion_tokens": 363,
-      "total_tokens": 5978,
+      "completion_tokens": 394,
+      "total_tokens": 6009,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:44:37.908411"
+    "processed_at": "2025-07-31T06:02:50.354527"
   },
   {
     "ticker": "AKM",
@@ -122,15 +407,15 @@
     "date": "20250731",
     "time": "1529",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2p97s6gd6v.pdf",
-    "summary": "<p><strong>Quarterly Report Summary (Appendix 4C):</strong>  </p>\n<ul>\n<li><strong>Key Operational Highlights:</strong>  </li>\n<li>Progress on <strong>Ovoot Coking Coal Project (OCCP)</strong> development, including CHPP/ERT contract negotiations and reduced CAPEX plan (using rental equipment).  </li>\n<li>Satisfied all Mongolian government clarifications for <strong>Public-Private Partnership Agreement (PPPA)</strong> for road infrastructure.  </li>\n<li>\n<p>Positive feedback from coking coal end-users; marketing samples show strong demand for \"fat\" coking coal.  </p>\n</li>\n<li>\n<p><strong>Financial Highlights:</strong>  </p>\n</li>\n<li><strong>Closing cash balance (USD):</strong> $8.8M cash + $2.6M investments = <strong>$11.4M total liquidity</strong>.  </li>\n<li>Quarterly operating cash outflow: <strong>$0.7M</strong> (excl. exploration).  </li>\n<li>\n<p><strong>Estimated funding runway:</strong> 6.7 quarters based on current burn rate.  </p>\n</li>\n<li>\n<p><strong>Corporate Changes:</strong>  </p>\n</li>\n<li>Executive Director (Russell Taylor) and CFO (Tristan Garthe) stepping down in September 2025.  </li>\n</ul>\n<p><strong>Material Developments:</strong><br />\n- Targeting <strong>mining commencement in Q4 2025</strong> with revised lower-CAPEX approach.<br />\n- No changes to tenements; no debt facilities disclosed.  </p>\n<p><em>Omitted: Routine community relations, jurisdictional details, forward-looking statements.</em></p>",
+    "summary": "<h3><strong>Quarterly Report (Appendix 4C) Summary</strong></h3>\n<h4><strong>Key Operational/Financial Highlights:</strong></h4>\n<ul>\n<li><strong>Project Development (Ovoot Coking Coal Project - OCCP):</strong>  </li>\n<li>Revised development plan to reduce initial CAPEX (rental mining equipment, outsourced coal transport).  </li>\n<li>CHPP and ERT shortlisted bids progressing; contract negotiations include export credit agency financing.  </li>\n<li>PPPA (road infrastructure) clarifications completed; awaiting formal approval from Mongolian government.  </li>\n<li>\n<p>Geotechnical surveys and water wells completed for permanent infrastructure.  </p>\n</li>\n<li>\n<p><strong>Marketing:</strong>  </p>\n</li>\n<li>Strong end-user interest in Ovoot\u2019s \"fat\" coking coal; sample feedback positive.  </li>\n<li>\n<p>Coal prices (Tianjin) rose <strong>28% post-quarter</strong>.  </p>\n</li>\n<li>\n<p><strong>Corporate:</strong>  </p>\n</li>\n<li><strong>Closing cash balance:</strong> <strong>$8.8M cash + $2.6M investments</strong> (total <strong>$11.4M</strong>).  </li>\n<li>Quarterly cash burn: <strong>$0.7M operating, $0.6M development</strong>.  </li>\n<li>\n<p>Leadership changes: Executive Director (Russell Taylor) and CFO (Tristan Garthe) stepping down.  </p>\n</li>\n<li>\n<p><strong>Appendix 5B (Cash Flow):</strong>  </p>\n</li>\n<li>Net cash used in operating activities: <strong>($0.7M)</strong>.  </li>\n<li>Net cash from investing (bond sales): <strong>$1.3M</strong>.  </li>\n<li>Cash runway: <strong>6.7 quarters</strong> based on current outflows.  </li>\n</ul>\n<h4><strong>Material Takeaways for Investors:</strong></h4>\n<ol>\n<li>CAPEX optimization may reduce funding needs but delays long-term infrastructure.  </li>\n<li>Progress on key contracts (CHPP, ERT, PPPA) de-risks project execution.  </li>\n<li>Healthy liquidity ($11.4M) with manageable burn rate.  </li>\n</ol>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 6430,
-      "completion_tokens": 275,
-      "total_tokens": 6705,
+      "completion_tokens": 386,
+      "total_tokens": 6816,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:38:35.774973"
+    "processed_at": "2025-07-31T05:58:13.977840"
   },
   {
     "ticker": "OAK",
@@ -141,15 +426,15 @@
     "date": "20250731",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2drhmb3270.pdf",
-    "summary": "<h3><strong>Material Information Summary (Quarterly Report \u2013 Appendix 4C)</strong></h3>\n<h4><strong>Financial &amp; Operational Highlights:</strong></h4>\n<ul>\n<li><strong>Revenue/Cash Flow:</strong>  </li>\n<li>Cash receipts from customers: <strong>$774k</strong> (Q4), <strong>$2.458m</strong> (FY25; +126% YoY).  </li>\n<li>Net operating cash outflow: <strong>($7k)</strong> (Q4), <strong>($394k)</strong> (FY25).  </li>\n<li><strong>Cash Position:</strong>  </li>\n<li>Closing cash balance: <strong>$471k</strong> (vs. $504k last quarter).  </li>\n<li>Estimated funding runway: <strong>67 quarters</strong> (based on net operating cash burn).  </li>\n</ul>\n<h4><strong>Business Performance:</strong></h4>\n<ul>\n<li><strong>Sales Growth:</strong> Exceeded budget, with strong project pipeline in aged care and healthcare sectors.  </li>\n<li><strong>Strategic Initiatives:</strong> Expanded partner network and product development (e.g., NuCaMS Enterprise, RTLS integration).  </li>\n</ul>\n<h4><strong>Risks:</strong></h4>\n<ul>\n<li><strong>Legal Exposure:</strong> Potential claim from Teko International re: historical liabilities (~$250k placement in 2020). Outcome uncertain.  </li>\n</ul>\n<hr />\n<p><em>Rule applied: Focused on quantifiable metrics, material risks, and operational catalysts. Omitted routine updates (e.g., marketing, HR).</em></p>",
+    "summary": "<h3><strong>Material Information Summary (Appendix 4C Quarterly Report)</strong></h3>\n<h4><strong>Financial &amp; Operational Highlights</strong></h4>\n<ul>\n<li><strong>Revenue/Cash Flow</strong>:  </li>\n<li>Quarterly cash receipts from customers: <strong>$774k</strong> (Q4).  </li>\n<li>12-month cash receipts: <strong>$2.458m</strong> (vs. $1.087m in 2024).  </li>\n<li><strong>Cash Position</strong>:  </li>\n<li>Closing cash balance: <strong>$471k</strong>.  </li>\n<li>Net operating cash outflow: <strong>($7k)</strong> for the quarter; <strong>($394k)</strong> for 12 months.  </li>\n<li>Estimated funding runway: <strong>67 quarters</strong> (based on current burn rate).  </li>\n</ul>\n<h4><strong>Business Development</strong></h4>\n<ul>\n<li><strong>Strong sales pipeline</strong> with \"highly probable\" quotes, particularly in aged care and health sectors.  </li>\n<li><strong>Expanded partner network</strong>, including multi-year agreements to accelerate growth.  </li>\n</ul>\n<h4><strong>Risks/Litigation</strong></h4>\n<ul>\n<li><strong>Potential legal exposure</strong> related to historical representations by former directors (Teko International dispute). No resolution disclosed.  </li>\n</ul>\n<p><strong>No capital raising, material transactions, or significant changes to capital structure identified.</strong>  </p>\n<p><em>(Summary excludes forward-looking statements, governance details, and non-material operational updates.)</em></p>",
     "usage": {
       "prompt_tokens": 4431,
-      "completion_tokens": 261,
-      "total_tokens": 4692,
+      "completion_tokens": 254,
+      "total_tokens": 4685,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:47:04.896614"
+    "processed_at": "2025-07-31T06:06:28.976695"
   },
   {
     "ticker": "AMS",
@@ -160,15 +445,15 @@
     "date": "20250731",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2gtt3mpvcm.pdf",
-    "summary": "<h3><strong>Atomos Limited (ASX:AMS) \u2013 Q4 FY25 Quarterly Report (Appendix 4C) \u2013 Material Information</strong></h3>\n<h4><strong>Financial Highlights</strong></h4>\n<ul>\n<li><strong>Q4 FY25 cash receipts</strong>: <strong>$8.9m</strong> (impacted by US tariff-related sales halt in April-May; resumed in June).  </li>\n<li><strong>Net operating cash outflow</strong>: <strong>-$3.6m</strong> (includes one-offs: legacy payments, ex-CEO litigation, restructuring).  </li>\n<li><strong>Closing cash balance</strong>: <strong>$1.8m</strong>.  </li>\n<li><strong>Funding shortfall</strong>: <strong>0.5 quarters of runway</strong> (management expects improvement post-restructuring).  </li>\n</ul>\n<h4><strong>Operational Highlights</strong></h4>\n<ul>\n<li><strong>New product launches</strong>:  </li>\n<li><strong>StudioSonic headphones</strong>, <strong>TX-RX wireless system</strong>, and <strong>A-Eye (AI) camera range</strong> shipped in Q4.  </li>\n<li><strong>Ninja TX flagship monitor-recorder</strong> announced (shipping August 2025; features 12G-SDI, cloud integration).  </li>\n<li><strong>US tariff impact</strong>: Sales paused in April-May due to 145% tariffs; resumed after reduction to 30% in June.  </li>\n</ul>\n<h4><strong>Corporate Updates</strong></h4>\n<ul>\n<li><strong>CEO appointment</strong>: Peter Barber (ex-COO, Blackmagic Design co-founder) appointed CEO (3 May 2025).  </li>\n<li><strong>Cost restructuring</strong>: Headcount reduced <strong>~50% (100 \u2192 50 FTEs)</strong>, legacy liabilities resolved.  </li>\n<li><strong>Debt facility</strong>: <strong>$13.7m secured from Monreii Pty Ltd (Peter Barber-affiliated)</strong>; potential additional <strong>$2m</strong>.  </li>\n</ul>\n<h4><strong>Liquidity Risk Note</strong></h4>\n<ul>\n<li><strong>Warning</strong>: Only <strong>0.5 quarters of funding</strong> remaining, contingent on forecast FY26 cash flows improving.  </li>\n<li><strong>Mitigation</strong>: Exploring working capital facilities if needed.  </li>\n</ul>\n<p><strong>Summary</strong>: Weak liquidity position offset by product launches and cost cuts; watch for FY26 cash flow sustainability.</p>",
+    "summary": "<p>Here is the material information extracted from the announcement, formatted as concise bullet points:</p>\n<p><strong>Quarterly Report (Appendix 4C)</strong><br />\n- <strong>Cash receipts (Q4 FY25):</strong> $8.9m (impacted by temporary US sales halt due to tariffs; resumed in June).<br />\n- <strong>Net operating cash outflow:</strong> ($3.6m), driven by one-off costs:<br />\n  - $7.6m product manufacturing costs (includes $1.9m legacy payments, onerous contracts).<br />\n  - $0.4m staff costs (ex-CEO litigation settlements).<br />\n- <strong>Closing cash balance:</strong> $1.8m.<br />\n- <strong>Debt facility:</strong> $13.7m drawn (from Monreii Pty Ltd, linked to Executive Director).<br />\n- <strong>Estimated funding runway:</strong> 0.5 quarters; management expects improved FY26 cash flows post-restructuring.  </p>\n<p><strong>Key Operational Highlights</strong><br />\n- New products shipped (StudioSonic headphones, TX-RX wireless system, A-Eye AI cameras).<br />\n- Flagship <strong>Ninja TX</strong> monitor-recorder launched (shipping August 2025); features cloud integration.<br />\n- US tariffs reduced from 145% to 30% in May 2025, enabling sales recovery.  </p>\n<p><strong>Capital Structure &amp; Risks</strong><br />\n- Restructuring complete: Headcount reduced to &lt;50 staff; $1m/month fixed costs.<br />\n- Contingency plans in place for additional funding if needed.  </p>\n<p><em>Omitted: Routine product details, CEO background, non-material operational updates.</em></p>",
     "usage": {
       "prompt_tokens": 5521,
-      "completion_tokens": 407,
-      "total_tokens": 5928,
+      "completion_tokens": 322,
+      "total_tokens": 5843,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:38:13.330220"
+    "processed_at": "2025-07-31T05:56:18.351008"
   },
   {
     "ticker": "AUK",
@@ -179,15 +464,15 @@
     "date": "20250731",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2jy533lhv2.pdf",
-    "summary": "<h3><strong>Quarterly Report (Appendix 4C) \u2013 Material Information Summary</strong></h3>\n<h4><strong>Financial Highlights</strong></h4>\n<ul>\n<li><strong>Cash receipts</strong>: $15.5m (\u2191213% YoY, \u219122% QoQ).  </li>\n<li><strong>Net cash used in operations</strong>: $1.66m (vs. $288k in Q3 FY25), driven by prepayments for inventory.  </li>\n<li><strong>Operational cost reduction</strong>: Underlying spend fell to $864k (\u219324% QoQ).  </li>\n<li><strong>Closing cash balance</strong>: $1.677m (vs. $3.381m previous quarter).  </li>\n<li><strong>Estimated funding runway</strong>: 1 quarter (based on current burn rate).  </li>\n</ul>\n<h4><strong>Operational Highlights</strong></h4>\n<ul>\n<li><strong>Kabrita distribution deal</strong>: Signed 3-year exclusive agreement for AU/NZ sales ($1.5m revenue post-signing).  </li>\n<li><strong>Danone agreement</strong>: Partnership with Rockcheck Shipping generated $13m in sales.  </li>\n<li><strong>Cost-cutting measures</strong>: Achieved $400k/year savings from reduced director fees.  </li>\n</ul>\n<h4><strong>Liquidity &amp; Strategic Updates</strong></h4>\n<ul>\n<li><strong>Potential capital raise</strong>: Discussions with brokers underway for FY26 funding if needed.  </li>\n<li><strong>Loan facility</strong>: $1.0m debt outstanding (post partial conversion to equity).  </li>\n</ul>\n<p><strong>No dividend or capital raising actions announced.</strong></p>",
+    "summary": "<h3><strong>Quarterly Report (Appendix 4C) Summary:</strong></h3>\n<h4><strong>Key Financial Highlights:</strong></h4>\n<ul>\n<li><strong>Cash receipts:</strong> $15.5m (+22% QoQ, +213% YoY)  </li>\n<li><strong>Net cash used in operations:</strong> $1.66m (vs. $288k in Q3 FY25) \u2013 due to advance product payments.  </li>\n<li><strong>Operational cost reduction:</strong> Underlying cash expenditure fell to $864k (from $1,142k in Q3 FY25).  </li>\n<li><strong>Closing cash balance:</strong> $1.677m (down from $3.381m last quarter).  </li>\n<li><strong>Financing facility:</strong> $1.0m debt drawn (total facility), no unused facilities available.  </li>\n</ul>\n<h4><strong>Operational Highlights:</strong></h4>\n<ul>\n<li><strong>Kabrita distribution agreement (April \u201925):</strong> Exclusive 3-year deal for ANZ market; $1.5m+ in sales since signing.  </li>\n<li><strong>Danone infant formula agreement (May \u201925):</strong> $13m+ in sales via Rockcheck Shipping.  </li>\n<li><strong>Business restructure (July \u201925):</strong> Streamlined operations to focus on revenue growth and cost efficiency.  </li>\n</ul>\n<h4><strong>Liquidity &amp; Funding Risk:</strong></h4>\n<ul>\n<li><strong>Funding runway:</strong> ~1 quarter based on current cash burn.  </li>\n<li><strong>Mitigation steps:</strong> Cost-cutting (saving $400k/year in director fees), exploring capital raising options.  </li>\n</ul>\n<p><strong>Note:</strong> No immediate liquidity crisis cited, but limited buffer (1 quarter) underscores need for revenue/cost execution.</p>",
     "usage": {
       "prompt_tokens": 4416,
-      "completion_tokens": 277,
-      "total_tokens": 4693,
+      "completion_tokens": 319,
+      "total_tokens": 4735,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:43:33.044839"
+    "processed_at": "2025-07-31T06:01:28.112930"
   },
   {
     "ticker": "KNM",
@@ -198,15 +483,15 @@
     "date": "20250731",
     "time": "1528",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2m1jy9j347.pdf",
-    "summary": "<h3><strong>Material Information Summary (KNeoMedia Limited \u2013 Quarterly Report &amp; Appendix 4C, 30 June 2025)</strong></h3>\n<h4><strong>Corporate/Financial Highlights</strong></h4>\n<ul>\n<li><strong>ASX Reinstatement Progress</strong>: Working to satisfy ASX listing rules post-suspension (since 7 March 2024). FY2024 audit completed; prior capital raises:  </li>\n<li><strong>Placement (Sep 2024)</strong>: AUD $1.25M (sophisticated investors).  </li>\n<li><strong>Entitlement Offer (Dec 2024)</strong>: AUD $1.657M (fully underwritten).  </li>\n<li><strong>Key Pending Catalyst</strong>: Finalizing contracts with NYCDOE for sustainable working capital; expects lifting of ASX suspension upon completion.  </li>\n<li><strong>Going Concern</strong>: Reaffirmed, assuming NYCDOE revenue materializes.  </li>\n</ul>\n<h4><strong>Operational Highlights</strong></h4>\n<ul>\n<li><strong>KneoScience Platform</strong>: Expanded to <strong>530 high schools</strong> (300K additional students), with Biology content added (deployment expected Feb 2025).  </li>\n<li><strong>Revenue</strong>: Nominal Q3 receipts from Florida operations; NYCDOE adoption pending contract finalization.  </li>\n<li><strong>IP Investment</strong>: AUD $232K (Q3), part of AUD $1.24M yearly spend on platform development (multilingual support, high school modules).  </li>\n</ul>\n<h4><strong>Appendix 4C (Cash Flow)</strong></h4>\n<ul>\n<li><strong>Cash Balance (30 Jun 2025)</strong>: AUD $43K (down from AUD $261K prior quarter).  </li>\n<li><strong>Net Operating Cash Outflow</strong>: AUD -$226K (quarter); AUD -$213K (YTD).  </li>\n<li><strong>Financing Facility</strong>: Unused AUD $2M equity line (expires 31 Jan 2026).  </li>\n<li><strong>Estimated Funding Runway</strong>: 9 quarters (based on facility + cash).  </li>\n</ul>\n<h4><strong>Critical Valuation Impact</strong></h4>\n<ol>\n<li><strong>NYCDOE Contract Finalization</strong>: Pivotal for revenue certainty and ASX reinstatement.  </li>\n<li><strong>Cash Position</strong>: Low liquidity (AUD $43K) but backed by undrawn AUD $2M facility.  </li>\n</ol>\n<p><strong>Omitted</strong>: Routine operational details, director names, boilerplate.  </p>\n<hr />\n<p><strong>Brevity Note</strong>: Focused on trading/capital decisions; excluded non-material commentary.</p>",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<h4><strong>1. Corporate Update (ASX Reinstatement Progress)</strong></h4>\n<ul>\n<li>Shares suspended since <strong>7 March 2024</strong>; working to meet <strong>ASX listing rule requirements</strong>.  </li>\n<li><strong>Capital raised</strong>:  </li>\n<li><strong>$1.25M placement</strong> (Sept 2024) to sophisticated investors.  </li>\n<li><strong>$1.657M entitlement offer</strong> (Dec 2024), fully underwritten.  </li>\n<li><strong>Key pending step</strong>: Finalizing <strong>NYC Department of Education (NYCDOE) contracts</strong> to secure receivables and FY26 revenue.  </li>\n</ul>\n<h4><strong>2. Operational Highlights</strong></h4>\n<ul>\n<li><strong>KneoScience platform expansion</strong>: Added <strong>High School Biology Investigations</strong> (grades 3\u201312), increasing <strong>addressable student base by 300,000</strong>.  </li>\n<li><strong>Key benefits</strong>: Cuts teacher workload by <strong>50%</strong>, real-time student analytics, supports neurodiverse learners (9 languages).  </li>\n<li><strong>Revenue</strong>: Minimal from Florida operations; NYCDOE deployments expected <strong>Feb 2025</strong>.  </li>\n</ul>\n<h4><strong>3. Appendix 4C (Quarterly Cash Flow)</strong></h4>\n<ul>\n<li><strong>Cash balance (end-Q2 2025)</strong>: <strong>$43k</strong> (vs. $261k prev. quarter).  </li>\n<li><strong>Cash burn (Q2)</strong>: <strong>-$226k</strong> operating outflow.  </li>\n<li><strong>Investing</strong>: <strong>-$232k</strong> (intellectual property development).  </li>\n<li><strong>Financing facility</strong>: <strong>$2M undrawn equity line</strong> (Stratford Capital, expires Jan 2026).  </li>\n</ul>\n<h4><strong>4. Liquidity &amp; Funding</strong></h4>\n<ul>\n<li><strong>Estimated funding runway</strong>: <strong>9 quarters</strong> (based on $2.043M total liquidity).  </li>\n</ul>\n<p><strong>Key Risks</strong>: Pending NYCDOE contracts critical for revenue and ASX reinstatement.  </p>\n<p><em>(Omitted: Routine disclosures, non-material operational details.)</em></p>",
     "usage": {
       "prompt_tokens": 4760,
-      "completion_tokens": 477,
-      "total_tokens": 5237,
+      "completion_tokens": 392,
+      "total_tokens": 5152,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:47:38.439199"
+    "processed_at": "2025-07-31T06:07:30.907439"
   },
   {
     "ticker": "BPP",
@@ -217,15 +502,34 @@
     "date": "20250731",
     "time": "1527",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md28h4bb8qyr.pdf",
-    "summary": "<h3><strong>Babylon Pump &amp; Power (ASX: BPP) \u2013 Q4 FY25 Quarterly Report (Appendix 4C) Summary</strong></h3>\n<h4><strong>Key Highlights:</strong></h4>\n<ul>\n<li><strong>Operational Performance:</strong>  </li>\n<li><strong>Rental segment</strong> strongest quarter in FY25, driven by higher utilisation and test pumping activity.  </li>\n<li><strong>Maintenance segment</strong> completed major builds for Thiess, ending FY25 with strong momentum.  </li>\n<li>\n<p><strong>Acquisitions:</strong> Matrix and Blue Hire acquisitions near settlement, expected to enhance water services platform.  </p>\n</li>\n<li>\n<p><strong>Financials:</strong>  </p>\n</li>\n<li><strong>Net operating cash inflow:</strong> <strong>$108k</strong> (vs. outflows in prior periods).  </li>\n<li><strong>Cash receipts from customers:</strong> <strong>$8.1m</strong> (with receivables rising to <strong>$6.8m</strong>, expected to convert early FY26).  </li>\n<li><strong>Closing cash balance:</strong> <strong>$3.07m</strong> (+ undrawn facilities of <strong>$2.4m</strong>).  </li>\n<li>\n<p><strong>Capital raising:</strong> Completed <strong>$3.5m equity raise</strong>, supporting acquisitions and working capital.  </p>\n</li>\n<li>\n<p><strong>Outlook:</strong> Focus on integrating acquisitions, optimizing fleet utilisation, and driving cash generation. No major capex planned.  </p>\n</li>\n</ul>\n<p><em>(No material non-operational or governance disclosures identified.)</em></p>",
+    "summary": "<h3><strong>Quarterly Report (Appendix 4C) Summary</strong></h3>\n<ul>\n<li><strong>Key Operational Highlights:</strong>  </li>\n<li>Rental segment delivered strongest quarter in FY25, driven by improved utilisation and test pumping contracts.  </li>\n<li>Maintenance segment completed major builds for Thiess, ending FY25 with strong momentum.  </li>\n<li>\n<p>Acquisitions of Matrix Hydro Services and Blue Hire nearing settlement, positioning Babylon as a leading water/equipment services platform.  </p>\n</li>\n<li>\n<p><strong>Financial Highlights:</strong>  </p>\n</li>\n<li>Net operating cash inflow of <strong>$108k</strong> (receipts: <strong>$8.1m</strong>).  </li>\n<li>Closing cash balance: <strong>$3.07m</strong> (with <strong>$2.4m</strong> undrawn facilities).  </li>\n<li>Receivables increased to <strong>$6.8m</strong> (expected conversion in early FY26).  </li>\n<li>\n<p>Completed <strong>$3.5m equity raise</strong> to support acquisitions and working capital.  </p>\n</li>\n<li>\n<p><strong>Outlook:</strong>  </p>\n</li>\n<li>Focus on integration of acquisitions, fleet optimisation, and cash generation.  </li>\n<li>No material capital investments planned for early FY26.  </li>\n</ul>\n<p><em>Omitted: Director quotes, non-material operational details, and boilerplate.</em></p>",
     "usage": {
       "prompt_tokens": 4357,
-      "completion_tokens": 266,
-      "total_tokens": 4623,
+      "completion_tokens": 242,
+      "total_tokens": 4599,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-07-31T05:38:50.837118"
+    "processed_at": "2025-07-31T05:59:27.445147"
+  },
+  {
+    "ticker": "LSR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975379",
+    "id": "02975379",
+    "pages": 19,
+    "price_sensitive": true,
+    "date": "20250731",
+    "time": "1527",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06md2bkfwth19d.pdf",
+    "summary": "<p><strong>Material Information Summary:</strong>  </p>\n<ul>\n<li><strong>Capital Raising:</strong>  </li>\n<li><strong>Structure</strong>: Two-tranche placement + additional third tranche.  </li>\n<li><strong>Total raised</strong>: $2.7M AUD ($2.2M initial, $0.5M post-quarter).  </li>\n<li><strong>Key dates</strong>: Shareholder meeting for approval on <strong>21 August 2025</strong>.  </li>\n<li>\n<p><strong>Details</strong>: First tranche completed ($475k at $0.006/share); second tranche ($1.725M at $0.005/share) and third tranche ($500k) pending approval. Includes free-attaching options (exercise price $0.01, expiry 2029).  </p>\n</li>\n<li>\n<p><strong>Exploration Highlights (Darwin Project, Chile)</strong>:  </p>\n</li>\n<li><strong>Drilling results</strong>: Best intercepts include <strong>8m @ 0.56 g/t Au</strong>, <strong>2m @ 0.48 g/t Au &amp; 0.51% Cu</strong>.  </li>\n<li>\n<p><strong>Expenditure</strong>: $723k spent in quarter ($711k in Chile).  </p>\n</li>\n<li>\n<p><strong>Cash Position</strong>:  </p>\n</li>\n<li><strong>Closing cash</strong>: <strong>$26k AUD</strong> (down from $904k previous quarter).  </li>\n<li>\n<p><strong>Funding runway</strong>: <strong>0.03 quarters</strong> (minimal liquidity post-drilling).  </p>\n</li>\n<li>\n<p><strong>Board Changes</strong>:  </p>\n</li>\n<li>\n<p><strong>Resignation</strong>: Managing Director Ed Turner (replaced by Coraline Blaud as Head of Exploration).  </p>\n</li>\n<li>\n<p><strong>Upcoming Catalyst</strong>: Shareholder vote (21 Aug 2025) for capital raise approval.  </p>\n</li>\n</ul>\n<p><em>Note: No material resource estimates or production updates.</em></p>",
+    "usage": {
+      "prompt_tokens": 8324,
+      "completion_tokens": 332,
+      "total_tokens": 8656,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-07-31T05:57:51.499096"
   },
   {
     "ticker": "GTH",
