@@ -1,0 +1,19 @@
+{
+  "ticker": "WEL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975343",
+  "id": "02975343",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250731",
+  "time": "1440",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250731/pdf/06mczmlqg5tnwd.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will extract **only** the material information in the requested format, adhering strictly to the rules.  \n\nExample outputs based on common scenarios:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending release of capital raising details.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: A$50M placement (A$0.50/share) + A$10M SPP.  \n- Key dates: Ex-date 15/06, Record 18/06, SPP closes 30/06.  \n\n**3. Appendix 4C (Quarterly)**  \n- Cash balance: A$12.4M (Q-end).  \n- Highlights: Record sales A$25M (+32% QoQ), production 50koz Au.  \n\n**4. Other (M&A Announcement)**  \n- Acquiring XYZ Co for A$100M (scrip + cash).  \n- Adds 2P reserves of 1.2Moz Au, funding via A$60M equity raise.  \n\n**5. No Material Information Identified**  \n---  \n\nProvide the document/text, and I\u2019ll refine accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 271,
+    "total_tokens": 496,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-31T05:08:34.166118"
+}
