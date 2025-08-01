@@ -1,0 +1,19 @@
+{
+  "ticker": "RPG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976184",
+  "id": "02976184",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250801",
+  "time": "1905",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg4y6v4hsycf.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and critical excerpts), and I\u2019ll extract **only material information** in the concise format you\u2019ve specified.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending announcement of capital raising.  \n\n2. **Capital Raising**:  \n   - *Structure*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - *Dates*: Ex-date 15/04, Record 18/04, SPP closes 02/05.  \n\n3. **Appendix 4C (Quarterly)**:  \n   - *Cash balance*: AUD 12.3M (vs. AUD 15.1M prior quarter).  \n   - *Cash burn*: AUD 2.8M (operating).  \n\n4. **Other Announcement**:  \n   - *Key points*: Major contract win (AUD 100M over 3 years); CEO resigns effective immediately.  \n\nSubmit the document, and I\u2019ll strip it down to **what matters for trading/capital markets decisions**.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 265,
+    "total_tokens": 495,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-01T09:33:26.730512"
+}
