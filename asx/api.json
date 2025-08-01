@@ -1,5 +1,385 @@
 [
   {
+    "ticker": "FRS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976176",
+    "id": "02976176",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1852",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg49x36l0634.pdf",
+    "summary": "<ul>\n<li><strong>Capital Issuance</strong>: 262,500 ordinary shares issued at $0.075 per share via exercise of listed options (FRSOB).  </li>\n<li><strong>No Disclosure Requirement</strong>: Issued under Section 708A of the Corporations Act without a disclosure document.  </li>\n<li><strong>Quotation Applied</strong>: Appendix 2A lodged with ASX for quotation of the new shares.  </li>\n</ul>\n<p><strong>No material trading or valuation impacts identified beyond the dilution from the option conversion.</strong></p>",
+    "usage": {
+      "prompt_tokens": 937,
+      "completion_tokens": 94,
+      "total_tokens": 1031,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:01:12.667651"
+  },
+  {
+    "ticker": "FRS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976175",
+    "id": "02976175",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1848",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg47450p74fc.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 262,500 new ordinary fully paid shares (FRS) issued from exercised options (FRSOB).  </li>\n<li><strong>Issue Price</strong>: AUD 0.075 per share (cash consideration).  </li>\n<li><strong>Key Date</strong>: Issued on 01/08/2025.  </li>\n<li><strong>Capital Structure Update</strong>: Total ordinary shares outstanding post-issuance: 311,284,928.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1573,
+      "completion_tokens": 96,
+      "total_tokens": 1669,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:00:46.459817"
+  },
+  {
+    "ticker": "IDA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976174",
+    "id": "02976174",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1846",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg44l8285vm5.pdf",
+    "summary": "<p><strong>Appendix 3Y Summary (Change of Director\u2019s Interest Notice):</strong><br />\n- <strong>Director:</strong> Bronwyn Barnes.<br />\n- <strong>Date of Change:</strong> 1 August 2025.<br />\n- <strong>Nature of Change:</strong> 1,000,000 fully paid ordinary shares issued as <strong>Class 1 Incentive Shares</strong> under approved shareholder resolution (no cash consideration).<br />\n- <strong>Post-Change Holdings:</strong><br />\n  - Direct: 2,712,500 shares.<br />\n  - Indirect (via controlled entities): <strong>41,106,012 shares</strong> (combined total across Laclos Pty Ltd, S&amp;B Barnes Family Trust, Bronwyn Barnes Family Trust).<br />\n- <strong>No closed period trading or contract interests reported.</strong>  </p>\n<p><em>Concisely highlights the material equity change for capital markets purposes.</em></p>",
+    "usage": {
+      "prompt_tokens": 1304,
+      "completion_tokens": 162,
+      "total_tokens": 1466,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:02:24.685057"
+  },
+  {
+    "ticker": "TMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976172",
+    "id": "02976172",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1845",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg409wln5nx0.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a routine director's interest notice with no impact on trading, capital structure, or valuation.)</em></p>",
+    "usage": {
+      "prompt_tokens": 734,
+      "completion_tokens": 29,
+      "total_tokens": 763,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:01:24.789267"
+  },
+  {
+    "ticker": "TMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976173",
+    "id": "02976173",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1845",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg42f85qry90.pdf",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p>(Reason: This is a standard initial director\u2019s interest notice disclosing no securities or contracts held by the director. No impact on trading, capital structure, or valuation.)</p>",
+    "usage": {
+      "prompt_tokens": 713,
+      "completion_tokens": 43,
+      "total_tokens": 756,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:57:20.068348"
+  },
+  {
+    "ticker": "CTT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976171",
+    "id": "02976171",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1843",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3xt1vdwbtn.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Shareholder Update (Form 604)</strong>  </li>\n<li><strong>Citigroup entities' voting power in Cettire Ltd (CTT)</strong>:  <ul>\n<li>Increased from <strong>5.2849% (20,148,059 shares)</strong> to <strong>6.5074% (24,808,871 shares)</strong>.  </li>\n</ul>\n</li>\n<li><strong>Key changes (30 July 2025)</strong>:  <ul>\n<li><strong>Citibank, N.A. Sydney Branch</strong>: Decreased interest by <strong>20,000 shares</strong> (securities lending).  </li>\n<li><strong>Citigroup Global Markets Australia</strong>: Increased interest by <strong>407,877 shares</strong> (securities lending).  </li>\n<li><strong>Citigroup Global Markets Limited</strong>: Increased interest by <strong>4,272,935 shares</strong> (securities lending).  </li>\n</ul>\n</li>\n<li><strong>No changes in association</strong> reported.  </li>\n</ul>\n<p><em>No material trading or capital markets impact implied (routine securities lending activity).</em></p>",
+    "usage": {
+      "prompt_tokens": 1915,
+      "completion_tokens": 189,
+      "total_tokens": 2104,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:57:26.774030"
+  },
+  {
+    "ticker": "TMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976168",
+    "id": "02976168",
+    "pages": 8,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1842",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3qcpd5pwwq.pdf",
+    "summary": "<h3>Summary of ASX Announcement (Appendix 3Y \u2013 Change of Director\u2019s Interests):</h3>\n<ul>\n<li><strong>Andre Booyzen</strong>:  </li>\n<li><strong>New grant</strong>: 20,000,000 performance rights issued under employee incentive scheme (approved by shareholders 27 June 2025).  </li>\n<li>\n<p><strong>Holding post-change</strong>: 20,000,000 performance rights (previously nil).  </p>\n</li>\n<li>\n<p><strong>Timothy Morrison</strong>:  </p>\n</li>\n<li><strong>Conversion</strong>: 10,000,000 performance rights converted to 10,000,000 fully paid ordinary shares.  </li>\n<li>\n<p><strong>Holding post-change</strong>: 17,178,636 ordinary shares (previously 7,178,636) + 5,000,000 performance rights (remaining).  </p>\n</li>\n<li>\n<p><strong>Nicholas Katris (indirect)</strong>:  </p>\n</li>\n<li><strong>Conversion</strong>: 10,000,000 performance rights converted to 10,000,000 fully paid ordinary shares.  </li>\n<li>\n<p><strong>Holding post-change</strong>: 21,000,000 ordinary shares (previously 11,000,000) + 5,000,000 performance rights (remaining).  </p>\n</li>\n<li>\n<p><strong>Bishoy Habib</strong>:  </p>\n</li>\n<li><strong>Conversion</strong>: 10,000,000 performance rights converted to 10,000,000 fully paid ordinary shares.  </li>\n<li><strong>Holding post-change</strong>: 16,000,000 ordinary shares (previously 6,000,000) + 5,000,000 performance rights (remaining).  </li>\n</ul>\n<p><strong>Common details</strong>:<br />\n- All transactions occurred <strong>25 July 2025</strong>, with no closed period breaches.<br />\n- No cash consideration; conversions based on vested performance rights.  </p>\n<p><strong>Material impact</strong>:<br />\n- Significant increase in ordinary shares held by directors (~40M shares issued in total), potentially diluting existing holders. No capital raised.</p>",
+    "usage": {
+      "prompt_tokens": 3281,
+      "completion_tokens": 378,
+      "total_tokens": 3659,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:02:20.475438"
+  },
+  {
+    "ticker": "IDA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976169",
+    "id": "02976169",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1842",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3sgj8vyy4k.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Capital Raising</strong>: 1,000,000 new shares issued under shareholder approval (structure not specified).  </li>\n<li><strong>Regulatory Disclosure</strong>: Shares issued without a Part 6D.2 disclosure under the Corporations Act, with compliance confirmed under relevant sections.  </li>\n</ul>\n<p><em>(No pricing or use of proceeds details provided\u2014insufficient for capital markets impact assessment.)</em></p>",
+    "usage": {
+      "prompt_tokens": 672,
+      "completion_tokens": 82,
+      "total_tokens": 754,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:00:55.369249"
+  },
+  {
+    "ticker": "IDA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976170",
+    "id": "02976170",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1842",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3vkc62c4yq.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Announcement Type</strong>: Appendix 2A \u2013 Application for Quotation of Securities  </li>\n<li><strong>Security Issue</strong>: <strong>1,000,000</strong> new ordinary shares (IDA) issued as <strong>incentive shares</strong> (non-cash).  </li>\n<li><strong>Issue Date</strong>: 01/08/2025.  </li>\n<li><strong>Shareholder Approval</strong>: Granted on 1 August 2025 (details in meeting notice).  </li>\n<li><strong>Post-Issue Capital</strong>: Total ordinary shares on issue: <strong>643,732,458</strong>.  </li>\n<li><strong>No Placement or Capital Raising</strong>: Shares issued under incentive scheme (no cash consideration).  </li>\n</ul>\n<p><strong>No material trading or capital impact</strong> (non-dilutive incentive issuance).</p>",
+    "usage": {
+      "prompt_tokens": 1703,
+      "completion_tokens": 153,
+      "total_tokens": 1856,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:57:41.312280"
+  },
+  {
+    "ticker": "NC6",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976167",
+    "id": "02976167",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1841",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3n7rymhbwn.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>:  </li>\n<li><strong>Director</strong>: Andrew Moullin  </li>\n<li><strong>Change Type</strong>: On-market purchase of <strong>100,000 Fully Paid Ordinary Shares</strong> via related entity (DDJK Pty Ltd).  </li>\n<li><strong>Consideration</strong>: $8,300 (implied price: ~$0.083/share).  </li>\n<li><strong>Post-Change Holdings</strong>:  <ul>\n<li>DDJK Pty Ltd: <strong>1,800,000 Ordinary Shares</strong> (previously 1,700,000).  </li>\n<li>Kruger-Dunning Pty Ltd: <strong>15M Unlisted Options (A/B)</strong> + <strong>6M Performance Rights</strong> (unchanged).  </li>\n</ul>\n</li>\n<li><strong>Closed Period</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>No material impact on capital structure or liquidity identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1285,
+      "completion_tokens": 162,
+      "total_tokens": 1447,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:59:09.230128"
+  },
+  {
+    "ticker": "MTL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976166",
+    "id": "02976166",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1841",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3l3vgm6j7w.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holding Notice</strong>: Matthew James Blake became a substantial holder in Mantle Minerals Limited on 29/07/2025.  </li>\n<li><strong>Voting Power</strong>: Holds 453,700,003 ordinary shares (7.04% of total shares on issue).  </li>\n<li><strong>Holdings Breakdown</strong>:  </li>\n<li>Mount Street Investments Pty Ltd: 200,000,000 shares.  </li>\n<li>Australian Metals &amp; Energy Pty Ltd: 178,700,003 shares.  </li>\n<li>Africa Coal Pty Ltd: 75,000,000 shares.  </li>\n<li><strong>Consideration Paid</strong>:  </li>\n<li>Africa Coal Pty Ltd: $75,000 for 75M shares (23/07/2025).  </li>\n<li>Australian Metals &amp; Energy Pty Ltd: $100,000 for 100M shares (29/07/2025), $77,100 for 77.1M shares (30/07/2025), nominal $0.001 for 1 share (31/07/2025), $1,600 for 1.6M shares (01/08/2025).  </li>\n</ul>\n<p>No material trading or capital markets impact identified (routine disclosure of ownership changes).</p>",
+    "usage": {
+      "prompt_tokens": 1865,
+      "completion_tokens": 246,
+      "total_tokens": 2111,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:00:41.203788"
+  },
+  {
+    "ticker": "TMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976165",
+    "id": "02976165",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1841",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3hzd5cq0kv.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Application for quotation of new securities (employee incentive scheme conversion)  </li>\n<li><strong>Securities Issued</strong>: 30,000,000 fully paid ordinary shares (ASX: TMG)  </li>\n<li><strong>Issue Date</strong>: 25 July 2025  </li>\n<li><strong>Conversion Detail</strong>: Performance rights converted at nil cash consideration (estimated value: $0.082 per share)  </li>\n<li><strong>Recipients</strong>: Includes key management personnel (Timothy Morrison, Bishoy Habib, Nicholas Katris \u2013 10m shares each)  </li>\n<li><strong>Post-Issue Capital</strong>: Total ordinary shares on issue: 1,120,881,734; options/unquoted securities also detailed.  </li>\n<li><strong>Regulatory Exception</strong>: Issued under Listing Rule 7.2 (exception 14; no shareholder approval required).  </li>\n</ul>\n<p><em>Note: No direct trading or capital markets impact beyond dilution from new shares; routine for employee incentives.</em></p>",
+    "usage": {
+      "prompt_tokens": 1728,
+      "completion_tokens": 193,
+      "total_tokens": 1921,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:01:04.496591"
+  },
+  {
+    "ticker": "PRX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976164",
+    "id": "02976164",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1840",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3fs9svzshc.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Form 604 - Change of Substantial Holder Interest):</strong>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> APAC Resources Limited and related entities (\"APAC Group\").  </li>\n<li><strong>Change Reason:</strong> Dilution due to Prodigy Gold NL's issuance of <strong>391,751,582 new shares</strong> (30 July 2025) following an Entitlement Offer (completed 22 July 2025).  </li>\n<li><strong>Current Holding:</strong> <strong>2,067,200,481 shares</strong> (30.66% voting power, down from 32.55% pre-issuance).  </li>\n<li><strong>No other material changes</strong> in association or control disclosed.  </li>\n</ul>\n<p><em>Omitted: Legal boilerplate, director details, non-material entity addresses.</em></p>",
+    "usage": {
+      "prompt_tokens": 2660,
+      "completion_tokens": 158,
+      "total_tokens": 2818,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:00:22.047813"
+  },
+  {
+    "ticker": "PRX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976163",
+    "id": "02976163",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1840",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg3cmvk5ynp5.pdf",
+    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Change in substantial holding (Form 604)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Substantial Holder</strong>: APAC Group (Allied Properties Investments (1) Company Limited and related entities)  </li>\n<li><strong>Company Affected</strong>: Prodigy Gold NL (ASX: PRX)  </li>\n<li><strong>Change Trigger</strong>: Dilution from PRX's issuance of <strong>391,751,582 shares</strong> (completed via Entitlement Offer on 22 July 2025)  </li>\n<li><strong>Resulting Holding</strong>: APAC Group\u2019s voting power decreased from <strong>32.55%</strong> to <strong>30.66%</strong> due to increased shares on issue (6.35B to 6.74B).  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 2955,
+      "completion_tokens": 167,
+      "total_tokens": 3122,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:59:14.690706"
+  },
+  {
+    "ticker": "APX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976161",
+    "id": "02976161",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1838",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg374fx1y6pt.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Shareholder Notice</strong>: Citigroup entities (Citibank, N.A. Sydney Branch, Citigroup Global Markets Australia Pty Limited, Citigroup Global Markets Limited) collectively hold a 5.2713% stake in Appen Ltd (APX) as of 30 July 2025.  </li>\n<li><strong>Relevant Interests</strong>:  </li>\n<li><strong>Citibank, N.A. Sydney Branch</strong>: 7,372,949 shares (securities lending arrangement).  </li>\n<li><strong>Citigroup Global Markets Australia Pty Limited</strong>: 2,244,028 shares (securities lending and market contracts).  </li>\n<li><strong>Citigroup Global Markets Limited</strong>: 4,346,861 shares (securities lending arrangement).  </li>\n<li><strong>No voting restrictions</strong>; standard recall/return terms apply under lending agreements.  </li>\n</ul>\n<p><em>No material trading or capital structure impact identified; disclosure reflects routine institutional holdings update.</em></p>",
+    "usage": {
+      "prompt_tokens": 1866,
+      "completion_tokens": 185,
+      "total_tokens": 2051,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:58:03.822891"
+  },
+  {
+    "ticker": "LTR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976160",
+    "id": "02976160",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1837",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg34vnf7zdnj.pdf",
+    "summary": "<p><strong>Summary of Form 603 (Initial Substantial Shareholder Notice):</strong>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> Citigroup entities (collectively) acquired a 5.63% stake in Liontown Ltd (LTR).  </li>\n<li><strong>Holding Details:</strong> 136,849,970 ordinary shares, primarily through securities lending agreements (no voting restrictions).  </li>\n<li><strong>Nature of Interest:</strong> Majority held via Citigroup Global Markets Limited (90.06m shares) as part of standard market activities.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 1905,
+      "completion_tokens": 117,
+      "total_tokens": 2022,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:00:04.909927"
+  },
+  {
+    "ticker": "POD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976159",
+    "id": "02976159",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1835",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg32j7rrmb5d.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 4,698,868 unquoted performance rights (PODAG) lapsed due to unfulfilled conditions.  </li>\n<li><strong>Date of Cessation</strong>: 01/08/2025.  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li>Quoted: 290,046,884 options (PODOA), 794,979,046 ordinary shares (POD).  </li>\n<li>Unquoted: 22,124,288 performance rights (PODAG), 16,705,818 share rights (PODAL).  </li>\n<li><strong>No material impact on liquidity or capital structure (no consideration paid for cessation)</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1057,
+      "completion_tokens": 151,
+      "total_tokens": 1208,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:57:48.491230"
+  },
+  {
+    "ticker": "TMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976158",
+    "id": "02976158",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1835",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg30fylj3dvk.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 14,000,000 fully paid ordinary shares (TMG) issued via conversion of Performance Rights under an employee incentive scheme.  </li>\n<li><strong>Issue Date</strong>: 25 July 2025.  </li>\n<li><strong>Estimated Value</strong>: AUD 0.082 per share (implied consideration for converted Performance Rights).  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>TMG ordinary shares on issue: 1,104,881,734.  </li>\n<li>TMGOD options expiring 30-Jun-2026: 379,413,733.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 1637,
+      "completion_tokens": 121,
+      "total_tokens": 1758,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:58:39.933269"
+  },
+  {
+    "ticker": "THR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976155",
+    "id": "02976155",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1829",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2rxhnf8p60.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Alastair Clayton converted 10,500,000 Unquoted Performance Shares into 10,500,000 Ordinary Shares (non-cash).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>18,192,308 Ordinary Shares/CDIs  </li>\n<li>25,000,000 Unquoted Performance Shares (remaining).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1157,
+      "completion_tokens": 87,
+      "total_tokens": 1244,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T09:01:15.474456"
+  },
+  {
+    "ticker": "THR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976156",
+    "id": "02976156",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1829",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2v43xqn6qg.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>: Tim Armstrong converted 4,500,000 Unquoted Performance Shares into 4,500,000 Ordinary Shares via TJA Assets Pty Ltd and KFA Consortium Pty Ltd (indirect holdings).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>TJA Assets Pty Ltd: 3,000,000 Unquoted Performance Shares + 4,500,000 Ordinary Shares.  </li>\n<li>KFA Consortium Pty Ltd: 7,500,000 Unquoted Performance Shares (unchanged).  </li>\n<li><strong>Consideration</strong>: Non-cash (referenced AGM notice).  </li>\n<li><strong>Closed Period</strong>: No trading during a closed period.  </li>\n</ul>\n<p><em>Note: No material capital markets/trading impact identified (routine director interest disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 1113,
+      "completion_tokens": 158,
+      "total_tokens": 1271,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T08:59:57.688125"
+  },
+  {
     "ticker": "POD",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976154",
     "id": "02976154",
@@ -8,15 +388,15 @@
     "date": "20250801",
     "time": "1826",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2p9fpd35hx.pdf",
-    "summary": "<ul>\n<li><strong>Performance Rights Cancellation</strong>: 4,698,868 FY2025 STI Performance Rights lapsed and cancelled, including 3,430,556 held indirectly by Director Rod Baxter via Corvus Bay Pty Ltd.  </li>\n<li><strong>Vesting</strong>: Remaining FY2025 STI Performance Rights have vested and are now exercisable.  </li>\n</ul>\n<p><em>Note</em>: No material trading or capital markets impact identified beyond routine director interest disclosure.</p>",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Cancellation of Securities</strong>: 4,698,868 FY2025 STI Performance Rights lapsed and cancelled (part of management incentive scheme).  </li>\n<li><strong>Director Interest Change (Rod Baxter)</strong>: Indirect holding via Corvus Bay Pty Ltd reduced by 3,430,556 FY2025 STI Performance Rights (now holds 4,486,111 remaining rights).  </li>\n<li><strong>Vesting</strong>: Remaining FY2025 STI Performance Rights vested and exercisable by holders.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong>.</p>",
     "usage": {
       "prompt_tokens": 1646,
-      "completion_tokens": 89,
-      "total_tokens": 1735,
+      "completion_tokens": 121,
+      "total_tokens": 1767,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:35:22.476103"
+    "processed_at": "2025-08-01T09:01:30.935663"
   },
   {
     "ticker": "THR",
@@ -27,15 +407,15 @@
     "date": "20250801",
     "time": "1825",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2m16157vl8.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Cleansing Notice (Section 708A)  </li>\n<li><strong>Material Information</strong>:  </li>\n<li>Thor Energy PLC issued <strong>25,000,000 CDIs</strong> without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li>Securities are now exempt from on-sale restrictions under section 708A(5).  </li>\n<li>Company confirms compliance with continuous disclosure obligations (Chapter 2M, sections 674/674A).  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "summary": "<ul>\n<li><strong>Cleansing Notice</strong>: 25,000,000 CHESS Depositary Interests (CDIs) issued without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li><strong>Exemption</strong>: Securities now fall under section 708A(5) exemption for on-sale.  </li>\n<li><strong>Compliance</strong>: Company confirms adherence to continuous disclosure and financial reporting obligations.  </li>\n</ul>\n<p>No material trading or capital markets impact identified beyond the issuance details.</p>",
     "usage": {
       "prompt_tokens": 677,
-      "completion_tokens": 108,
-      "total_tokens": 785,
+      "completion_tokens": 92,
+      "total_tokens": 769,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:34:16.921469"
+    "processed_at": "2025-08-01T08:58:58.979560"
   },
   {
     "ticker": "PRO",
@@ -46,15 +426,15 @@
     "date": "20250801",
     "time": "1824",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2jsh73qhtz.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Cleansing Statement Error  </li>\n<li><strong>Key Points</strong>:  </li>\n<li>Cleansing statement lodged in error for the issuance of 4,000 shares under an employee incentive scheme (no requirement for cleansing).  </li>\n<li>Investors should disregard the cleansing statement.  </li>\n</ul>\n<p><em>No material impact on trading or capital markets decisions.</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Correction Notice  </li>\n<li><strong>Key Points</strong>:  </li>\n<li>Cleansing statement lodged earlier was issued in error (not required for the 4,000 shares issued under employee incentive scheme).  </li>\n<li>Investors should disregard the cleansing statement.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 454,
-      "completion_tokens": 71,
-      "total_tokens": 525,
+      "completion_tokens": 63,
+      "total_tokens": 517,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:32:46.076937"
+    "processed_at": "2025-08-01T08:57:35.647069"
   },
   {
     "ticker": "DYM",
@@ -65,15 +445,15 @@
     "date": "20250801",
     "time": "1822",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2d4rgxrqf0.pdf",
-    "summary": "<ul>\n<li><strong>Director Interest Change</strong>: Karen Wellman acquired 117,647 Class C Performance Rights (nil consideration).  </li>\n<li><strong>Post-Change Holdings</strong>:  </li>\n<li>Direct: 250,000 ordinary shares.  </li>\n<li>Indirect (via Serpentine Investment Trust): 99,338 ordinary shares, 2,000,000 options ($0.30 exercise, expiring 16 Jan 2026), 250,000 Class A Performance Rights, and 117,647 newly acquired Class C Performance Rights.  </li>\n<li><strong>Reason</strong>: Issuance approved at AGM on 26 November 2024.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: Changes in director securities holdings (e.g., performance rights issuance) are routine disclosures and typically non-material for trading or capital markets decisions unless they indicate significant insider transactions or dilution.)</em></p>",
     "usage": {
       "prompt_tokens": 1159,
-      "completion_tokens": 136,
-      "total_tokens": 1295,
+      "completion_tokens": 46,
+      "total_tokens": 1205,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:35:35.660214"
+    "processed_at": "2025-08-01T09:02:46.991688"
   },
   {
     "ticker": "IPT",
@@ -84,34 +464,15 @@
     "date": "20250801",
     "time": "1822",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2g96zbzdzz.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: Director interest notices typically do not contain actionable trading or capital markets information unless they reveal substantial changes in ownership or undisclosed transactions. This filing is routine and reflects standard disclosures post-departure of a director.)</p>",
+    "summary": "<p><strong>No material information identified</strong>  </p>\n<p>(The document is a standard Appendix 3Z Final Director\u2019s Interest Notice, disclosing a director's post-cessation securities holdings. No trading or capital markets impact.)</p>",
     "usage": {
       "prompt_tokens": 954,
-      "completion_tokens": 51,
-      "total_tokens": 1005,
+      "completion_tokens": 43,
+      "total_tokens": 997,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:34:39.709572"
-  },
-  {
-    "ticker": "DRO",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976149",
-    "id": "02976149",
-    "pages": 7,
-    "price_sensitive": false,
-    "date": "20250801",
-    "time": "1821",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg2b09fb6jmt.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Appendix 2A - Application for Quotation of Securities)</h3>\n<ul>\n<li><strong>Security Issuance</strong>:  </li>\n<li>\n<p>100,000 ordinary fully paid shares (ASX: DRO) issued on 01/08/2025.  </p>\n<ul>\n<li>25,000 shares issued via exercise of vested employee incentive options at AUD 0.40/share (total AUD 10,000 raised).  </li>\n<li>75,000 shares issued via option exercise under a Company-funded loan facility (no cash raised).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li>Total ordinary shares on issue: <strong>874,718,854</strong>.  </li>\n<li>\n<p>Unquoted options (DROAH) remaining: <strong>56,983,361</strong>.  </p>\n</li>\n<li>\n<p><strong>Key Takeaway</strong>: Minimal dilution (~0.01% of issued capital) from option exercises; no material capital raised.  </p>\n</li>\n</ul>\n<p><em>Omitted: Boilerplate, non-material details on option plan terms.</em></p>",
-    "usage": {
-      "prompt_tokens": 2008,
-      "completion_tokens": 204,
-      "total_tokens": 2212,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:33:08.674899"
+    "processed_at": "2025-08-01T09:00:00.317277"
   },
   {
     "ticker": "DRO",
@@ -122,15 +483,15 @@
     "date": "20250801",
     "time": "1820",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg25khzylbyx.pdf",
-    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Issuance of unquoted employee incentive securities (Appendix 3G).  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Securities Issued</strong>: 20,000 unquoted options (ASX code: DROAH).  </li>\n<li><strong>Expiry Date</strong>: 31 March 2030 (various exercise prices).  </li>\n<li><strong>Purpose</strong>: Incentive for key personnel under employment agreement (terms aligned with shareholder objectives).  </li>\n<li><strong>Total Unquoted Options Outstanding</strong>: 57,103,361.  </li>\n<li><strong>Ordinary Shares Outstanding</strong>: 874,618,854 (quoted).  </li>\n<li><strong>Regulatory Exception</strong>: Issued under Listing Rule 7.2 (employee incentive scheme, no shareholder approval required).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine employee incentive issuance).</p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Appendix 3G - Notification of issue of unquoted securities (employee incentive scheme)  </li>\n<li><strong>Security Issued</strong>: 20,000 unquoted options (DROAH) expiring 31 March 2030  </li>\n<li><strong>Purpose</strong>: Employee incentive for key personnel under Employment Agreement (terms disclosed in 2025 AGM resolution)  </li>\n<li><strong>Total Unquoted Options Outstanding</strong>: 57,103,361 (DROAH)  </li>\n<li><strong>Ordinary Shares Outstanding</strong>: 874,618,854 (DRO)  </li>\n<li><strong>No shareholder approval required</strong>: Issued under Listing Rule 7.2 exception 13 (employee incentive scheme)  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine employee option issuance, negligible dilution).</p>",
     "usage": {
       "prompt_tokens": 1471,
-      "completion_tokens": 178,
-      "total_tokens": 1649,
+      "completion_tokens": 162,
+      "total_tokens": 1633,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:35:31.755503"
+    "processed_at": "2025-08-01T09:01:40.215743"
   },
   {
     "ticker": "DYM",
@@ -141,15 +502,15 @@
     "date": "20250801",
     "time": "1820",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mg27pz39rzpp.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Appendix 3G - Issue of Unquoted Securities):</h3>\n<ul>\n<li><strong>Security Type</strong>: Issuance of <strong>Class C Performance Rights</strong> (196,078 units) and <strong>Class D Performance Rights</strong> (350,000 units) under employee incentive schemes.  </li>\n<li><strong>Issue Date</strong>: 1 August 2025.  </li>\n<li><strong>KMP Involvement</strong>: 117,647 Class C Performance Rights issued to <strong>Karen Wellman</strong> (via Serpentine Investment Trust), approved at AGM (26 November 2024).  </li>\n<li><strong>Post-Issue Capital Structure</strong>:  </li>\n<li><strong>Quoted</strong>: 49,084,339 ordinary shares (DYM).  </li>\n<li><strong>Unquoted</strong>:  <ul>\n<li>600,000 Class A Performance Rights (DYMAD).  </li>\n<li>99,338 Class B Performance Rights (DYMAE).  </li>\n<li>5,412,500 Options (DYMAC, expiry 16-Jan-2026, $0.30 exercise).  </li>\n<li>New Class C (196,078) and Class D (350,000) Performance Rights.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No immediate trading impact</strong> (unquoted securities), but reflects incremental dilution potential.</p>",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3G - Issue of Unquoted Securities):</strong>  </p>\n<ul>\n<li><strong>Issuance of Performance Rights</strong>:  </li>\n<li><strong>Class C Performance Rights</strong>: 196,078 issued (1/8/2025).  <ul>\n<li>117,647 issued to KMP (Karen Wellman via Serpentine Investment Trust).  </li>\n<li>Shareholder approval obtained (AGM 26/11/2024).  </li>\n</ul>\n</li>\n<li>\n<p><strong>Class D Performance Rights</strong>: 350,000 issued (1/8/2025).  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Ordinary Shares (DYM)</strong>: 49,084,339 (quoted).  </li>\n<li><strong>Unquoted Securities</strong>:  <ul>\n<li>Class A/B Performance Rights: 699,338 total.  </li>\n<li>Jan-2026 Options (DYMAC): 5,412,500.  </li>\n<li>New Class C/D Performance Rights: 546,078 total.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material trading or capital markets impact</strong> (routine incentive scheme issuance, no dilution to quoted shares).</p>",
     "usage": {
       "prompt_tokens": 2018,
-      "completion_tokens": 253,
-      "total_tokens": 2271,
+      "completion_tokens": 230,
+      "total_tokens": 2248,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T08:33:56.022252"
+    "processed_at": "2025-08-01T08:58:33.555228"
   },
   {
     "ticker": "THR",
