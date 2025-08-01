@@ -1,5 +1,366 @@
 [
   {
+    "ticker": "CAV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976092",
+    "id": "02976092",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1720",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfy3yr8ts6sy.pdf",
+    "summary": "<ul>\n<li><strong>Security Cessation</strong>: 67,500,000 CAVAC options expired without exercise/conversion on 31/07/2025 (strike: $0.007).  </li>\n<li><strong>Post-Cessation Capital Structure</strong>:  </li>\n<li>Ordinary shares (CAV): 4,090,218,394  </li>\n<li>CAVAC options: 0 (fully lapsed).  </li>\n</ul>\n<p>No material impact on liquidity or capital structure (no consideration paid for cessation).</p>",
+    "usage": {
+      "prompt_tokens": 1030,
+      "completion_tokens": 98,
+      "total_tokens": 1128,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:25:56.644520"
+  },
+  {
+    "ticker": "KSN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976091",
+    "id": "02976091",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1720",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfy1wg80n57d.pdf",
+    "summary": "<ul>\n<li><strong>Share issuance completed</strong>: 6,693,210 fully paid ordinary shares issued (6,311,285 from unlisted options at $0.14, 381,925 to director via ZEPOs).  </li>\n<li><strong>No material valuation or liquidity impact</strong>: Routine disclosure under Corp Act 2001; no new capital raised or change in capital structure.  </li>\n</ul>\n<p><em>No further material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 768,
+      "completion_tokens": 82,
+      "total_tokens": 850,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:25:49.442716"
+  },
+  {
+    "ticker": "GLN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976090",
+    "id": "02976090",
+    "pages": 1,
+    "price_sensitive": true,
+    "date": "20250801",
+    "time": "1718",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxzjjsv58f6.pdf",
+    "summary": "<h3>Capital Raising Announcement:</h3>\n<ul>\n<li><strong>Structure:</strong> At-the-Market (ATM) placement via set-off of 15M shares.  </li>\n<li><strong>Total Raised:</strong> AUD $2.0M (inclusive of costs).  </li>\n<li><strong>Deemed Issue Price:</strong> AUD $0.133/share (1.5% discount to last close of $0.135).  </li>\n<li><strong>Use of Proceeds:</strong> Development of Hombre Muerto West lithium project and working capital.  </li>\n<li><strong>ATM Status:</strong> Facility now exhausted (zero collateral shares remaining); no further use expected in 2025.  </li>\n</ul>\n<p><em>Omitted: Historical ATM references, contact details, boilerplate.</em></p>",
+    "usage": {
+      "prompt_tokens": 762,
+      "completion_tokens": 137,
+      "total_tokens": 899,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:23.351792"
+  },
+  {
+    "ticker": "MTS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976088",
+    "id": "02976088",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1718",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxv9rhkwvxh.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of securities</strong>: 39,120 performance rights (MTSAK) lapsed due to unmet conditions (former executive incentives).</li>\n<li><strong>Date of cessation</strong>: 29 July 2025.</li>\n<li><strong>Post-cessation issued capital</strong>:  </li>\n<li>Ordinary shares (MTS): 1,098,581,825  </li>\n<li>Remaining unquoted performance rights (MTSAK): 8,736,267.  </li>\n</ul>\n<p>No material impact on capital structure or liquidity identified.</p>",
+    "usage": {
+      "prompt_tokens": 1022,
+      "completion_tokens": 104,
+      "total_tokens": 1126,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:26:55.925026"
+  },
+  {
+    "ticker": "ARB",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976089",
+    "id": "02976089",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1718",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxxgrpdbwcx.pdf",
+    "summary": "<p>No material information identified.  </p>\n<ul>\n<li><strong>Note:</strong> This is merely an administrative notice of an upcoming results presentation, with no financial or operational data disclosed. No impact on trading or capital markets decisions.</li>\n</ul>",
+    "usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 40,
+      "total_tokens": 526,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:19.529112"
+  },
+  {
+    "ticker": "MVB",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976087",
+    "id": "02976087",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1717",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxs59q8hyy9.pdf",
+    "summary": "<ul>\n<li><strong>Dividend Announcement</strong>:  </li>\n<li><strong>Ex-date</strong>: 1 August 2025  </li>\n<li><strong>Record date</strong>: 4 August 2025  </li>\n<li><strong>Payment date (indicative)</strong>: 18 August 2025  </li>\n<li>\n<p><strong>ETF-specific dividends and DRP prices</strong>:  </p>\n<ul>\n<li><strong>1GOV</strong>: $0.1150 dividend, $52.0472 DRP price  </li>\n<li><strong>5GOV</strong>: $0.1150, $53.0915  </li>\n<li><strong>EBND</strong>: $0.0550, $10.6270  </li>\n<li><strong>FLOT</strong>: $0.0950, $24.8912  </li>\n<li><strong>GCAP</strong>: $0.0450, $8.7923  </li>\n<li><strong>LEND</strong>: $0.1550, $18.7258  </li>\n<li><strong>MVB</strong>: $0.5600, $40.4780  </li>\n<li><strong>PLUS</strong>: $0.0600, $17.2382  </li>\n<li><strong>RMBS</strong>: $0.1050, $25.0211  </li>\n<li><strong>SUBD</strong>: $0.1150, $25.0962  </li>\n<li><strong>TBIL</strong>: $0.1750, $51.9491  </li>\n<li><strong>XGOV</strong>: $0.1650, $51.9007  </li>\n</ul>\n</li>\n<li>\n<p><strong>Other details</strong>: DRP price based on NAV as of 31 July 2025. Tax components to be announced by 8 August 2025.  </p>\n</li>\n</ul>\n<p><em>No material capital markets or trading impacts beyond standard dividend distribution.</em></p>",
+    "usage": {
+      "prompt_tokens": 1252,
+      "completion_tokens": 334,
+      "total_tokens": 1586,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:27:07.502323"
+  },
+  {
+    "ticker": "MA1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976086",
+    "id": "02976086",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1714",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxpctnhfw6d.pdf",
+    "summary": "<ul>\n<li><strong>Net Tangible Asset (NTA) Update</strong>: Unaudited NTA per unit of MA Credit Income Trust (ASX: MA1) as of 31 July 2025 was <strong>$2.0000</strong> (ex-distribution).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 455,
+      "completion_tokens": 61,
+      "total_tokens": 516,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:41.546125"
+  },
+  {
+    "ticker": "WMG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976085",
+    "id": "02976085",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1713",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxm43vdvjq6.pdf",
+    "summary": "<ul>\n<li><strong>All 15 EGM resolutions passed</strong>, including:  </li>\n<li>Ratification of prior share/option issues (Tranche 1, Tranche 2 placements, performance rights, broker options)  </li>\n<li>Approval of new director performance rights and incentive plan re-adoption  </li>\n<li><strong>Notable dissent</strong>: Resolution 4 (Sanlam Private Wealth options) and Resolution 14 (Francesco Cannavo performance rights) saw <strong>&gt;15% opposition</strong> from proxies.  </li>\n</ul>\n<p><em>No material capital or trading-impacting details (e.g., issue sizes, pricing) disclosed.</em></p>",
+    "usage": {
+      "prompt_tokens": 2512,
+      "completion_tokens": 118,
+      "total_tokens": 2630,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:23:48.084353"
+  },
+  {
+    "ticker": "RIC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976083",
+    "id": "02976083",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1712",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxgslfhbkwd.pdf",
+    "summary": "<p>Understood. Please upload or provide the text of the ASX announcement PDF, and I will extract <strong>only</strong> the material information relevant for trading or capital markets decisions, formatted as concise bullet points according to your specified guidelines (e.g., structure for capital raising, key dates, cash balance in 4C, etc.).  </p>\n<p>If the document type is unclear or lacks material details, I will promptly respond with: <em>\"No material information identified.\"</em>  </p>\n<p><strong>Example outputs for clarity:</strong><br />\n<strong>Capital Raising:</strong><br />\n- <em>Type:</em> Placement + SPP<br />\n- <em>Amount:</em> AUD 50M (Placement: AUD 40M, SPP: AUD 10M cap)<br />\n- <em>Key Dates:</em> Ex-date: DD/MM, Record: DD/MM, Close: DD/MM.  </p>\n<p><strong>Appendix 4C:</strong><br />\n- <em>Cash (end-Q):</em> AUD 5.2M.<br />\n- <em>Net operating cash outflow:</em> AUD 1.1M.<br />\n- <em>Milestone:</em> First revenue AUD 0.5M.  </p>\n<p><strong>Other Announcement:</strong><br />\n- <em>Material:</em> Major contract win (AUD 100M over 3y).<br />\n- <em>Liquidity impact:</em> Debt facility extended to AUD 30M.  </p>\n<p>Awaiting your document.</p>",
+    "usage": {
+      "prompt_tokens": 245,
+      "completion_tokens": 267,
+      "total_tokens": 512,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:23:56.873048"
+  },
+  {
+    "ticker": "CAM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976084",
+    "id": "02976084",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1712",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxjwyw5jny5.pdf",
+    "summary": "<p><strong>Capital Raising Announcement:</strong>  </p>\n<ul>\n<li><strong>Structure:</strong> Non-pro rata offer under a PDS (convertible bonds)  </li>\n<li><strong>Security:</strong> CAMG (CONVERT BOND 5.25% 30-11-25 QLY RED)  </li>\n<li><strong>Total proposed issue:</strong> 14,000,000 bonds at AUD 1.00 each  </li>\n<li><strong>Key dates:</strong>  </li>\n<li>Offer open: 4/8/2025  </li>\n<li>Closing date: 25/8/2025  </li>\n<li>Issue date: 1/9/2025  </li>\n<li><strong>Use of proceeds:</strong>  </li>\n<li>Redeem existing notes + interest  </li>\n<li>New investments per current strategy  </li>\n<li>Offer costs  </li>\n<li><strong>Noteholder-approved changes:</strong> Interest rate increased to 6.50% p.a., maturity extended to 30/11/2028 (applies to new bonds).  </li>\n<li><strong>Lead manager:</strong> Ord Minnett (fee: 2% of proceeds + AUD 250k fixed).  </li>\n</ul>\n<p><em>Omitted: Boilerplate, director details, non-material conditions.</em></p>",
+    "usage": {
+      "prompt_tokens": 2323,
+      "completion_tokens": 224,
+      "total_tokens": 2547,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:26:31.931018"
+  },
+  {
+    "ticker": "MA1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976082",
+    "id": "02976082",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1710",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfxd9v80btvj.pdf",
+    "summary": "<p><strong>NTA Update:</strong><br />\n- Unaudited NTA per unit of MA Credit Income Trust (ASX: MA1) as of 31 July 2025: <strong>$2.0000</strong>.  </p>\n<p><strong>No material trading or capital markets impacts identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 440,
+      "completion_tokens": 54,
+      "total_tokens": 494,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:02.238544"
+  },
+  {
+    "ticker": "VAU",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976081",
+    "id": "02976081",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1708",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfx9x8dsyc80.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Company:</strong> Vault Minerals Ltd (VAU)<br />\n<strong>Announcement Type:</strong> Notice of Change in Substantial Holding  </p>\n<h4><strong>Key Changes in Substantial Holding (Regal Funds Management &amp; Associates)</strong></h4>\n<ul>\n<li><strong>Total Shares Issued:</strong> 6,802,473,382  </li>\n<li><strong>Previous Voting Power:</strong> 5.94% (404,235,156 shares)  </li>\n<li><strong>Current Voting Power:</strong> 7.01% (476,694,881 shares)  </li>\n<li><strong>Net Change:</strong> +72,459,725 shares acquired (1.07% increase)  </li>\n</ul>\n<h4><strong>Recent Transactions (1\u201330 July 2025)</strong></h4>\n<ul>\n<li><strong>Multiple sales and purchases executed</strong>, with net acquisition of ~72.5m shares.  </li>\n<li><strong>Largest single transaction (30/07/2025):</strong>  </li>\n<li><strong>Buy:</strong> 16,000,000 shares (AUD 6,000,000 consideration).  </li>\n</ul>\n<h4><strong>Relevant Interests</strong></h4>\n<ul>\n<li><strong>Total post-change holdings:</strong> 476,694,881 ordinary shares (7.01% voting power).  </li>\n</ul>\n<p><strong>Actionable Takeaway:</strong> Significant increase in substantial holding by Regal Funds Management, suggesting institutional accumulation. Monitor for further buying activity.  </p>\n<hr />\n<p><em>Note: All other details (associates, transaction dates, exact considerations) deemed non-material for trading decisions.</em></p>",
+    "usage": {
+      "prompt_tokens": 2974,
+      "completion_tokens": 287,
+      "total_tokens": 3261,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:27:42.531094"
+  },
+  {
+    "ticker": "QEM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976080",
+    "id": "02976080",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1707",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfx7nkrf13dx.pdf",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>QEMAG (Performance Rights)</strong>: 250,000 lapsed (conditions unmet) on 01/08/2025.  </li>\n<li><strong>QEMAE (Options)</strong>: 2,000,000 lapsed (conditions unmet) on 01/08/2025 (exercise price: $0.345).  </li>\n<li><strong>QEMAH (Options)</strong>: 250,000 lapsed (conditions unmet) on 01/08/2025 (exercise price: $0.20).  </li>\n<li><strong>QEMAJ (Options)</strong>: 1,000,000 lapsed (conditions unmet) on 01/08/2025 (exercise price: $0.14).  </li>\n<li>\n<p><strong>QEMAK (Options)</strong>: 1,500,000 lapsed (conditions unmet) on 01/08/2025 (exercise price: $0.14).  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Quoted</strong>:  <ul>\n<li>Ordinary shares (QEM): 236,400,353  </li>\n<li>Options (QEMO): 20,769,014 (expiring 30-Sep-2026).  </li>\n</ul>\n</li>\n<li><strong>Unquoted</strong>:  <ul>\n<li>Remaining QEMAG: 3,400,000; QEMAE: 2,200,000; QEMAH: 250,000.  </li>\n<li>QEMAJ &amp; QEMAK options now zero.  </li>\n</ul>\n</li>\n</ul>\n<p><em>Note</em>: No consideration paid for cessations; no other material impacts disclosed.</p>",
+    "usage": {
+      "prompt_tokens": 1895,
+      "completion_tokens": 333,
+      "total_tokens": 2228,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:52.827066"
+  },
+  {
+    "ticker": "REG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976079",
+    "id": "02976079",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfx53ntzlzr9.pdf",
+    "summary": "<p><strong>Document Type:</strong> Substantial Shareholder Notice (Form 606)  </p>\n<p><strong>Key Points:</strong><br />\n- <strong>Jarden Australia Pty Ltd</strong> ceased to be a substantial shareholder in <strong>Regis Healthcare Ltd (REG:AX)</strong> after settling a balance of shares.<br />\n- <strong>Shares divested:</strong> 18,048,003 ordinary shares (100% of holding).<br />\n- <strong>Date of change:</strong> 30 July 2025.  </p>\n<p><strong>No other material trading or capital markets information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 1254,
+      "completion_tokens": 100,
+      "total_tokens": 1354,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:08.080766"
+  },
+  {
+    "ticker": "QEM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976078",
+    "id": "02976078",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfx30v09d9cn.pdf",
+    "summary": "<ul>\n<li><strong>Type of Announcement</strong>: Appendix 3G - Notification of issue of unquoted securities (Options)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li><strong>Security Type</strong>: 21,659,493 unquoted options issued (new class, not quoted on ASX).  </li>\n<li><strong>Exercise Price</strong>: AUD 0.065 per option, expiring 31 July 2028.  </li>\n<li><strong>Purpose</strong>: Part of a placement transaction (free-attaching options to Placement Shares and Lead Manager fee component).  </li>\n<li><strong>Further Issuance Pending</strong>: Up to 2,683,323 additional Placement Options and 208,189 Lead Manager Fee Options to be issued upon final settlement.  </li>\n<li><strong>Existing Capital Structure</strong>:  <ul>\n<li>Ordinary shares on issue: 236,400,353 (quoted).  </li>\n<li>Total unquoted options/rights: ~32,509,493 (including new issuance).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material trading or valuation impacts identified beyond dilution from potential future conversions.</em></p>",
+    "usage": {
+      "prompt_tokens": 1889,
+      "completion_tokens": 210,
+      "total_tokens": 2099,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:26:45.128791"
+  },
+  {
+    "ticker": "DRO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976077",
+    "id": "02976077",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1705",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfx0y0jb3trn.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: SSGA Funds Management, Inc. and related entities ceased to be substantial holders in DroneShield Limited on <strong>30/07/2025</strong>.  </li>\n<li><strong>Relevant Interest Changes</strong>:  </li>\n<li><strong>State Street Bank and Trust Company</strong> reduced its holding by <strong>12,491,371 ordinary shares</strong> via securities lending on 30/07/2025 (no consideration disclosed).  </li>\n<li>Net change: <strong>-12,491,371 ordinary shares</strong> across entities.  </li>\n<li><strong>Securities Lending Terms</strong>:  </li>\n<li>No scheduled return date; early recall/return possible under collateral agreements.  </li>\n<li>Voting rights restricted if borrower defaults (lender retains control).  </li>\n</ul>\n<p><em>No material capital markets or trading impact identified; routine disclosure of institutional ownership change.</em></p>",
+    "usage": {
+      "prompt_tokens": 2731,
+      "completion_tokens": 165,
+      "total_tokens": 2896,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:27:25.710367"
+  },
+  {
+    "ticker": "CHN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976075",
+    "id": "02976075",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1702",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfww9tbrm7sj.pdf",
+    "summary": "<ul>\n<li><strong>Notice of Ceasing to be a Substantial Holder</strong>:  </li>\n<li><strong>Holder</strong>: State Street Corporation and subsidiaries (including State Street Bank and Trust Company, SSGA Funds Management, Inc., etc.).  </li>\n<li><strong>Date Ceased</strong>: 30 July 2025 (previously held voting interest in Chalice Mining Limited, ACN 116 648 956).  </li>\n<li>\n<p><strong>Reason</strong>: Reduction in relevant interests via collateralized securities lending transactions (details in Annexure A).  </p>\n</li>\n<li>\n<p><strong>Key Changes in Voting Interests</strong>:  </p>\n</li>\n<li>\n<p>Multiple reductions in ordinary shares on 30 July 2025 (totaling <strong>~3.7 million shares</strong>), primarily due to collateral returns under securities lending agreements.  </p>\n</li>\n<li>\n<p><strong>Agreement Details</strong>:  </p>\n</li>\n<li>Governed by <strong>Global Master Securities Lending Agreement</strong>.  </li>\n<li>No fixed return date; early recall/return permitted subject to notice.  </li>\n<li>Voting rights restricted if borrower defaults (lender retains enforcement rights).  </li>\n</ul>\n<p><strong>Conclusion</strong>: No immediate trading impact inferred; reflects routine securities lending adjustments by institutional holder.</p>",
+    "usage": {
+      "prompt_tokens": 3263,
+      "completion_tokens": 220,
+      "total_tokens": 3483,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:36.293086"
+  },
+  {
+    "ticker": "KSN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976076",
+    "id": "02976076",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1702",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfwydmyzv0wc.pdf",
+    "summary": "<ul>\n<li><strong>Security Issuance Type</strong>: Conversion of options into ordinary shares (existing class).  </li>\n<li><strong>Total New Shares Issued</strong>: 6,693,210 ordinary fully paid shares (KSN).  </li>\n<li><strong>Breakdown</strong>:  <ul>\n<li>6,311,285 shares from KSNAAB options (exercise price: AUD 0.14).  </li>\n<li>381,925 shares from KSNAAK options (nil exercise price, issued to KMP associate at estimated AUD 0.13 valuation).  </li>\n</ul>\n</li>\n<li><strong>Issue Date</strong>: 01/08/2025.  </li>\n<li><strong>Post-Issuance Capital</strong>: 840,040,383 ordinary shares on issue.  </li>\n<li><strong>Outstanding Unquoted Securities</strong>: Includes warrants and options (detailed in Part 4.2).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Dilution from option conversions; KMP participation noted for KSNAAK tranche.</p>",
+    "usage": {
+      "prompt_tokens": 2238,
+      "completion_tokens": 186,
+      "total_tokens": 2424,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:26:21.737108"
+  },
+  {
+    "ticker": "WEL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976074",
+    "id": "02976074",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1701",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfwt0gylkyzh.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: Director interest disclosures are routine and typically non-material for trading/capital markets decisions unless they involve substantial changes in holdings or conflicted transactions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 757,
+      "completion_tokens": 38,
+      "total_tokens": 795,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T07:24:58.706350"
+  },
+  {
     "ticker": "QAN",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976065",
     "id": "02976065",
