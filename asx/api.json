@@ -1,5 +1,138 @@
 [
   {
+    "ticker": "PRO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975996",
+    "id": "02975996",
+    "pages": 7,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1541",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfq2s8lw53cn.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Application for quotation of new securities (employee incentive scheme)  </li>\n<li><strong>Securities Issued:</strong> 4,000 fully paid ordinary shares (ASX: PRO)  </li>\n<li><strong>Issue Date:</strong> 01/08/2025  </li>\n<li><strong>Consideration:</strong> Non-cash (share-based payment for services/incentive), estimated value <strong>$0.40 per share</strong>  </li>\n<li><strong>Total Issued Capital Post-Issue:</strong> 73,752,934 ordinary shares  </li>\n<li><strong>Ranking:</strong> Ranks equally with existing shares  </li>\n<li><strong>Relevance:</strong> Minor dilution impact (~0.005% of issued capital); no material trading or capital structure implications.  </li>\n</ul>\n<p>No further material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 1502,
+      "completion_tokens": 148,
+      "total_tokens": 1650,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:57:10.570047"
+  },
+  {
+    "ticker": "GCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975995",
+    "id": "02975995",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1537",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpzxn1lshbh.pdf",
+    "summary": "<ul>\n<li><strong>Monthly NTA Update</strong>: Gryphon Capital Income Trust (ASX: GCI) reported an unaudited Net Tangible Asset (NTA) per unit of <strong>$2.0095</strong> as at <strong>31 July 2025</strong>.  </li>\n</ul>\n<p><strong>No material trading or capital markets decisions identified</strong> (routine NTA disclosure).</p>",
+    "usage": {
+      "prompt_tokens": 460,
+      "completion_tokens": 69,
+      "total_tokens": 529,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:52:25.246401"
+  },
+  {
+    "ticker": "IMA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975994",
+    "id": "02975994",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250801",
+    "time": "1536",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpxlsdz5n44.pdf",
+    "summary": "<h3>Summary of ASX Announcement \u2013 Image Resources NL (ASX:IMA)</h3>\n<ul>\n<li><strong>Expanding Project Pipeline</strong>: Diversifying development options to include:  </li>\n<li><strong>Atlas extensions</strong> (Atlas North, Hyperion, Helene deposits) \u2013 potential to use existing processing plant.  </li>\n<li><strong>Eneabba Tenement projects</strong> (Durack, Drummond Crossing, Ellengail, West Mine North, Thomson).  </li>\n<li><strong>Mitigating Risks</strong>: Strategy aims to reduce dependence on single-project approvals (mining permits, land access).  </li>\n<li><strong>Yandanooka Uncertainty</strong>: Delays in landowner access agreement underscore need for diversified pipeline.  </li>\n<li><strong>Next Phase</strong>: Focus on growth via multiple mines, products (HMC separation), and global markets.  </li>\n</ul>\n<p><strong>No capital raising, financials, or specific timetable disclosed.</strong></p>",
+    "usage": {
+      "prompt_tokens": 1593,
+      "completion_tokens": 176,
+      "total_tokens": 1769,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:52:30.271829"
+  },
+  {
+    "ticker": "SND",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975993",
+    "id": "02975993",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1528",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpsvk9kvhp6.pdf",
+    "summary": "<p>Understood. Here\u2019s how I\u2019ll structure the response for any ASX announcement you provide:  </p>\n<h3><strong>Trading Halt Request</strong></h3>\n<ul>\n<li><strong>Reason</strong>: [One-line summary of halt reason, e.g., \"Pending capital raising announcement\"]  </li>\n</ul>\n<h3><strong>Capital Raising Announcement</strong></h3>\n<ul>\n<li><strong>Type</strong>: [Placement/SPP/Entitlement Offer]  </li>\n<li><strong>Amount</strong>: [AUD XX million]  </li>\n<li><strong>Key Dates</strong>: Ex-date [DD/MM], Record date [DD/MM], Close date [DD/MM]  </li>\n</ul>\n<h3><strong>Quarterly Report (Appendix 4C)</strong></h3>\n<ul>\n<li><strong>Cash Balance</strong>: AUD XX million  </li>\n<li><strong>Key Highlights</strong>: [1-3 bullet points on material operational/financial updates]  </li>\n</ul>\n<h3><strong>Other Announcements</strong></h3>\n<ul>\n<li>[Point 1: Material impact on valuation, liquidity, or capital structure]  </li>\n<li>[Point 2: If applicable]  </li>\n</ul>\n<p><strong>If unclear/no material info</strong>:<br />\n- \"No material information identified.\"  </p>\n<p><strong>Example Outputs</strong>:<br />\n1. <strong>Trading Halt Request</strong>:<br />\n   - Pending release of capital raising details.  </p>\n<ol>\n<li><strong>Capital Raising Announcement</strong>:  </li>\n<li>Type: Placement + SPP  </li>\n<li>Amount: AUD 50M (Placement) + AUD 10M (SPP)  </li>\n<li>\n<p>Key Dates: Ex-date 15/04, Record 16/04, Close 30/04.  </p>\n</li>\n<li>\n<p><strong>Quarterly (4C)</strong>:  </p>\n</li>\n<li>Cash: AUD 12.3M  </li>\n<li>\n<p>Highlights: Production up 15% QoQ; revenue AUD 8M.  </p>\n</li>\n<li>\n<p><strong>Other</strong>:  </p>\n</li>\n<li>Major asset sale agreed for AUD 100M.  </li>\n<li>\n<p>Debt reduced by 30% post-transaction.  </p>\n</li>\n<li>\n<p><strong>No material information identified</strong>.  </p>\n</li>\n</ol>\n<p><strong>Now, provide the ASX announcement PDF/text, and I\u2019ll extract the material details accordingly.</strong></p>",
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 405,
+      "total_tokens": 630,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:56:44.869081"
+  },
+  {
+    "ticker": "AEV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975992",
+    "id": "02975992",
+    "pages": 29,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1527",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpqkw8gqvxh.pdf",
+    "summary": "<p><strong>No material information identified</strong> (Repeated boilerplate text with no substantive content).  </p>\n<p><em>[Note: The provided content only contains repetitive \"For personal use only\" disclaimers without any material announcements. If you share the actual ASX announcement PDF/text, I can extract relevant trading or capital markets information per your specified format.]</em></p>",
+    "usage": {
+      "prompt_tokens": 360,
+      "completion_tokens": 69,
+      "total_tokens": 429,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:54:53.963129"
+  },
+  {
+    "ticker": "A1M",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975990",
+    "id": "02975990",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1526",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpl7schpffy.pdf",
+    "summary": "<h3><strong>Summary of Appendix 3Y \u2013 Change of Director\u2019s Interest Notice</strong></h3>\n<ul>\n<li><strong>Director</strong>: Jonathan Young  </li>\n<li><strong>Date of Change</strong>: 1 August 2025  </li>\n<li><strong>Nature of Change</strong>: Participation in Share Purchase Plan (SPP)  </li>\n<li><strong>Securities Acquired</strong>: 200,000 fully paid ordinary shares  </li>\n<li><strong>Total Holdings Post-Change</strong>:  </li>\n<li><strong>Jon Young Family Fund A/C</strong>: 707,143 shares  </li>\n<li><strong>Ragged Super Account</strong>: 511,912 shares  </li>\n<li><strong>Total</strong>: 1,219,055 fully paid ordinary shares  </li>\n<li><strong>Consideration</strong>: $60,000 (indicating ~$0.30/share)  </li>\n<li><strong>Closed Period</strong>: No trading violation  </li>\n</ul>\n<p><strong>No material capital markets or trading impact identified.</strong>  </p>\n<p><em>(Note: Standard director interest disclosure; no structural or liquidity implications.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1115,
+      "completion_tokens": 181,
+      "total_tokens": 1296,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:54:36.837896"
+  },
+  {
+    "ticker": "SEQ",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975991",
+    "id": "02975991",
+    "pages": 3,
+    "price_sensitive": true,
+    "date": "20250801",
+    "time": "1526",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpnds23v6hf.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Sequoia Financial Group Ltd - ASX: SEQ):</strong>  </p>\n<ul>\n<li><strong>Establishment of AFSL Governance Committee</strong> to enhance regulatory oversight and governance across three AFSLs.  </li>\n<li><strong>Appointment of Danielle Press (ex-ASIC Commissioner) as Independent Chair</strong>, adding regulatory expertise and independent oversight.  </li>\n<li><strong>Matthew Wilson engaged as independent consultant</strong> (Investment Governance), reinforcing APL oversight and compliance alignment.  </li>\n</ul>\n<p><em>No material impact on capital structure, liquidity, or immediate trading decisions identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1793,
+      "completion_tokens": 111,
+      "total_tokens": 1904,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:57:14.849121"
+  },
+  {
     "ticker": "WBC",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975989",
     "id": "02975989",
@@ -8,15 +141,15 @@
     "date": "20250801",
     "time": "1519",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfpgvx4zdz1k.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of securities</strong>: 1,689,904 WBC ordinary shares cancelled under an on-market buy-back (cessation date: 31/07/2025).  </li>\n<li><strong>Remaining issued ordinary shares</strong>: 3,420,353,305 WBC ordinary shares.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>: 1,689,904 WBC ordinary shares cancelled via on-market buy-back as of 31/07/2025.  </li>\n<li><strong>Post-Cessation Issued Capital</strong>: 3,420,353,305 WBC ordinary shares remain outstanding.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1564,
-      "completion_tokens": 68,
-      "total_tokens": 1632,
+      "completion_tokens": 69,
+      "total_tokens": 1633,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:22:24.334937"
+    "processed_at": "2025-08-01T05:52:20.771006"
   },
   {
     "ticker": "LMA",
@@ -27,15 +160,15 @@
     "date": "20250801",
     "time": "1506",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfp810wfpwgp.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Action:</strong> Removal of 11 Franklin Templeton-managed funds from ASX mFund Settlement Service.  </li>\n<li><strong>Effective Date:</strong> 19 September 2025 (trading cutoff: 12 noon).  </li>\n<li><strong>Key Impact:</strong>  </li>\n<li>Units will transition to issuer-sponsored register automatically if no action taken.  </li>\n<li><strong>Blackout period:</strong> 20\u201326 September 2025 (no transactions possible).  </li>\n<li><strong>Investor Options:</strong> Sell via mFund by cutoff, convert to issuer-sponsored, or allow automatic transfer (requires ID form).  </li>\n<li><strong>Reason:</strong> ASX\u2019s planned mFund service wind-down by 31 May 2026.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond service closure.</em></p>",
+    "summary": "<ul>\n<li><strong>Key Event</strong>: Several Franklin Templeton-managed funds (listed) will be removed from ASX\u2019s mFund Settlement Service on <strong>19 September 2025</strong> due to ASX\u2019s broader mFund shutdown (completed by 31 May 2026).  </li>\n<li><strong>Deadline for Trading</strong>: Last day to buy/sell units via mFund is <strong>12 noon on 19 September 2025</strong>.  </li>\n<li><strong>Blackout Period</strong>: <strong>20\u201326 September 2025</strong> \u2013 No transactions possible during this transition to issuer-sponsored register.  </li>\n<li><strong>Investor Action Required</strong>:  </li>\n<li>Sell via broker by deadline, <strong>or</strong>  </li>\n<li>Transfer to issuer-sponsored register (requires form submission), <strong>or</strong>  </li>\n<li>Holdings automatically move to issuer-sponsored register (but AML compliance forms still required).  </li>\n</ul>\n<p>No material financial or operational impacts beyond liquidity constraints during blackout.</p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 160,
-      "total_tokens": 1783,
+      "completion_tokens": 182,
+      "total_tokens": 1805,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:23:48.657355"
+    "processed_at": "2025-08-01T05:53:25.554640"
   },
   {
     "ticker": "CR3",
@@ -46,15 +179,15 @@
     "date": "20250801",
     "time": "1505",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfp3mb1jrg50.pdf",
-    "summary": "<p><strong>Cleansing Notice (Capital Raising):</strong><br />\n- Securities issued without disclosure under Part 6D.2 of Corporations Act (exempt per Section 708A(5)).<br />\n- Company confirms compliance with continuous disclosure and financial reporting obligations.<br />\n- No material \"excluded information\" as of notice date.  </p>\n<p><em>(No further actionable trading/capital markets details provided.)</em></p>",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Cleansing Notice  </li>\n<li><strong>Key Points</strong>:  </li>\n<li>Securities issued under Section 708A(5) of Corporations Act 2001 (without Part 6D.2 disclosure).  </li>\n<li>Company confirms compliance with disclosure obligations (Chapter 2M, Sections 674/674A).  </li>\n<li>No \"excluded information\" (per Sections 708A(7)-(8)).  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine compliance disclosure).</p>",
     "usage": {
       "prompt_tokens": 535,
-      "completion_tokens": 78,
-      "total_tokens": 613,
+      "completion_tokens": 105,
+      "total_tokens": 640,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:37.044399"
+    "processed_at": "2025-08-01T05:54:49.301685"
   },
   {
     "ticker": "1MC",
@@ -65,15 +198,15 @@
     "date": "20250801",
     "time": "1505",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfp1hylbngch.pdf",
-    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Key Issue</strong>: Wildcat Resources\u2019 PFS references infrastructure corridors and license applications overlapping Morella-Sayona Joint Venture tenements (e.g., E45/5288), without acknowledging these are ungranted and Wildcat holds no rights.  </li>\n<li><strong>Action Taken</strong>: Morella seeks clarification from Wildcat, reserves legal rights, and will update the market on material developments.  </li>\n</ul>\n<p><strong>No trading or capital markets impacts identified; primarily a tenure dispute clarification.</strong></p>",
+    "summary": "<ul>\n<li><strong>Key Issue</strong>: Wildcat Resources\u2019 PFS references infrastructure corridors and Miscellaneous Licence applications overlapping Morella-Sayona Joint Venture tenements (e.g., E45/5288), without acknowledging ungranted status or Morella's rights.  </li>\n<li><strong>Action</strong>: Morella is seeking clarification from Wildcat, reserves legal rights, and will update the market on material developments.  </li>\n</ul>\n<p><em>No capital markets or trading-specific impacts identified (dispute-related uncertainty noted).</em></p>",
     "usage": {
       "prompt_tokens": 710,
-      "completion_tokens": 104,
-      "total_tokens": 814,
+      "completion_tokens": 96,
+      "total_tokens": 806,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:23:14.084936"
+    "processed_at": "2025-08-01T05:52:34.844698"
   },
   {
     "ticker": "LMA",
@@ -84,15 +217,15 @@
     "date": "20250801",
     "time": "1505",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfp5tdcxvs9t.pdf",
-    "summary": "<h3>Summary (Fund Removal from mFund Service):</h3>\n<ul>\n<li><strong>Action</strong>: Multiple Franklin Templeton funds will be removed from ASX's mFund Settlement Service.  </li>\n<li><strong>Effective Date</strong>: 19 September 2025 (last trading via mFund at 12 noon).  </li>\n<li><strong>Blackout Period</strong>: 20\u201326 September 2025 (transactions suspended during transition to issuer-sponsored register).  </li>\n<li><strong>Impact</strong>: Post-transition, units will no longer trade via CHESS;\u6295\u8d44\u8005\u5fc5\u987b\u63d0\u4ea4\u5ba2\u6237\u8bc6\u522b\u8868\u4ee5\u907f\u514d\u8d26\u6237\u9650\u5236.  </li>\n<li><strong>ASX Context</strong>: Part of broader mFund service wind-down (scheduled completion by 31 May 2026).  </li>\n</ul>\n<p><strong>No capital markets or trading materiality beyond fund accessibility changes</strong>.</p>",
+    "summary": "<ul>\n<li><strong>Fund Removal from mFund Service</strong>: The listed Franklin Templeton and affiliate funds will be removed from ASX's mFund Settlement Service effective <strong>19 September 2025</strong>, ahead of ASX's full mFund closure by 31 May 2026.  </li>\n<li><strong>Trading Deadline</strong>: Last day to buy/sell units via mFund is <strong>12 noon on 19 September 2025</strong>.  </li>\n<li><strong>Blackout Period</strong>: No transactions possible from <strong>20\u201326 September 2025</strong> due to CHESS-to-issuer-sponsored register transition.  </li>\n<li><strong>Post-Transition</strong>: From <strong>27 September 2025</strong>, holdings will move to FTAL\u2019s issuer-sponsored register (requires completed Client ID Form to avoid restrictions).  </li>\n<li><strong>Action Required</strong>: Unitholders must submit identification documents to maintain access to distributions/redemptions.  </li>\n</ul>\n<p><em>No material financial or capital structure impacts identified.</em></p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 151,
-      "total_tokens": 1774,
+      "completion_tokens": 186,
+      "total_tokens": 1809,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:25:31.570546"
+    "processed_at": "2025-08-01T05:58:03.459686"
   },
   {
     "ticker": "CR3",
@@ -103,15 +236,15 @@
     "date": "20250801",
     "time": "1503",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnz1rfkk2l1.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 2,862,350 new <strong>CR3O options</strong> (expiring 31-Mar-2027) issued as free-attaching options to Tranche 1 Convertible Notes (10 options per $1.00 of Notes).  </li>\n<li><strong>Issue Date</strong>: 01-Aug-2025.  </li>\n<li><strong>Estimated Value</strong>: AUD $0.003 per option.  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li><strong>Quoted</strong>: 258,000,245 CR3O options, 13,937,500 CR3OD options, 400,110,309 CR3 ordinary shares.  </li>\n<li><strong>Unquoted</strong>: Includes 287,638 convertible notes and 17.34M CR3AJ options.  </li>\n<li><strong>Previous Disclosure</strong>: Part of a transaction announced on 05-Jun-2025 (Appendix 3B).  </li>\n</ul>\n<p><em>No additional material trading or capital structure impacts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Type</strong>: Options (CR3O) expiring 31-Mar-2027  </li>\n<li><strong>Total Quoted</strong>: 2,862,350 new options (part of a previously announced issuance)  </li>\n<li><strong>Issue Date</strong>: 01-Aug-2025  </li>\n<li><strong>Consideration</strong>: Free attaching options (10:1 ratio to Tranche 1 Convertible Notes)  </li>\n<li><strong>Estimated Value</strong>: AUD 0.003 per option  </li>\n<li><strong>Post-Issuance Capital Structure</strong>:  </li>\n<li>CR3O options: 258,000,245  </li>\n<li>CR3OD options: 13,937,500  </li>\n<li>CR3 ordinary shares: 400,110,309  </li>\n<li>Unquoted convertible notes/rights: See Part 4.2  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond required disclosure of new options issuance.</em></p>",
     "usage": {
       "prompt_tokens": 1475,
-      "completion_tokens": 194,
-      "total_tokens": 1669,
+      "completion_tokens": 179,
+      "total_tokens": 1654,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:25:12.965200"
+    "processed_at": "2025-08-01T05:57:35.689801"
   },
   {
     "ticker": "BEZ",
@@ -122,15 +255,15 @@
     "date": "20250801",
     "time": "1502",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnrq2dpsm0y.pdf",
-    "summary": "<ul>\n<li><strong>CDIs on issue (BEZ)</strong>: 415,498,205 as of July 2025 (net increase of 1,240 from previous month).  </li>\n<li><strong>Unquoted common shares (BEZAH)</strong>: 2,602,701 (net decrease of 1,240 due to conversion to CDIs).  </li>\n<li><strong>Outstanding options</strong>: No changes in quantities across all series (BEZAD, BEZAC, BEZAE, BEZAS, BEZAR, BEZAQ, BEZAP).  </li>\n</ul>\n<p><strong>No material information identified</strong> (routine CDI/share tracking update).</p>",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 4A - Statement of CDIs on issue)</strong>  </p>\n<ul>\n<li><strong>CDI Balance</strong>: Total <strong>415,498,205 BEZ CDIs</strong> issued as of July 2025 (net increase of <strong>1,240</strong> from prior month due to transfer from unquoted common shares).  </li>\n<li><strong>Common Shares (BEZAH)</strong>: Decreased by <strong>1,240</strong> to <strong>2,602,701</strong>.  </li>\n<li><strong>Outstanding Options</strong>: No changes for all listed options (BEZAD, BEZAC, BEZAE, BEZAS, BEZAR, BEZAQ, BEZAP); balances remain unchanged from prior month.  </li>\n</ul>\n<p><strong>No material information impacting valuation, liquidity, or capital structure identified.</strong></p>",
     "usage": {
       "prompt_tokens": 1349,
-      "completion_tokens": 129,
-      "total_tokens": 1478,
+      "completion_tokens": 160,
+      "total_tokens": 1509,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:25.136665"
+    "processed_at": "2025-08-01T05:53:42.210463"
   },
   {
     "ticker": "CR3",
@@ -141,34 +274,15 @@
     "date": "20250801",
     "time": "1502",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnwvpbzfmnj.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>:  </li>\n<li><strong>ASX Code</strong>: CR3O (Options expiring 31-Mar-2027)  </li>\n<li><strong>Total Issued</strong>: 61,436,650 (split into two tranches: 15,137,650 free-attaching options from Convertible Notes + 46,299,000 broker options).  </li>\n<li>\n<p><strong>Issue Date</strong>: 01-Aug-2025.  </p>\n</li>\n<li>\n<p><strong>Future Issuance Potential</strong>:  </p>\n</li>\n<li>\n<p>Up to 200,000 additional Convertible Notes ($1.00 face value each) with 10 free-attaching options per Note (2,000,000 total options possible).  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Quoted Securities</strong>:  <ul>\n<li>CR3O: 316,574,545 options.  </li>\n<li>CR3OD: 13,937,500 options (expiring 30-Jun-2027).  </li>\n<li>Ordinary Shares (CR3): 400,110,309.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Unquoted Securities</strong>:  </p>\n<ul>\n<li>Convertible Notes (CR3AI): 287,638.  </li>\n<li>Other options/rights total ~47M+ securities.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Consideration</strong>: Non-cash (options issued as part of Convertible Note Facility and broker arrangements). Estimated value: $0.003 per option.  </p>\n</li>\n</ul>\n<p><em>No other material trading or capital markets impacts identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>:  </li>\n<li><strong>61,436,650 options (CR3O)</strong> to be quoted, expiring 31-Mar-2027.  </li>\n<li>Breakdown:  <ul>\n<li><strong>15,137,650 options</strong>: Free-attaching to Tranche 2 Convertible Notes (10 options per $1 Note).  </li>\n<li><strong>46,299,000 options</strong>: Broker options under Convertible Note Facility (per Resolution 4 in 20-Jun-2025 Notice of Meeting).  </li>\n</ul>\n</li>\n<li>\n<p>Estimated value: <strong>$0.003 per option</strong>.  </p>\n</li>\n<li>\n<p><strong>Future Issuance</strong>:  </p>\n</li>\n<li>\n<p>Up to <strong>200,000 additional Convertible Notes</strong> (face value $1.00 each) with <strong>2,000,000 free-attaching options</strong> (CR3O) may be issued under Tranche 2.  </p>\n</li>\n<li>\n<p><strong>Post-Issuance Capital Structure</strong>:  </p>\n</li>\n<li><strong>Quoted</strong>:  <ul>\n<li><strong>CR3O options</strong>: 316,574,545  </li>\n<li><strong>CR3OD options</strong>: 13,937,500  </li>\n<li><strong>Ordinary shares (CR3)</strong>: 400,110,309  </li>\n</ul>\n</li>\n<li><strong>Unquoted</strong>:  <ul>\n<li>Convertible Notes, restricted shares, and performance rights (detailed in Part 4.2).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No other material trading or capital markets impacts identified.</em></p>",
     "usage": {
       "prompt_tokens": 1902,
-      "completion_tokens": 297,
-      "total_tokens": 2199,
+      "completion_tokens": 284,
+      "total_tokens": 2186,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:23:27.683964"
-  },
-  {
-    "ticker": "LMA",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975979",
-    "id": "02975979",
-    "pages": 2,
-    "price_sensitive": false,
-    "date": "20250801",
-    "time": "1502",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnplpyqdyw0.pdf",
-    "summary": "<ul>\n<li><strong>Fund Removal from ASX mFund Service</strong>: 11 Franklin Templeton funds will be delisted from ASX mFund on <strong>19 September 2025</strong>, as part of ASX's broader mFund wind-down (to be completed by 31 May 2026).  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Last trading via mFund: <strong>12 noon, 19 September 2025</strong>.  </li>\n<li>Blackout period: <strong>20\u201326 September 2025</strong> (transitions to issuer-sponsored register).  </li>\n<li><strong>Investor Actions Required</strong>:  </li>\n<li>Sell via broker by deadline, transfer to issuer-sponsored register (requires form submission), or accept automatic transfer (with potential restrictions).  </li>\n<li><strong>Material Impact</strong>: Reduced liquidity for the named funds post-removal; investors must act to avoid transaction disruptions.  </li>\n</ul>\n<p><em>Omitted non-material details: Fund-specific codes, regulatory boilerplate, contact info.</em></p>",
-    "usage": {
-      "prompt_tokens": 1623,
-      "completion_tokens": 188,
-      "total_tokens": 1811,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:20.633433"
+    "processed_at": "2025-08-01T05:52:41.732351"
   },
   {
     "ticker": "CU6",
@@ -179,15 +293,15 @@
     "date": "20250801",
     "time": "1502",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfntsxgsdt5b.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceases Position</strong>: TM Ventures Pty Ltd ceased to be a substantial holder in Clarity Pharmaceuticals Ltd on <strong>01/08/2025</strong>.  </li>\n<li><strong>Recent Share Sales</strong>:  </li>\n<li><strong>06/05/2024</strong>: Sold 400,000 ordinary shares for ~$1.51M.  </li>\n<li><strong>07/05/2024</strong>: Sold 600,000 ordinary shares for ~$2.22M.  </li>\n<li><strong>08/05/2024</strong>: Sold 600,000 ordinary shares for ~$2.21M.  </li>\n<li><strong>17-19/06/2024</strong>: Sold 488,618 ordinary shares (across three trades) for ~$2.54M total.  </li>\n<li><strong>Dilution Event</strong>: On <strong>01/08/2025</strong>, TM Ventures' holding was diluted due to a capital raise by Clarity Pharmaceuticals (no further details provided).  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: TM Ventures Pty Ltd ceased to be a substantial holder in Clarity Pharmaceuticals Ltd on <strong>01/08/2025</strong>.  </li>\n<li><strong>Recent Sales</strong>:  </li>\n<li>Sold <strong>400,000</strong> ordinary shares on <strong>06/05/2024</strong> for <strong>$1.51M</strong> (on-market).  </li>\n<li>Sold <strong>600,000</strong> ordinary shares on <strong>07/05/2024</strong> for <strong>$2.22M</strong> (on-market).  </li>\n<li>Sold <strong>600,000</strong> ordinary shares on <strong>08/05/2024</strong> for <strong>$2.21M</strong> (on-market).  </li>\n<li>Sold <strong>267,312</strong> ordinary shares on <strong>17/06/2024</strong> for <strong>$1.39M</strong> (on-market).  </li>\n<li>Subsequent smaller sales in June 2024.  </li>\n<li><strong>Dilution Event</strong>: TM Ventures' stake was further diluted due to a capital raise by Clarity Pharmaceuticals on <strong>01/08/2025</strong> (no details provided on the raise).  </li>\n</ul>\n<p><strong>Key Implications</strong>: Significant sell-down by TM Ventures (~2.0M shares in May\u2013June 2024) suggests reduced insider confidence or portfolio rebalancing. Dilution indicates potential equity issuance by Clarity (details undisclosed). Monitor for further capital raising announcements.</p>",
     "usage": {
       "prompt_tokens": 1442,
-      "completion_tokens": 200,
-      "total_tokens": 1642,
+      "completion_tokens": 277,
+      "total_tokens": 1719,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:25:27.561054"
+    "processed_at": "2025-08-01T05:57:58.590735"
   },
   {
     "ticker": "LMA",
@@ -198,15 +312,15 @@
     "date": "20250801",
     "time": "1501",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnmd2pthq66.pdf",
-    "summary": "<ul>\n<li><strong>Fund Removal from ASX mFund</strong>: 11 Franklin Templeton funds will be delisted from ASX's mFund Settlement Service effective <strong>19 September 2025</strong>, ahead of ASX's full mFund closure by 31 May 2026.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Last trading via mFund: <strong>12 noon, 19 September 2025</strong>.  </li>\n<li>Blackout period: <strong>20\u201326 September 2025</strong> (transitions to issuer-sponsored register).  </li>\n<li><strong>Investor Actions Required</strong>:  </li>\n<li>Sell via broker by deadline.  </li>\n<li>Transfer to issuer-sponsored register (requires form submission).  </li>\n<li>Inaction results in automatic transfer but may trigger account restrictions if compliance forms are incomplete.  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond fund accessibility changes.</em></p>",
+    "summary": "<p><strong>Summary of Material Information:</strong>  </p>\n<ul>\n<li><strong>Action:</strong> Removal of 11 Franklin Templeton funds from ASX mFund Settlement Service.  </li>\n<li><strong>Effective Date:</strong> 19 September 2025 (last trading via mFund at 12pm).  </li>\n<li><strong>Blackout Period:</strong> 20\u201326 September 2025 (no transactions permitted).  </li>\n<li><strong>Post-Transition:</strong> Holdings will automatically move to issuer-sponsored register from 27 September 2025; incomplete client identification may restrict account activity.  </li>\n<li><strong>Reason:</strong> ASX\u2019s planned wind-down of mFund service (completion by 31 May 2026).  </li>\n</ul>\n<p><strong>No capital markets or trading impact beyond the specified fund removals.</strong></p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 168,
-      "total_tokens": 1791,
+      "completion_tokens": 144,
+      "total_tokens": 1767,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:26:34.290737"
+    "processed_at": "2025-08-01T05:58:23.196352"
   },
   {
     "ticker": "CU6",
@@ -217,15 +331,15 @@
     "date": "20250801",
     "time": "1500",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnh1jycg32f.pdf",
-    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: Cabbit Pty Ltd ITF Robwill Trust ceased to be a substantial holder in Clarity Pharmaceuticals Limited (ASX: CU6) on <strong>1 August 2025</strong> due to dilution from a <strong>placement announced on 28 July 2025</strong>.  </li>\n<li><strong>Change in Holdings</strong>: The trust\u2019s voting interest reduced by <strong>17,911,280 fully paid ordinary shares</strong> (no consideration disclosed).  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Ceasing</strong>: Cabbit Pty Ltd ITF Robwill Trust ceased to be a substantial holder in <strong>Clarity Pharmaceuticals Limited</strong> on <strong>1 August 2025</strong>.  </li>\n<li><strong>Reason for Cessation</strong>: Dilution due to <strong>share issuance under a Placement</strong> announced on <strong>28 July 2025</strong>, reducing its holding by <strong>17,911,280 fully paid ordinary shares</strong>.  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1266,
-      "completion_tokens": 100,
-      "total_tokens": 1366,
+      "completion_tokens": 96,
+      "total_tokens": 1362,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:25:23.116332"
+    "processed_at": "2025-08-01T05:57:38.635210"
   },
   {
     "ticker": "CU6",
@@ -236,15 +350,15 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfnbttfwtly6.pdf",
-    "summary": "<ul>\n<li><strong>Substantial holder (Alan John Taylor and associates) ceased holdings</strong> on 1 August 2025 due to dilution from a <strong>placement announced on 28 July 2025</strong>.  </li>\n<li><strong>Total dilution impact</strong>:  </li>\n<li>Alan Taylor: <strong>2,219,151 shares</strong>  </li>\n<li>Taylor Family Trust: <strong>13,266,660 shares</strong>  </li>\n<li>Sally Taylor: <strong>800,000 shares</strong>.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Alan John Taylor and associates ceased to be substantial holders in Clarity Pharmaceuticals on <strong>1 August 2025</strong>.  </li>\n<li><strong>Reason</strong>: Dilution from a <strong>Placement</strong> announced on <strong>28 July 2025</strong>, reducing holdings by <strong>2,219,151</strong> (Alan Taylor), <strong>13,266,660</strong> (Taylor Family Trust), and <strong>800,000</strong> (Sally Taylor) shares.  </li>\n</ul>\n<p><em>Note: No further material capital markets impact beyond the dilution-driven cessation of substantial holdings.</em></p>",
     "usage": {
       "prompt_tokens": 1433,
-      "completion_tokens": 95,
-      "total_tokens": 1528,
+      "completion_tokens": 111,
+      "total_tokens": 1544,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:25:55.789047"
+    "processed_at": "2025-08-01T05:58:18.568757"
   },
   {
     "ticker": "LMA",
@@ -255,15 +369,15 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfn2gzsw0mll.pdf",
-    "summary": "<p><strong>Summary of ASX Announcement</strong>  </p>\n<ul>\n<li><strong>Funds Removal from mFund Service</strong>: Multiple Franklin Templeton funds (listed in table) will be removed from ASX\u2019s mFund Settlement Service effective <strong>19 September 2025</strong>.  </li>\n<li><strong>Reason</strong>: ASX\u2019s pre-announced wind-down of mFund (closure by <strong>31 May 2026</strong>).  </li>\n<li><strong>Key Deadlines</strong>:  </li>\n<li>Last trading via mFund: <strong>12 noon, 19 September 2025</strong>.  </li>\n<li>Blackout period: <strong>20\u201326 September 2025</strong> (transfers to issuer-sponsored register).  </li>\n<li><strong>Investor Actions Required</strong>: Sell via broker, convert to issuer-sponsored (submit form), or allow automatic transfer (subject to restrictions if compliance docs not provided).  </li>\n</ul>\n<p><strong>Material Impact</strong>: Reduced liquidity for holdings via ASX mFund; post-transition, trading limited to direct registry. No capital or valuation impact disclosed.  </p>\n<p><em>Omitted: Fund-specific codes, legal boilerplate.</em></p>",
+    "summary": "<ul>\n<li><strong>Fund Removal from mFund Service</strong>: Multiple Franklin Templeton funds to be removed from ASX mFund settlement service effective <strong>19 September 2025</strong>, aligning with ASX's broader mFund wind-down by 31 May 2026.  </li>\n<li><strong>Key Dates</strong>:  </li>\n<li>Last trading via mFund: <strong>12 noon, 19 September 2025</strong>.  </li>\n<li>Blackout period: <strong>20\u201326 September 2025</strong> (no transactions permitted).  </li>\n<li>Post-transition: From <strong>27 September 2025</strong>, holdings moved to issuer-sponsored register (no longer CHESS-held).  </li>\n<li><strong>Required Action</strong>: Unitholders must submit a <strong>Client Identification Form</strong> to avoid restrictions (e.g., blocked distributions/redemptions).  </li>\n<li><strong>Options</strong>: Sell via broker by deadline, transfer to issuer-sponsored register, or allow automatic transition (with form submission still required).  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond the operational transition.</em></p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 209,
-      "total_tokens": 1832,
+      "completion_tokens": 200,
+      "total_tokens": 1823,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:48.594229"
+    "processed_at": "2025-08-01T05:56:49.321042"
   },
   {
     "ticker": "LMA",
@@ -274,15 +388,15 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfn4ktt8rrjq.pdf",
-    "summary": "<ul>\n<li><strong>Fund Removal from ASX mFund Service</strong>:  </li>\n<li>11 Franklin Templeton funds to be removed from ASX mFund Settlement Service effective <strong>19 September 2025</strong>.  </li>\n<li>Last trading via mFund: <strong>12 noon, 19 September 2025</strong>.  </li>\n<li>Blackout period: <strong>20\u201326 September 2025</strong> (no transactions during transition to issuer-sponsored register).  </li>\n<li>\n<p>Post-transition (from <strong>27 September 2025</strong>), holdings move off CHESS to FTAL\u2019s issuer-sponsored register.  </p>\n</li>\n<li>\n<p><strong>Investor Action Required</strong>:  </p>\n</li>\n<li>Complete <strong>Client Identification Form</strong> to avoid account restrictions (e.g., on redemptions, distributions).  </li>\n<li>\n<p>Options: Sell via mFund by deadline, convert to issuer-sponsored, or allow automatic transfer (with form submission).  </p>\n</li>\n<li>\n<p><strong>Reason</strong>: ASX announced mFund service closure by <strong>31 May 2026</strong>; early removal ensures orderly transition.  </p>\n</li>\n</ul>\n<p><em>Omitted: Fund-specific identifiers, legal boilerplate, contact details.</em></p>",
+    "summary": "<ul>\n<li><strong>Key Information:</strong>  </li>\n<li>Multiple Franklin Templeton-managed funds to be <strong>removed from ASX mFund service</strong> effective <strong>19 September 2025</strong> (ahead of ASX's full mFund shutdown by 31 May 2026).  </li>\n<li><strong>Trading cutoff</strong>: Last day for mFund transactions via broker is <strong>12 noon, 19 September 2025</strong>.  </li>\n<li><strong>Blackout period</strong>: 20\u201326 September 2025 (no transactions possible during this time).  </li>\n<li>\n<p><strong>Post-transition</strong>: Holdings will move to issuer-sponsored register by <strong>27 September 2025</strong>; clients must submit a <strong>Client Identification Form</strong> to avoid account restrictions.  </p>\n</li>\n<li>\n<p><strong>Investor Actions</strong>:  </p>\n</li>\n<li>Sell via broker before cutoff, transfer to issuer-sponsored register, or allow automatic transition (but must still complete compliance forms).  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond liquidity constraints for affected fund units during blackout/transition.</em></p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 216,
-      "total_tokens": 1839,
+      "completion_tokens": 201,
+      "total_tokens": 1824,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:23:33.646852"
+    "processed_at": "2025-08-01T05:53:20.355819"
   },
   {
     "ticker": "RAD",
@@ -293,15 +407,15 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfn8s1d65xtj.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 5,000,000 unquoted options (RADAN) issued on 01/08/2025 under an employee incentive scheme.  </li>\n<li><strong>No KMP Involvement</strong>: Options not issued to key management personnel or associates.  </li>\n<li><strong>Post-Issuance Capital Structure</strong>: Total unquoted RADAN options now 214,716,866.  </li>\n</ul>\n<p><em>No material impact on trading or capital markets decisions identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Appendix 3G Notification</strong>:  </li>\n<li><strong>Security Issuance</strong>: 5,000,000 unquoted options (RADAN) issued under an employee incentive scheme.  </li>\n<li><strong>Issue Date</strong>: 01/08/2025.  </li>\n<li><strong>Terms</strong>: Options expire on various dates at various prices; no issuance to KMP.  </li>\n<li><strong>Post-Issuance Unquoted Options Outstanding</strong>: 214,716,866 RADAN options (as part of a broader unquoted options portfolio).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond standard employee incentive disclosure.</em></p>",
     "usage": {
       "prompt_tokens": 1697,
-      "completion_tokens": 95,
-      "total_tokens": 1792,
+      "completion_tokens": 128,
+      "total_tokens": 1825,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:26:44.309622"
+    "processed_at": "2025-08-01T05:58:26.921207"
   },
   {
     "ticker": "LMA",
@@ -312,15 +426,15 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfn6p6js27qq.pdf",
-    "summary": "<ul>\n<li><strong>Funds Removal from ASX mFund</strong>: 11 Franklin Templeton funds will be delisted from ASX mFund effective <strong>19 September 2025</strong>.  </li>\n<li><strong>Deadline for Trading</strong>: Last trading via mFund cutoff at <strong>12 noon on 19 September 2025</strong>.  </li>\n<li><strong>Blackout Period</strong>: <strong>20\u201326 September 2025</strong> (transfers to issuer-sponsored register; no transactions possible).  </li>\n<li><strong>Post-Blackout</strong>: Holdings move to issuer-sponsored register from <strong>27 September 2025</strong>.  </li>\n<li><strong>Action Required</strong>: Unitholders must submit a <strong>Client Identification Form</strong> to avoid account restrictions (e.g., blocked distributions/redemptions).  </li>\n<li><strong>Reason</strong>: ASX\u2019s broader mFund service wind-down (completed by <strong>31 May 2026</strong>).  </li>\n</ul>\n<p><em>No material trading or capital markets impact beyond the delisting logistics.</em></p>",
+    "summary": "<h3>Key Points:</h3>\n<ul>\n<li><strong>Funds Removal from mFund Service</strong>: Multiple Franklin Templeton/Martin Currie funds will be removed from ASX's mFund Settlement Service effective <strong>19 September 2025</strong>.  </li>\n<li><strong>Reason</strong>: ASX is winding down the mFund service (closure by <strong>31 May 2026</strong>).  </li>\n<li><strong>Deadline for Trading via mFund</strong>: Cut-off at <strong>12 noon on 19 September 2025</strong>.  </li>\n<li><strong>Blackout Period</strong>: <strong>20\u201326 September 2025</strong> (no transactions possible during this time).  </li>\n<li><strong>Post-Transition</strong>: Holdings will move to issuer-sponsored register; <strong>Client Identification Form required</strong> to avoid restrictions.  </li>\n</ul>\n<p>Action: Investors must decide to sell, convert to issuer-sponsored, or allow automatic transfer by the deadline.</p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 185,
-      "total_tokens": 1808,
+      "completion_tokens": 166,
+      "total_tokens": 1789,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:59.641964"
+    "processed_at": "2025-08-01T05:57:31.297497"
   },
   {
     "ticker": "LMA",
@@ -331,15 +445,34 @@
     "date": "20250801",
     "time": "1459",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfndy55j4m1v.pdf",
-    "summary": "<ul>\n<li><strong>Funds Removal from ASX mFund</strong>: Franklin Templeton will remove 11 listed funds from ASX mFund effective <strong>19 September 2025</strong>, due to ASX's planned mFund service wind-down by 31 May 2026.  </li>\n<li><strong>Key Deadline</strong>: Last trading via mFund cutoff at <strong>12 noon on 19 September 2025</strong>. No buys/sells during blackout period (<strong>20\u201326 September 2025</strong>) as holdings transition to issuer-sponsored register.  </li>\n<li><strong>Investor Actions Required</strong>:  </li>\n<li>Complete <strong>Client Identification Form</strong> to avoid account restrictions (e.g., blocked distributions/redemptions).  </li>\n<li>Options: Sell via broker by deadline, convert to issuer-sponsored, or allow automatic transfer (with form submission still required).  </li>\n<li><strong>Impact</strong>: Reduced liquidity for these funds post-removal; transactions must occur directly through Franklin Templeton post-transition.  </li>\n</ul>\n<p><em>Omitted: Fund-specific codes, legal disclaimers, general procedural details.</em></p>",
+    "summary": "<ul>\n<li><strong>mFund Closure</strong>: Franklin Templeton funds listed will be removed from ASX mFund effective <strong>19 September 2025</strong> (ASX-wide mFund closure by 31 May 2026).  </li>\n<li><strong>Trading Cut-off</strong>: Last day to trade via mFund is <strong>12 noon, 19 September 2025</strong>.  </li>\n<li><strong>Blackout Period</strong>: No transactions possible from <strong>20\u201326 September 2025</strong> during transition to issuer-sponsored register.  </li>\n<li><strong>Post-Transition</strong>: From <strong>27 September 2025</strong>, holdings move to FTAL\u2019s issuer-sponsored register (CHESS HIN no longer applies).  </li>\n<li><strong>Action Required</strong>: Unitholders must submit a <strong>Client Identification Form</strong> to avoid account restrictions (e.g., blocked redemptions/distributions).  </li>\n</ul>\n<p><em>No material financial or operational impact disclosed.</em></p>",
     "usage": {
       "prompt_tokens": 1623,
-      "completion_tokens": 206,
-      "total_tokens": 1829,
+      "completion_tokens": 175,
+      "total_tokens": 1798,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:52.947543"
+    "processed_at": "2025-08-01T05:57:27.194506"
+  },
+  {
+    "ticker": "TOV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975969",
+    "id": "02975969",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250801",
+    "time": "1453",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfmz6y644h50.pdf",
+    "summary": "<ul>\n<li><strong>Panel orders variation</strong> regarding Emu NL's general meeting (New Meeting) requirements:  </li>\n<li>Resolutions to include those from Wayburn Holdings' 24 June 2025 notice (director removals under s203D), excluding Resolution 2 (Bartsch removal).  </li>\n<li><strong>Key deadlines</strong>:  <ul>\n<li>Draft notice/proxy form to Panel by <strong>4 Aug 2025</strong>.  </li>\n<li>Final notice/proxy form issued by <strong>13 Aug 2025</strong>.  </li>\n</ul>\n</li>\n<li>Must distribute Wayburn\u2019s member statement (lodged 18 July 2025) with meeting notice.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (governance-related update).</em></p>",
+    "usage": {
+      "prompt_tokens": 1271,
+      "completion_tokens": 144,
+      "total_tokens": 1415,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-01T05:53:15.157751"
   },
   {
     "ticker": "BXB",
@@ -350,15 +483,15 @@
     "date": "20250801",
     "time": "1451",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mfmwr5w3nxf7.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Employee Incentive Scheme Issuance (Appendix 3G)  </li>\n<li><strong>Securities Issued:</strong> 69,698 unquoted share rights (BXBAI) under MyShare Plan  </li>\n<li><strong>Issue Date:</strong> 31 July 2025  </li>\n<li><strong>Key Management Personnel (KMP) Allocations:</strong>  </li>\n<li>Graham Andrew Chipchase: 22 rights  </li>\n<li>Joaquin Gil Cabanelas: 22 rights  </li>\n<li>David Cuenca: 23 rights  </li>\n<li>Helen Lane: 22 rights  </li>\n<li><strong>Total Unquoted Share Rights Outstanding:</strong> 8,868,515 (BXBAI)  </li>\n<li><strong>Ordinary Shares Outstanding:</strong> 1,366,993,980 (BXB)  </li>\n</ul>\n<p><strong>No material impact on liquidity or capital structure</strong> (minor dilution from incentive scheme).</p>",
+    "summary": "<h3>Material Information Summary:</h3>\n<p><strong>Document Type:</strong> Appendix 3G \u2013 Employee Incentive Scheme Issuance  </p>\n<ul>\n<li><strong>Securities Issued:</strong> 69,698 unquoted share rights (BXBAI) under an employee incentive scheme.  </li>\n<li><strong>Issue Date:</strong> 31 July 2025.  </li>\n<li><strong>Key Management Personnel (KMP) Allocations:</strong>  </li>\n<li>Graham Andrew Chipchase: 22 rights  </li>\n<li>Joaquin Gil Cabanelas: 22 rights  </li>\n<li>David Cuenca: 23 rights  </li>\n<li>Helen Lane: 22 rights  </li>\n<li><strong>Total Unquoted Rights Outstanding Post-Issuance:</strong> 8,868,515 (BXBAI).  </li>\n</ul>\n<p><strong>No material impact on liquidity, capital structure, or valuation.</strong></p>",
     "usage": {
       "prompt_tokens": 1473,
-      "completion_tokens": 177,
-      "total_tokens": 1650,
+      "completion_tokens": 162,
+      "total_tokens": 1635,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-01T05:24:09.555478"
+    "processed_at": "2025-08-01T05:53:30.781695"
   },
   {
     "ticker": "CG1",
