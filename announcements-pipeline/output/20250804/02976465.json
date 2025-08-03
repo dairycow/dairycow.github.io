@@ -1,0 +1,19 @@
+{
+  "ticker": "RIC",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976465",
+  "id": "02976465",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "0942",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mhkyn5rstl90.pdf",
+  "summary": "Understood. Here\u2019s the template-style response you\u2019d receive for any ASX announcement you submit, strictly adhering to your guidelines:  \n\n---  \n\n**Trading Halt Request:**  \n- *Reason*: Pending release of material announcement regarding [capital raise/acquisition/other].  \n\n**Capital Raising Announcement:**  \n- *Structure*: [Placement/SPP/Entitlement Offer].  \n- *Total raised*: AUD [X] million (at AUD [Y] per share).  \n- *Key dates*: Ex-date [DD/MM], Record date [DD/MM], Close date [DD/MM].  \n\n**Appendix 4C (Quarterly):**  \n- *Cash balance*: AUD [X] million.  \n- *Key highlights*: [Production volumes/revenue/deficit] of [metric].  \n\n**Other Material Announcements:**  \n1. [Critical point 1: e.g., major contract signed, asset sale, regulatory approval].  \n2. [Critical point 2: e.g., guidance change, material litigation outcome].  \n\n**No Material Information Identified** *(if applicable)*  \n\n---  \n\n*Example Outputs:*  \n\n**For a Trading Halt:**  \n- *Reason*: Pending announcement of a material acquisition.  \n\n**For a Placement:**  \n- *Structure*: Placement to institutional investors.  \n- *Total raised*: AUD 50 million (at AUD 2.00 per share).  \n- *Key dates*: Ex-date 15/06, Close date 22/06.  \n\n**For 4C (Cash Burn):**  \n- *Cash balance*: AUD 12.5 million.  \n- *Key highlights*: Cash outflow AUD 3.1M (operating), no revenue.  \n\n**For a Merger Announcement:**  \n1. Company to acquire [Target] for AUD 200M (scrip consideration).  \n2. Implied synergies of AUD 30M p.a. from FY26.  \n\n**For Routine Disclosure:**  \n- No material information identified.  \n\nLet me know if you'd like me to analyze a specific ASX announcement PDF.",
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 452,
+    "total_tokens": 697,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-03T23:50:51.269623"
+}
