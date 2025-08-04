@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976691",
+  "id": "02976691",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "1632",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4qct41zr3j.pdf",
+  "summary": "This appears to be a product disclosure document for **CitiFirst Instalment MINIs**, a type of leveraged equity derivative. Below is the extracted material information relevant for trading/capital markets decisions:\n\n### Key Product Features:\n- **Structure**: Instalment MINIs (leveraged investment products with gearing, where investors pay a first instalment and owe a final instalment loan).\n- **Current Interest Rate**: **8.30% pa** (applies to the loan component).\n- **Dividend Treatment**:  \n  - **Pay to investor**: Dividends are passed through to the holder.  \n  - **Pay down loan**: Dividends reduce the loan amount.  \n\n### Key Terms per MINI (selected examples):\n| MINI Code | Underlying Stock | First Instalment (AUD) | Final Instalment (Loan) (AUD) | Stop Loss Trigger (AUD) | Gearing (%) | % Away from Stop Loss | Expiry Date |\n|-----------|------------------|------------------------|-------------------------------|--------------------------|-------------|-----------------------|-------------|\n| A2MJOB    | A2 Milk Co       | $3.4174               | $4.1000                      | $7.77                   | 43.98%      | 47.23%               | 26/05/2026  |\n| WBCJOA    | Westpac Banking  | $23.7486              | $26.5800                     | $33.20                  | 71.53%      | 19.94%               | 15/07/2032  |\n| CSLJOF    | CSL Ltd          | $201.7576             | $231.8100                    | $264.91                 | 76.16%      | 12.49%               | 26/05/2026  |\n| BHPJOA    | BHP Group        | $25.3596              | $29.1300                     | $39.59                  | 64.06%      | 26.42%               | 21/01/2032  |\n\n### Material Risks:\n1. **Gearing Risk**: High gearing (e.g., 60-80% for many MINIs) amplifies gains/losses.  \n2. **Stop Loss Trigger**: If the underlying stock hits the stop-loss level, the MINI may be terminated, and investors may incur losses.  \n3. **Dividend Impact**: Some MINIs use dividends to pay down the loan, reducing leverage over time.  \n\n### Notable Expiry Dates:\n- Most MINIs expire between **2025 and 2035**, with concentrations in 2026 and 2032.  \n\n### Actionable Data:\n- **High-Yield Examples**:  \n  - **AGLJOB**: 19.32% indicative div yield (pays to investor).  \n  - **YM1JOA**: 35.73% indicative div yield (BETASHARES Top 20 ETF).  \n\n- **Low Gearing (Defensive)**:  \n  - **CBAJOB**: 34.67% gearing (CBA stock).  \n  - **BHPSO3**: 25.01% gearing (BHP stock).  \n\n### Conclusion:\nThis document provides pricing, gearing, and risk parameters for leveraged MINIs. Investors should assess:  \n1. Gearing levels vs. risk tolerance.  \n2. Stop-loss proximity.  \n3. Dividend treatment based on strategy (income vs. capital growth).  \n\nNo material corporate actions (e.g., capital raises) or operational updates are noted.",
+  "usage": {
+    "prompt_tokens": 23302,
+    "completion_tokens": 756,
+    "total_tokens": 24058,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T06:51:55.123953"
+}

@@ -1,5 +1,499 @@
 [
   {
+    "ticker": "CMX",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976699",
+    "id": "02976699",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1646",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj5bvhf06md6.pdf",
+    "summary": "<p>Understood. Please provide the <strong>ASX announcement PDF</strong> you'd like me to review, and I'll extract the material information in the requested concise format, strictly tailored to the announcement type.  </p>\n<p><strong>Example Outputs:</strong>  </p>\n<ol>\n<li><strong>Trading Halt Request:</strong>  </li>\n<li>\n<p>Reason: Pending capital raising announcement.  </p>\n</li>\n<li>\n<p><strong>Capital Raising Announcement:</strong>  </p>\n</li>\n<li>Type: Placement + SPP  </li>\n<li>Amount: AUD 50M (Placement) + AUD 10M (SPP cap)  </li>\n<li>\n<p>Key Dates: Ex-date DD/MM/YYYY, Record DD/MM/YYYY, Close DD/MM/YYYY.  </p>\n</li>\n<li>\n<p><strong>Quarterly Report (Appendix 4C):</strong>  </p>\n</li>\n<li>Cash balance: AUD 5.2M  </li>\n<li>\n<p>Key highlight: Revenue up 15% QoQ, major project commissioning delayed.  </p>\n</li>\n<li>\n<p><strong>Other Announcement:</strong>  </p>\n</li>\n<li>Material contract signed with Tier-1 client, AUD 30M revenue over 3 years.  </li>\n<li>CEO resignation effective immediately.  </li>\n</ol>\n<p><strong>If no material details:</strong><br />\n- No material information identified.  </p>\n<p>Upload the PDF, and I\u2019ll parse it accordingly.</p>",
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 247,
+      "total_tokens": 472,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:59:10.415898"
+  },
+  {
+    "ticker": "HCH",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976698",
+    "id": "02976698",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1645",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj58ls8n16hx.pdf",
+    "summary": "<ul>\n<li><strong>Director's Change in Shareholding</strong>:  </li>\n<li><strong>Christian Ervin Easterday</strong> exercised vested rights and canceled unvested rights.  </li>\n<li><strong>Shares Acquired</strong>: 676,812 ordinary fully paid shares at <strong>A$0.63 per share</strong>.  </li>\n<li><strong>Total Shares Held Post-Change</strong>: <strong>1,359,078</strong> (direct and indirect).  </li>\n<li>\n<p><strong>Rights Exercised/Canceled</strong>:  </p>\n<ul>\n<li><strong>Exercised</strong>: 552,500 Service Rights, 55,250 Class A, 69,062 Class B Performance Rights.  </li>\n<li><strong>Canceled</strong>: 69,063 unvested Class B Performance Rights.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Impact</strong>: Increased director\u2019s stake; <strong>no material liquidity impact</strong> (no new capital raised or major dilution).  </p>\n</li>\n<li><strong>Closed Period Compliance</strong>: No trades during a closed period requiring clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1386,
+      "completion_tokens": 190,
+      "total_tokens": 1576,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:20.749172"
+  },
+  {
+    "ticker": "ACS",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976697",
+    "id": "02976697",
+    "pages": 21,
+    "price_sensitive": true,
+    "date": "20250804",
+    "time": "1640",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj55jn7p0sb4.pdf",
+    "summary": "<h3>ASX Announcement Summary</h3>\n<p><strong>Company:</strong> Accent Resources NL (ASX: ACS)<br />\n<strong>Announcement Type:</strong> Metallurgical Test Work Results  </p>\n<h4><strong>Material Information:</strong></h4>\n<p>\u6807\u9898\uff1a\n- <strong>Positive Metallurgical Results:</strong> Davis Tube Recovery (DTR) tests confirm potential to produce <strong>high-grade magnetite iron concentrate</strong> meeting <strong>direct reduction iron (DRI) specifications</strong> (consistent with historical data).<br />\n- <strong>Project Resource:</strong> Supports the <strong>523.3Mt @ 31.3% Fe</strong> JORC-compliant Mineral Resource (as reported 23 Feb 2024).<br />\n- <strong>Next Steps:</strong> Results will guide <strong>Pre-Feasibility Study (PFS)</strong> optimization, focusing on grind size vs. concentrate grade trade-offs.  </p>\n<h4><strong>Key Data:</strong></h4>\n<ul>\n<li><strong>Test Parameters:</strong> 303 composite samples at 45\u00b5m grind size; 158 composites met cut-off criteria (15% DTR recovery, sulfur &lt;0.7% Upper BIF / &lt;0.2% Lower BIF).  </li>\n<li><strong>Example Grades:</strong> Concentrate grades up to <strong>71.3% Fe</strong>, <strong>1.06\u20132.13% SiO\u2082</strong>, and low impurities (e.g., <strong>0.002\u20130.619% S</strong>).  </li>\n</ul>\n<p><strong>Conclusion:</strong> No immediate trading impact, but reinforces project viability for DRI markets. Monitor PFS progression.  </p>\n<hr />\n<p><em>Note: Omitted non-material details (e.g., JORC tables, site logistics).</em></p>",
+    "usage": {
+      "prompt_tokens": 12067,
+      "completion_tokens": 309,
+      "total_tokens": 12376,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:57:57.237330"
+  },
+  {
+    "ticker": "KNI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976695",
+    "id": "02976695",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1637",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj50pxz377qv.pdf",
+    "summary": "<ul>\n<li><strong>Change of Director\u2019s Interest Notice (Appendix 3Y)</strong>  </li>\n<li><strong>Director</strong>: Maja McGuire  </li>\n<li><strong>Change</strong>: Conversion of 100,000 Class F Performance Rights to 100,000 Fully Paid Ordinary Shares.  </li>\n<li><strong>Post-change Holdings</strong>:  <ul>\n<li>Direct: 21,739 Ordinary Shares.  </li>\n<li>Indirect (via Scaraf A/C): 360,000 Ordinary Shares, 500,000 Tranche 1 Options ($0.69 exp. 11/5/2027), 500,000 Tranche 2 Options ($0.921 exp. 11/5/2027).  </li>\n</ul>\n</li>\n<li><strong>No closed period trading</strong>.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified; routine director interest update.</em></p>",
+    "usage": {
+      "prompt_tokens": 1224,
+      "completion_tokens": 161,
+      "total_tokens": 1385,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:58:20.126136"
+  },
+  {
+    "ticker": "TRE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976694",
+    "id": "02976694",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1635",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4ybfgddt37.pdf",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Perennial Value Management Limited (PVM) ceased to be a substantial holder in Toubani Resources Inc.  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>13/06/2025</strong>: HSBC sold 1,600,000 shares on market.  </li>\n<li><strong>19-25/06/2025</strong>: HSBC bought 678,827 shares across 6 transactions.  </li>\n<li><strong>09/07/2025</strong>: HSBC sold 150,000 shares.  </li>\n<li><strong>22-24/07/2025</strong>: HSBC bought 544,040 shares and sold 460,000 shares in balancing trades.  </li>\n<li><strong>31/07/2025</strong>: HSBC bought and sold 666,614 shares (likely offsetting trade).  </li>\n<li><strong>Dilution Impact</strong>: On 01/08/2025, PVM's voting power decreased due to 30,516,380 new shares issued (placement announced 30/04/2025).  </li>\n</ul>\n<p><em>Omitted: Routine trade details, non-material dates, and legal boilerplate.</em></p>",
+    "usage": {
+      "prompt_tokens": 1147,
+      "completion_tokens": 229,
+      "total_tokens": 1376,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:59:01.760828"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976691",
+    "id": "02976691",
+    "pages": 10,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1632",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4qct41zr3j.pdf",
+    "summary": "<p>This appears to be a product disclosure document for <strong>CitiFirst Instalment MINIs</strong>, a type of leveraged equity derivative. Below is the extracted material information relevant for trading/capital markets decisions:</p>\n<h3>Key Product Features:</h3>\n<ul>\n<li><strong>Structure</strong>: Instalment MINIs (leveraged investment products with gearing, where investors pay a first instalment and owe a final instalment loan).</li>\n<li><strong>Current Interest Rate</strong>: <strong>8.30% pa</strong> (applies to the loan component).</li>\n<li><strong>Dividend Treatment</strong>:  </li>\n<li><strong>Pay to investor</strong>: Dividends are passed through to the holder.  </li>\n<li><strong>Pay down loan</strong>: Dividends reduce the loan amount.  </li>\n</ul>\n<h3>Key Terms per MINI (selected examples):</h3>\n<p>| MINI Code | Underlying Stock | First Instalment (AUD) | Final Instalment (Loan) (AUD) | Stop Loss Trigger (AUD) | Gearing (%) | % Away from Stop Loss | Expiry Date |\n|-----------|------------------|------------------------|-------------------------------|--------------------------|-------------|-----------------------|-------------|\n| A2MJOB    | A2 Milk Co       | $3.4174               | $4.1000                      | $7.77                   | 43.98%      | 47.23%               | 26/05/2026  |\n| WBCJOA    | Westpac Banking  | $23.7486              | $26.5800                     | $33.20                  | 71.53%      | 19.94%               | 15/07/2032  |\n| CSLJOF    | CSL Ltd          | $201.7576             | $231.8100                    | $264.91                 | 76.16%      | 12.49%               | 26/05/2026  |\n| BHPJOA    | BHP Group        | $25.3596              | $29.1300                     | $39.59                  | 64.06%      | 26.42%               | 21/01/2032  |</p>\n<h3>Material Risks:</h3>\n<ol>\n<li><strong>Gearing Risk</strong>: High gearing (e.g., 60-80% for many MINIs) amplifies gains/losses.  </li>\n<li><strong>Stop Loss Trigger</strong>: If the underlying stock hits the stop-loss level, the MINI may be terminated, and investors may incur losses.  </li>\n<li><strong>Dividend Impact</strong>: Some MINIs use dividends to pay down the loan, reducing leverage over time.  </li>\n</ol>\n<h3>Notable Expiry Dates:</h3>\n<ul>\n<li>Most MINIs expire between <strong>2025 and 2035</strong>, with concentrations in 2026 and 2032.  </li>\n</ul>\n<h3>Actionable Data:</h3>\n<ul>\n<li><strong>High-Yield Examples</strong>:  </li>\n<li><strong>AGLJOB</strong>: 19.32% indicative div yield (pays to investor).  </li>\n<li>\n<p><strong>YM1JOA</strong>: 35.73% indicative div yield (BETASHARES Top 20 ETF).  </p>\n</li>\n<li>\n<p><strong>Low Gearing (Defensive)</strong>:  </p>\n</li>\n<li><strong>CBAJOB</strong>: 34.67% gearing (CBA stock).  </li>\n<li><strong>BHPSO3</strong>: 25.01% gearing (BHP stock).  </li>\n</ul>\n<h3>Conclusion:</h3>\n<p>This document provides pricing, gearing, and risk parameters for leveraged MINIs. Investors should assess:<br />\n1. Gearing levels vs. risk tolerance.<br />\n2. Stop-loss proximity.<br />\n3. Dividend treatment based on strategy (income vs. capital growth).  </p>\n<p>No material corporate actions (e.g., capital raises) or operational updates are noted.</p>",
+    "usage": {
+      "prompt_tokens": 23302,
+      "completion_tokens": 756,
+      "total_tokens": 24058,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:51:55.123953"
+  },
+  {
+    "ticker": "AVH",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976688",
+    "id": "02976688",
+    "pages": 10,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1630",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4hv4gptqh3.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Notification of cessation of securities (Appendix 3H)  </li>\n<li><strong>Key Details</strong>:  </li>\n<li>Multiple unquoted options lapsed or expired without exercise (totaling ~27,216 securities across various series).  </li>\n<li>No consideration paid for cessation.  </li>\n<li>No material impact on issued capital (quoted CDIs remain at 71,260,485).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3762,
+      "completion_tokens": 94,
+      "total_tokens": 3856,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:36.356458"
+  },
+  {
+    "ticker": "CTW",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976689",
+    "id": "02976689",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1630",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4l0pfj0xf6.pdf",
+    "summary": "<ul>\n<li><strong>Stop Loss Trigger Event</strong>: Two CitiFirst MINIs (MQGKOE and WEBKOA) suspended due to breach of Stop Loss Levels:  </li>\n<li><strong>MQGKOE</strong> (Macquarie Group Ltd): Stop Loss Level triggered at or below <strong>AUD 212.12</strong> per underlying parcel.  </li>\n<li>\n<p><strong>WEBKOA</strong> (Web Travel Group Ltd): Stop Loss Level triggered at or above <strong>AUD 4.36</strong> per underlying parcel.  </p>\n</li>\n<li>\n<p><strong>Trading &amp; Settlement</strong>:  </p>\n</li>\n<li>Temporary trading resumption from <strong>2pm next trading day</strong> to <strong>4pm the following day</strong> with Citigroup offering a bid at the Cash Amount.  </li>\n<li>Unsold MINIs will be terminated, with holders receiving the Stop Loss Amount within <strong>10 business days</strong>.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 796,
+      "completion_tokens": 175,
+      "total_tokens": 971,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:53:12.651991"
+  },
+  {
+    "ticker": "TKL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976687",
+    "id": "02976687",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1629",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4flffm8ntz.pdf",
+    "summary": "<ul>\n<li><strong>Director Ceased</strong>: Harvey Kaplan and Joshua Gordon ceased as directors of Traka Resources Limited on 4 August 2025.  </li>\n<li><strong>Joshua Gordon's Holdings</strong>:  </li>\n<li>12,500,000 ordinary shares.  </li>\n<li>6,250,000 unlisted options (expiring 15/12/2026 @ $0.005).  </li>\n<li>60,000,000 performance rights.  </li>\n<li><strong>Harvey Kaplan's Indirect Holdings (via Harshell Investments Pty Ltd)</strong>:  </li>\n<li>12,500,000 unlisted options (expiring 15/12/2026 @ $0.005).  </li>\n<li>60,000,000 performance rights.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified\u2014routine director cessation disclosure.</em></p>",
+    "usage": {
+      "prompt_tokens": 1314,
+      "completion_tokens": 164,
+      "total_tokens": 1478,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:15.505904"
+  },
+  {
+    "ticker": "KAT",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976686",
+    "id": "02976686",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1628",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj4c9mn4mt0x.pdf",
+    "summary": "<ul>\n<li><strong>Buy-back Type</strong>: On-market buy-back  </li>\n<li><strong>Total Securities Bought Back</strong>: 896,059 (847,088 before previous day + 48,971 on previous day)  </li>\n<li><strong>Total Consideration Paid</strong>: AUD 1,092,279.78 (AUD 1,030,331.46 + AUD 61,948.32)  </li>\n<li><strong>Maximum Buy-back Cap</strong>: 3,142,313 shares (10% of issued shares)  </li>\n<li><strong>Remaining Buy-back Allowance</strong>: 2,246,254 shares as of 4/8/2025  </li>\n<li><strong>Buy-back Period</strong>: 2/1/2025 to 31/12/2025  </li>\n<li><strong>Broker</strong>: Canaccord Genuity  </li>\n<li><strong>Price Range</strong>: Highest paid AUD 1.268553 (28/7/2025), lowest AUD 1.180000 (7/5/2025).  </li>\n</ul>\n<p><em>No additional material impact on capital structure or liquidity identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1500,
+      "completion_tokens": 207,
+      "total_tokens": 1707,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:57:47.282840"
+  },
+  {
+    "ticker": "TKL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976685",
+    "id": "02976685",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1627",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj494mkyq31c.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Appendix 3X - Initial Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>No material information identified</strong> (Routine director appointment disclosure with no securities or interests reported).  </li>\n</ul>\n<p>(Note: Director interest notices are typically non-material unless they disclose substantial shareholdings or transactions affecting liquidity/control.)</p>",
+    "usage": {
+      "prompt_tokens": 1220,
+      "completion_tokens": 68,
+      "total_tokens": 1288,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:53:07.898626"
+  },
+  {
+    "ticker": "HYL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976684",
+    "id": "02976684",
+    "pages": 38,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1624",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj46bm366kch.pdf",
+    "summary": "<h3><strong>Summary of Material Information for Trading/Capital Markets Decisions</strong></h3>\n<h4><strong>Key Points from ASX Announcement:</strong></h4>\n<ol>\n<li><strong>New ETF Launch</strong>  </li>\n<li><strong>Fund Name:</strong> Betashares S&amp;P Australian Shares High Yield ETF  </li>\n<li><strong>ASX Code:</strong> HYLD  </li>\n<li><strong>Trading Start Date:</strong> 5 August 2025 (AQUA market)  </li>\n<li><strong>Investment Objective:</strong> Track the performance of the <strong>S&amp;P/ASX 200 High Yield Select Index</strong> (50 high-yield dividend stocks, excluding A-REITs).  </li>\n<li>\n<p><strong>Management Fee:</strong> 0.25% p.a.  </p>\n</li>\n<li>\n<p><strong>Capital Structure &amp; Fees</strong>  </p>\n</li>\n<li><strong>Creation/Redemption Mechanism:</strong> In-kind (securities + cash) for Authorised Participants (APs); cash applications/redemptions may be allowed.  </li>\n<li><strong>Application/Redemption Fee for APs:</strong> Up to $750 per transaction (in-kind).  </li>\n<li>\n<p><strong>Estimated Transaction Costs:</strong> 0.01% p.a. (net of AP fee reimbursements).  </p>\n</li>\n<li>\n<p><strong>Trading Liquidity &amp; Market Making</strong>  </p>\n</li>\n<li>Units trade on ASX like shares; market makers appointed to provide liquidity.  </li>\n<li>\n<p><strong>Liquidity Risk:</strong> No guarantee of active secondary market; AP participation critical for arbitrage.  </p>\n</li>\n<li>\n<p><strong>Tax &amp; Distributions</strong>  </p>\n</li>\n<li><strong>Distributions:</strong> Monthly (if income available).  </li>\n<li>\n<p><strong>Tax Treatment:</strong> Fund aims to distribute taxable income (e.g., dividends, capital gains) to unitholders annually.  </p>\n</li>\n<li>\n<p><strong>Key Risks</strong>  </p>\n</li>\n<li><strong>Market/Concentration Risk:</strong> Exposure to high-yield equities; potential sector/security concentration.  </li>\n<li><strong>Tracking Error:</strong> Fund may not perfectly replicate the Index due to fees/costs.  </li>\n<li><strong>Counterparty Risk:</strong> Custodian/derivatives exposure.  </li>\n</ol>\n<h4><strong>Actionable Takeaways:</strong></h4>\n<ul>\n<li>For APs: Evaluate in-kind creation/redemption baskets for arbitrage opportunities.  </li>\n<li>For Traders: Monitor bid-ask spreads and iNAV vs. market price post-listing.  </li>\n<li>For Investors: Assess fee structure vs. peers; note no performance guarantee.  </li>\n</ul>\n<p><strong>No material omissions identified; focus on ETF mechanics, costs, and index-tracking risks.</strong></p>",
+    "usage": {
+      "prompt_tokens": 35407,
+      "completion_tokens": 485,
+      "total_tokens": 35892,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:58:40.034171"
+  },
+  {
+    "ticker": "GGA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976681",
+    "id": "02976681",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3zkx9c1v6g.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement (Betashares Geared Long Australian Government Bond Complex ETF \u2013 Notional Derivatives Exposure):</strong>  </p>\n<ul>\n<li><strong>Fund NAV (31 July 2025):</strong> $2,659,617  </li>\n<li><strong>Notional derivatives exposure:</strong> $7,509,929 (282.37% of NAV)  </li>\n<li><strong>Key Risk Disclosure:</strong>  </li>\n<li>Geared exposure fluctuates between 250%-300% of NAV daily (high risk).  </li>\n<li>Investors must monitor frequently due to volatility.  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
+    "usage": {
+      "prompt_tokens": 961,
+      "completion_tokens": 115,
+      "total_tokens": 1076,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:58:55.074861"
+  },
+  {
+    "ticker": "PUA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976683",
+    "id": "02976683",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj43rlnd9kmd.pdf",
+    "summary": "<ul>\n<li><strong>All resolutions passed</strong>, including amendments to deferred consideration shares for multiple vendors, company name change, incentive plan security issuance, and NED remuneration increase.  </li>\n<li><strong>No immediate capital impact</strong> \u2013 resolutions relate to approvals for past/future corporate actions but no new capital raised or material terms disclosed.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1129,
+      "completion_tokens": 72,
+      "total_tokens": 1201,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:32.776516"
+  },
+  {
+    "ticker": "PTM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976682",
+    "id": "02976682",
+    "pages": 15,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj41nrl9jph0.pdf",
+    "summary": "<h3><strong>Form 604 - Substantial Holder Notice Summary</strong></h3>\n<p><strong>(Platinum Asset Management Limited - ACN 050 064 287)</strong>  </p>\n<h4><strong>Material Information:</strong></h4>\n<ul>\n<li><strong>Substantial Holder:</strong> Mitsubishi UFJ Financial Group, Inc. (MUFG)  </li>\n<li><strong>Voting Power Increase:</strong> Increased from <strong>7.26% to 8.35%</strong> (42,259,340 to 48,606,148 ordinary shares).  </li>\n<li><strong>Key Transactions (via Associates):</strong>  </li>\n<li><strong>Morgan Stanley Entities:</strong> Net purchases/sales via securities lending agreements.  </li>\n<li><strong>First Sentier Group (MUFG subsidiary):</strong> Significant acquisitions (e.g., <strong>717,536 shares</strong> on 23/07/2025, <strong>1,089,505 shares</strong> on 29/07/2025).  </li>\n<li><strong>Securities Lending:</strong> Multiple borrow/return transactions (e.g., <strong>723,554 shares borrowed</strong> on 18/07/2025).  </li>\n</ul>\n<h4><strong>Relevance:</strong></h4>\n<ul>\n<li><strong>Change in Control:</strong> MUFG\u2019s increased stake may signal strategic positioning or influence over Platinum Asset Management.  </li>\n<li><strong>Liquidity Impact:</strong> High-volume trading by associates (Morgan Stanley, First Sentier) suggests active institutional interest.  </li>\n</ul>\n<p><strong>Format Note:</strong> Omitted granular transaction details (see Annexure A for full list). Focused on aggregate voting power shifts and \u043a\u0440\u0443\u043f\u043d\u044b\u0435 \u0441\u0434\u0435\u043b\u043a\u0438.  </p>\n<hr />\n<p><strong>Brevity note:</strong> Excluded non-material lending agreement terms (Annexure B) and repetitive entries. Concentrated on equity impact.</p>",
+    "usage": {
+      "prompt_tokens": 21883,
+      "completion_tokens": 331,
+      "total_tokens": 22214,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:55:14.244604"
+  },
+  {
+    "ticker": "LO1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976680",
+    "id": "02976680",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1621",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3xfzpv4d4l.pdf",
+    "summary": "<p><strong>No material information identified.</strong>  </p>\n<p><em>(Note: The provided text appears to be a generic disclaimer or boilerplate language from Lloyds Banking Group, with no substantive announcement details relevant to trading or capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 256,
+      "completion_tokens": 45,
+      "total_tokens": 301,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:51:30.468822"
+  },
+  {
+    "ticker": "GGF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976678",
+    "id": "02976678",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1620",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3s51lr8c88.pdf",
+    "summary": "<ul>\n<li><strong>Notional derivatives exposure</strong>: $7,903,006 (272.17% of Fund NAV) as of 31 July 2025 for Betashares Geared Long US Treasury Bond Currency Hedged Complex ETF (ASX: GGFD).  </li>\n<li><strong>Gearing level</strong>: Fund maintains leveraged exposure between 250%-300% of NAV daily.  </li>\n<li><strong>High-risk nature</strong>: Emphasises extreme volatility risk due to gearing; suitable only for informed investors.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine derivatives disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 966,
+      "completion_tokens": 115,
+      "total_tokens": 1081,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:54.706309"
+  },
+  {
+    "ticker": "LRD",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976679",
+    "id": "02976679",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1620",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3v7x0vklmw.pdf",
+    "summary": "<ul>\n<li><strong>Securities Cessation</strong>: 1,000,000 PERFORMANCE RIGHTS (LRDAK) lapsed due to unmet conditions (cessation date: 30/07/2025).  </li>\n<li><strong>Post-Cessation Issued Capital</strong>:  </li>\n<li>Quoted:  <ul>\n<li>LRD (Ordinary): 155,002,026  </li>\n<li>LRDO (Options): 19,438,560  </li>\n</ul>\n</li>\n<li>Unquoted:  <ul>\n<li>Remaining LRDAK (Performance Rights): 200,000  </li>\n<li>Various unquoted options (details in announcement).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material impact on trading or capital structure identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1173,
+      "completion_tokens": 137,
+      "total_tokens": 1310,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:57:39.955006"
+  },
+  {
+    "ticker": "BBF",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976677",
+    "id": "02976677",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1619",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3pvpxhgcdr.pdf",
+    "summary": "<p><strong>Key Information from ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>Fund:</strong> Betashares Geared Short US Treasury Bond Currency Hedged Complex ETF (ASX: BBFD)  </li>\n<li><strong>Notional Derivatives Exposure (as of 31 July 2025):</strong> -$3,161,264 (278.23% of NAV)  </li>\n<li><strong>NAV:</strong> $1,136,225  </li>\n<li><strong>Investment Objective:</strong> Geared short exposure (-250% to -300% of NAV) to US Treasury Bonds (~10-year maturity), AUD-hedged  </li>\n<li><strong>Key Risks:</strong> High leverage risk, futures exposure, volatility amplification (gearing magnifies gains/losses)  </li>\n</ul>\n<p><strong>No capital raising, financial results, or material corporate actions identified.</strong>  </p>\n<p><em>(Note: This is a routine derivatives exposure update; trading impact hinges on leveraged bond market movements.)</em></p>",
+    "usage": {
+      "prompt_tokens": 967,
+      "completion_tokens": 177,
+      "total_tokens": 1144,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:58:16.064173"
+  },
+  {
+    "ticker": "BBA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976675",
+    "id": "02976675",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1618",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3kk79k95dx.pdf",
+    "summary": "<ul>\n<li><strong>Fund:</strong> Betashares Geared Short Australian Government Bond Complex ETF (ASX: BBAB)  </li>\n<li><strong>Net Asset Value (NAV):</strong> $487,580 (as of 31 July 2025)  </li>\n<li><strong>Notional Derivatives Exposure:</strong> -$1,365,442 (-280.04% of NAV)  </li>\n<li><strong>Investment Objective:</strong> Geared short exposure (target range: -250% to -300% of NAV) to 10-year Australian Treasury Bonds via futures contracts.  </li>\n<li><strong>Key Risks:</strong> High leverage (~3x short exposure), market volatility, compounding/rebalancing risks.  </li>\n<li><strong>Investor Warning:</strong> Suited only for high-risk-tolerant investors; requires active monitoring.  </li>\n</ul>\n<p><em>No direct trading or capital markets implications (routine exposure update).</em></p>",
+    "usage": {
+      "prompt_tokens": 959,
+      "completion_tokens": 164,
+      "total_tokens": 1123,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:58:25.167503"
+  },
+  {
+    "ticker": "OML",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976676",
+    "id": "02976676",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1618",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3mrw10zgsz.pdf",
+    "summary": "<p>Understood. For your ASX announcement review, I will adhere strictly to the following format based on announcement type:  </p>\n<ol>\n<li><strong>Trading Halt Request</strong>:  </li>\n<li>\n<p><em>Reason only</em> (e.g., \"Pending material acquisition announcement\").  </p>\n</li>\n<li>\n<p><strong>Capital Raising Announcement</strong>:  </p>\n</li>\n<li>Structure (Placement/SPP/Entitlement Offer).  </li>\n<li>Total capital raised (AUD).  </li>\n<li>\n<p>Key dates (ex-date, record date, close date).  </p>\n</li>\n<li>\n<p><strong>Quarterly Report (Appendix 4C)</strong>:  </p>\n</li>\n<li>Key operational/financial highlights (no more than 3).  </li>\n<li>\n<p>Closing cash balance (AUD).  </p>\n</li>\n<li>\n<p><strong>Other Announcement Types</strong>:  </p>\n</li>\n<li>Only 2\u20133 critical points impacting valuation, liquidity, or capital structure.  </li>\n<li>Omit routine operational updates unless exceptional.  </li>\n</ol>\n<p><strong>Response if unclear/no material info</strong>:<br />\n- \"No material information identified.\"  </p>\n<p>Provide the PDF or text, and I\u2019ll extract the essential details accordingly.  </p>\n<p><strong>Example Outputs</strong>:<br />\n- <em>Trading Halt</em>: \"Pending capital raising announcement.\"<br />\n- <em>Capital Raising</em>: \"A$50M placement at A$0.30/share; ex-date 15 Oct, close 20 Oct.\"<br />\n- <em>4C</em>: \"Quarterly cash receipts A$12M (+25% q/q); cash balance A$35M.\"  </p>\n<p>Ready for your document.</p>",
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 302,
+      "total_tokens": 527,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:59:24.219271"
+  },
+  {
+    "ticker": "ADR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976674",
+    "id": "02976674",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1617",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3hf9kl3sfv.pdf",
+    "summary": "<h3>Summary of Adherium Limited Cleansing Notice (ASX: ADR)</h3>\n<ul>\n<li><strong>Cleansing Notice Issued</strong>: Confirms issuance of <strong>66,208,082 new shares</strong> without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li><strong>Compliance Confirmed</strong>: Company states it meets ongoing disclosure (Ch 2M, ss 674/674A) with no \"excluded information\" requiring disclosure.  </li>\n<li><strong>No material financial/operational details</strong> (e.g., capital raised, use of funds) provided.  </li>\n</ul>\n<p><strong>Action</strong>: No immediate trading impact; procedural disclosure for previously issued shares.  </p>\n<p><em>(Note: This is a standard regulatory notice; no actionable capital markets data beyond the share issuance confirmation.)</em></p>",
+    "usage": {
+      "prompt_tokens": 930,
+      "completion_tokens": 156,
+      "total_tokens": 1086,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:51.088532"
+  },
+  {
+    "ticker": "QMA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976673",
+    "id": "02976673",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1616",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3f4hwlhydb.pdf",
+    "summary": "<ul>\n<li><strong>Fund NAV</strong>: $32,601,728  </li>\n<li><strong>Notional derivatives exposure</strong>: $28,915,058 (88.69% of NAV)  </li>\n<li><strong>Strategy</strong>: The fund writes call options on up to 100% of its Nasdaq-100 Index exposure.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 1276,
+      "completion_tokens": 69,
+      "total_tokens": 1345,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:52:39.017172"
+  },
+  {
+    "ticker": "RIO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976672",
+    "id": "02976672",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1616",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj3c13xd4bc8.pdf",
+    "summary": "<ul>\n<li><strong>Director's Share Purchase</strong>: Ben Wyatt acquired 200 Rio Tinto Limited ordinary shares via on-market trade at $111.1228 per share.  </li>\n<li><strong>Total Holdings After Change</strong>: 700 ordinary shares.  </li>\n<li><strong>Closed Period Compliance</strong>: No trading during a closed period requiring prior clearance.  </li>\n</ul>\n<p><em>No material capital markets impact identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 962,
+      "completion_tokens": 71,
+      "total_tokens": 1033,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:53:05.100291"
+  },
+  {
+    "ticker": "ALV",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976671",
+    "id": "02976671",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1614",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj38hrgsjkhc.pdf",
+    "summary": "<h3><strong>Form 604 - Substantial Holder Change Summary</strong></h3>\n<ul>\n<li><strong>Substantial Holder</strong>: Cremorne Capital Ltd (as RE for Lowell Resources Fund)  </li>\n<li><strong>Company</strong>: Alvo Minerals Limited (ASX: <strong>ALV</strong>)  </li>\n<li><strong>Change Date</strong>: 8 July 2025  </li>\n<li><strong>Previous Holding</strong>: 14,750,000 shares (9.53% voting power)  </li>\n<li><strong>Current Holding</strong>: 21,154,078 shares (10.83% voting power)  </li>\n<li><strong>Recent Purchases</strong>:  </li>\n<li>3 July 2025: +2,430,538 shares ($55,153.22)  </li>\n<li>7 July 2025: +1,787,505 shares ($43,142.02)  </li>\n<li>8 July 2025: +2,186,035 shares ($53,139.60)  </li>\n</ul>\n<p><strong>Material Implication</strong>:<br />\n- <strong>Increase in substantial stake</strong> (~1.3% voting power increase), indicating potential confidence or strategic interest in ALV.  </p>\n<p><em>(Form 604 solely discloses ownership changes; no fundamental corporate updates provided.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1710,
+      "completion_tokens": 233,
+      "total_tokens": 1943,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:53:00.964423"
+  },
+  {
+    "ticker": "NUC",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976670",
+    "id": "02976670",
+    "pages": 5,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1613",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj36815z9d69.pdf",
+    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Document Type:</strong> <em>Notice of Change of Interests of Substantial Holder</em>  </p>\n<ul>\n<li><strong>Substantial Holder:</strong> Nuchev Limited (NUC)  </li>\n<li><strong>Change in Voting Power:</strong>  </li>\n<li>Previous: <strong>19.17%</strong> (28,055,557 shares)  </li>\n<li>Current: <strong>23.66%</strong> (36,804,557 shares)  </li>\n<li><strong>Key Changes:</strong>  </li>\n<li><strong>30/07/2025:</strong> Voluntary escrow arrangement imposes restrictions on disposal of <strong>8,749,000 shares</strong> (no voting control retained by NUC).  </li>\n<li>Dilution events from EIP Performance Rights exercises noted on 03/07/2025 and 29/07/2025 (no share quantity change disclosed).  </li>\n<li><strong>Associated Entities:</strong>  </li>\n<li>Brauer Natural Medicine Pty Ltd (<strong>22,435,898 shares</strong> under escrow).  </li>\n<li>H&amp;S Investments Australia Pty Ltd (<strong>14,368,659 shares</strong> under escrow).  </li>\n</ul>\n<p>No other material impacts on liquidity, valuation, or capital structure identified.  </p>\n<p><em>(Boilerplate, director names, and non-material details omitted.)</em></p>",
+    "usage": {
+      "prompt_tokens": 2660,
+      "completion_tokens": 242,
+      "total_tokens": 2902,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T06:57:36.533044"
+  },
+  {
     "ticker": "UBI",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976661",
     "id": "02976661",
