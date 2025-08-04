@@ -1,0 +1,19 @@
+{
+  "ticker": "RIM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976724",
+  "id": "02976724",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "1731",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key content, and I will extract the material trading/capital markets information in the concise bullet-point format you specified.  \n\nExample responses based on hypothetical announcements:  \n\n---  \n\n**Example 1: Trading Halt Request**  \n- *Reason*: Pending release of material capital raising announcement.  \n\n**Example 2: Capital Raising Announcement**  \n- *Structure*: A$50M placement + A$10M SPP.  \n- *Key dates*: Ex-date 15 Sep, record 18 Sep, SPP close 30 Sep.  \n\n**Example 3: Quarterly Report (Appendix 4C)**  \n- *Cash balance*: A$12.5M (end of quarter).  \n- *Highlights*: Quarterly revenue A$8.2M (+15% QoQ), production 22kt (vs. guidance 20-24kt).  \n\n**Example 4: Other Announcement (M&A)**  \n- *Acquisition*: Strategic asset purchase for A$25M (funded via debt).  \n- *Impact*: Adds 30% to FY25 EBITDA guidance.  \n\n**Example 5: No Material Information Identified**  \n- Routine director change with no capital/trading impact.  \n\n---  \nProvide the document/text, and I\u2019ll tailor the summary accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 286,
+    "total_tokens": 511,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T07:47:40.033106"
+}
