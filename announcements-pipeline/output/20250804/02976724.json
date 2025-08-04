@@ -6,5 +6,14 @@
   "price_sensitive": false,
   "date": "20250804",
   "time": "1731",
-  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf"
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf",
+  "summary": "**Summary Rules Applied:**  \n\n- **Extreme conciseness** \u2013 Only directly material details for trading/capital decisions.  \n- **Structured by announcement type** \u2013 No filler, no background.  \n- **Omit all non-essential text** (legal, names, intros).  \n\n*Example Outputs:*  \n\n1. **Trading Halt Request:**  \n   - *\"Pending release of material capital raising details.\"*  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - Structure: A$50M placement (A$0.30/sh) + A$10M SPP.  \n   - Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n3. **Appendix 4C (Quarterly):**  \n   - Cash balance: A$12.3M (prev. A$15.1M).  \n   - Burn rate: A$2.8M/qt (operating).  \n\n4. **Material M&A Announcement:**  \n   - Acquiring [Target] for A$100M (50% scrip, 50% cash).  \n   - EPS accretive from Year 1.  \n\n5. **No Material Information Identified:**  \n   - (If document is routine or lacks actionable data.)  \n\n**Provide the PDF text/content, and I\u2019ll extract per above.**",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 296,
+    "total_tokens": 521,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T08:39:39.818372"
 }

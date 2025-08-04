@@ -1,5 +1,62 @@
 [
   {
+    "ticker": "HAR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976739",
+    "id": "02976739",
+    "pages": 4,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1809",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj8kgtbs9cgh.pdf",
+    "summary": "<ul>\n<li><strong>Initial Substantial Holder Notice</strong>: Haranga Resources Limited has become a substantial holder in itself due to technical \"relevant interest\" via voluntary escrow arrangements.  </li>\n<li><strong>Voting Power</strong>: 21.19% (63,202,439 fully paid ordinary shares).  </li>\n<li><strong>Escrow Details</strong>:  </li>\n<li><strong>47,802,439 shares</strong> locked until 30 January 2026.  </li>\n<li><strong>15,400,000 shares</strong> locked until 30 October 2025.  </li>\n<li><strong>No voting/disposal control</strong>: Escrow grants technical interest only; no rights to acquire or control shares.  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (voluntary, non-transferable escrow).</em></p>",
+    "usage": {
+      "prompt_tokens": 2256,
+      "completion_tokens": 148,
+      "total_tokens": 2404,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T08:42:01.480108"
+  },
+  {
+    "ticker": "UYL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976738",
+    "id": "02976738",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1805",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj8gkjrp4dz6.pdf",
+    "summary": "<ul>\n<li><strong>Distribution Amounts (cents per unit):</strong>  </li>\n<li><strong>BANK (Global X Australian Bank Credit ETF):</strong> 3.429439  </li>\n<li><strong>QYLD (Global X NASDAQ 100 Covered Call ETF):</strong> 8.594833  </li>\n<li>\n<p><strong>UYLD (Global X S&amp;P 500 Covered Call ETF):</strong> 7.869162  </p>\n</li>\n<li>\n<p><strong>Dividend Reinvestment Prices (AUD per unit):</strong>  </p>\n</li>\n<li><strong>BANK:</strong> $9.9540  </li>\n<li><strong>QYLD:</strong> $11.0811  </li>\n<li>\n<p><strong>UYLD:</strong> $10.8213  </p>\n</li>\n<li>\n<p><strong>Franking:</strong> 0.00% for all funds.  </p>\n</li>\n<li>\n<p><strong>Distribution Timetable:</strong>  </p>\n</li>\n<li><strong>DRP Election Date:</strong> 30 July 2025  </li>\n<li><strong>Ex-Distribution Date:</strong> 31 July 2025  </li>\n<li><strong>Record Date:</strong> 1 August 2025  </li>\n<li><strong>Payment Date:</strong> 18 August 2025  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 866,
+      "completion_tokens": 219,
+      "total_tokens": 1085,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T08:39:02.103529"
+  },
+  {
+    "ticker": "SOL",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976737",
+    "id": "02976737",
+    "pages": 6,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1758",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj8c2yhr9k6d.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<ul>\n<li><strong>Substantial Holder Ceasing Notice</strong>: Washington H. Soul Pattinson and Company Limited (Soul Patts) ceased to be a substantial holder in <strong>Metallium Ltd (MTM)</strong> as of <strong>31 July 2025</strong>.  </li>\n<li><strong>Reason for Ceasing</strong>: Soul Patts\u2019 deemed voting power in MTM (via its &gt;20% stake in Pengana Capital Group Limited) no longer meets the 5% substantial holding threshold.  </li>\n<li><strong>Relevant Transactions</strong>:  </li>\n<li>Pengana Capital Limited (a Pengana subsidiary) sold <strong>1.1 million MTM shares</strong> between <strong>3\u201321 July 2025</strong>, reducing its holding to <strong>6.02% voting power</strong>.  </li>\n</ul>\n<h3>Material Impact:</h3>\n<ul>\n<li><strong>Reduced Institutional Ownership</strong>: Pengana/Soul Patts\u2019 exit reduces concentrated holdings, potentially increasing MTM\u2019s free float.  </li>\n<li><strong>Trading Liquidity</strong>: Recent sales (~1.1 million shares) may imply near-term selling pressure.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3022,
+      "completion_tokens": 221,
+      "total_tokens": 3243,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T08:39:29.119932"
+  },
+  {
     "ticker": "CHW",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976736",
     "id": "02976736",
@@ -8,15 +65,15 @@
     "date": "20250804",
     "time": "1756",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj88lnkvxn4z.pdf",
-    "summary": "<ul>\n<li><strong>Shares Issued</strong>: 2,500,000 fully paid ordinary shares issued on conversion of performance rights (31 July 2025) and 551,402 fully paid ordinary shares issued on exercise of options (4 August 2025).  </li>\n<li><strong>Secondary Trading Exemption</strong>: Notification under Section 708A(5)(e) of Corporations Act 2001 \u2013 no disclosure to investors required for on-sale of these securities.  </li>\n<li><strong>Compliance Confirmed</strong>: Company confirms compliance with continuous disclosure and financial reporting obligations as of the notice date.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 2,500,000 shares issued from performance rights conversion and 551,402 shares from options exercise (total ~3.05M shares).  </li>\n<li><strong>Secondary Trading Exemption</strong>: Confirms compliance with Corporations Act 708A(5) for on-sale without disclosure.  </li>\n<li><strong>No Material Undisclosed Information</strong>: Company confirms no omitted information critical for investor assessment.  </li>\n</ul>\n<p><em>No additional material trading or capital structure impacts identified.</em></p>",
     "usage": {
       "prompt_tokens": 738,
-      "completion_tokens": 122,
-      "total_tokens": 860,
+      "completion_tokens": 98,
+      "total_tokens": 836,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:04:17.160936"
+    "processed_at": "2025-08-04T08:42:16.687512"
   },
   {
     "ticker": "ATG",
@@ -27,15 +84,15 @@
     "date": "20250804",
     "time": "1755",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj86f3fm70xd.pdf",
-    "summary": "<ul>\n<li><strong>Director\u2019s Interest Change (Robin Mendelson):</strong>  </li>\n<li><strong>Type:</strong> Vesting of Restricted Stock Units (RSUs) into shares.  </li>\n<li><strong>Details:</strong>  <ul>\n<li><strong>Direct:</strong> Reduced RSUs from 130,304 to 97,728.  </li>\n<li><strong>Indirect:</strong> Increased ordinary shares from 260,608 to 293,184 (+32,576 shares).  </li>\n</ul>\n</li>\n<li><strong>Consideration:</strong> Shares issued in lieu of USD$96,000 in director fees (non-cash, approved at 2024 AGM).  </li>\n<li><strong>Date:</strong> 1 August 2025.  </li>\n</ul>\n<p><strong>No material impact on trading/capital structure identified.</strong> Omit boilerplate on closed period (no trading occurred).  </p>\n<p><em>(Concise, omits legal/repetitive details, focuses on material director equity change.)</em></p>",
+    "summary": "<ul>\n<li><strong>Type:</strong> Change of Director\u2019s Interest Notice  </li>\n<li><strong>Director:</strong> Robin Mendelson  </li>\n<li><strong>Key Changes:</strong>  </li>\n<li><strong>Vesting of RSUs:</strong> 32,576 Restricted Stock Units (RSUs) converted to fully paid ordinary shares.  </li>\n<li><strong>Post-Change Holdings:</strong>  <ul>\n<li>Direct: 97,728 RSUs remaining  </li>\n<li>Indirect: 293,184 ordinary shares (increase of 32,576 shares).  </li>\n</ul>\n</li>\n<li><strong>Reason:</strong> Shares allocated by Employee Share Trustee in lieu of USD$96,000 annual director fees, approved at 2024 AGM.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified.</strong> (Standard director interest update, no closed-period trading.)</p>",
     "usage": {
       "prompt_tokens": 1133,
-      "completion_tokens": 178,
-      "total_tokens": 1311,
+      "completion_tokens": 152,
+      "total_tokens": 1285,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:04:23.384068"
+    "processed_at": "2025-08-04T08:42:22.687044"
   },
   {
     "ticker": "ATG",
@@ -46,15 +103,15 @@
     "date": "20250804",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj845dcjrl4l.pdf",
-    "summary": "<p><strong>Summary of Appendix 3G - Articore Group Limited</strong>  </p>\n<ul>\n<li><strong>Security Conversion</strong>: 32,576 restricted stock units (RSUs) (code: ATGAB) converted to ordinary shares (code: ATG).  </li>\n<li><strong>Issue Date</strong>: 1 August 2025.  </li>\n<li><strong>KMP Involvement</strong>: Conversion initiated by Robin Mendelson (via Solium Nominees).  </li>\n<li><strong>Post-Issue Capital</strong>:  </li>\n<li>Total ordinary shares on issue: 284,568,877.  </li>\n<li>Unquoted securities:  <ul>\n<li>Options (ATGAA): 8,590,660  </li>\n<li>RSUs (ATGAB): 17,515,367  </li>\n<li>SARs (ATGAJ): 19,937,635.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No other material information identified</strong>.</p>",
+    "summary": "<ul>\n<li><strong>Type</strong>: Conversion of unquoted securities (Restricted Stock Units to Ordinary Shares)  </li>\n<li><strong>Securities issued</strong>: 32,576 fully paid ordinary shares (ASX: ATG)  </li>\n<li><strong>Issue date</strong>: 1 August 2025  </li>\n<li><strong>Issued to</strong>: Key Management Personnel (Robin Mendelson) via employee incentive scheme  </li>\n<li><strong>Post-issue shares on issue</strong>: 284,568,877 ordinary shares (quoted)  </li>\n<li><strong>Unquoted securities remaining</strong>:  </li>\n<li>8,590,660 options (ATGAA)  </li>\n<li>17,515,367 Restricted Stock Units (ATGAB)  </li>\n<li>19,937,635 Share Appreciation Rights (ATGAJ)  </li>\n</ul>\n<p><strong>Material impact</strong>: Minor dilution (~0.01% of issued capital) from RSU conversion; no new capital raised.</p>",
     "usage": {
       "prompt_tokens": 1528,
-      "completion_tokens": 170,
-      "total_tokens": 1698,
+      "completion_tokens": 178,
+      "total_tokens": 1706,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:05:06.585271"
+    "processed_at": "2025-08-04T08:42:30.883906"
   },
   {
     "ticker": "WBT",
@@ -65,15 +122,15 @@
     "date": "20250804",
     "time": "1754",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj81xp2909rc.pdf",
-    "summary": "<p>No material information identified.<br />\n<em>(Note: The announcement solely covers a board appointment (Deputy Chair), which does not directly impact trading, capital structure, or liquidity. No financial, operational, or transactional data is disclosed.)</em></p>",
+    "summary": "<p>No material information identified.  </p>\n<p>[Note: This is a routine board appointment announcement. It does not contain material information impacting trading, valuation, liquidity, or capital structure.]</p>",
     "usage": {
       "prompt_tokens": 1127,
-      "completion_tokens": 47,
-      "total_tokens": 1174,
+      "completion_tokens": 35,
+      "total_tokens": 1162,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T07:59:25.135139"
+    "processed_at": "2025-08-04T08:39:31.546216"
   },
   {
     "ticker": "YAL",
@@ -84,15 +141,15 @@
     "date": "20250804",
     "time": "1753",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7zs7bf4vzd.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a routine HKEX monthly return showing no changes in share capital, issuance activity, or other material events affecting valuation or capital structure.)</p>",
+    "summary": "<p><strong>Summary of ASX Announcement</strong><br />\n- <strong>Document Type</strong>: Monthly Return Notice (HKEX)<br />\n- <strong>Key Detail</strong>: No material changes in issued share capital (1,320,439,437 ordinary shares outstanding, unchanged from prior month).<br />\n- <strong>Impact</strong>: No dilution, issuance, or buybacks reported; purely administrative filing.  </p>\n<p><strong>Conclusion</strong>: No material information identified for trading or capital markets decisions.</p>",
     "usage": {
       "prompt_tokens": 1892,
-      "completion_tokens": 38,
-      "total_tokens": 1930,
+      "completion_tokens": 86,
+      "total_tokens": 1978,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:03:32.685926"
+    "processed_at": "2025-08-04T08:41:29.191761"
   },
   {
     "ticker": "CHW",
@@ -103,15 +160,15 @@
     "date": "20250804",
     "time": "1752",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7xd53nhryg.pdf",
-    "summary": "<h3>Material Information Summary:</h3>\n<ul>\n<li><strong>Security Issuance from Options Conversion</strong>  </li>\n<li><strong>Total new ordinary shares (CHW) issued</strong>: 551,402  <ul>\n<li>102,605 shares from CHWAE options (exercise price: AUD 0.40)  </li>\n<li>249,911 shares from CHWAD options (exercise price: AUD 0.30)  </li>\n<li>198,886 shares from CHWAC options (exercise price: AUD 0.25)  </li>\n</ul>\n</li>\n<li><strong>Issue date</strong>: 04/08/2025  </li>\n<li>\n<p><strong>Post-issue total ordinary shares on issue</strong>: 78,816,870  </p>\n</li>\n<li>\n<p><strong>Outstanding Unquoted Securities</strong>:  </p>\n</li>\n<li><strong>Options</strong>:  <ul>\n<li>CHWAE: 730,728 (AUD 0.40)  </li>\n<li>CHWAD: 583,422 (AUD 0.30)  </li>\n<li>CHWAC: 634,448 (AUD 0.25)  </li>\n</ul>\n</li>\n<li><strong>Performance Rights</strong>:  <ul>\n<li>CHWAH: 250,000 (expiring 30-Jun-2027)  </li>\n<li>CHWAF: 3,750,000 (expiring 30-Nov-2028)  </li>\n<li>CHWAB: 22,250,000  </li>\n</ul>\n</li>\n</ul>\n<p><strong>Note</strong>: No new capital raised (existing options exercised). Impact on dilution and liquidity from additional ordinary shares.</p>",
+    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 551,402 new ordinary fully paid shares (CHW) issued on 04/08/2025 due to conversion of options.  </li>\n<li><strong>Option Conversion Details</strong>:  </li>\n<li>102,605 shares at AUD 0.40 (CHWAE options exercised)  </li>\n<li>249,911 shares at AUD 0.30 (CHWAD options exercised)  </li>\n<li>198,886 shares at AUD 0.25 (CHWAC options exercised)  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Total quoted ordinary shares: <strong>78,816,870</strong> (CHW)  </li>\n<li>Unquoted securities include performance rights and options (details in announcement).  </li>\n</ul>\n<p>No further material trading or capital structure impacts identified.</p>",
     "usage": {
       "prompt_tokens": 2404,
-      "completion_tokens": 297,
-      "total_tokens": 2701,
+      "completion_tokens": 163,
+      "total_tokens": 2567,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T07:59:35.339441"
+    "processed_at": "2025-08-04T08:39:54.715115"
   },
   {
     "ticker": "SVN",
@@ -122,15 +179,15 @@
     "date": "20250804",
     "time": "1751",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7v9bksmh7h.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Investor Letter \u2013 Savana US Small Caps Active ETF)</h3>\n<p><strong>Key Material Information:</strong><br />\n- <strong>ETF Performance (Post-Launch, 7-Nov-24 to 31-Jul-25):</strong><br />\n  - <strong>-23% drawdown</strong> (to April 2025) followed by <strong>+31% recovery</strong> (as of 31-Jul-25).<br />\n  - <strong>Asymmetric returns:</strong> Outperformed by <strong>2.02%</strong> in upswings vs. <strong>-0.41%</strong> underperformance in downturns (vs. S&amp;P 600 TR AUD).  </p>\n<ul>\n<li><strong>Contrarian Strategy:</strong>  </li>\n<li>Portfolio fundamentals: <strong>P/E 4.2x</strong>, <strong>P/CF 6.9x</strong>, <strong>&lt;1% overlap</strong> with peer funds.  </li>\n<li>\n<p>Example: <strong>Kohl\u2019s Corp (KSS)</strong> held since Nov-24; <strong>+65% from April 2025 low</strong> after initial -64% decline.  </p>\n</li>\n<li>\n<p><strong>Historical Paper-Trade Performance (Jul-22 to Nov-24):</strong>  </p>\n</li>\n<li><strong>+130.17%</strong> (AUD, pre-launch simulation) vs. <strong>+41.31%</strong> for S&amp;P 600 TR AUD.  </li>\n</ul>\n<p><strong>Non-Material Details Omitted:</strong><br />\n- Macro commentary, investor letters, disclaimers, and team contacts.  </p>\n<p><strong>Announcement Type:</strong> <strong>Investor Update</strong> (No direct trading/capital markets actions).<br />\n<strong>Valuation Impact:</strong> Highlights strategy resilience and asymmetric return potential; no capital structure changes noted.  </p>\n<p><strong>Final Note:</strong> Performance claims are historical; no forward guidance or capital-raising details provided.</p>",
+    "summary": "<p>No material information identified.<br />\n<em>(Note: This appears to be a marketing/commentary piece by an ETF issuer, with no announcements relevant for trading or capital markets decisions (e.g., no capital raising, corporate action, or financial disclosures). The performance data is historical and includes disclaimers against reliance.)</em></p>",
     "usage": {
       "prompt_tokens": 4485,
-      "completion_tokens": 354,
-      "total_tokens": 4839,
+      "completion_tokens": 64,
+      "total_tokens": 4549,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:03:06.688286"
+    "processed_at": "2025-08-04T08:41:22.438223"
   },
   {
     "ticker": "CHW",
@@ -141,15 +198,15 @@
     "date": "20250804",
     "time": "1747",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7rbz3rhktt.pdf",
-    "summary": "<p><strong>Summary of Appendix 3Y (Change of Director\u2019s Interest Notice):</strong>  </p>\n<ul>\n<li><strong>Director:</strong> Cadell Buss  </li>\n<li><strong>Change:</strong> Conversion of 1,721,740 Class A Performance Rights into fully paid ordinary shares at deemed issue price of <strong>$1.11 per share</strong> (30 July 2025).  </li>\n<li><strong>Resulting Holdings:</strong>  </li>\n<li><strong>Direct:</strong> 1,721,741 ordinary shares (+1,721,740)  </li>\n<li><strong>Indirect:</strong> 553,795 ordinary shares (unchanged).  </li>\n<li><strong>Performance Rights Retained:</strong>  </li>\n<li>Class B (765,218), Class C (956,521), Class D (956,521), and 1,500,000 expiring 30 Nov 2028.  </li>\n<li><strong>No closed period trading.</strong>  </li>\n</ul>\n<p>No material capital markets impact identified.</p>",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director's interest change notice with no material impact on trading, valuation, or capital structure. Relevant only for compliance tracking.)</em></p>",
     "usage": {
       "prompt_tokens": 1156,
-      "completion_tokens": 178,
-      "total_tokens": 1334,
+      "completion_tokens": 37,
+      "total_tokens": 1193,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:03:40.728918"
+    "processed_at": "2025-08-04T08:41:30.976827"
   },
   {
     "ticker": "LKO",
@@ -160,53 +217,15 @@
     "date": "20250804",
     "time": "1747",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7p71bqkg9y.pdf",
-    "summary": "<h3>Substantial Holder Notice Summary:</h3>\n<ul>\n<li><strong>Substantial Holder</strong>: NewPeak Metals Limited  </li>\n<li><strong>Company</strong>: Lakes Blue Energy NL  </li>\n<li><strong>Change in Holdings</strong>:  </li>\n<li><strong>Previous Voting Power</strong>: 11.89% (7,935,233 shares)  </li>\n<li><strong>Current Voting Power</strong>: 10.68% (7,130,499 shares)  </li>\n<li><strong>Key Transactions</strong>:  </li>\n<li><strong>Disposals</strong>: 804,734 shares sold between 14/07/2025 and 04/08/2025 (details in Annexure).  </li>\n<li><strong>Total Reduction</strong>: 1.21% of voting power.  </li>\n</ul>\n<p><strong>No material capital markets impact identified beyond shareholding dilution.</strong></p>",
+    "summary": "<ul>\n<li><strong>Substantial Holder Change</strong>: Newpeak Metals Limited reduced its stake in Lakes Blue Energy NL from <strong>11.89% (7,935,233 shares)</strong> to <strong>10.68% (7,130,499 shares)</strong>.  </li>\n<li><strong>Disposals</strong>: Multiple disposals between <strong>14 July 2025</strong> and <strong>4 August 2025</strong>, totaling <strong>804,734 shares sold</strong> (see Annexure for breakdown).  </li>\n<li><strong>Impact</strong>: Reduced voting power, suggesting potential loss of influence or strategic repositioning.  </li>\n</ul>\n<p><em>Note: No pricing or transaction purpose disclosed; monitor for further disclosures.</em></p>",
     "usage": {
       "prompt_tokens": 2077,
-      "completion_tokens": 149,
-      "total_tokens": 2226,
+      "completion_tokens": 125,
+      "total_tokens": 2202,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:02:47.806540"
-  },
-  {
-    "ticker": "HCH",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976727",
-    "id": "02976727",
-    "pages": 6,
-    "price_sensitive": false,
-    "date": "20250804",
-    "time": "1740",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7ktm8hhdtv.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 337,831 new ordinary fully paid shares (HCH) issued via conversion of employee incentive securities.  </li>\n<li><strong>Breakdown</strong>:  <ul>\n<li>279,484 shares from Service Rights (HCHAW) at AUD 0.59 per share.  </li>\n<li>58,347 shares from Performance Rights (HCHAJ) at AUD 0.59 per share.  </li>\n</ul>\n</li>\n<li><strong>Issue Date</strong>: 1 August 2025.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares outstanding: 153,713,485.  </li>\n<li><strong>Unquoted Securities</strong>:  </li>\n<li>1,914,000 unlisted options (HCHAX).  </li>\n<li>1,308,391 Service Rights (HCHAW).  </li>\n<li>2,263,395 Performance Rights (HCHAJ).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond dilution from incentive scheme conversions.</em></p>",
-    "usage": {
-      "prompt_tokens": 1575,
-      "completion_tokens": 195,
-      "total_tokens": 1770,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:02:43.437907"
-  },
-  {
-    "ticker": "ATM",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976726",
-    "id": "02976726",
-    "pages": 2,
-    "price_sensitive": false,
-    "date": "20250804",
-    "time": "1739",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7hj8pszws9.pdf",
-    "summary": "<p>No material information identified.  </p>\n<p>(Note: This is a routine Appendix 4A filing disclosing CDI and security holdings with no changes from the prior month. It does not impact trading, valuation, or capital structure.)</p>",
-    "usage": {
-      "prompt_tokens": 793,
-      "completion_tokens": 46,
-      "total_tokens": 839,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:04:19.342122"
+    "processed_at": "2025-08-04T08:40:46.330394"
   },
   {
     "ticker": "HGO",
@@ -217,15 +236,34 @@
     "date": "20250804",
     "time": "1733",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj7d4ddd6fpn.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Appendix 3Y - Change of Director\u2019s Interest Notices):</h3>\n<ul>\n<li><strong>Director: Derek Carter</strong>  </li>\n<li>Acquired <strong>2,455,617 performance rights</strong> (issued for nil consideration under Performance Rights Plan).  </li>\n<li>\n<p>Held post-change: 3,056,961 ordinary shares, 3,000,000 unlisted options, 2,455,617 performance rights.  </p>\n</li>\n<li>\n<p><strong>Director: Robert Fulker</strong>  </p>\n</li>\n<li>Acquired <strong>36,945,517 performance rights</strong> (issued for nil consideration under Performance Rights Plan).  </li>\n<li>\n<p>Held post-change: 1,260,000 ordinary shares, 36,945,517 performance rights.  </p>\n</li>\n<li>\n<p><strong>Director: Murray Boyte</strong>  </p>\n</li>\n<li>Acquired <strong>1,571,595 performance rights</strong> (issued for nil consideration under Performance Rights Plan).  </li>\n<li>\n<p>Held post-change: 4,733,967 ordinary shares, 3,000,000 unlisted options, 1,571,595 performance rights.  </p>\n</li>\n<li>\n<p><strong>Director: Roger Higgins</strong>  </p>\n</li>\n<li>Acquired <strong>1,571,595 performance rights</strong> (issued for nil consideration under Performance Rights Plan).  </li>\n<li>Held post-change: 1,885,714 ordinary shares, 3,000,000 unlisted options, 1,571,595 performance rights.  </li>\n</ul>\n<p><strong>Key Takeaway</strong>:<br />\n- <strong>Significant issuance of performance rights</strong> to directors under the company\u2019s approved plan (no cash consideration). No closed period trading concerns.  </p>\n<p><em>No other material information for trading or capital markets decisions identified.</em></p>",
+    "summary": "<h3>Summary of ASX Announcement (Change of Director\u2019s Interest Notice)</h3>\n<ul>\n<li><strong>Director: Derek Carter</strong>  </li>\n<li><strong>Change:</strong> Granted 2,455,617 Performance Rights (issued under Performance Rights Plan, nil consideration).  </li>\n<li>\n<p><strong>Holdings after change:</strong>  </p>\n<ul>\n<li>Indirect: 3,056,961 Ordinary Shares + 3,000,000 Unlisted Options + 2,455,617 Performance Rights.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Director: Robert Fulker</strong>  </p>\n</li>\n<li><strong>Change:</strong> Granted 36,945,517 Performance Rights (issued under Performance Rights Plan, nil consideration).  </li>\n<li>\n<p><strong>Holdings after change:</strong>  </p>\n<ul>\n<li>Direct: 1,260,000 Ordinary Shares + 36,945,517 Performance Rights.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Director: Murray Boyte</strong>  </p>\n</li>\n<li><strong>Change:</strong> Granted 1,571,595 Performance Rights (issued under Performance Rights Plan, nil consideration).  </li>\n<li>\n<p><strong>Holdings after change:</strong>  </p>\n<ul>\n<li>Indirect: 4,733,967 Ordinary Shares + 3,000,000 Unlisted Options + 1,571,595 Performance Rights.  </li>\n</ul>\n</li>\n<li>\n<p><strong>Director: Roger Higgins</strong>  </p>\n</li>\n<li><strong>Change:</strong> Granted 1,571,595 Performance Rights (issued under Performance Rights Plan, nil consideration).  </li>\n<li><strong>Holdings after change:</strong>  <ul>\n<li>Indirect: 1,885,714 Ordinary Shares.  </li>\n<li>Direct: 3,000,000 Unlisted Options + 1,571,595 Performance Rights.  </li>\n</ul>\n</li>\n</ul>\n<p><strong>Key Takeaway:</strong> Significant issuance of Performance Rights to directors under an approved plan, likely aligning incentives with long-term performance. No market trades or closed-period breaches.</p>",
     "usage": {
       "prompt_tokens": 3683,
-      "completion_tokens": 333,
-      "total_tokens": 4016,
+      "completion_tokens": 348,
+      "total_tokens": 4031,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T07:59:22.618223"
+    "processed_at": "2025-08-04T08:39:20.252703"
+  },
+  {
+    "ticker": "RIM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976724",
+    "id": "02976724",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1731",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf",
+    "summary": "<p><strong>Summary Rules Applied:</strong>  </p>\n<ul>\n<li><strong>Extreme conciseness</strong> \u2013 Only directly material details for trading/capital decisions.  </li>\n<li><strong>Structured by announcement type</strong> \u2013 No filler, no background.  </li>\n<li><strong>Omit all non-essential text</strong> (legal, names, intros).  </li>\n</ul>\n<p><em>Example Outputs:</em>  </p>\n<ol>\n<li><strong>Trading Halt Request:</strong>  </li>\n<li>\n<p><em>\"Pending release of material capital raising details.\"</em>  </p>\n</li>\n<li>\n<p><strong>Capital Raising Announcement (Placement + SPP):</strong>  </p>\n</li>\n<li>Structure: A$50M placement (A$0.30/sh) + A$10M SPP.  </li>\n<li>\n<p>Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  </p>\n</li>\n<li>\n<p><strong>Appendix 4C (Quarterly):</strong>  </p>\n</li>\n<li>Cash balance: A$12.3M (prev. A$15.1M).  </li>\n<li>\n<p>Burn rate: A$2.8M/qt (operating).  </p>\n</li>\n<li>\n<p><strong>Material M&amp;A Announcement:</strong>  </p>\n</li>\n<li>Acquiring [Target] for A$100M (50% scrip, 50% cash).  </li>\n<li>\n<p>EPS accretive from Year 1.  </p>\n</li>\n<li>\n<p><strong>No Material Information Identified:</strong>  </p>\n</li>\n<li>(If document is routine or lacks actionable data.)  </li>\n</ol>\n<p><strong>Provide the PDF text/content, and I\u2019ll extract per above.</strong></p>",
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 296,
+      "total_tokens": 521,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T08:39:39.818372"
   },
   {
     "ticker": "AVR",
@@ -236,15 +274,15 @@
     "date": "20250804",
     "time": "1730",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj77b7bdwhgw.pdf",
-    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>AVRAAL (Restricted Stock Units)</strong>: 2,500 securities lapsed due to unmet conditions (cessation date: 08/07/2025).  </li>\n<li>\n<p><strong>AVRAC (Options)</strong>: 250 securities lapsed due to unmet conditions (cessation date: 08/07/2025).  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Quoted Securities (AVR)</strong>: 15,504,415 CDIs.  </li>\n<li><strong>Unquoted Securities</strong>:  <ul>\n<li>AVRAAL (RSUs): 1,235,249.  </li>\n<li>AVRAC (Options): 2,725,010.  </li>\n<li>Other unquoted securities disclosed (no material changes).  </li>\n</ul>\n</li>\n</ul>\n<p><em>No material impact on liquidity or capital structure identified.</em></p>",
+    "summary": "<ul>\n<li><strong>Cessation of Securities</strong>:  </li>\n<li><strong>AVRAAL (Restricted Stock Units)</strong>: 2,500 securities lapsed due to unmet conditions (cessation date: 08/07/2025).  </li>\n<li>\n<p><strong>AVRAC (Options)</strong>: 250 securities lapsed due to unmet conditions (cessation date: 08/07/2025; exercise price: A$18.27 / US$11.63 expiring 08-Aug-2029).  </p>\n</li>\n<li>\n<p><strong>Post-Cessation Issued Capital</strong>:  </p>\n</li>\n<li><strong>Quoted (ASX)</strong>: 15,504,415 AVR CDIs.  </li>\n<li><strong>Unquoted</strong>:  <ul>\n<li>1,235,249 AVRAAL (Restricted Stock Units),  </li>\n<li>20,557,955 AVRAAM (Common Stock),  </li>\n<li>2,725,010 AVRAC (Options),  </li>\n<li>990,599 AVRAS (Options expiring 27-Sep-2025 at $10.00).  </li>\n</ul>\n</li>\n</ul>\n<p><strong>No material impact on liquidity or capital structure identified.</strong></p>",
     "usage": {
       "prompt_tokens": 1296,
-      "completion_tokens": 181,
-      "total_tokens": 1477,
+      "completion_tokens": 232,
+      "total_tokens": 1528,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:02:01.069257"
+    "processed_at": "2025-08-04T08:40:33.529147"
   },
   {
     "ticker": "IPT",
@@ -255,15 +293,15 @@
     "date": "20250804",
     "time": "1728",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj72wz40z8xh.pdf",
-    "summary": "<p><strong>ASX Code: IPT</strong><br />\n<strong>Announcement Type: Release of Escrowed Securities</strong>  </p>\n<ul>\n<li><strong>Shares Released from Escrow:</strong> 6,295,673 fully paid ordinary shares (effective 9 August 2025).  </li>\n<li><strong>Remaining Escrowed Shares:</strong> 6,295,673 fully paid ordinary shares (to be released 9 September 2025).  </li>\n</ul>\n<p><strong>No other material information identified.</strong></p>",
+    "summary": "<ul>\n<li><strong>Escrow Release</strong>: 6,295,673 fully paid ordinary shares released from escrow on <strong>9 August 2025</strong>.  </li>\n<li><strong>Remaining Escrow</strong>: 6,295,673 fully paid ordinary shares remain in escrow until <strong>9 September 2025</strong>.  </li>\n</ul>\n<p>No other material information identified.</p>",
     "usage": {
       "prompt_tokens": 360,
-      "completion_tokens": 88,
-      "total_tokens": 448,
+      "completion_tokens": 66,
+      "total_tokens": 426,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:01:44.345465"
+    "processed_at": "2025-08-04T08:40:06.856785"
   },
   {
     "ticker": "NWC",
@@ -274,15 +312,34 @@
     "date": "20250804",
     "time": "1728",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj750x23h0p0.pdf",
-    "summary": "<h3>Summary of ASX Announcement (Director's Interest Notices):</h3>\n<ul>\n<li><strong>Nick Woolrych</strong>:  </li>\n<li>Exercised 32,000,000 performance rights into shares (nil consideration).  </li>\n<li>\n<p>Remaining holdings: 5,000,000 unlisted options (expiry: Dec 2026).  </p>\n</li>\n<li>\n<p><strong>Richard Hill</strong>:  </p>\n</li>\n<li>Exercised 2,000,000 performance rights into shares (nil consideration).  </li>\n<li>\n<p>Remaining holdings: 4,000,000 unlisted options (expiry: Dec 2026).  </p>\n</li>\n<li>\n<p><strong>Michael Haynes</strong>:  </p>\n</li>\n<li>Exercised 1,400,000 performance rights into shares (nil consideration).  </li>\n<li>\n<p>Remaining holdings: 19,750,000 unlisted options (expiry: Dec 2026).  </p>\n</li>\n<li>\n<p><strong>Anthony Polglase</strong>:  </p>\n</li>\n<li>Exercised 1,400,000 performance rights into shares (nil consideration).  </li>\n<li>\n<p>Remaining holdings: 3,500,000 unlisted options (expiry: Dec 2026).  </p>\n</li>\n<li>\n<p><strong>Gilmour Clausen</strong>:  </p>\n</li>\n<li>Exercised 4,000,000 performance rights into shares (nil consideration).  </li>\n</ul>\n<p><strong>Key Takeaway</strong>:<br />\nNo new equity issuance or capital impact (rights converted for nil consideration). Monitoring ownership changes and potential future dilution from remaining options.</p>",
+    "summary": "<ul>\n<li><strong>Director Share Acquisition via Performance Rights Conversion</strong>:  </li>\n<li><strong>Nick Woolrych</strong>: 32M shares acquired (now holds 32M shares + 5M options)  </li>\n<li><strong>Richard Hill</strong>: 2M shares acquired (now holds 2M shares + 4M options)  </li>\n<li><strong>Michael Haynes</strong>: 1.4M shares acquired (now holds 1.4M shares + 19.75M options)  </li>\n<li><strong>Anthony Polglase</strong>: 1.4M shares acquired (now holds 1.4M shares + 3.5M options)  </li>\n<li>\n<p><strong>Gilmour Clausen</strong>: 4M shares acquired (now holds 4M shares)  </p>\n</li>\n<li>\n<p><strong>Key Detail</strong>: All acquisitions resulted from <strong>zero-cost exercise of vested performance rights</strong> (no cash consideration).  </p>\n</li>\n<li>\n<p><strong>Material Impact</strong>: Increases shares on issue (~40.8M total) and may dilute existing holders, though no immediate trading impact (no market sale disclosed).  </p>\n</li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 4873,
-      "completion_tokens": 278,
-      "total_tokens": 5151,
+      "completion_tokens": 215,
+      "total_tokens": 5088,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T07:59:44.310660"
+    "processed_at": "2025-08-04T08:40:00.290810"
+  },
+  {
+    "ticker": "BTN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976720",
+    "id": "02976720",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250804",
+    "time": "1724",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj701w4sfgh4.pdf",
+    "summary": "<ul>\n<li><strong>Notice under Section 708A(5)(e)</strong>: Butn Limited issued 325,000 new shares without disclosure under Part 6D.2 of the Corporations Act.  </li>\n<li><strong>No material impact on trading or capital structure</strong>: No new capital raised, no pricing or strategic rationale provided.  </li>\n</ul>\n<p><strong>Conclusion</strong>: No material information identified for immediate trading or capital markets decisions.</p>",
+    "usage": {
+      "prompt_tokens": 690,
+      "completion_tokens": 79,
+      "total_tokens": 769,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-04T08:39:48.772057"
   },
   {
     "ticker": "AYA",
@@ -293,15 +350,15 @@
     "date": "20250804",
     "time": "1724",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj6y0343vr72.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Application for quotation of securities (conversion of performance rights)  </li>\n<li><strong>Security Details:</strong>  </li>\n<li>200,000 new fully paid ordinary shares (ASX: <strong>AYA</strong>) issued on 01/08/2025 via conversion of performance rights (ASX: <strong>AYAAAF</strong>).  </li>\n<li>Nil cash consideration \u2013 vested under employee incentive scheme.  </li>\n<li><strong>Post-Issue Capital:</strong>  </li>\n<li>Total ordinary shares on issue: <strong>114,089,117</strong> (quoted).  </li>\n<li>Unquoted securities include options (various strikes/expiries) and performance rights (<strong>3,845,000</strong>).  </li>\n</ul>\n<p>No material impact on capital structure or liquidity (minor dilution from employee incentive scheme).</p>",
+    "summary": "<h3>Summary of Appendix 2A - Application for Quotation of Securities:</h3>\n<ul>\n<li><strong>Security Issuance</strong>: 200,000 fully paid ordinary shares (ASX: <strong>AYA</strong>) issued on <strong>01/08/2025</strong>.  </li>\n<li><strong>Reason</strong>: Conversion of vested performance rights under an employee incentive scheme (nil cash consideration).  </li>\n<li><strong>Post-Issuance Capital</strong>:  </li>\n<li>Total ordinary shares on issue: <strong>114,089,117</strong> (quoted).  </li>\n<li>Unquoted securities include various options and performance rights (details in document).  </li>\n<li><strong>Key Detail</strong>: New shares rank equally with existing ordinary shares.  </li>\n</ul>\n<p><strong>No material trading or capital markets impact identified</strong> (routine conversion of employee incentives).</p>",
     "usage": {
       "prompt_tokens": 2098,
-      "completion_tokens": 158,
-      "total_tokens": 2256,
+      "completion_tokens": 151,
+      "total_tokens": 2249,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:03:11.736970"
+    "processed_at": "2025-08-04T08:41:26.275328"
   },
   {
     "ticker": "DAI",
@@ -312,15 +369,15 @@
     "date": "20250804",
     "time": "1720",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj6s0httxzkg.pdf",
-    "summary": "<h3><strong>Material Information Summary</strong></h3>\n<p><strong>Security Issuance (Options Conversion):</strong><br />\n- <strong>Total new shares issued:</strong> 2,557,000 ordinary fully paid (ASX: <strong>DAI</strong>)<br />\n- <strong>Issue date:</strong> 04/08/2025<br />\n- <strong>Source:</strong> Conversion of options (ASX: <strong>DAIOA</strong>) at <strong>A$0.25 per share</strong>.<br />\n- <strong>Post-issue issued capital:</strong><br />\n  - Ordinary shares: <strong>178,904,657</strong> (quoted)<br />\n  - Outstanding options: Multiple tranches (see unquoted securities in announcement) \u2013 largest: <strong>DAIAR</strong> (15.9m options, A$0.10 strike).  </p>\n<p><strong>No other material impacts</strong> (e.g., no capital raise, no change to liquidity/valuation beyond standard dilution).  </p>\n<p><em>Note: Excluded boilerplate details on unquoted options (non-material unless exercised).</em></p>",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 2,557,000 ordinary fully paid shares (DAI) issued from conversion of options (DAIOA).  </li>\n<li><strong>Issue Price</strong>: AUD 0.25 per share.  </li>\n<li><strong>New Capital Structure</strong>:  </li>\n<li><strong>Quoted</strong>: 178,904,657 ordinary shares (DAI) and 25,635,954 options (DAIOA) remaining.  </li>\n<li><strong>Unquoted</strong>: Multiple tranches of options with varying expiry dates and exercise prices (see Part 4.2 for details).  </li>\n<li><strong>Key Date</strong>: Options converted and shares issued on 04/08/2025.  </li>\n</ul>\n<p><em>No material valuation or liquidity impacts beyond dilution from option conversions.</em></p>",
     "usage": {
       "prompt_tokens": 1973,
-      "completion_tokens": 195,
-      "total_tokens": 2168,
+      "completion_tokens": 152,
+      "total_tokens": 2125,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:04:08.444756"
+    "processed_at": "2025-08-04T08:42:07.657180"
   },
   {
     "ticker": "BTN",
@@ -331,34 +388,15 @@
     "date": "20250804",
     "time": "1720",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj6v3wvfwcsv.pdf",
-    "summary": "<ul>\n<li><strong>Security Issuance</strong>: 325,000 ordinary fully paid shares (ASX: BTN) issued upon vesting of performance rights under an employee incentive scheme (issue date: 01/07/2025).  </li>\n<li><strong>Issue Details</strong>: Non-cash issuance (value: AUD 0.09 per share). Late lodgement due to administrative oversight.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue: 349,505,712. Unquoted securities include various options and performance rights.  </li>\n</ul>\n<p><strong>Key Takeaway</strong>: Minor dilution from vesting of employee incentives, no material trading impact.</p>",
+    "summary": "<ul>\n<li><strong>Securities Issuance</strong>: 325,000 new ordinary fully paid shares (ASX: BTN) issued on 01/07/2025.  </li>\n<li><strong>Reason</strong>: Conversion of performance rights (BTNAL) under an employee incentive scheme (non-cash issuance).  </li>\n<li><strong>Issue Price</strong>: Estimated value of $0.09 per share.  </li>\n<li><strong>Post-Issuance Capital</strong>: Total ordinary shares on issue will be 349,505,712.  </li>\n<li><strong>Additional Notes</strong>: Late lodgement due to administrative oversight; no material impact on capital structure.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
     "usage": {
       "prompt_tokens": 1566,
-      "completion_tokens": 130,
-      "total_tokens": 1696,
+      "completion_tokens": 128,
+      "total_tokens": 1694,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:01:47.587092"
-  },
-  {
-    "ticker": "CGF",
-    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976716",
-    "id": "02976716",
-    "pages": 39,
-    "price_sensitive": false,
-    "date": "20250804",
-    "time": "1718",
-    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj6pfk4jmz5s.pdf",
-    "summary": "<p><strong>Material Information Summary:</strong></p>\n<ol>\n<li><strong>Type of Announcement:</strong> <em>Ceasing to be a Substantial Holder</em> (Form 605 filing).  </li>\n<li>\n<p><strong>Entity Involved:</strong> MS&amp;AD Insurance Group Holdings, Inc. has ceased to be a substantial holder in <strong>Challenger Limited (ASX: CGF)</strong>.  </p>\n</li>\n<li>\n<p><strong>Transaction Context:</strong>  </p>\n</li>\n<li>A <strong>Sale and Purchase Agreement</strong> dated <strong>4 April 2025</strong> was executed between MS&amp;AD (Seller) and TAL Dai-ichi Life Australia Pty Ltd (Buyer).  </li>\n<li><strong>Sale Shares:</strong> 104,353,125 ordinary shares (or 103,709,353 if scaled back per conditions).  </li>\n<li><strong>Purchase Price:</strong> JPY 766.627736352 per share (total ~JPY 80 billion, ~AUD 765 million at JPY 1:AUD 0.00955).  </li>\n<li>\n<p><strong>Conditions Precedent:</strong> FIRB, APRA, and UK FCA approvals.  </p>\n</li>\n<li>\n<p><strong>Key Dates:</strong>  </p>\n</li>\n<li><strong>End Date:</strong> 4 May 2026 (for conditions to be met).  </li>\n<li>\n<p><strong>Completion Timing:</strong> 15\u201325 business days post-condition satisfaction (or scale-back/rejection notice).  </p>\n</li>\n<li>\n<p><strong>Material Clauses:</strong>  </p>\n</li>\n<li><strong>Price Adjustments:</strong> Purchase price may increase if Buyer acquires additional shares at a higher price pre-Completion.  </li>\n<li>\n<p><strong>Residual Shares (if APRA approval fails):</strong> Seller may sell 643,772 residual shares to third parties, with Buyer covering any shortfall vs. Initial Price.  </p>\n</li>\n<li>\n<p><strong>Regulatory:</strong>  </p>\n</li>\n<li>FIRB, APRA (for SIS Act compliance), and UK FCA approvals required.  </li>\n<li>\n<p>Rejection of APRA approval triggers scale-back (clause 3.8).  </p>\n</li>\n<li>\n<p><strong>Liquidity Impact:</strong>  </p>\n</li>\n<li>Large block trade (~15% of CGF\u2019s issued shares) likely to affect market liquidity.  </li>\n</ol>\n<p><strong>Excluded:</strong> Legal boilerplate, jurisdictional details, and non-material operational clauses.  </p>\n<p><strong>Conciseness Note:</strong> Focused on actionable trading/capital markets insights (e.g., size, price, regulatory hurdles). No speculative analysis added.</p>",
-    "usage": {
-      "prompt_tokens": 18085,
-      "completion_tokens": 462,
-      "total_tokens": 18547,
-      "prompt_tokens_details": null
-    },
-    "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:03:52.344992"
+    "processed_at": "2025-08-04T08:40:21.953469"
   },
   {
     "ticker": "D2O",
@@ -388,15 +426,15 @@
     "date": "20250804",
     "time": "1714",
     "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj6lpnll7mwh.pdf",
-    "summary": "<ul>\n<li><strong>Announcement Type</strong>: Placement  </li>\n<li><strong>Total Securities Issued</strong>: 3,627,636 ordinary fully paid shares (KEY)  </li>\n<li><strong>Issue Price</strong>: AUD 0.042 per share  </li>\n<li><strong>Capital Raised</strong>: ~AUD 152,361 (3,627,636 shares \u00d7 AUD 0.042)  </li>\n<li><strong>Issue Date</strong>: 8 August 2025  </li>\n<li><strong>Use of Proceeds</strong>: Transaction costs, merger preparatory costs, corporate development strategy, and working capital.  </li>\n<li><strong>Placement Structure</strong>:  </li>\n<li>1,156,582 shares under 15% placement capacity (Listing Rule 7.1)  </li>\n<li>2,471,054 shares under additional 10% capacity (Listing Rule 7.1A)  </li>\n<li><strong>No shareholder approval required</strong> for the placement.  </li>\n<li><strong>Cleansing Notice</strong>: Secondary sales compliant via cleansing notice provisions.</li>\n</ul>",
+    "summary": "<ul>\n<li><strong>Capital Raising Type</strong>: Placement  </li>\n<li><strong>Total Securities Issued</strong>: 3,627,636 ordinary shares (KEY)  </li>\n<li><strong>Issue Price</strong>: AUD 0.042 per share  </li>\n<li><strong>Estimated Proceeds</strong>: ~AUD 152,361 (3,627,636 \u00d7 0.042)  </li>\n<li><strong>Use of Proceeds</strong>: Transaction costs, merger preparation, corporate development, and working capital.  </li>\n<li><strong>Timetable</strong>: Proposed issue date \u2013 8/8/2025.  </li>\n<li><strong>ASX Placement Capacity Used</strong>:  </li>\n<li>15% capacity (no shareholder approval): 1,156,582 shares  </li>\n<li>Additional 10% capacity (7.1A): 2,471,054 shares  </li>\n<li><strong>Rationale for Placement</strong>: Leverage current market conditions to avoid share price volatility.  </li>\n<li><strong>No underwriting, escrow, or dividend policy change</strong>.  </li>\n</ul>\n<p><em>Omitted non-material details (e.g., legal boilerplate, fees, cleansing notices).</em></p>",
     "usage": {
       "prompt_tokens": 1776,
-      "completion_tokens": 190,
-      "total_tokens": 1966,
+      "completion_tokens": 210,
+      "total_tokens": 1986,
       "prompt_tokens_details": null
     },
     "model": "deepseek/deepseek-chat-v3-0324:free",
-    "processed_at": "2025-08-04T08:04:14.188295"
+    "processed_at": "2025-08-04T08:42:13.475864"
   },
   {
     "ticker": "AUN",
