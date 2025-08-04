@@ -7,13 +7,13 @@
   "date": "20250804",
   "time": "1731",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf",
-  "summary": "**Summary Rules Applied:**  \n\n- **Extreme conciseness** \u2013 Only directly material details for trading/capital decisions.  \n- **Structured by announcement type** \u2013 No filler, no background.  \n- **Omit all non-essential text** (legal, names, intros).  \n\n*Example Outputs:*  \n\n1. **Trading Halt Request:**  \n   - *\"Pending release of material capital raising details.\"*  \n\n2. **Capital Raising Announcement (Placement + SPP):**  \n   - Structure: A$50M placement (A$0.30/sh) + A$10M SPP.  \n   - Key dates: Ex-date 15/05, Record 17/05, SPP close 31/05.  \n\n3. **Appendix 4C (Quarterly):**  \n   - Cash balance: A$12.3M (prev. A$15.1M).  \n   - Burn rate: A$2.8M/qt (operating).  \n\n4. **Material M&A Announcement:**  \n   - Acquiring [Target] for A$100M (50% scrip, 50% cash).  \n   - EPS accretive from Year 1.  \n\n5. **No Material Information Identified:**  \n   - (If document is routine or lacks actionable data.)  \n\n**Provide the PDF text/content, and I\u2019ll extract per above.**",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (announcement type, headline, and critical points), and I will generate a concise summary strictly following your requested format\u2014focusing only on material trading/capital markets information while omitting all non-essential details.  \n\nExample outputs based on common scenarios:  \n\n**1. Trading Halt Request**  \n- Reason: Pending capital raising announcement.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: A$50M placement (A$0.30/share) + A$10M SPP.  \n- Key dates: Ex-date 15/10/23, SPP closes 30/10/23.  \n\n**3. Quarterly Report (4C)**  \n- Cash balance: A$12.5M at quarter-end.  \n- Burnt A$2.1M (operating), receipts A$1.7M.  \n\n**4. Material Contract Signed**  \n- 5-year supply deal with [Major Co], min. revenue A$200M.  \n\n**5. No Material Information Identified**  \n- Routine corporate update; no trading impact.  \n\nReady to analyze your document\u2014share the details.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 296,
-    "total_tokens": 521,
+    "completion_tokens": 254,
+    "total_tokens": 479,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-08-04T08:39:39.818372"
+  "processed_at": "2025-08-04T09:02:43.434438"
 }
