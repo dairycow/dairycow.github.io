@@ -7,13 +7,13 @@
   "date": "20250805",
   "time": "1450",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250805/pdf/06mk9384bd91s4.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF, and I will analyze it strictly per your requirements, extracting only material information relevant for trading or capital markets decisions.  \n\nFor reference, here\u2019s how I\u2019d structure the summary based on common announcement types:  \n\n- **Trading Halt/Voluntary Suspension**:  \n  - *Reason*: Pending release of material announcement regarding [specific event].  \n\n- **Capital Raising (Placement/Entitlement Offer/SPP)**:  \n  - *Type*: [Placement/SPP/Entitlement Offer].  \n  - *Amount*: AUD $X at $Y/share (Z% discount to last close).  \n  - *Key Dates*: Ex-date: DD/MM, Record: DD/MM, Close: DD/MM.  \n\n- **Appendix 4C (Quarterly Cash Flow)**:  \n  - *Cash Balance*: AUD $X (prior quarter: $Y).  \n  - *Material Updates*: [Cash burn/debt movements/key operational milestones].  \n\n- **M&A/Asset Transaction**:  \n  - *Deal Terms*: [Purchase price/consideration/sale proceeds].  \n  - *Conditions*: [Shareholder approval/funding status].  \n\n- **Other Material Announcements**:  \n  - *Key Points*: [1\u20132 lines on material financial/strategic impact].  \n\nIf the document lacks actionable data (e.g., standard director changes), I\u2019ll note: *\"No material information identified.\"*  \n\nAttach the PDF, and I\u2019ll provide a tailored summary.",
+  "summary": "Understood. Please provide the ASX announcement PDF or the key details from it (e.g., announcement type, headline, and critical data points), and I will generate the concise summary per your guidelines.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Reason: Pending announcement of a capital raising.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Structure: AUD 50m Placement + AUD 10m SPP.  \n- Key dates: Ex-date 05/05/24, Record 08/05/24, SPP close 22/05/24.  \n\n**Appendix 4C (Quarterly):**  \n- Cash balance: AUD 12.3m (prior: AUD 15.1m).  \n- Highlights: Production 5,000oz Au (cost AUD 1,200/oz), exploration spend AUD 2.1m.  \n\n**Other Material Announcement:**  \n- Strategic acquisition: AUD 150m asset purchase, 50% debt-funded.  \n- FY24 guidance revised: NPAT uplift of 10-15% on strong demand.  \n\nLet me know the announcement details, and I\u2019ll distill it accordingly.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 336,
-    "total_tokens": 561,
+    "completion_tokens": 252,
+    "total_tokens": 477,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-08-05T05:54:29.833903"
+  "processed_at": "2025-08-05T06:08:32.320014"
 }
