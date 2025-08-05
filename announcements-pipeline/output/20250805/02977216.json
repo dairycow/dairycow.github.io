@@ -7,13 +7,13 @@
   "date": "20250805",
   "time": "1747",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250805/pdf/06mklskbxf95l2.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, and select excerpts), and I will distill the material information per your specified format, prioritizing trading/capital market relevance with strict conciseness.  \n\n**Example outputs:**  \n1. **Trading Halt Request**: \"Pending release of capital raising details.\"  \n2. **Capital Raising**: \"Placement + SPP; AUD 50M; ex-date 15/05, bookbuild 16/05.\"  \n3. **Appendix 4C**: \"Cash balance AUD 12.3M; quarterly burn AUD 1.5M.\"  \n4. **Other**: \"Major contract signed (AUD 200M over 3 yrs); FY24 guidance upgraded.\"  \n\nUpload the document or paste text, and I\u2019ll extract the essentials. No fluff.",
+  "summary": "Understood. Please upload or provide the ASX announcement PDF or its key details, and I will extract the material information in the strict, concise format you\u2019ve outlined (e.g., trading halt reason, capital raising terms, or critical operational/financial metrics).  \n\n**Example Outputs:**  \n- **Trading Halt:** *\"Pending release of capital raising details.\"*  \n- **Capital Raising:** *\"A$50M placement at A$0.30/share (10% discount); SPP up to A$10M. Ex-date: 15 May, Record: 16 May, Close: 30 May.\"*  \n- **Appendix 4C:** *\"Cash balance A$12.1M (A$15.4M last quarter). Quarterly burn A$3.3M.\"*  \n\nState if no material details are found. Proceed?",
   "usage": {
     "prompt_tokens": 230,
-    "completion_tokens": 182,
-    "total_tokens": 412,
+    "completion_tokens": 183,
+    "total_tokens": 413,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-08-05T07:57:38.969058"
+  "processed_at": "2025-08-05T08:29:56.110135"
 }
