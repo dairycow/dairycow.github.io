@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977627",
+  "id": "02977627",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250806",
+  "time": "1623",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mls73qplwkt8.pdf",
+  "summary": "This appears to be a product disclosure document for **CitiFirst Instalment MINIs** (structured equity products). Below is the extracted material information formatted for trading/capital markets decision-making:\n\n---\n\n### **Key Product Features**  \n- **Product Type**: Instalment MINIs (leveraged equity instruments)  \n- **Current Interest Rate**: 8.30% p.a.  \n- **Effective Date**: 07-Aug-25  \n- **Structure**:  \n  - Investors pay a **first instalment** (indicative price) to gain leveraged exposure to an underlying stock/ETF.  \n  - A **final instalment** (loan amount) is due at expiry.  \n  - **Stop Loss Trigger**: If the underlying share price falls to the stop-loss level, the position is automatically closed.  \n  - **Dividends**: Typically paid to investors (unless specified as \"Pay down loan\").  \n\n### **Trading Parameters (Selected Examples)**  \n| MINI Code | Underlying Stock | First Instalment (AUD) | Gearing | Stop Loss Level | % from Stop Loss | Expiry Date | Div Yield |\n|-----------|------------------|------------------------|---------|-----------------|------------------|-------------|-----------|\n| **A2MJOB** | A2 Milk Co Ltd | $4.45 | 43.44% | $7.87 | 47.90% | 26/05/2026 | 1.75% |\n| **AGLJOE** | AGL Energy Ltd | $2.42 | 75.63% | $9.94 | 13.08% | 08/09/2033 | 23.95% |\n| **BHPJOA** | BHP Group Ltd | $14.53 | 63.59% | $39.90 | 26.99% | 21/01/2032 | 12.92% |\n| **CBAJOA** | CBA | $53.30 | 70.24% | $179.08 | 21.44% | 25/09/2025 | 8.91% |\n| **CSLJOF** | CSL Ltd | $67.75 | 74.87% | $269.60 | 14.02% | 26/05/2026 | 6.22% |\n| **MQGJOA** | Macquarie Group | $110.31 | 48.99% | $216.23 | 43.74% | 25/09/2025 | 5.89% |\n| **WBCJOA** | Westpac Banking | $10.15 | 70.07% | $33.91 | 21.62% | 15/07/2032 | 14.97% |\n\n### **Critical Risks**  \n1. **Gearing Risk**: Higher gearing amplifies gains/losses (e.g., AGLJOE has 75.63% gearing).  \n2. **Stop Loss Trigger**: Positions close automatically if the underlying hits the stop-loss level (e.g., A2MJOB stops at $7.87).  \n3. **Expiry Dates**: Vary by product (e.g., short-term: 25/09/2025; long-term: 08/09/2033).  \n\n### **Other Notes**  \n- **Dividend Treatment**: Most pay dividends to investors; some reduce the loan balance (\"Pay down loan\").  \n- **Indicative Yields**: Range from 0% (e.g., XERO) to 33.93% (YM1JOA).  \n\n**No material capital-raising, operational, or financial updates identified** (document is a product disclosure).  \n\n---  \n*Summary focuses on trading parameters, risks, and yields. Non-material details (legal disclaimers, issuer information) omitted.*",
+  "usage": {
+    "prompt_tokens": 23302,
+    "completion_tokens": 817,
+    "total_tokens": 24119,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-06T06:52:53.344545"
+}
