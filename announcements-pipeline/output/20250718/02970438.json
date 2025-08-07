@@ -1,0 +1,19 @@
+{
+  "ticker": "BOQ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970438",
+  "id": "02970438",
+  "pages": 13,
+  "price_sensitive": false,
+  "date": "20250718",
+  "time": "0844",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxbnh31608hv.pdf",
+  "summary": "Here\u2019s the concise extraction of material information from the BOQ APRA Basel III Pillar 3 report (Quarter Ended 31 May 2025):\n\n### **Capital Ratios (Level 2)**\n- **CET1 Ratio:** 10.80% (\u21937bps QoQ)  \n- **Tier 1 Ratio:** 12.45% (\u21936bps QoQ)  \n- **Total Capital Ratio:** 15.06% (\u21935bps QoQ)  \n- *Drivers:* Dividend payout (-30bps), Branch strategy costs (-15bps), earnings (+22bps), RWA reduction (+9bps).  \n\n### **Risk-Weighted Assets (RWA)**\n- **Total RWA:** $39.87B (\u2193$340M QoQ)  \n- *Key shifts:* \u2193Residential property & corporate exposures; \u2191Commercial property/ADC & leases.  \n\n### **Liquidity Metrics**\n- **LCR:** 141.21% (\u21930.63pp QoQ) \u2013 HQLA \u2191$634M, NCO \u2191$519M (wholesale maturities impact).  \n- **NSFR:** 123.42% (flat QoQ).  \n\n### **Other Material Details**\n- **Capital Buffers:** CET1 post-minimum requirements at 6.30% (vs. 3.50% regulatory buffer).  \n- **LCR Composition:** Lower spot LCR (131%) due to wholesale maturities; covered bond maturity drove NCO increase.  \n\nOmitted: Policy details, attestations, non-material risk breakdowns.",
+  "usage": {
+    "prompt_tokens": 4426,
+    "completion_tokens": 341,
+    "total_tokens": 4767,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T23:18:53.137827"
+}

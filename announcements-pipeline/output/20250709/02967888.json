@@ -1,0 +1,19 @@
+{
+  "ticker": "GMD",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967888",
+  "id": "02967888",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1738",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln5xgs373wjw.pdf",
+  "summary": "Understood. If you provide the ASX announcement PDF (or its key details), I can extract **only** the material information relevant for trading or capital markets decisions in the following strictly concise format:  \n\n### **Examples of Output**  \n\n**1. Trading Halt Request:**  \n- *Reason:* Pending capital raising announcement.  \n\n**2. Capital Raising Announcement:**  \n- *Structure:* 1-for-4 entitlement offer + $50M placement.  \n- *Total Raised:* AUD 150M.  \n- *Key Dates:* Ex-date (DD/MM), Record (DD/MM), Close (DD/MM).  \n\n**3. Quarterly Report (Appendix 4C):**  \n- *Cash Balance:* AUD 12.5M (prior quarter: AUD 15.2M).  \n- *Key Highlights:* Revenue AUD 3.1M (+25% QoQ), FY24 guidance maintained.  \n\n**4. Other Announcement (e.g., M&A, Strategic Review):**  \n- *Acquisition:* AUD 200M for [Asset], funded via debt (AUD 150M) and equity (AUD 50M).  \n- *Impact:* Expected EPS accretive from FY25.  \n\n**Rules Applied:**  \n- Omitted all names, boilerplate, non-material operational updates.  \n- If unclear/no material info: \"No material information identified.\"  \n\nPlease share the announcement text or key details, and I\u2019ll provide a tailored summary.",
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 310,
+    "total_tokens": 545,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T08:55:41.122168"
+}

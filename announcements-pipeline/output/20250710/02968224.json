@@ -1,0 +1,19 @@
+{
+  "ticker": "FRS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968224",
+  "id": "02968224",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1402",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp5fcvgq5lcq.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or specify its type (e.g., Capital Raising, Quarterly Report) so I can extract ONLY material trading/capital markets details in the strict format you've outlined. \n\nIf you share the text, I will:  \n1. **Identify the announcement type** (e.g., Placement, Appendix 4C).  \n2. **List only material data** (no intros, names, filler).  \n3. **Format strictly per your rules** (e.g., Capital Raising \u2192 Structure, Amount AUD, Key Dates).  \n\n*Example Outputs:*  \n**Trading Halt Request**: \"Pending release of capital raising details.\"  \n**Placement**: \"A$50M institutional placement at A$0.30/share (10% discount). Bookbuild closes 15 May.\"  \n**Appendix 4C**: \"Cash A$12.3M (QoQ -A$1.5M). Sales receipts A$18M (+22% YoY).\"  \n\nNo material info = \"No material information identified.\"  \n\nReady to proceed.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 225,
+    "total_tokens": 455,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T06:03:13.333942"
+}

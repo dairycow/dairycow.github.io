@@ -1,0 +1,19 @@
+{
+  "ticker": "AIA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970098",
+  "id": "02970098",
+  "pages": 1,
+  "price_sensitive": true,
+  "date": "20250717",
+  "time": "0924",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lw9p7t9tfn19.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or paste the relevant text, and I will extract the material information in the requested format, strictly focusing on trading/capital markets relevance with ruthless conciseness.  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**  \n   - Reason: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - Structure: Placement + SPP.  \n   - Amount: AUD 50M (Placement at AUD 0.20/share).  \n   - Dates: Ex-date 15 Oct, Record 18 Oct, SPP closes 5 Nov.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - Cash balance: AUD 12.3M (QoQ -8%).  \n   - Revenue: AUD 4.1M (+15% YoY).  \n\n4. **Other Announcement**  \n   - Major contract won: AUD 25M over 3 years.  \n   - CEO resignation effective immediately.  \n\n5. **No material information identified**.  \n\nProceed with your document. I will adhere strictly to the rules.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 236,
+    "total_tokens": 456,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-16T23:48:31.005389"
+}

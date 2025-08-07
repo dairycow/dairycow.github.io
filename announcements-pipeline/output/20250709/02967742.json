@@ -1,0 +1,19 @@
+{
+  "ticker": "SHF",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967742",
+  "id": "02967742",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1043",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06lmsfzrs76y34.pdf",
+  "summary": "Understood. Please **upload or paste the text of the ASX announcement**, and I will extract only the material information relevant for trading or capital markets decisions in the concise bullet-point format you\u2019ve specified.  \n\nExamples of my output for common scenarios:  \n\n1. **Trading Halt Request**  \n   - *Reason:* Pending release of capital raising details.  \n\n2. **Capital Raising Announcement**  \n   - *Structure:* A$50M placement + A$10M SPP.  \n   - *Key Dates:* Ex-date 25/06, record 28/06, SPP closes 15/07.  \n\n3. **Quarterly Report (4C)**  \n   - *Cash (AUD):* $12.5M (vs. $15.2M last quarter).  \n   - *Highlights:* Revenue $3.1M (+22% QoQ), production 5,000oz Au.  \n\n4. **Other Announcement (e.g., M&A)**  \n   - *Acquisition:* 100% of TargetCo for A$200M (80% scrip, 20% cash).  \n   - *Conditions:* FIRB approval, shareholder vote.  \n\nProvide the document, and I\u2019ll tailor the summary accordingly. If no material details are present, I\u2019ll note: *No material information identified*.  \n\n*For personal use only.*",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 292,
+    "total_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T01:39:47.841802"
+}

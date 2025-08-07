@@ -1,0 +1,19 @@
+{
+  "ticker": "CIN",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973349",
+  "id": "02973349",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250728",
+  "time": "1418",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6s1z5crk6gt.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or a clear summary of its contents, specifying the **announcement type** (e.g., Trading Halt, Capital Raising, Quarterly Report). I will extract **only material information** relevant to trading or capital markets decisions, formatted as concise bullet points per your strict guidelines.  \n\n*Example Outputs:*  \n\n**1. Capital Raising Announcement:**  \n- Type: 1-for-4 pro rata entitlement offer.  \n- Amount: AUD 50M (AUD 0.50/share).  \n- Key dates: Ex-date 15/03, Record 18/03, Close 29/03.  \n\n**2. Appendix 4C (Quarterly):**  \n- Cash balance: AUD 12.4M (prev. AUD 15.1M).  \n- Highlights: Production up 8% QoQ, costs down 5%.  \n\n**3. Trading Halt Request:**  \n- Reason: Pending capital raising announcement.  \n\n**4. Other Announcement (M&A):**  \n- Acquiring 100% of [Target] for AUD 80M (50% scrip, 50% cash).  \n- Funding: AUD 40M new debt facility.  \n\nIf no material data is found, I will state:  \n- *No material information identified.*  \n\nProceed with your document/details.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 286,
+    "total_tokens": 506,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-28T05:43:14.566206"
+}

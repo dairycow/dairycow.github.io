@@ -1,0 +1,19 @@
+{
+  "ticker": "ZMM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969470",
+  "id": "02969470",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250715",
+  "time": "1415",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltdlt3r46v6l.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I will extract **only material information** relevant for trading or capital markets decisions, formatted **as concise bullet points**, following your specified structure.  \n\nIf the document isn\u2019t immediately available, here\u2019s how I\u2019ll handle common formats:  \n\n### **Examples of Outputs:**  \n\n1. **Trading Halt Request**  \n   - *Reason:* Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement (Placement + SPP)**  \n   - *Structure:* $50M placement + $10M SPP.  \n   - *Key Dates:* Ex-date: 15 Oct, Record: 17 Oct, Close: 31 Oct.  \n\n3. **Quarterly Report (4C)**  \n   - *Cash (end-Q):* $12.3M.  \n   - *Highlights:* Revenue up 15% QoQ, production 5,000oz Au.  \n\n4. **Other Material Announcement**  \n   - *Key Points:* Acquisition of X asset for $100M (funded via debt); FY24 guidance raised 10%.  \n\n5. **No Material Information Identified**  \n   - (If the doc is purely administrative or lacks trading-sensitive data.)  \n\n**Ready to proceed\u2014please share the document or key details.** I\u2019ll respond strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 294,
+    "total_tokens": 519,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-15T06:00:37.471718"
+}

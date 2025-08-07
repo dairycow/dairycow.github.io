@@ -1,0 +1,19 @@
+{
+  "ticker": "FMR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977088",
+  "id": "02977088",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250805",
+  "time": "1450",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250805/pdf/06mk9384bd91s4.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or the key details from it (e.g., announcement type, headline, and critical data points), and I will generate the concise summary per your guidelines.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- Reason: Pending announcement of a capital raising.  \n\n**Capital Raising Announcement (Placement + SPP):**  \n- Structure: AUD 50m Placement + AUD 10m SPP.  \n- Key dates: Ex-date 05/05/24, Record 08/05/24, SPP close 22/05/24.  \n\n**Appendix 4C (Quarterly):**  \n- Cash balance: AUD 12.3m (prior: AUD 15.1m).  \n- Highlights: Production 5,000oz Au (cost AUD 1,200/oz), exploration spend AUD 2.1m.  \n\n**Other Material Announcement:**  \n- Strategic acquisition: AUD 150m asset purchase, 50% debt-funded.  \n- FY24 guidance revised: NPAT uplift of 10-15% on strong demand.  \n\nLet me know the announcement details, and I\u2019ll distill it accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 252,
+    "total_tokens": 477,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-05T06:08:32.320014"
+}

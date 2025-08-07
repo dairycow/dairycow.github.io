@@ -1,0 +1,19 @@
+{
+  "ticker": "HIQ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971905",
+  "id": "02971905",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "1331",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m23dqlxbxlv3.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text) for review. I will extract **only** the material trading or capital markets information in the strict format you outlined, omitting all non-essential details.  \n\nExamples of how I'll respond based on common scenarios:  \n\n---  \n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Type: Placement + SPP  \n- Amount: AUD $50M (Placement: $40M at $0.50/share; SPP: AUD $10M cap)  \n- Dates: Ex-date 15/03, Record 18/03, SPP closes 05/04.  \n\n**Appendix 4C (Quarterly):**  \n- Cash balance: AUD $12.5M (QoQ -$2.1M).  \n- Highlights: Production 15koz Au, all-in sustaining cost (AISC) AUD $1,200/oz.  \n\n**Other Announcement:**  \n- Material: Major customer contract terminated (30% of FY23 revenue).  \n- Liquidity impact: AUD $15M debt facility drawn to 100%.  \n\n---  \nIf the document is unclear or lacks material data:  \n- \"No material information identified.\"  \n\nPlease share the announcement text/PDF for analysis.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 282,
+    "total_tokens": 507,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T05:26:47.868942"
+}

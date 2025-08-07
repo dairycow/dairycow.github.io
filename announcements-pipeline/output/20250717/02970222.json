@@ -1,0 +1,19 @@
+{
+  "ticker": "ADG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970222",
+  "id": "02970222",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "1308",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwmdynl1qwmb.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text) for review, and I will extract and format the material information per your guidelines with strict conciseness, focusing only on trading-relevant details.  \n\nExample output formats based on your criteria:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising Announcement**  \n- Type: Placement + SPP.  \n- Amount: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n- Dates: Ex-date 15/03, Record 18/03, SPP close 05/04.  \n\n**3. Quarterly Report (4C)**  \n- Cash balance: AUD 12.5M (prior: AUD 15.2M).  \n- Highlights: Revenue up 15% QoQ, included one-time sale of asset for AUD 3 million.  \n\n**4. Other Announcement (e.g., M&A, Asset Sale)**  \n- Key point: Divestment of non-core division for AUD 200M (2x book value).  \n- Impact: Net debt reduced to AUD 50M (from AUD 250M).  \n\nIf the document lacks material information:  \n- No material information identified.  \n\nReady to analyze your file\u2014attach or paste text.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 285,
+    "total_tokens": 510,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T04:52:39.682230"
+}

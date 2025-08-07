@@ -1,0 +1,19 @@
+{
+  "ticker": "UVA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969364",
+  "id": "02969364",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250715",
+  "time": "0949",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06lt3sd4t0qsn9.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or text excerpt), and I will extract only the material information relevant for trading or capital markets decisions in a concise, structured format following your guidelines.  \n\nIf the document is not provided, here\u2019s an example of how the output would look for common announcement types:  \n\n---  \n**Example 1: Trading Halt Request**  \n- *Reason*: Pending release of material announcement regarding capital raising.  \n\n**Example 2: Capital Raising (Placement + SPP)**  \n- *Structure*: AUD $50M placement (fully underwritten) + AUD $10M SPP.  \n- *Key dates*: Ex-date [DD/MM/YY], Record date [DD/MM/YY], SPP close [DD/MM/YY].  \n\n**Example 3: Quarterly Report (Appendix 4C)**  \n- *Cash balance*: AUD $12.5M (vs. AUD $15.2M prior quarter).  \n- *Highlights*: Revenue $8.1M (+22% QoQ), operational cost savings of $1.1M.  \n\n**Example 4: M&A Announcement**  \n- *Material point*: Acquisition of [Target] for AUD $100M (50% scrip, 50% cash).  \n- *Condition*: Subject to shareholder approval (meeting scheduled [DD/MM/YY]).  \n\n**No Material Information Identified** (if applicable)  \n\n---  \nProvide the document/text, and I\u2019ll distill it rigorously.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 327,
+    "total_tokens": 557,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-15T00:01:04.799845"
+}

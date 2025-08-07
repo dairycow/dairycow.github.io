@@ -1,0 +1,19 @@
+{
+  "ticker": "FSI",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977555",
+  "id": "02977555",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250806",
+  "time": "1351",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mllf1y851rqq.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or paste its key text, and I'll extract the material information in the concise format you've requested.  \n\nExample outputs based on your guidelines:  \n\n**Capital Raising Announcement:**  \n- **Type:** Placement + SPP  \n- **Amount:** AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n- **Dates:** Ex-date: 15 Jan; Record: 16 Jan; SPP Close: 30 Jan.  \n\n**Appendix 4C (Quarterly):**  \n- **Cash Balance:** AUD 12.5M (prior quarter: AUD 15.2M).  \n- **Cash Burn:** AUD 2.7M (operating).  \n- **Highlight:** First revenue received (AUD 1.1M).  \n\n**Trading Halt Request:**  \n- Pending capital raising announcement.  \n\n**Material M&A Announcement:**  \n- Acquiring [Target] for AUD 100M (100% scrip).  \n- Implied synergies: AUD 20M/year from 2025.  \n\n**No Material Information Identified:**  \n[Use if announcement is routine or lacks trading-sensitive details].  \n\nProvide the document/text, and I\u2019ll adhere strictly to your rules.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 273,
+    "total_tokens": 493,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-06T04:31:23.469438"
+}

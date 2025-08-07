@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968271",
+  "id": "02968271",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1631",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp9jzzqhj1xb.pdf",
+  "summary": "### Summary of Material Information  \n\nThe document outlines **CitiFirst Instalment MINIs** (Market Indexed Notes, Instalments) \u2013 structured products offering leveraged exposure to underlying ASX-listed securities with **interest rate of 8.30% p.a.** (effective from **11-Jul-25**).  \n\n#### Key Features:  \n1. **Structure**:  \n   - **Leveraged exposure**: Investors pay an initial instalment (loaned amount) and owe a final instalment.  \n   - **Stop Loss Trigger**: If the underlying share price hits the stop-loss level, the MINI is automatically exited.  \n   - **Dividends**: Typically paid to investors unless specified as \"Pay down loan.\"  \n\n2. **Examples of MINI Terms (Selected Underlying Stocks)**:  \n   - **AGL Energy (AGL)**:  \n     - **AGLJOA**: Final Instalment = $6.88, Stop Loss = $9.81, Gearing = 61.22%, Expiry = 21-Jan-2032, Div Yield = 15.24%.  \n     - **AGLSO1**: Instalment = $3.48, Stop Loss = $9.81, Gearing = 35.48%, Expiry = 06-Feb-2035.  \n   - **BHP Group (BHP)**:  \n     - **BHPJOA**: Final Instalment = $28.93, Stop Loss = $38.30, Gearing = 65.84%, Expiry = 21-Jan-2032.  \n\n3. **Risk Metrics**:  \n   - **Gearing**: Percentage of exposure relative to the underlying share price (e.g., 46-81%).  \n   - **% from Stop Loss**: Buffer before automatic exit (e.g., 12-80%).  \n\n4. **Expiry Dates**:  \n   - Range from **2025 to 2035**, with most expiring between 2026\u20132033.  \n\n5. **Dividend Treatment**:  \n   - Most MINIs pay dividends to investors; some apply dividends to reduce the loan.  \n\n### Trading Implications:  \n- **Leverage Risk**: Higher gearing increases exposure but also risk if the underlying stock declines.  \n- **Stop Loss Protection**: Triggers automatic exit if the stop-loss level is breached.  \n- **Yield Considerations**: Some MINIs offer high indicative dividend yields (e.g., **RIOJOD**: 28.70%).  \n\nNo material capital raising, corporate action, or operational updates identified\u2014solely product terms for trading/investment decisions.  \n\n---  \n**Concise, tailored for traders/investors prioritizing leverage, expiry, and stop-loss details.**",
+  "usage": {
+    "prompt_tokens": 23367,
+    "completion_tokens": 568,
+    "total_tokens": 23935,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T06:44:56.435619"
+}

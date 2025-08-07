@@ -1,0 +1,19 @@
+{
+  "ticker": "CR1",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972736",
+  "id": "02972736",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250725",
+  "time": "1152",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250725/pdf/06m4h8g2jptrg7.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will extract only the material information relevant for trading or capital markets decisions, formatted as concise bullet points per your specified guidelines.  \n\nIf you don\u2019t yet have the document, here\u2019s how I\u2019d structure the output for common announcement types:  \n\n### **Trading Halt Request**  \n- **Reason**: [One-line explanation, e.g., \"Pending material acquisition announcement.\"]  \n\n### **Capital Raising Announcement**  \n- **Type**: [Placement/SPP/Entitlement Offer]  \n- **Amount**: [$X AUD]  \n- **Key Dates**: Ex-date: [DD/MM/YY], Record date: [DD/MM/YY], Close: [DD/MM/YY].  \n\n### **Quarterly Report (Appendix 4C)**  \n- **Cash Balance**: [$X AUD]  \n- **Key Highlights**: [1\u20132 bullet points on major operational/financial developments.]  \n\n### **Other Announcements**  \n- Critical points only (e.g., M&A, material contracts, governance changes, or regulatory approvals).  \n\nIf you share the announcement text or type, I\u2019ll refine further. For now, here\u2019s an example placeholder:  \n\n**Example Output for a Capital Raise**:  \n- **Type**: Placement + SPP  \n- **Amount**: $50M AUD ($30M placement, $20M SPP)  \n- **Use of Funds**: Debt reduction (50%), exploration (30%), working capital (20%)  \n- **Key Dates**: Ex-date: 25/07/24, SPP close: 15/08/24.  \n\nLet me know the specifics to proceed!",
+  "usage": {
+    "prompt_tokens": 229,
+    "completion_tokens": 360,
+    "total_tokens": 589,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-25T03:27:39.789639"
+}

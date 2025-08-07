@@ -1,0 +1,19 @@
+{
+  "ticker": "FLC",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969551",
+  "id": "02969551",
+  "pages": 7,
+  "price_sensitive": false,
+  "date": "20250715",
+  "time": "1730",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250715/pdf/06ltm91cwz4lw6.pdf",
+  "summary": "Understood. Please upload the ASX announcement PDF or provide the key details (e.g., announcement type, headline, or excerpts), and I will generate a summary strictly adhering to your guidelines.  \n\n**Example output formats for common scenarios:**  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**:  \n   - *Type*: Placement + SPP  \n   - *Amount*: AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n   - *Key Dates*: Ex-date 15 Oct, Record 18 Oct, Close 30 Oct.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash Balance*: AUD 12.5M (QoQ -10%).  \n   - *Highlights*: Revenue AUD 3M (+25% QoQ), production 15,000oz Au.  \n\n4. **Other Announcement**:  \n   - *Material Points*: Major asset sale (AUD 100M); debt reduced to AUD 20M.  \n\nIf no material information is present, I will state:  \n   - *No material information identified*.  \n\nGo ahead with the document/details.",
+  "usage": {
+    "prompt_tokens": 250,
+    "completion_tokens": 270,
+    "total_tokens": 520,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-15T08:32:21.287301"
+}

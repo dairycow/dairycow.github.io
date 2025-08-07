@@ -1,0 +1,19 @@
+{
+  "ticker": "FDR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968514",
+  "id": "02968514",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250711",
+  "time": "0943",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq1lv2wx1wsg.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will generate a concise, material-only summary per your specified format.  \n\nIf the PDF is unavailable, here\u2019s how I\u2019ll respond based on common ASX announcement types:  \n\n**Example Outputs:**  \n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material acquisition announcement.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - *Structure*: $50M placement at $0.20/share (12.5% discount) + $5M SPP.  \n   - *Key Dates*: Ex-date 15/05, Record 17/05, SPP closes 31/05.  \n\n3. **Quarterly (Appendix 4C)**  \n   - *Cash Balance*: $10.2M (prior quarter: $12.1M).  \n   - *Highlight*: Revenue $3.5M (+22% QoQ).  \n\n4. **Material Contract Signed**  \n   - *Key Point*: 5-year supply deal with Fortune 500 co., est. $100M revenue.  \n\n5. **No Material Information**  \n   - (If the doc contains only governance updates or negligible details).  \n\n**Next Steps**: Share the announcement text/headline, and I\u2019ll adhere strictly to the rules above.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 305,
+    "total_tokens": 530,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-11T00:05:48.333423"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "OPH",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02975886",
+  "id": "02975886",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250801",
+  "time": "1141",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250801/pdf/06mff58lbrkbsg.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, or excerpts), and I will extract and format **only** the material information per your specified rules.  \n\nExample output formats based on common scenarios:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: 1-for-4 non-renounceable entitlement offer.  \n   - *Amount*: AUD 50M (AUD 0.20/share).  \n   - *Dates*: Ex-date 15 Sept, Record 18 Sept, Close 30 Sept.  \n\n3. **Quarterly (4C) Report**  \n   - *Cash balance*: AUD 2.1M (prior quarter: AUD 3.4M).  \n   - *Highlight*: Revenue AUD 5.2M (+12% QoQ).  \n\n4. **Other Announcement**  \n   - Debt facility secured: AUD 10M, 3-year term.  \n   - Major asset sale: AUD 25M (expected completion Q4 2024).  \n\n**Note**: If the document is irrelevant (e.g., governance changes, minor updates), I will reply: *\"No material information identified.\"*  \n\nAttach/share the announcement, and I\u2019ll proceed.",
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 295,
+    "total_tokens": 530,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-01T02:00:53.349171"
+}

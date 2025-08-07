@@ -1,0 +1,19 @@
+{
+  "ticker": "BGT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972401",
+  "id": "02972401",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "1535",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3hv7jg12v8p.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or key details from it (e.g., announcement type, headline, or excerpt), and I will extract **only** the material information in the requested concise format.  \n\nExample outputs:  \n\n**Trading Halt Request**  \n- Reason: Pending release of material acquisition details.  \n\n**Capital Raising Announcement**  \n- Structure: $50M placement + $10M SPP.  \n- Key dates: Ex-date 20/05, record 22/05, close 05/06.  \n\n**Quarterly Report (4C)**  \n- Cash balance: $12.4M (prior: $15.1M).  \n- Revenue $3.2M (+18% QoQ).  \n\n**Other Announcement**  \n- Approval received for Phase 2 clinical trials (key regulatory milestone).  \n\n*No material information identified* (if irrelevant).  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 195,
+    "total_tokens": 420,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T06:02:34.311568"
+}

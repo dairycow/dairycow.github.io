@@ -1,0 +1,19 @@
+{
+  "ticker": "MM8",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972718",
+  "id": "02972718",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250725",
+  "time": "1049",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250725/pdf/06m4fnb23hy0rs.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or a summary of its key details if the PDF isn't shareable), and specify the announcement type if known (e.g., capital raising, quarterly, trading halt). I\u2019ll extract material information as:  \n\n**Example Outputs:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material transaction details.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - *Total raised*: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n   - *Key dates*: Ex-date 15 Oct, Record 18 Oct, SPP close 30 Oct.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash balance*: AUD 12.5M (QoQ -10%).  \n   - *Highlights*: Production +15%, costs -5%.  \n\n4. **Other Announcement (Acquisition)**  \n   - *Material impact*: Acquires Asset X for AUD 80M (funded by debt).  \n\nProvide the document details, and I\u2019ll tailor the summary strictly per your rules. If no material data is present, I\u2019ll note it.  \n\n*(Note: For personal use only \u2013 not investment advice.)*",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 283,
+    "total_tokens": 508,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-25T01:46:09.471955"
+}

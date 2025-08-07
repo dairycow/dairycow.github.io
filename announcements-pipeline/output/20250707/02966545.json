@@ -1,0 +1,19 @@
+{
+  "ticker": "AIM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966545",
+  "id": "02966545",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250707",
+  "time": "0919",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljl5ktctwhd0.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its key details), and I\u2019ll extract **only** material information in concise bullets, tailored to the announcement type as per your guidelines.  \n\n**Example outputs for common scenarios:**  \n\n1. **Capital Raising Announcement**  \n   - *Type:* Placement + SPP  \n   - *Amount:* AUD 50M (Placement: AUD 40M at $0.50/share; SPP: AUD 10M cap)  \n   - *Key Dates:* Ex-date 15 May, Record 17 May, SPP closes 31 May.  \n\n2. **Trading Halt Request**  \n   - *Reason:* Pending announcement of capital raising.  \n\n3. **Appendix 4C (Quarterly)**  \n   - *Cash Balance:* AUD 12.3M (prior quarter: AUD 15.1M).  \n   - *Burn Rate:* Net operating cash outflow AUD 2.8M.  \n\n4. **Material M&A Transaction**  \n   - *Deal:* Acquisition of X Co for AUD 100M (50% cash, 50% scrip at $1.20/share).  \n   - *Conditions:* FIRB approval, due diligence by 30 June.  \n\n5. **No Material Information Identified**  \n\nSubmit the document/text, and I\u2019ll parse it strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 290,
+    "total_tokens": 518,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-06T23:35:02.065005"
+}

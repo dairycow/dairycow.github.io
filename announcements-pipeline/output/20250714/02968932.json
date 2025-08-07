@@ -1,0 +1,19 @@
+{
+  "ticker": "PUA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968932",
+  "id": "02968932",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "0921",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lrw86116c2c0.pdf",
+  "summary": "Understood. When reviewing the ASX announcement PDF, I\u2019ll extract *only* the material information relevant for trading or capital markets decisions, adhering strictly to the rules:\n\n### **Trading Halt Request (Example Response)**  \n- *Reason:* Pending announcement of a capital raising.\n\n### **Capital Raising Announcement (Example Response)**  \n- *Structure:* $50M placement + $10M SPP.  \n- *Key Dates:* Ex-date 15/10, Record 18/10, Close 30/10.  \n\n### **Quarterly Report (Appendix 4C) (Example Response)**  \n- *Cash Balance:* $12.3M (AUD), down from $15.1M last quarter.  \n- *Highlights:* Record quarterly sales ($5.2M), new contract signed with [Key Client].  \n\n### **Other Announcement (Example Response)**  \n- *Material Impact:*  \n  1. Major partnership with [Blue-Chip Co.], expected to boost FY25 revenue by ~20%.  \n  2. CEO resignation effective immediately; interim CEO appointed.  \n\n(If unclear, I\u2019ll state: *\"No material information identified.\"*)  \n\nPlease provide the ASX announcement PDF or key details, and I\u2019ll parse it accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 266,
+    "total_tokens": 491,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-13T23:45:02.507164"
+}

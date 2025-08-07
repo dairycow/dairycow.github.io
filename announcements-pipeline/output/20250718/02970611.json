@@ -1,0 +1,19 @@
+{
+  "ticker": "SMS",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970611",
+  "id": "02970611",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250718",
+  "time": "1422",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxsdkw2lktbb.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or key details from it (e.g., announcement type, headline, or excerpt), and I will extract the material information in the **concise bullet-point format** you've requested.  \n\n**Example outputs based on common announcement types:**  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending release of material capital raising details.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: $50M placement + $10M SPP.  \n   - *Key dates*: Ex-date 15/05, record 17/05, close 31/05.  \n\n3. **Quarterly Report (Appendix 4C)**  \n   - *Cash balance*: $12.3M (quarter-end).  \n   - *Key highlight*: Revenue up 15% QoQ to $5.2M.  \n\n4. **Other Announcement**  \n   - Material contract signed with tier-1 client (est. $20M/year revenue).  \n   - CEO resigning; replacement search underway.  \n\n**No material information identified** (if applicable).  \n\nDrop the document/text, and I\u2019ll parse it strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 260,
+    "total_tokens": 480,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-18T04:53:54.602475"
+}

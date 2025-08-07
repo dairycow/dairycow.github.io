@@ -1,0 +1,19 @@
+{
+  "ticker": "MPA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974585",
+  "id": "02974585",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1524",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb1xvsrrpn22.pdf",
+  "summary": "Understood. Here\u2019s how I will approach summaries of ASX announcements based on your requirements:  \n\n- **Trading Halt Request**:  \n  - Reason only (e.g., \"Pending capital raising announcement\").  \n\n- **Capital Raising Announcement (Placement, SPP, Entitlement Offer, etc.)**:  \n  - Structure (e.g., \"1-for-2 Entitlement Offer\").  \n  - Total capital raised (e.g., \"AUD 50M\").  \n  - Key dates (ex-date, record date, close date).  \n\n- **Quarterly Report (Appendix 4C)**:  \n  - Key operational/financial highlights (e.g., \"Revenue up 15% QoQ\").  \n  - Closing cash balance (e.g., \"AUD 12.3M\").  \n\n- **Other Announcements**:  \n  - Strictly the 2-3 most material points (e.g., \"Major asset sale: AUD 100M proceeds\"; \"Board change: CEO resigns unexpectedly\").  \n\nRules enforced:  \n1. No intros, director names, or filler.  \n2. If unclear or immaterial: \"No material information identified.\"  \n\n**Example Output**:  \n*Document: \"XYZ Ltd - Placement Announcement\"*  \n- **Capital Raising**: AUD 30M placement at $0.50/sh (10% discount).  \n- **Use of Funds**: Debt reduction (70%), working capital (30%).  \n- **Dates**: Bookbuild today, settlement 5 May.  \n\n*Document: \"ABC Ltd - Appendix 4C\"*  \n- **Cash Balance**: AUD 8.2M (vs. AUD 10.1M prior quarter).  \n- **Cash Burn**: AUD 1.9M (operational).  \n\n*Document: \"DEF Ltd - Trading Halt\"*  \n- **Reason**: Pending announcement on material acquisition.  \n\nLet me know the announcement type/PDF, and I\u2019ll extract accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 415,
+    "total_tokens": 640,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T06:02:35.537532"
+}

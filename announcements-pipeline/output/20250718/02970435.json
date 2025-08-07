@@ -1,0 +1,19 @@
+{
+  "ticker": "AUQ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970435",
+  "id": "02970435",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250718",
+  "time": "0842",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250718/pdf/06lxbg0szfdjfc.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I\u2019ll extract the material information in the requested concise format.  \n\nExample outputs based on announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending a material announcement regarding a capital raising.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP  \n   - *Total raised*: AUD 50M (Placement: AUD 40M, SPP: AUD 10M)  \n   - *Key dates*: Ex-date: DD/MM/YYYY, Record: DD/MM/YYYY, Close: DD/MM/YYYY  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash balance*: AUD 12.5M  \n   - *Highlights*: Quarterly revenue AUD 3.2M (+15% QoQ), milestone X achieved.  \n\n4. **Other Announcement**:  \n   - *Material impact*: Major contract signed (AUD 100M over 3 years).  \n   - *Liquidity update*: Debt facility extended to AUD 25M.  \n\n**If you share the announcement (or paste text), I\u2019ll summarize it per the rules above.** No fluff, just trading-relevant points.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 282,
+    "total_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T23:22:03.843661"
+}

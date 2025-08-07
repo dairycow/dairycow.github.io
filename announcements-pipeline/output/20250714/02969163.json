@@ -1,0 +1,19 @@
+{
+  "ticker": "BSX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969163",
+  "id": "02969163",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "1733",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06lsgwnkfx4pg7.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text extracts), and I will generate a concise, material-focused summary adhering strictly to your guidelines.  \n\nFor context, here\u2019s how I would approach common scenarios based on your rules:  \n\n**Example 1: Trading Halt Request**  \n- *Reason*: Pending release of capital raising details.  \n\n**Example 2: Capital Raising Announcement (Placement + SPP)**  \n- *Structure*: A$50M placement (A$0.20/share) + A$10M SPP.  \n- *Key dates*: Ex-date 15/10/23, SPP closes 30/10/23.  \n\n**Example 3: Quarterly Report (Appendix 4C)**  \n- *Cash balance*: A$12.1M (prior quarter: A$15.4M).  \n- *Key highlights*: Production 5,000oz Au (guidance 4,500\u20135,500oz), costs A$1,200/oz.  \n\n**Example 4: Other Announcement (M&A)**  \n- *Material terms*: Acquiring X Co for A$100M (50% scrip, 50% cash).  \n- *Conditions*: FIRB approval required, expected H1 2024.  \n\n**For personal use only**. *No material information identified* will be returned if the document lacks actionable data.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 301,
+    "total_tokens": 526,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-14T08:17:36.835902"
+}

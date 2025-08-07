@@ -1,0 +1,19 @@
+{
+  "ticker": "RHY",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967881",
+  "id": "02967881",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1720",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln5bhbgg3l22.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I will extract **only** the material information for trading or capital markets decisions in the concise format you\u2019ve specified.  \n\nExample responses based on common scenarios:  \n\n**1. Trading Halt Example:**  \n- *Reason*: Pending release of a material capital raising announcement.  \n\n**2. Capital Raising Example:**  \n- *Type*: Placement + SPP  \n- *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap)  \n- *Key Dates*: Ex-date 15/04/24, Record 18/04/24, SPP close 30/04/24.  \n\n**3. Quarterly Report (4C) Example:**  \n- *Cash Balance*: AUD 12.3M (QoQ -5%).  \n- *Highlight*: Revenue AUD 4.1M (+20% YoY).  \n\n**4. Other Announcement Example:**  \n- *Material Impact*: Major contract signed (AUD 25M over 3 years).  \n- *Liquidity*: Debt facility extended to AUD 50M (from AUD 30M).  \n\n**If no material info is present**, I\u2019ll state:  \n- *No material information identified*.  \n\nReady to proceed\u2014attach/share the announcement text.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 289,
+    "total_tokens": 519,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T08:31:50.159881"
+}

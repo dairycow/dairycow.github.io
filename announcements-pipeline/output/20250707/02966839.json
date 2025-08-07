@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966839",
+  "id": "02966839",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250707",
+  "time": "1633",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06lk9ky4yncvrp.pdf",
+  "summary": "This document appears to be a product disclosure for CitiFirst Instalment MINIs (Margin Installment Negotiable Investments), which are leveraged equity derivatives. Below is the extracted material information formatted as concise bullet points:\n\n### Key Product Features:\n- **Current interest rate**: 8.30% p.a.  \n- **Effective date**: 08-Jul-25  \n- **Structure**: Instalment MINIs (leveraged exposure to underlying ASX-listed securities with a loan component).  \n- **Key terms**:  \n  - **Final Instalment (Loan Amount)**: Amount due at expiry to fully own the underlying.  \n  - **Stop Loss Trigger Level**: If the underlying price hits this level, the MINI may be terminated.  \n  - **Gearing**: Loan-to-value ratio (e.g., 50% gearing means 50% is funded by the investor).  \n  - **First Instalment (Indicative IM Price)**: Initial payment required.  \n  - **% from Stop Loss**: Proximity of current share price to the stop-loss level.  \n\n### Notable Underlying Securities & Examples (AUD):\n- **High-yield examples**:  \n  - **AGLJOB**: 18.56% div yield, 68.69% gearing, stop loss 21.14% away.  \n  - **NHCJOA**: 34.57% div yield, 70.28% gearing, stop loss 19.30% away.  \n- **High gearing**:  \n  - **ASXJOB**: 75.51% gearing, stop loss 13.30% away.  \n  - **WLEJOB**: 76.94% gearing, stop loss 15.08% away.  \n\n### Risks Highlighted:\n1. **Leverage risk**: High gearing amplifies losses if the underlying price declines.  \n2. **Stop-loss risk**: Trigger level may lead to automatic termination.  \n3. **Dividend treatment**: Most pay dividends to investors, but some pay down the loan (e.g., ANZSO1).  \n\n### No Material Capital Raising or Trading Halt Information Identified.  \n*Note*: This is a derivatives pricing sheet\u2014not a corporate action announcement. Focus is on product mechanics, not issuer-specific news.  \n\n**Rules followed**:  \n- Omitted boilerplate, legal text, and non-material examples.  \n- Prioritized high-yield/high-gearing instruments for trading relevance.  \n- Clarified document type (derivatives disclosure, not ASX announcement).",
+  "usage": {
+    "prompt_tokens": 23365,
+    "completion_tokens": 539,
+    "total_tokens": 23904,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-07T07:00:53.633548"
+}

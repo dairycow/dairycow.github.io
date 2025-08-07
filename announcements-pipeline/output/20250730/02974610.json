@@ -1,0 +1,19 @@
+{
+  "ticker": "ATX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974610",
+  "id": "02974610",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1627",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb40gqr3ydqv.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract and format the material information per your instructions\u2014strictly focusing on trading, capital markets, or valuation-impacting details in concise bullet points.  \n\nExample format responses:  \n\n**Trading Halt Request:**  \n- *Reason*: Pending capital raising announcement.  \n\n**Capital Raising Announcement:**  \n- *Structure*: $50M placement + $10M SPP.  \n- *Key dates*: Ex-date 15/09, record 18/09, close 30/09.  \n\n**Quarterly Report (Appendix 4C):**  \n- *Cash balance*: $12.4M (QoQ -$2.1M).  \n- *Highlights*: Revenue up 15%, production 22k oz Au.  \n\n**Other Announcement (M&A):**  \n- *Acquisition*: 100% of Asset X for $80M (50% scrip, 50% cash).  \n- *Funding*: $40M equity raise confirmed.  \n\n**No material information identified** (if applicable).  \n\nReady to analyze your document.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 246,
+    "total_tokens": 471,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T06:44:18.146620"
+}

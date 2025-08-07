@@ -1,0 +1,19 @@
+{
+  "ticker": "GBZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02969085",
+  "id": "02969085",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250714",
+  "time": "1537",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250714/pdf/06ls8y3cylkln9.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or its key details, and I will:  \n\n1. **Identify the announcement type** (e.g., capital raising, trading halt, quarterly).  \n2. Extract **only material information** per your specified format.  \n3. Exclude all fluff (boilerplate, director names, non-material updates).  \n\nIf no material details are found, I\u2019ll state: *\"No material information identified.\"*  \n\n**Example Outputs:**  \n- **Trading Halt:** *\"Halt requested pending release of capital raising details.\"*  \n- **Capital Raising:** *\"Entitlement Offer at $0.50/share to raise $100M. Ex-date: 15 Oct, Record: 18 Oct, Close: 25 Oct.\"*  \n- **Quarterly (4C):** *\"Cash balance $12.5M; Q2 revenue $8.2M (+15% QoQ).\"*  \n\nProvide the document/content, and I\u2019ll deliver a razor-sharp summary.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 223,
+    "total_tokens": 453,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-14T06:18:40.975922"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "RIM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976724",
+  "id": "02976724",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "1731",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj79rc77gkg2.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (announcement type, headline, and critical points), and I will generate a concise summary strictly following your requested format\u2014focusing only on material trading/capital markets information while omitting all non-essential details.  \n\nExample outputs based on common scenarios:  \n\n**1. Trading Halt Request**  \n- Reason: Pending capital raising announcement.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: A$50M placement (A$0.30/share) + A$10M SPP.  \n- Key dates: Ex-date 15/10/23, SPP closes 30/10/23.  \n\n**3. Quarterly Report (4C)**  \n- Cash balance: A$12.5M at quarter-end.  \n- Burnt A$2.1M (operating), receipts A$1.7M.  \n\n**4. Material Contract Signed**  \n- 5-year supply deal with [Major Co], min. revenue A$200M.  \n\n**5. No Material Information Identified**  \n- Routine corporate update; no trading impact.  \n\nReady to analyze your document\u2014share the details.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 254,
+    "total_tokens": 479,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T09:02:43.434438"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "GBR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02966682",
+  "id": "02966682",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250707",
+  "time": "1253",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250707/pdf/06ljxpj1tgx7kt.pdf",
+  "summary": "Understood. Please share the ASX announcement PDF or its key details (e.g., company name, announcement type, headline) so I can extract the material information in the requested format.  \n\n**Example output formats:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement:**  \n   - Structure: Placement + SPP.  \n   - Total raised: AUD 50M (Placement AUD 40M, SPP AUD 10M target).  \n   - Key dates: Ex-date 15 Oct, Record 16 Oct, SPP close 30 Oct.  \n\n3. **Quarterly Report (Appendix 4C):**  \n   - Cash balance: AUD 12.5M (vs. AUD 15.2M prior quarter).  \n   - Highlights: Revenue AUD 3.1M (+22% QoQ), production 5,000 oz (guidance 4,800\u20135,200 oz).  \n\n4. **Other Announcement (e.g., M&A):**  \n   - Acquires XCo for AUD 100M (50% cash, 50% scrip).  \n   - Implied synergies: AUD 20M p.a. from 2026.  \n\nIf no material info is found, I\u2019ll state:  \n- *No material information identified.*  \n\nProceed when ready.",
+  "usage": {
+    "prompt_tokens": 228,
+    "completion_tokens": 298,
+    "total_tokens": 526,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-07T03:19:48.483116"
+}

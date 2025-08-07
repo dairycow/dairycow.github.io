@@ -1,0 +1,19 @@
+{
+  "ticker": "GMD",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973435",
+  "id": "02973435",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250728",
+  "time": "1706",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6zwsjhykpzh.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, issuer name, headline, or a brief excerpt), and I will extract only the material information as per your specified format.  \n\nExample outputs based on common scenarios:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement regarding capital raising.  \n\n**2. Capital Raising Announcement**  \n- Structure: $50M placement + $10M SPP.  \n- Key dates: Ex-date 15/05/2024, record date 17/05/2024, SPP close 31/05/2024.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: $12.4M (QoQ -$2.1M).  \n- Highlights: Gold production up 8% QoQ; costs reduced to $1,200/oz.  \n\n**4. Other Announcement (e.g., M&A, Divestment)**  \n- Asset sold: 100% of Project X for $75M cash.  \n- Impact: Net debt reduced to $50M (from $125M).  \n\nReply with the document or specifics to proceed. If none, I\u2019ll return:  \n*No material information identified*.",
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 268,
+    "total_tokens": 503,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-28T08:04:23.380799"
+}
