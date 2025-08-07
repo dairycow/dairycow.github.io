@@ -7,7 +7,7 @@
   "date": "20250807",
   "time": "1803",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mnbqjtwkjnd0.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the requested concise format, tailored to the announcement type. Example outputs based on common scenarios:  \n\n**Capital Raising Announcement**:  \n- **Type**: Placement + SPP  \n- **Amount**: AUD 50M (AUD 40M placement, AUD 10M SPP cap)  \n- **Dates**: Ex-date 15 May, Record 17 May, SPP close 31 May.  \n\n**Appendix 4C**:  \n- **Cash (end-Q)**: AUD 12.5M (prior: AUD 15.2M).  \n- **Highlights**: Production +5% QoQ, costs below guidance.  \n\n**Material M&A Announcement**:  \n- **Acquisition**: 100% of Target Co for AUD 200M (50% scrip, 50% cash).  \n- **Funding**: AUD 100M new debt facility.  \n\n**No Material Information Identified**:  \n- Routine director change or corporate presentation upload.  \n\nSubmit the document, and I\u2019ll parse it accordingly.",
+  "summary": "Understood. Please provide the ASX announcement PDF, and I will extract the material information based on your specified format, focusing strictly on trading relevance, capital markets impact, and conciseness.  \n\nExample outputs for reference:  \n\n1. **Trading Halt Request**:  \n   - \"Pending release of capital raising details.\"  \n\n2. **Capital Raising Announcement**:  \n   - Structure: Placement + SPP  \n   - Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n   - Key dates: Ex-date 15 Feb, Record 16 Feb, SPP close 5 Mar.  \n\n3. **Appendix 4C (Quarterly)**:  \n   - Cash balance: AUD 12.5M (QoQ -20%)  \n   - Key highlight: Revenue up 30% QoQ to AUD 8M.  \n\n4. **Other Announcement**:  \n   - Major contract won (AUD 25M over 3 years).  \n   - CEO resignation effective immediately.  \n\nLet me review your document\u2014attach or paste the relevant text.",
   "usage": {
     "prompt_tokens": 230,
     "completion_tokens": 236,
@@ -15,5 +15,5 @@
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-08-07T08:21:45.709954"
+  "processed_at": "2025-08-07T08:43:38.914985"
 }
