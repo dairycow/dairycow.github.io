@@ -1,5 +1,423 @@
 [
   {
+    "ticker": "STA",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978041",
+    "id": "02978041",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1430",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmynmdknnvcy.pdf",
+    "summary": "<p>Understood. Please provide the ASX announcement PDF, and I will extract <strong>only material information</strong> relevant for trading or capital markets decisions in the strict format you've outlined.  </p>\n<p>If the document isn't available now, here's how I'll structure the response based on common announcement types:  </p>\n<ol>\n<li><strong>Trading Halt/Voluntary Suspension Request</strong>  </li>\n<li>\n<p><em>Reason</em>: (e.g., \"Pending material acquisition announcement\" or \"Capital raising proposal\").  </p>\n</li>\n<li>\n<p><strong>Capital Raising</strong>  </p>\n</li>\n<li><em>Type</em>: Placement / Entitlement Offer / SPP / Rights Issue.  </li>\n<li><em>Amount raised</em>: AUD $X (or target range).  </li>\n<li><em>Use of proceeds</em>: (e.g., \"Debt reduction, project funding\").  </li>\n<li><em>Key dates</em>: Ex-date [DD/MM], Record date [DD/MM], Close date [DD/MM].  </li>\n<li>\n<p><em>Discount</em>: (if applicable, e.g., \"10% to VWAP\").  </p>\n</li>\n<li>\n<p><strong>Quarterly (4C) or Half-Yearly (4D) Report</strong>  </p>\n</li>\n<li><em>Cash balance</em>: AUD $X.  </li>\n<li><em>Cash burn</em>: AUD $X (if 4C).  </li>\n<li>\n<p><em>Key operational milestones</em>: (e.g., \"Production reached Y, new contract signed with Z\").  </p>\n</li>\n<li>\n<p><strong>Material Contracts/Projects</strong>  </p>\n</li>\n<li>\n<p><em>Key terms</em>: (e.g., \"10-year offtake agreement at $Y/unit\").  </p>\n</li>\n<li>\n<p><strong>M&amp;A/Divestment</strong>  </p>\n</li>\n<li><em>Deal value</em>: AUD $X.  </li>\n<li>\n<p><em>Conditions</em>: (e.g., \"Subject to shareholder approval\").  </p>\n</li>\n<li>\n<p><strong>Governance/Directors</strong>  </p>\n</li>\n<li><em>Only if material</em>: (e.g., \"CEO resigns, successor named\").  </li>\n</ol>\n<p><strong>For all others</strong>: \"No material information identified\" or summarise key impacts in 1\u20132 bullets.  </p>\n<p>You can share the document, or specify the announcement type if known (e.g., \"Assume it\u2019s a capital raising notice\"). I\u2019ll adhere strictly to your format.  </p>\n<p><em>Note</em>: I\u2019ll verify that extracted data matches ASX formatting conventions (e.g., AUD millions, standard date formats). Let me know if you'd like additional focus areas (e.g., debt covenants in a recapitalisation).</p>",
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 502,
+      "total_tokens": 727,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:54:16.620166"
+  },
+  {
+    "ticker": "REM",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978040",
+    "id": "02978040",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1426",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmykrq8bvvmj.pdf",
+    "summary": "<ul>\n<li><strong>Type:</strong> Share Issuance Notice  </li>\n<li><strong>Details:</strong> Issued 370,371 fully paid ordinary shares to a consultant as partial payment for services rendered.  </li>\n<li><strong>Disclosure:</strong> Issued without disclosure under Part 6D.2 of the Corporations Act.  </li>\n</ul>\n<p><em>No further material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 521,
+      "completion_tokens": 69,
+      "total_tokens": 590,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:58:28.029851"
+  },
+  {
+    "ticker": "AGI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978038",
+    "id": "02978038",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1424",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmyf62zjwqh6.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong></p>\n<ul>\n<li><strong>Half Year Results Announcement (6 Months ended 30 June 2025):</strong>  </li>\n<li>Results to be released <strong>19 August 2025 (after market close)</strong>.  </li>\n<li>Investor conference call scheduled for <strong>20 August 2025 at 10:00am AEST</strong>.  </li>\n</ul>\n<p><em>No further material trading or capital markets information provided.</em></p>",
+    "usage": {
+      "prompt_tokens": 972,
+      "completion_tokens": 82,
+      "total_tokens": 1054,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:44:08.629861"
+  },
+  {
+    "ticker": "DHG",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978039",
+    "id": "02978039",
+    "pages": 9,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1424",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmyh8dtlw5g1.pdf",
+    "summary": "<h3><strong>Summary of ASX Announcement</strong></h3>\n<ul>\n<li><strong>Type:</strong> Conversion of employee/shareholder rights to ordinary shares  </li>\n<li><strong>Total Ordinary Shares Issued:</strong> 2,165,622 (DHG)  </li>\n<li>Breakdown:  <ul>\n<li>374,948 shares from <strong>STI (DHGAD)</strong> rights @ $4.43 (inc. 6,965 by KMP Peter Williams)  </li>\n<li>1,572,455 shares from <strong>LTI (DHGAE)</strong> rights @ $4.43 (inc. 130,197 by KMP Peter Williams)  </li>\n<li>10,757 shares from <strong>DIP 1 (DHGAF)</strong> rights @ $4.43  </li>\n<li>207,462 shares from <strong>DIP 2 (DHGAG)</strong> rights @ $4.43  </li>\n</ul>\n</li>\n<li><strong>Post-Issue Capital:</strong> 633,822,775 DHG ordinary shares on issue.  </li>\n<li><strong>Context:</strong> Conversion triggered by <strong>Scheme of Arrangement</strong> (CoStar Group acquisition, details in Scheme Booklet dated 30 June 2025).  </li>\n</ul>\n<p><strong>Material Impact:</strong><br />\n- Dilution from new shares issued (2.17M shares at $4.43 each, all non-cash consideration).<br />\n- KMP participation (Peter Williams exercises rights for 137,162 shares).<br />\n- Scheme-linked conversion confirms progress toward acquisition closing.  </p>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 3476,
+      "completion_tokens": 295,
+      "total_tokens": 3771,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:44:12.988984"
+  },
+  {
+    "ticker": "WCE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978036",
+    "id": "02978036",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1419",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmy85y94y43n.pdf",
+    "summary": "<ul>\n<li><strong>Cleansing Notice</strong>:  </li>\n<li><strong>2,162,782 new shares</strong> issued via option exercises (no disclosure under Part 6D.2 of Corporations Act).  </li>\n<li>Compliance with ASX continuous disclosure obligations confirmed.  </li>\n</ul>\n<p>No other material trading or capital markets information identified.</p>",
+    "usage": {
+      "prompt_tokens": 769,
+      "completion_tokens": 61,
+      "total_tokens": 830,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:40:05.138054"
+  },
+  {
+    "ticker": "LSR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978035",
+    "id": "02978035",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1417",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmy5p39ttbby.pdf",
+    "summary": "<ul>\n<li><strong>Announcement Type:</strong> Target Market Determination (TMD) for Bonus Options Issue  </li>\n<li><strong>Key Points:</strong>  </li>\n<li><strong>Product:</strong> Non-renounceable entitlement bonus issue of options (Bonus Options) to existing shareholders.  </li>\n<li><strong>Exercise Period:</strong> 5-year term for exercising options.  </li>\n<li><strong>Risk Disclosure:</strong> Highly speculative investment; no guaranteed income or capital protection. Suitable only for investors tolerant of significant risk and volatility.  </li>\n<li><strong>Target Market:</strong> Shareholders with medium-to-long-term outlook, financial capacity to pay exercise price, and understanding of mining-sector risks.  </li>\n<li><strong>Distribution Conditions:</strong> Limited to eligible shareholders with registered addresses in Australia/New Zealand. No application form required.  </li>\n<li><strong>Review Triggers:</strong> Includes material changes to regulatory environment, ASIC concerns, or inconsistent dealings.  </li>\n</ul>\n<p><em>No capital raising details, timetable, or financial data provided.</em></p>",
+    "usage": {
+      "prompt_tokens": 2314,
+      "completion_tokens": 185,
+      "total_tokens": 2499,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:49:26.076072"
+  },
+  {
+    "ticker": "UBI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978033",
+    "id": "02978033",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250807",
+    "time": "1416",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmy1dpjtb4n4.pdf",
+    "summary": "<ul>\n<li><strong>Funding Strategy Update</strong>:  </li>\n<li>Potential shift from secured loan facility (as per 2 July 2025 announcement) to a <strong>pro rata Entitlement Offer</strong> for CDIs.  </li>\n<li><strong>Viburnum</strong> (substantial shareholder) may underwrite part of the shortfall, subject to asset divestment progress.  </li>\n<li>\n<p><strong>No binding commitment</strong> yet; terms (pricing/timing) under negotiation.  </p>\n</li>\n<li>\n<p><strong>Revised Timetable</strong>:  </p>\n</li>\n<li>Due diligence period extended to <strong>15 August 2025</strong> (from original deadlines).  </li>\n<li>\n<p>Further update pending finalisation of funding terms.  </p>\n</li>\n<li>\n<p><strong>Material Implication</strong>: Potential equity dilution or change in capital structure via Entitlement Offer.  </p>\n</li>\n</ul>\n<p><em>(Omitted: Operational descriptions, forward-looking disclaimers, and non-material background.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1228,
+      "completion_tokens": 172,
+      "total_tokens": 1400,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:40:08.068723"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978032",
+    "id": "02978032",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1416",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxz73zkzbqm.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Explanation: This is a standard director's interest notice disclosing shareholdings upon cessation of directorship. No actionable trading or capital markets information is present.)</p>",
+    "usage": {
+      "prompt_tokens": 810,
+      "completion_tokens": 39,
+      "total_tokens": 849,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:42:21.501330"
+  },
+  {
+    "ticker": "LSR",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978030",
+    "id": "02978030",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250807",
+    "time": "1415",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxtw0b81x9n.pdf",
+    "summary": "<h3>Summary of ASX Announcement:</h3>\n<p><strong>Type:</strong> <strong>Loyalty Options Offer (Bonus Issue)</strong><br />\n- <strong>Structure:</strong> Non-renounceable pro-rata bonus issue of options (1:20 ratio; revised from 1:30).<br />\n- <strong>Eligibility:</strong> Shareholders on record as of <strong>12 August 2025 (Record Date)</strong> with registered addresses in Australia, NZ, or UK.<br />\n- <strong>Key Dates:</strong><br />\n  - Ex-date: <strong>13 August 2025</strong><br />\n  - Record Date: <strong>14 August 2025</strong><br />\n  - Option Exercise Forms dispatched: <strong>19 August 2025</strong><br />\n  - Expected quotation of options: <strong>22 August 2025</strong>.<br />\n- <strong>Other:</strong> Company intends to apply for ASX quotation of the New Options.  </p>\n<p>No other material trading or capital markets information identified.  </p>\n<p><em>(Omitted: Operational commentary, project details, director contacts, and boilerplate.)</em></p>",
+    "usage": {
+      "prompt_tokens": 991,
+      "completion_tokens": 197,
+      "total_tokens": 1188,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:58:32.426714"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978029",
+    "id": "02978029",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1414",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxrnc85d67r.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(This is a standard director's interest disclosure with no actionable impact on trading or capital structure.)</em></p>",
+    "usage": {
+      "prompt_tokens": 719,
+      "completion_tokens": 27,
+      "total_tokens": 746,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:37:25.326659"
+  },
+  {
+    "ticker": "CLE",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978028",
+    "id": "02978028",
+    "pages": 2,
+    "price_sensitive": true,
+    "date": "20250807",
+    "time": "1413",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxpd3389p5g.pdf",
+    "summary": "<ul>\n<li><strong>Trading Halt Request</strong>: Pending release of scoping study for Iron Bear project. Halt effective 7 August 2025, lifting on 11 August 2025 or earlier upon announcement.  </li>\n</ul>\n<p>No other material information identified.</p>",
+    "usage": {
+      "prompt_tokens": 672,
+      "completion_tokens": 51,
+      "total_tokens": 723,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:47:05.422812"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978026",
+    "id": "02978026",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1412",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxk2l964vdd.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p><em>(Note: An Appendix 3X\u2014Initial Director's Interest Notice typically discloses a director's shareholding but does not contain material trading or capital markets information unless accompanied by other announcements, such as a change in substantial holdings or transactions. This filing is routine disclosure.)</em></p>",
+    "usage": {
+      "prompt_tokens": 719,
+      "completion_tokens": 61,
+      "total_tokens": 780,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:56:34.659878"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978024",
+    "id": "02978024",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1411",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxdr0srs8tc.pdf",
+    "summary": "<p>No material information identified.  </p>\n<p>(Note: Director's interest notices (Appendix 3X) typically disclose personal holdings and do not contain information relevant to trading or capital markets decisions unless they involve significant changes in director ownership or conflicts. This filing is routine.)</p>",
+    "usage": {
+      "prompt_tokens": 740,
+      "completion_tokens": 52,
+      "total_tokens": 792,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:42:13.704679"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978023",
+    "id": "02978023",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1409",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmxb8sqlz2tc.pdf",
+    "summary": "<ul>\n<li><strong>Director's Interest Change</strong>:  </li>\n<li><em>Gavin Murray SMITH</em>'s indirect interest increased via on-market purchase by daughter (<em>Lucia Vega</em>) of <strong>4,137 ALK shares</strong> at <strong>$2,994.30 total consideration</strong>.  </li>\n<li>Post-transaction holdings:  <ul>\n<li>Direct: 228,243 ALK  </li>\n<li>Indirect (spouse): 172,125 ALK  </li>\n<li>Indirect (daughter): 4,137 ALK  </li>\n</ul>\n</li>\n<li><strong>Closed Period Trading</strong>: No trading during closed period requiring clearance.  </li>\n</ul>\n<p><em>No other material information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 981,
+      "completion_tokens": 123,
+      "total_tokens": 1104,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:56:24.311853"
+  },
+  {
+    "ticker": "ALK",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978021",
+    "id": "02978021",
+    "pages": 3,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1408",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmx5w1fgcy39.pdf",
+    "summary": "<ul>\n<li><strong>Director's Indirect Share Purchase</strong>: Nicholas Paul Earner indirectly acquired 69,445 ALK ordinary shares via on-market purchase at a consideration of <strong>$50,347.63</strong> (through entities ED-NE Pty Ltd and Earner Pty Ltd).  </li>\n<li><strong>Post-Transaction Holdings</strong>:  </li>\n<li>ED-NE Pty Ltd retains <strong>5,821,187 ALK shares</strong> and various unexercised performance rights.  </li>\n<li>Earner Pty Ltd\u2019s ALK holdings increased to <strong>126,916 shares</strong>.  </li>\n<li><strong>No Closed Period Breach</strong>: Trade did not occur during a closed period requiring clearance.  </li>\n</ul>\n<p><strong>No material impact on valuation, liquidity, or capital structure identified</strong>.</p>",
+    "usage": {
+      "prompt_tokens": 1267,
+      "completion_tokens": 143,
+      "total_tokens": 1410,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:52:19.039064"
+  },
+  {
+    "ticker": "RGO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978022",
+    "id": "02978022",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1408",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmx81lr8tr8s.pdf",
+    "summary": "<ul>\n<li><strong>RGOS ETF Derivative Exposure (July 2025):</strong>  </li>\n<li>Net notional derivative exposure: <strong>6.01%</strong> of NAV  </li>\n<li>Gross long exposure: <strong>14.52%</strong>  </li>\n<li>Gross short exposure: <strong>8.51%</strong><br />\n<em>(Excludes FX-hedging derivatives)</em>  </li>\n</ul>\n<p><em>No other material trading or capital markets information identified.</em></p>",
+    "usage": {
+      "prompt_tokens": 789,
+      "completion_tokens": 82,
+      "total_tokens": 871,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:56:37.898117"
+  },
+  {
+    "ticker": "DCO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978020",
+    "id": "02978020",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1407",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmx3ls779rbk.pdf",
+    "summary": "<ul>\n<li><strong>Monthly ETF Redemptions &amp; Units on Issue (July 2025)</strong>  </li>\n<li><strong>Units Issued:</strong> 65,000 (AUD $3.31M)  </li>\n<li><strong>Units Redeemed:</strong> 0  </li>\n<li><strong>Total Units on Issue (31 July 2025):</strong> 1,011,781  </li>\n<li><strong>Net Asset Value (NAV) per Unit:</strong> AUD $50.9757  </li>\n<li><strong>Total Net Assets:</strong> AUD $51.58M  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified (routine monthly disclosure).</em></p>",
+    "usage": {
+      "prompt_tokens": 1082,
+      "completion_tokens": 121,
+      "total_tokens": 1203,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:54:20.379293"
+  },
+  {
+    "ticker": "DHO",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978019",
+    "id": "02978019",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1406",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmx1f6t62ln5.pdf",
+    "summary": "<h3>Summary: Monthly Redemptions &amp; Units on Issue Notification (DAINTREE HYBRID OPPORTUNITIES ACTIVE ETF - ASX: DHOF)</h3>\n<ul>\n<li><strong>Units Issued (July 2025):</strong> 25,000  </li>\n<li><strong>Units Redeemed (July 2025):</strong> 0  </li>\n<li><strong>Net Increase in Units:</strong> 25,000  </li>\n<li><strong>Net Asset Value (NAV) per Unit (31 July 2025):</strong> $9.7022  </li>\n<li><strong>Total Net Assets (31 July 2025):</strong> $51,211,653  </li>\n<li><strong>Total Units on Issue (31 July 2025):</strong> 5,278,372  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified beyond routine monthly disclosures.</em></p>",
+    "usage": {
+      "prompt_tokens": 1081,
+      "completion_tokens": 159,
+      "total_tokens": 1240,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:52:08.398908"
+  },
+  {
+    "ticker": "GCI",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978018",
+    "id": "02978018",
+    "pages": 1,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1405",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmwz7ntkx3l3.pdf",
+    "summary": "<ul>\n<li><strong>NTA Update</strong>: Gryphon Capital Income Trust (ASX: GCI) unaudited Net Tangible Asset (NTA) per unit as at 6 August 2025: <strong>$2.0120</strong>.  </li>\n<li><strong>Disclosure Note</strong>: NTA for 12 August 2025 delayed to 14 August 2025 due to Brisbane public holiday.  </li>\n</ul>\n<p><em>(No other material information identified for trading or capital markets decisions.)</em></p>",
+    "usage": {
+      "prompt_tokens": 507,
+      "completion_tokens": 93,
+      "total_tokens": 600,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:49:29.397698"
+  },
+  {
+    "ticker": "IMP",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978017",
+    "id": "02978017",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1404",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmwwyvcx03gx.pdf",
+    "summary": "<ul>\n<li><strong>EIGA (Perennial Income Generator Active ETF) \u2013 July 2025:</strong>  </li>\n<li>Net redemptions: <strong>100,442 units</strong> (137,694 redeemed vs. 37,252 issued).  </li>\n<li>Net outflow: <strong>-$377,183</strong> ($516,030 redeemed vs. $138,847 issued).  </li>\n<li>Units on issue (31 July): <strong>8,020,271</strong>.  </li>\n<li>\n<p>NAV per unit: <strong>$3.7886</strong>; total net assets: <strong>$30.4m</strong>.  </p>\n</li>\n<li>\n<p><strong>IMPQ (Perennial Better Future Active ETF) \u2013 July 2025:</strong>  </p>\n</li>\n<li>Net redemptions: <strong>8,842 units</strong> (111,966 redeemed vs. 103,124 issued).  </li>\n<li>Net outflow: <strong>-$38,172</strong> ($548,965 redeemed vs. $510,793 issued).  </li>\n<li>Units on issue (31 July): <strong>9,155,942</strong>.  </li>\n<li>NAV per unit: <strong>$4.9976</strong>; total net assets: <strong>$45.8m</strong>.  </li>\n</ul>\n<p><strong>Key Takeaway:</strong> Both ETFs experienced net outflows in July, with EIGA showing significantly higher redemptions relative to its size. No other material updates (e.g., capital actions, strategy changes) disclosed.  </p>\n<p><em>(Note: Announcement is a routine monthly units/NAV disclosure; no trading or structural impacts identified.)</em></p>",
+    "usage": {
+      "prompt_tokens": 1414,
+      "completion_tokens": 299,
+      "total_tokens": 1713,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:56:44.275519"
+  },
+  {
+    "ticker": "BMN",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978015",
+    "id": "02978015",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1401",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmwr7cc8pt80.pdf",
+    "summary": "<p><strong>Summary of ASX Announcement:</strong>  </p>\n<ul>\n<li><strong>General Meeting Result:</strong> Resolution to ratify prior share issuance passed (97.01% in favor).  </li>\n<li><strong>Vote Breakdown:</strong>  </li>\n<li>For: 73,975,181 shares (97.19% of votes cast).  </li>\n<li>Against: 2,194,869 shares (2.81%).  </li>\n</ul>\n<p><em>No material trading or capital markets impact identified\u2014routine ratification of historical transaction.</em></p>",
+    "usage": {
+      "prompt_tokens": 686,
+      "completion_tokens": 94,
+      "total_tokens": 780,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:42:06.393002"
+  },
+  {
+    "ticker": "TM1",
+    "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978014",
+    "id": "02978014",
+    "pages": 2,
+    "price_sensitive": false,
+    "date": "20250807",
+    "time": "1400",
+    "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmwnvv93sz2m.pdf",
+    "summary": "<ul>\n<li><strong>Shareholder approval obtained</strong> for all resolutions, including:  </li>\n<li><strong>Placement shares issuance</strong> (Tranche 2 and Tranche 1 under Listing Rules 7.1/7.1A).  </li>\n<li><strong>Options issuance</strong> to Tribeca Capital Pte. Ltd. and incentives to executives/employees.  </li>\n<li><strong>No dissenting votes</strong> on key capital-related resolutions (1\u20136). Minor opposition (0.4%) on employee/consultant options (Resolution 7).  </li>\n</ul>\n<p><em>No material trading or capital structure impacts beyond the approved resolutions.</em></p>",
+    "usage": {
+      "prompt_tokens": 936,
+      "completion_tokens": 120,
+      "total_tokens": 1056,
+      "prompt_tokens_details": null
+    },
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "processed_at": "2025-08-07T04:56:09.870425"
+  },
+  {
     "ticker": "MIO",
     "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978010",
     "id": "02978010",
