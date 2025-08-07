@@ -1,0 +1,19 @@
+{
+  "ticker": "DBF",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978201",
+  "id": "02978201",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250807",
+  "time": "1803",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mnbqjtwkjnd0.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the requested concise format, tailored to the announcement type. Example outputs based on common scenarios:  \n\n**Capital Raising Announcement**:  \n- **Type**: Placement + SPP  \n- **Amount**: AUD 50M (AUD 40M placement, AUD 10M SPP cap)  \n- **Dates**: Ex-date 15 May, Record 17 May, SPP close 31 May.  \n\n**Appendix 4C**:  \n- **Cash (end-Q)**: AUD 12.5M (prior: AUD 15.2M).  \n- **Highlights**: Production +5% QoQ, costs below guidance.  \n\n**Material M&A Announcement**:  \n- **Acquisition**: 100% of Target Co for AUD 200M (50% scrip, 50% cash).  \n- **Funding**: AUD 100M new debt facility.  \n\n**No Material Information Identified**:  \n- Routine director change or corporate presentation upload.  \n\nSubmit the document, and I\u2019ll parse it accordingly.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 236,
+    "total_tokens": 466,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-07T08:21:45.709954"
+}
