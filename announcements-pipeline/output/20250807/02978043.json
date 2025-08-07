@@ -1,0 +1,19 @@
+{
+  "ticker": "ARI",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978043",
+  "id": "02978043",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250807",
+  "time": "1435",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmytvpw0p9t1.pdf",
+  "summary": "Understood. For any ASX announcement PDF you provide, I will extract **only material information** relevant to trading or capital markets decisions, formatted as **concise bullet points** based on the announcement type.  \n\n### **How I\u2019ll Summarize:**  \n\n- **Trading Halt Request** \u2192 *Reason only (one line)*.  \n- **Capital Raising** \u2192 *Structure (Placement/SPP/Entitlement), total $ raised (AUD), key dates (ex-date, record date, close date)*.  \n- **Quarterly (4C)** \u2192 *Operational/financial highlights + closing cash (AUD)*.  \n- **Other Announcements** \u2192 *Max 3 bullet points; only valuation/liquidity/capital structure impacts*.  \n- **If unclear or immaterial** \u2192 *\"No material information identified\"*.  \n\n**Rules followed strictly:**  \n\u2705 Ruthless conciseness  \n\u2705 Skip intros, directors, legal jargon  \n\u2705 Focus on price-sensitive or liquidity-impacting items  \n\nAttach or paste the PDF/text and I\u2019ll analyze it accordingly.  \n\n*(Example outputs below for clarity.)*  \n\n---  \n**Example 1 (Trading Halt):**  \n- *Trading halt requested pending material acquisition announcement.*  \n\n**Example 2 (Capital Raise):**  \n- *$50M placement + $5M SPP; ex-date 15 Oct, books close 20 Oct.*  \n\n**Example 3 (4C):**  \n- *Cash $12.5M (QoQ -$2.1M); sales up 15% QoQ; production 20,000oz Au.*  \n\n**Example 4 (M&A):**  \n- *Acquiring X Co for $100M (50% scrip, 50% cash); EPS accretive by 10%.*  \n\n---  \nReady for your document.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 396,
+    "total_tokens": 621,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-07T05:25:33.775775"
+}

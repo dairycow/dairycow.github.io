@@ -7,13 +7,13 @@
   "date": "20250807",
   "time": "1430",
   "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmynmdknnvcy.pdf",
-  "summary": "Understood. Please provide the ASX announcement PDF, and I will extract **only material information** relevant for trading or capital markets decisions in the strict format you've outlined.  \n\nIf the document isn't available now, here's how I'll structure the response based on common announcement types:  \n\n1. **Trading Halt/Voluntary Suspension Request**  \n   - *Reason*: (e.g., \"Pending material acquisition announcement\" or \"Capital raising proposal\").  \n\n2. **Capital Raising**  \n   - *Type*: Placement / Entitlement Offer / SPP / Rights Issue.  \n   - *Amount raised*: AUD $X (or target range).  \n   - *Use of proceeds*: (e.g., \"Debt reduction, project funding\").  \n   - *Key dates*: Ex-date [DD/MM], Record date [DD/MM], Close date [DD/MM].  \n   - *Discount*: (if applicable, e.g., \"10% to VWAP\").  \n\n3. **Quarterly (4C) or Half-Yearly (4D) Report**  \n   - *Cash balance*: AUD $X.  \n   - *Cash burn*: AUD $X (if 4C).  \n   - *Key operational milestones*: (e.g., \"Production reached Y, new contract signed with Z\").  \n\n4. **Material Contracts/Projects**  \n   - *Key terms*: (e.g., \"10-year offtake agreement at $Y/unit\").  \n\n5. **M&A/Divestment**  \n   - *Deal value*: AUD $X.  \n   - *Conditions*: (e.g., \"Subject to shareholder approval\").  \n\n6. **Governance/Directors**  \n   - *Only if material*: (e.g., \"CEO resigns, successor named\").  \n\n**For all others**: \"No material information identified\" or summarise key impacts in 1\u20132 bullets.  \n\nYou can share the document, or specify the announcement type if known (e.g., \"Assume it\u2019s a capital raising notice\"). I\u2019ll adhere strictly to your format.  \n\n*Note*: I\u2019ll verify that extracted data matches ASX formatting conventions (e.g., AUD millions, standard date formats). Let me know if you'd like additional focus areas (e.g., debt covenants in a recapitalisation).",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I'll extract the material information in the concise, structured format you've requested.  \n\nExample outputs based on your guidelines:  \n\n**Capital Raising Announcement**:  \n- *Type*: Placement + SPP  \n- *Amount*: AUD 50M (Placement) + AUD 15M (SPP cap)  \n- *Dates*: Ex-date 15/05, Record 16/05, SPP closes 30/05.  \n\n**Quarterly (4C)**:  \n- *Cash balance*: AUD 12.3M (prev. AUD 15.1M)  \n- *Key highlight*: Quarterly revenue AUD 4.5M (+22% QoQ).  \n\n**Trading Halt**:  \n- *Reason*: Pending capital raising announcement.  \n\n**Other Announcement**:  \n- *Material item*: Major contract signed (AUD 80M over 3y).  \n- *Impact*: FY25 revenue guidance raised by 30%.  \n\nLet me know the announcement text/details, and I\u2019ll summarize accordingly.",
   "usage": {
     "prompt_tokens": 225,
-    "completion_tokens": 502,
-    "total_tokens": 727,
+    "completion_tokens": 242,
+    "total_tokens": 467,
     "prompt_tokens_details": null
   },
   "model": "deepseek/deepseek-chat-v3-0324:free",
-  "processed_at": "2025-08-07T04:54:16.620166"
+  "processed_at": "2025-08-07T05:18:42.413357"
 }
