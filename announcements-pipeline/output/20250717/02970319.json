@@ -1,0 +1,19 @@
+{
+  "ticker": "HCT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970319",
+  "id": "02970319",
+  "pages": 1,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "1721",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwwjznvchrzh.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** (or relevant excerpts), and I will generate a **concise, material-only summary** in the structured format you specified, focusing strictly on trading or capital markets-related information.  \n\n**Example Outputs (based on common scenarios):**  \n\n---  \n**Trading Halt Request:**  \n- Reason: Pending announcement of capital raising.  \n\n**Capital Raising (Placement + SPP):**  \n- Structure: AU$50M placement + AU$10M SPP.  \n- Key dates: Ex-date 15/03, Record 18/03, SPP close 05/04.  \n- Use of proceeds: Debt reduction (60%) + working capital (40%).  \n\n**Quarterly (4C):**  \n- Cash balance: AU$12.5M (Q4-end), -AU$1.2M net outflow.  \n- Highlights: Production 5,000oz Au (vs. 4,200oz prior Q).  \n\n**Other Announcement (Acquisition):**  \n- Acquiring Asset X for AU$20M (50% cash, 50% scrip).  \n- Implied EBITDA multiple: 6.5x.  \n\n**No Material Information Identified**  \n---  \n\n**Next Steps:**  \nAttach the announcement or paste key sections, and I\u2019ll extract the **actionable** details. No filler.",
+  "usage": {
+    "prompt_tokens": 220,
+    "completion_tokens": 296,
+    "total_tokens": 516,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T08:04:50.916452"
+}

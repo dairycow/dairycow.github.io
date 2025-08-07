@@ -1,0 +1,19 @@
+{
+  "ticker": "S2R",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977531",
+  "id": "02977531",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250806",
+  "time": "1230",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mlj8r08ycz30.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or relevant details from it (e.g., document type, key figures, dates) so I can extract the material information in the requested concise format.  \n\nExample formats based on common announcement types:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of capital raising details.  \n\n2. **Capital Raising Announcement**:  \n   - *Type*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP).  \n   - *Key Dates*: Ex-date 15/10/23, Record 18/10/23, Close 25/10/23.  \n\n3. **Quarterly Report (4C)**:  \n   - *Cash Balance*: AUD 12.5M (up 20% QoQ).  \n   - *Burn Rate*: AUD 2.1M (quarterly).  \n\n4. **Other Material Announcement**:  \n   - *Key Point 1*: Major contract signed (AUD 100M revenue over 3 years).  \n   - *Key Point 2*: CEO resignation effective immediately.  \n\nIf you share the announcement text or type, I\u2019ll distill it accordingly. Otherwise, reply with \"No material information identified\".",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 282,
+    "total_tokens": 512,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-06T03:31:30.225284"
+}

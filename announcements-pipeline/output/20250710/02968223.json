@@ -1,0 +1,19 @@
+{
+  "ticker": "AT1",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968223",
+  "id": "02968223",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1353",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp59fc1qpnm2.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF, and I will extract only the material information relevant for trading or capital markets decisions in the requested concise bullet-point format.  \n\nIf you share the announcement, I will immediately analyze it and deliver a stripped-down summary covering:  \n- **Trading halts** (reason only)  \n- **Capital raises** (structure, AUD amount, key dates)  \n- **Quarterly reports** (cash balance + key operational/financial metrics)  \n- **Other material events** (2\u20133 critical points impacting valuation/liquidity/capital structure)  \n\nExample outputs based on common announcements:  \n\n---  \n**Capital Raising**  \n- Structure: 1-for-5 entitlement offer @ A$0.25/share  \n- Amount: A$50M (A$30M placement completed)  \n- Key dates: Ex-date 15/03, closes 29/03  \n\n**Appendix 4C (Quarterly)**  \n- Cash balance: A$12.4M (QoQ -18%)  \n- Cash burn: A$2.1M/month (guidance maintained)  \n\n**M&A Announcement**  \n- Acquiring TargetCo for A$150M (50% scrip, 50% cash)  \n- Implied synergies: A$20M/year from FY26  \n---  \n\nLet me know once you\u2019ve shared the document.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 292,
+    "total_tokens": 517,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T06:00:46.019859"
+}

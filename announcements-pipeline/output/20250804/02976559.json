@@ -1,0 +1,19 @@
+{
+  "ticker": "VIT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976559",
+  "id": "02976559",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "1148",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mht1fyt3ncpl.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key text, and I will analyze it according to your specified requirements\u2014extracting only material capital markets or trading-relevant information in concise bullet points, tailored to the announcement type.  \n\n**Example Outputs (for reference):**  \n\n**1. *Trading Halt Request*:**  \n- Reason: Pending release of capital raising details.  \n\n**2. *Capital Raising Announcement*:**  \n- Structure: Placement + SPP.  \n- Total raised: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap).  \n- Key dates: Ex-date 15/05/2023, Record 16/05/2023, Close 30/05/2023.  \n\n**3. *Quarterly Report (Appendix 4C)*:**  \n- Cash balance: AUD 12.5M (prior quarter: AUD 15.2M).  \n- Highlights: Production up 8% QoQ; costs reduced to AUD 1.20/lb.  \n\n**4. *Other Material Announcement*:**  \n- Major asset sale: AUD 200M proceeds to repay debt.  \n- EBITDA guidance raised to AUD 60M-65M (prior: AUD 50M-55M).  \n\n**If no material info is found:**  \n- \"No material information identified.\"  \n\nReady to proceed\u2014attach/share the document text.",
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 302,
+    "total_tokens": 537,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T01:56:29.136930"
+}

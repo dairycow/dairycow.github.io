@@ -1,0 +1,19 @@
+{
+  "ticker": "PGD",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977592",
+  "id": "02977592",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250806",
+  "time": "1501",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mlpbvjmg9xf7.pdf",
+  "summary": "Understood. Here\u2019s how I\u2019ll approach the summary based on the announcement type:  \n\n**1. Trading Halt Request:**  \n- *Reason only* (e.g., \"Pending material capital raising announcement\").  \n\n**2. Capital Raising Announcement:**  \n- *Type* (Placement/SPP/Entitlement Offer).  \n- *Total raise* (AUD).  \n- *Key dates* (ex-date, record date, close date).  \n\n**3. Quarterly Report (Appendix 4C):**  \n- *Key operational/financial highlights* (e.g., \"Revenue up 15% QoQ, production 10,000oz Au\").  \n- *Closing cash balance* (AUD).  \n\n**4. Other Announcements:**  \n- *Top 2-3 material points* (e.g., \"Major asset sale for AUD 50M\", \"Debt refinancing at 5% interest\").  \n\nExample outputs:  \n\n---  \n**Capital Raising Announcement:**  \n- Entitlement Offer at AUD 0.50/share, total AUD 100M.  \n- Ex-date: 15 Oct, Record date: 18 Oct, Close: 30 Oct.  \n\n**Appendix 4C:**  \n- Cash receipts AUD 25M (+12% QoQ).  \n- Cash balance AUD 40M (prior: AUD 35M).  \n\n**M&A Announcement:**  \n- Acquiring XYZ Co for AUD 200M (50% cash, 50% scrip).  \n- Expected EPS accretive in FY25.  \n\n**No Material Information Identified:**  \n(If the document is procedural/non-material).  \n\n---  \n**Now**, provide the ASX announcement PDF or its text, and I\u2019ll extract the material information accordingly. If the document is long, highlight sections you\u2019d like prioritized.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 389,
+    "total_tokens": 614,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-06T05:07:54.853955"
+}

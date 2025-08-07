@@ -1,0 +1,19 @@
+{
+  "ticker": "STX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976326",
+  "id": "02976326",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "0844",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mh8bs3p2c1py.pdf",
+  "summary": "**Response Template:**  \n\n*[If Trading Halt Request]*  \n- **Reason:** [One-line reason, e.g., \"Pending capital raising announcement\"]  \n\n*[If Capital Raising Announcement]*  \n- **Type:** [Placement/SPP/Entitlement Offer]  \n- **Amount Raised:** AUD [X] million  \n- **Key Dates:** Ex-date [DD/MM], Record date [DD/MM], Close date [DD/MM]  \n\n*[If Quarterly Report (Appendix 4C)]*  \n- **Cash Balance:** AUD [X] million  \n- **Highlights:** [1-2 key operational/financial metrics, e.g., \"Revenue up XX% YoY\"]  \n\n*[Other Announcements]*  \n- [Point 1: Material impact on valuation/liquidity/capital structure]  \n- [Point 2: If applicable]  \n\n*[If unclear/no material info]*  \n- **No material information identified**  \n\n---  \n**Example for User Input:**  \n*[If document is a Placement announcement]*  \n- **Type:** Placement  \n- **Amount Raised:** AUD 50 million  \n- **Key Dates:** Ex-date 15/04, Record date 18/04, Close date 22/04  \n\n*[If document unclear]*  \n- **No material information identified**  \n\n*(Provide the PDF or describe the announcement type for a tailored response.)*",
+  "usage": {
+    "prompt_tokens": 231,
+    "completion_tokens": 295,
+    "total_tokens": 526,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-03T23:03:44.408840"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "NWL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970271",
+  "id": "02970271",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "1610",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwrwhsrwvr7t.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., announcement type, headline, etc.), and I will generate a **concise, material-only summary** following your strict formatting rules.  \n\nIf the PDF is unavailable, here\u2019s how I\u2019d handle common scenarios based on your criteria:  \n\n---  \n### **Examples of Outputs**  \n**1. Trading Halt Request**  \n- *Reason*: Pending capital raising announcement.  \n\n**2. Capital Raising Announcement**  \n- *Structure*: A$50M placement + A$10M SPP.  \n- *Key Dates*: Ex-date 15/09, Record 18/09, SPP closes 30/09.  \n\n**3. Quarterly Report (4C)**  \n- *Cash Balance*: A$12.5M (vs. A$15.2M prev).  \n- *Highlights*: Revenue up 20% QoQ, production costs down 10%.  \n\n**4. Other Announcement**  \n- *Material Impact*: Major asset sale (A$100M) to reduce debt by 40%.  \n- *Material Impact*: FDA approval received for flagship product.  \n\n**5. No Material Information Identified**  \n---  \n\nAttach or describe the PDF, and I\u2019ll extract **only** what matters for trading/capital markets decisions.",
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 292,
+    "total_tokens": 527,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T06:37:04.661783"
+}

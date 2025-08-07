@@ -1,0 +1,19 @@
+{
+  "ticker": "MGA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971195",
+  "id": "02971195",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250721",
+  "time": "1743",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250721/pdf/06m00lsl0v10r0.pdf",
+  "summary": "Understood. For any ASX announcement PDF you provide, I will extract **only material information** relevant to trading or capital markets decisions in the following strict formats:  \n\n### **1. Trading Halt Request**  \n- *Reason for halt* (e.g., pending material announcement, capital raising, etc.).  \n\n### **2. Capital Raising Announcement**  \n- *Structure* (e.g., Placement, SPP, Entitlement Offer).  \n- *Total capital raised (AUD)* (or target if indicative).  \n- *Key dates* (ex-date, record date, close date, settlement date if relevant).  \n- *Use of proceeds* (only if material, e.g., debt reduction, acquisition).  \n- *Discount* (if disclosed, e.g., % to last close).  \n\n### **3. Quarterly Report (Appendix 4C)**  \n- *Closing cash balance (AUD)*.  \n- *Key operational/financial highlights* (revenue, production metrics, EBITDA if material).  \n- *Cash burn/net operating cash flow* (if significant).  \n\n### **4. Other Announcements**  \n- *1\u20133 bullet points* on material impacts only (e.g., M&A, asset sale, regulatory approval, material contract, board change with strategic implications).  \n\n**Rules applied**:  \n- No intros, legal boilerplate, or director names.  \n- If no material info, response: *\"No material information identified.\"*  \n\nPlease provide the announcement, and I\u2019ll distill it accordingly.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 320,
+    "total_tokens": 550,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-21T09:19:05.098673"
+}

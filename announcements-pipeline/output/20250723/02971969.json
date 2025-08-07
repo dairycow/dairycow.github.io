@@ -1,0 +1,19 @@
+{
+  "ticker": "SRZ",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971969",
+  "id": "02971969",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250723",
+  "time": "1650",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m28zwcn79p1k.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., company name, announcement type, headline, and critical data points), and I\u2019ll extract material information in the concise format you\u2019ve requested.  \n\nExample outputs based on common announcement types:  \n\n1. **Trading Halt Request**  \n   - *Reason*: Pending capital raising announcement.  \n\n2. **Capital Raising Announcement**  \n   - *Structure*: Placement + SPP.  \n   - *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - *Key Dates*: Ex-date 15 Oct, Record 18 Oct, SPP close 5 Nov.  \n\n3. **Quarterly (4C) Report**  \n   - *Cash Balance*: AUD 12.5M (vs. AUD 15.2M prev quarter).  \n   - *Burn Rate*: AUD 2.7M/net cash outflow.  \n   - *Milestone*: First revenue AUD 0.5M from commercial launch.  \n\n4. **Other Material Announcement**  \n   - *Acquisition*: AUD 100M asset purchase, 30% equity consideration.  \n   - *Debt Facility*: New AUD 75M secured loan, maturity 2027.  \n\nIf no material details are found, I\u2019ll respond:  \n   - *No material information identified*.  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 308,
+    "total_tokens": 538,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-23T07:41:02.571328"
+}

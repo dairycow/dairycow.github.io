@@ -1,0 +1,19 @@
+{
+  "ticker": "SND",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977218",
+  "id": "02977218",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250805",
+  "time": "1752",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250805/pdf/06mklytl813tm4.pdf",
+  "summary": "Understood. Please provide the **ASX announcement PDF** or key text snippets, and I will:  \n\n1. **Immediately classify the announcement type** (e.g., Trading Halt, Capital Raising, Quarterly, Merger, etc.).  \n2. **Extract only material information** relevant to trading or capital markets decisions.  \n3. **Format strictly as concise bullet points** using your specified templates.  \n4. **Omit all filler content** (e.g., director names, legal disclaimers, generic commentary).  \n\nExample output formats:  \n- **Trading Halt**: \"Pending release of material acquisition details.\"  \n- **Capital Raising**: \"A$150M placement at A$2.30/share (10% discount). Key dates: Ex-date 15/03, Close 22/03.\"  \n- **Quarterly (4C)**: \"Cash balance A$12.1M (QoQ -A$3.2M). Revenue A$5.4M (+22% YoY).\"  \n\n**If no material data is found**, I will note: \"No material information identified.\"  \n\nAttach the PDF or paste text to proceed.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 246,
+    "total_tokens": 476,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-05T08:26:30.196770"
+}

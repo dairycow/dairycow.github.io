@@ -1,0 +1,19 @@
+{
+  "ticker": "CMX",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976699",
+  "id": "02976699",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "1646",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mj5bvhf06md6.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text extracts), and I will generate the concise, material-only summary based on its type, following the rules strictly.  \n\nExample outputs:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending release of capital raising details.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: Placement + SPP  \n   - *Amount*: AUD 50M (Placement: AUD 40M; SPP: AUD 10M cap)  \n   - *Key Dates*: Ex-date 15/10, Record 16/10, SPP close 30/10.  \n\n3. **Appendix 4C (Quarterly Cash Flow)**:  \n   - *Cash Balance*: AUD 12.5M  \n   - *Cash Burn*: AUD 1.2M (operating)  \n   - *Milestone*: First revenue received (AUD 0.5M).  \n\n4. **Other Material Announcement**:  \n   - Key point 1: Major contract signed (AUD 25M over 3Y).  \n   - Key point 2: CFO resigning, effective immediately.  \n\n5. **No Material Information Identified**.  \n\n**Proceed with your document/text**.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 276,
+    "total_tokens": 501,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T07:51:02.351525"
+}

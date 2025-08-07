@@ -1,0 +1,19 @@
+{
+  "ticker": "ASG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967862",
+  "id": "02967862",
+  "pages": 4,
+  "price_sensitive": false,
+  "date": "20250709",
+  "time": "1649",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250709/pdf/06ln3vymwmz8g9.pdf",
+  "summary": "Understood. For any ASX announcement PDF you provide, I will extract **only material trading or capital markets information** in the following strict format:  \n\n---\n\n### **[Announcement Type]**  \n- **Key Point 1** (e.g., capital raised, halt reason, cash balance)  \n- **Key Point 2** (if critical)  \n- **Key Date(s)** (if applicable)  \n\n*No material information identified* (if the document lacks relevant details)  \n\n---\n\n**Examples of my output for common types:**  \n\n1. **Trading Halt Request**  \n   - *Reason:* Pending material acquisition announcement.  \n\n2. **Capital Raising (Placement + SPP)**  \n   - *Structure:* AUD 50M placement (+ AUD 10M SPP).  \n   - *Key Dates:* Ex-date 15/03, SPP closes 30/03.  \n\n3. **Quarterly (Appendix 4C)**  \n   - *Cash Balance:* AUD 12.5M (QoQ -2.1M).  \n   - *Highlight:* Gold production +15% QoQ.  \n\n4. **Other Announcement**  \n   - *Material Impact:* Divestment of X asset for AUD 100M (EV/EBITDA 8x).  \n\n*No legal fluff, no \"the Company is pleased...\", no director names.*  \n\nSubmit your PDF or paste text, and I\u2019ll extract **only what matters for trading**.",
+  "usage": {
+    "prompt_tokens": 233,
+    "completion_tokens": 311,
+    "total_tokens": 544,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-09T07:55:39.103330"
+}

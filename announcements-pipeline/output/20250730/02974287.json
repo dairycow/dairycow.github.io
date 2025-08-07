@@ -1,0 +1,19 @@
+{
+  "ticker": "BGP",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974287",
+  "id": "02974287",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "0913",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m9bndx6n8r0j.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or its text), and I will apply the following protocol to extract material information:  \n\n**For a Trading Halt Request**:  \n- *Reason*: [Single-line halt reason, e.g., \"Pending capital raising announcement\"]  \n\n**For a Capital Raising Announcement**:  \n- *Type*: [Placement/SPP/Entitlement Offer]  \n- *Amount*: [$X AUD]  \n- *Key Dates*: Ex-date: [DD/MM], Record: [DD/MM], Close: [DD/MM]  \n\n**For Quarterly Report (4C)**:  \n- *Cash Balance*: [$X AUD]  \n- *Highlights*: [2-3 key operational/financial metrics, e.g., \"Revenue $Y, up Z%\"]  \n\n**Other Announcements**:  \n- [Point 1: Material impact, e.g., \"Debt refinancing of $X at Y% interest\"]  \n- [Point 2: Regulatory approval received/rejected]  \n\nIf the document is unclear or lacks material data:  \n- *No material information identified*.  \n\nReady for your input.",
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 245,
+    "total_tokens": 490,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-29T23:24:17.905118"
+}

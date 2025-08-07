@@ -1,0 +1,19 @@
+{
+  "ticker": "ROG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977933",
+  "id": "02977933",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250807",
+  "time": "1022",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmntkdh1bl1p.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or key details from it, and I will extract **only** the material information relevant for trading or capital markets decisions, formatted as strictly concise bullet points following your specified rules.  \n\nExample output formats based on announcement type:  \n\n### **Trading Halt Request**  \n- Reason: Pending release of material transaction details.  \n\n### **Capital Raising Announcement**  \n- Type: Placement + SPP  \n- Amount: AUD 50M (Placement) + AUD 10M (SPP cap)  \n- Dates: Ex-date 15 Oct, Record 18 Oct, SPP Close 5 Nov.  \n\n### **Quarterly Report (4C)**  \n- Cash balance: AUD 12.5M  \n- Cash burn: AUD 1.2M (quarterly)  \n- Milestone: First revenue received (AUD 500K).  \n\n### **Other Material Announcement**  \n- Asset sale: Divesting X division for AUD 30M (expected completion Q1 2025).  \n- Guidance update: FY24 EBITDA lowered to AUD 40-45M (prev. 50M).  \n\n**If unclear/no material info**:  \n- \"No material information identified.\"  \n\nShare the document or key details, and I\u2019ll adhere strictly to this template.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 275,
+    "total_tokens": 505,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-07T02:10:42.727890"
+}

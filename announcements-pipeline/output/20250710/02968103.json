@@ -1,0 +1,19 @@
+{
+  "ticker": "HOR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968103",
+  "id": "02968103",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "0953",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lnvqtqcl5n4c.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it) and I will extract **only material information relevant for trading or capital markets decisions** in the concise format you've specified.  \n\n**Example Outputs Based on Your Criteria:**  \n\n1. **Trading Halt Request:**  \n   - *Reason*: Pending announcement of a capital raising.  \n\n2. **Capital Raising Announcement:**  \n   - *Structure*: Placement ($50M) + SPP ($10M cap).  \n   - *Use of proceeds*: Debt reduction (70%), working capital (30%).  \n   - *Key dates*: Ex-date 15 Oct, record date 17 Oct, SPP close 30 Oct.  \n\n3. **Quarterly Report (4C):**  \n   - *Cash balance*: $12.5M (QoQ -$2.1M).  \n   - *Key highlight*: Revenue up 15% QoQ to $25M; burn rate $1.3M/month.  \n\n4. **Other Announcement (M&A):**  \n   - *Material point*: Acquisition of Asset X for $100M (30% equity, 70% debt).  \n\n**If you share the announcement, I will adhere strictly to these rules.** Let me know if you'd like any adjustments to the format before proceeding.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 287,
+    "total_tokens": 517,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T00:01:13.253035"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "MM8",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972349",
+  "id": "02972349",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250724",
+  "time": "1243",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m3c7cmqyzdhn.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or specify its type (e.g., Trading Halt, Capital Raising, Quarterly Report), and I will extract **only** material information per your strict formatting rules.  \n\nExample outputs:  \n\n**Trading Halt Request**  \n- *Reason*: Pending release of material transaction details.  \n\n**Capital Raising Announcement**  \n- *Type*: Placement + SPP  \n- *Amount*: AUD 50M (Placement) + AUD 10M (SPP cap)  \n- *Dates*: Ex-date 15/05, Record 18/05, SPP close 30/05.  \n\n**Quarterly Report (4C)**  \n- *Cash balance*: AUD 5.2M (prior quarter: AUD 7.1M).  \n- *Key highlight*: Revenue up 15% QoQ to AUD 12M.  \n\n**Other Announcement**  \n- Acquisition of [Asset] for AUD 20M, funded by debt.  \n- FY24 EBITDA guidance raised to AUD 45M\u201350M (prior: AUD 40M).  \n\nAwaiting your document or details.",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 246,
+    "total_tokens": 476,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-24T04:15:03.318700"
+}

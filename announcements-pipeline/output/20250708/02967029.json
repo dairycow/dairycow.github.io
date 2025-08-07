@@ -1,0 +1,19 @@
+{
+  "ticker": "ATM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02967029",
+  "id": "02967029",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250708",
+  "time": "0836",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250708/pdf/06lkxn9vslshw4.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., title, announcement type, and raw text excerpts if available), and I will extract **only** material information in the requested format.  \n\nExample outputs:  \n\n---  \n**1. Trading Halt Request**  \n- Reason: Pending release of capital raising details.  \n\n**2. Capital Raising Announcement**  \n- Structure: $50M Placement + $10M SPP.  \n- Key Dates: Ex-date 15/03/24, SPP close 05/04/24.  \n\n**3. Quarterly Report (Appendix 4C)**  \n- Cash balance: $12.5M (QoQ -$3.2M).  \n- Highlights: Production +22%, costs -8%.  \n\n**4. Other Announcement (e.g., M&A)**  \n- Acquiring [Target] for $200M (50% scrip, 50% cash).  \n- EPS accretive by +5%.  \n\n---  \nReply with the PDF/text, and I\u2019ll parse it strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 230,
+    "total_tokens": 455,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-07T23:01:04.639909"
+}

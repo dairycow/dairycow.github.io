@@ -1,0 +1,19 @@
+{
+  "ticker": "STA",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978041",
+  "id": "02978041",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250807",
+  "time": "1430",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmynmdknnvcy.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or key details from it), and I'll extract the material information in the concise, structured format you've requested.  \n\nExample outputs based on your guidelines:  \n\n**Capital Raising Announcement**:  \n- *Type*: Placement + SPP  \n- *Amount*: AUD 50M (Placement) + AUD 15M (SPP cap)  \n- *Dates*: Ex-date 15/05, Record 16/05, SPP closes 30/05.  \n\n**Quarterly (4C)**:  \n- *Cash balance*: AUD 12.3M (prev. AUD 15.1M)  \n- *Key highlight*: Quarterly revenue AUD 4.5M (+22% QoQ).  \n\n**Trading Halt**:  \n- *Reason*: Pending capital raising announcement.  \n\n**Other Announcement**:  \n- *Material item*: Major contract signed (AUD 80M over 3y).  \n- *Impact*: FY25 revenue guidance raised by 30%.  \n\nLet me know the announcement text/details, and I\u2019ll summarize accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 242,
+    "total_tokens": 467,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-07T05:18:42.413357"
+}

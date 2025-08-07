@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977132",
+  "id": "02977132",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250805",
+  "time": "1627",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250805/pdf/06mkdp3s0vm3zb.pdf",
+  "summary": "This document provides details on **CitiFirst Instalment MINIs**, which are structured equity derivative products. Below is a concise summary of the material information relevant for trading or capital markets decisions:\n\n### Key Features:\n1. **Product Type**: Instalment MINIs (leveraged equity derivatives with a deferred payment structure).\n2. **Current Interest Rate**: **8.30% p.a.** (applied to the loan component).\n3. **Key Components per MINI**:\n   - **Final Instalment (Loan Amount)**: The amount due at expiry.\n   - **Stop Loss Trigger Level**: If the underlying share price falls to this level, the MINI may be terminated early.\n   - **Gearing**: Loan-to-value ratio (e.g., 50% gearing means the investor pays 50% upfront).\n   - **First Instalment (Indicative IM Price)**: Initial payment required to enter the position.\n   - **% from Stop Loss**: Distance from the current price to the stop-loss trigger (e.g., 20% means a 20% decline would trigger the stop).\n   - **Expiry Date**: Maturity date of the MINI.\n   - **Indicative Dividend Yield**: Estimated yield based on underlying stock dividends.\n   - **Treatment of Dividends**: Typically \"Pay to investor\" (investor receives dividends) or \"Pay down loan\" (dividends reduce loan amount).\n\n### Example MINI Terms (Selected Underlyings):\n| MINI Code | Underlying          | Final Instalment (AUD) | Stop Loss (AUD) | Gearing | First Instalment (AUD) | % from Stop Loss | Expiry       | Div Yield | Div Treatment      |\n|-----------|---------------------|------------------------|------------------|---------|------------------------|------------------|--------------|-----------|--------------------|\n| A2MJOB    | A2 Milk Co Ltd      | $4.1000                | $7.90            | 43.27%  | $4.48                  | 48.10%           | 26/05/2026   | 1.73%     | Pay to investor    |\n| BHPJOA    | BHP Group Ltd       | $29.1300               | $39.80           | 63.73%  | $14.43                 | 26.81%           | 21/01/2032   | 13.00%    | Pay to investor    |\n| CBAJOA    | CBA                 | $140.6800              | $177.34          | 70.91%  | $51.59                 | 20.67%           | 25/09/2025   | 9.21%     | Pay to investor    |\n| FMGJOC    | Fortescue Metals    | $9.2200                | $18.34           | 43.74%  | $10.32                 | 49.73%           | 06/02/2035   | 13.47%    | Pay to investor    |\n| WBCJOA    | Westpac Banking     | $26.5800               | $33.66           | 70.57%  | $9.91                  | 21.03%           | 15/07/2032   | 15.34%    | Pay to investor    |\n\n### Risks & Considerations:\n- Leverage amplifies gains/losses (higher gearing = higher risk).\n- Stop-loss triggers may lead to early termination if the underlying falls sharply.\n- Dividend treatment affects returns (investors either receive dividends or they reduce the loan).\n\n### Summary:\nThis document outlines leveraged investment products tied to ASX-listed stocks, with key terms including gearing, stop-loss levels, and expiry dates. Investors should assess risk tolerance and underlying stock performance before trading. No capital raising or corporate action announcements are included.  \n\n**No material corporate action or trading halt information identified.**",
+  "usage": {
+    "prompt_tokens": 23302,
+    "completion_tokens": 837,
+    "total_tokens": 24139,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-05T06:52:47.481640"
+}

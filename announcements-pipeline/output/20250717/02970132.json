@@ -1,0 +1,19 @@
+{
+  "ticker": "NRO",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02970132",
+  "id": "02970132",
+  "pages": 16,
+  "price_sensitive": false,
+  "date": "20250717",
+  "time": "0953",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250717/pdf/06lwd466bzz8bf.pdf",
+  "summary": "This appears to be an ASX disclosure document for a mortgage-backed securitization (RMBS) transaction. Here are the key material points extracted:\n\n**RMBS Trust Report (National RMBS Trust 2018-1):**\n- *Retained Interest*: A$21,463,762.61 (originator retaining 5%+ net economic interest under EU CRR Article 405)\n- *Loan Portfolio*:\n  - Current pool balance: A$21.46M (down from A$22.06M previous period)\n  - 135 active loans remaining (from original 428)\n  - Weighted avg LVR: 38.26% (from 57.09% at issuance)\n  - Weighted avg interest rate: 6.12% (up from 4.25% at issuance)\n  - 98.5% P&I loans, 1.5% interest-only\n- *Performance*:\n  - 0 loans delinquent (0% arrears)\n  - Prepayment rate (CPR): 25.48%\n  - Unscheduled principal repayments: A$532,599.84\n- *Collateral*:\n  - 87.4% metro areas, 12.6% non-metro\n  - NSW (33%), VIC (34%), QLD (18%) dominant states\n  - 71% loans with LVR \u226470%\n\nNo other material capital market actions or structural changes noted. This appears to be a routine performance report for an existing RMBS trust.",
+  "usage": {
+    "prompt_tokens": 64985,
+    "completion_tokens": 325,
+    "total_tokens": 65310,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-17T00:00:44.944384"
+}

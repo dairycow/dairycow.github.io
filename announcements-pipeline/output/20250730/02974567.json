@@ -1,0 +1,19 @@
+{
+  "ticker": "VIT",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02974567",
+  "id": "02974567",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250730",
+  "time": "1451",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06mb0hsxsy07gy.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF, and I will extract **only material information** relevant for trading or capital markets decisions in concise bullet points, strictly based on the announcement type.  \n\nExamples of how I will summarise:  \n\n- **Trading Halt**: Reason only (e.g., *\"Pending capital raising announcement\"*).  \n- **Capital Raising**: Structure, amount (AUD), key dates (ex-date, record date, close date).  \n- **Quarterly (4C)**: Cash balance, major operational/financial metrics.  \n- **Other Announcements**: Only 2-3 critical points impacting valuation, liquidity, or capital structure.  \n\nNo fluff, no boilerplate. If unclear or immaterial: *\"No material information identified.\"*  \n\nPlease attach/share the announcement.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 169,
+    "total_tokens": 394,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-30T05:58:41.871513"
+}

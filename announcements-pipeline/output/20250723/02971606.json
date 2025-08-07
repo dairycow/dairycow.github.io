@@ -1,0 +1,19 @@
+{
+  "ticker": "SCG",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02971606",
+  "id": "02971606",
+  "pages": 2,
+  "price_sensitive": true,
+  "date": "20250723",
+  "time": "0804",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250723/pdf/06m1dclr0jxw4h.pdf",
+  "summary": "Understood. Provide the ASX announcement PDF or the key details (company name, announcement type, headline), and I\u2019ll extract **only material information** in the format you\u2019ve specified.  \n\nExample outputs:  \n\n**Trading Halt Request:**  \n- *Reason*: Pending release of capital raising details.  \n\n**Capital Raising (Placement + SPP):**  \n- *Structure*: AUD 50M Placement (institutional) + AUD 10M SPP.  \n- *Key dates*: Ex-date 15 Oct, Record 18 Oct, SPP Close 30 Oct.  \n\n**Appendix 4C (Quarterly):**  \n- *Cash balance*: AUD 2.1M (prior quarter: AUD 3.4M).  \n- *Highlight*: Sales up 22% QoQ to AUD 5.7M.  \n\n**Other Announcement:**  \n- *Material impact*: Major offtake agreement signed (10x current production volume).  \n- *Condition*: Subject to final approvals (expected Q3 2024).  \n\nIf the announcement is irrelevant (e.g., director resignation without rationale), I\u2019ll note:  \n- *No material information identified*.  \n\nPlease share the document or specifics. I\u2019ll adhere strictly to your rules.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 273,
+    "total_tokens": 498,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-22T22:13:00.511931"
+}

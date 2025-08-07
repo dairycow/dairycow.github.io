@@ -1,0 +1,19 @@
+{
+  "ticker": "NEM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976293",
+  "id": "02976293",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "0828",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mh61fvhm46gk.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract the material information in the required concise format, strictly adhering to the rules you've outlined.  \n\n**Example Outputs for Reference:**  \n\n1. **Trading Halt Request:**  \n   - Reason: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement:**  \n   - Type: Placement + SPP.  \n   - Amount: AUD 50M (Placement) + AUD 10M (SPP cap).  \n   - Dates: Ex-date 15 Oct, Record 17 Oct, SPP close 31 Oct.  \n\n3. **Quarterly Report (4C):**  \n   - Cash balance: AUD 12.5M (QoQ -2.1M).  \n   - Key highlight: Quarterly revenue up 15% to AUD 4.3M.  \n\n4. **Other Announcement:**  \n   - Major asset sale: AUD 25M proceeds, settlement Q1 2025.  \n   - Debt refinanced: New AUD 40M facility at 300bps over BBSY.  \n\n5. **No material information identified.**  \n\nLet me review your document, and I\u2019ll provide the summary in this exact format.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 265,
+    "total_tokens": 490,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-03T22:45:02.048105"
+}

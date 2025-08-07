@@ -1,0 +1,19 @@
+{
+  "ticker": "DNL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968244",
+  "id": "02968244",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250710",
+  "time": "1527",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250710/pdf/06lp7b5q75j8vc.pdf",
+  "summary": "### Summary:  \n**Document Type:** Appendix 3Y (Change of Director\u2019s Interest Notice)  \n\n#### Material Information:  \n- **Aggregate relevant interests + derivatives increased** to **238,271,437 fully paid ordinary shares** (from **157,489,475 shares** direct holding + **80,781,962** new non-voting cash-settled derivatives).  \n- **Key date:** 4 July 2025 (date of change).  \n\n*Note:* No material trading or capital structure impact (indirect interest only, no transactions). Derivative positions suggest potential economic exposure but no voting rights.  \n\n**Omitted:** Director name, legal boilerplate, non-material trust/corporate structure details.  \n\n--- \n**Format rationale:** Extremely concise, focused solely on aggregated holdings (material for ownership tracking) and derivative positions (economic interest signal). No actionable trading or capital event.",
+  "usage": {
+    "prompt_tokens": 1123,
+    "completion_tokens": 187,
+    "total_tokens": 1310,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-10T06:01:01.294928"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "RIC",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02976465",
+  "id": "02976465",
+  "pages": 6,
+  "price_sensitive": false,
+  "date": "20250804",
+  "time": "0942",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250804/pdf/06mhkyn5rstl90.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or a brief description of its content if you can't share the file directly), and I will extract only the material information for trading/capital markets decisions in the strictly concise format you've requested.  \n\nExamples of how I\u2019ll summarize based on your rules:  \n\n- **Trading Halt Request**: \"Pending release of material acquisition details.\"  \n- **Capital Raising**: \"Placement + SPP; $50M total; Ex-date: 10 Nov, Record: 12 Nov, Close: 20 Nov.\"  \n- **Appendix 4C**: \"Cash $15.2M; Q3 receipts $8.1M; capex $3.0M.\"  \n- **Other Announcement**: \"Major contract award worth $120M over 3 years; divestment of non-core asset for $25M.\"  \n\nNo filler, no fluff. Let me know how to proceed.",
+  "usage": {
+    "prompt_tokens": 245,
+    "completion_tokens": 198,
+    "total_tokens": 443,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-04T00:04:24.433323"
+}

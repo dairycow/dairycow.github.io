@@ -1,0 +1,19 @@
+{
+  "ticker": "BFL",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968614",
+  "id": "02968614",
+  "pages": 3,
+  "price_sensitive": false,
+  "date": "20250711",
+  "time": "1239",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250711/pdf/06lq9dwftxlf6m.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text), and I will extract and summarize **only** the material information in the requested format, tailored to the announcement type.  \n\nExample outputs based on hypothetical announcements:  \n\n**Trading Halt Request:**  \n- Reason: Pending release of capital raising details.  \n\n**Capital Raising Announcement:**  \n- Type: Placement + SPP  \n- Total raised: AUD 50M (Placement: AUD 40M at $0.50/share; SPP: AUD 10M cap)  \n- Key dates: Ex-date 15 Oct, Record date 17 Oct, SPP close 31 Oct.  \n\n**Quarterly Report (Appendix 4C):**  \n- Cash balance: AUD 12.3M (QoQ -15%).  \n- Highlights: Gold production 5,000oz (vs 4,200oz prior Q); costs AUD 1,200/oz.  \n\n**Other Announcement (e.g., acquisition):**  \n- Acquiring 100% of X Co for AUD 80M (50% scrip, 50% cash).  \n- Conditional on shareholder approval (meeting date TBA).  \n\n**No material information identified:**  \n- Routine director appointment announcement.  \n\n**Now share the announcement text/PDF, and I\u2019ll proceed.**  \n\n*(Note: If the PDF is lengthy, highlight the relevant sections or paste the critical text to ensure accuracy.)*",
+  "usage": {
+    "prompt_tokens": 230,
+    "completion_tokens": 304,
+    "total_tokens": 534,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-11T04:12:48.884236"
+}

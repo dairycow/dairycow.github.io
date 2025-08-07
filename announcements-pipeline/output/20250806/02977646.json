@@ -1,0 +1,19 @@
+{
+  "ticker": "BUB",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977646",
+  "id": "02977646",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250806",
+  "time": "1646",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250806/pdf/06mltn295119r4.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF (or relevant text/data if the PDF cannot be shared), and I will extract the material information in the requested format.  \n\nExample outputs based on your criteria:  \n\n1. **Trading Halt Request**:  \n   - *Reason*: Pending announcement of capital raising.  \n\n2. **Capital Raising Announcement**:  \n   - *Structure*: AUD 50M Placement + AUD 10M SPP.  \n   - *Key dates*: Ex-date 15 Sep, Record 18 Sep, Close 30 Sep.  \n\n3. **Quarterly Report (Appendix 4C)**:  \n   - *Cash balance*: AUD 12.4M (QoQ -8%).  \n   - *Highlights*: Gold production +15%, costs -5%.  \n\n4. **M&A Announcement**:  \n   - *Material point*: Acquiring Asset X for AUD 100M (50% scrip, 50% cash).  \n   - *Condition*: Shareholder approval required.  \n\n5. **No Material Information Identified**:  \n   - (If the doc is routine or lacks trade-sensitive details).  \n\nUpload or paste the announcement, and I\u2019ll reply strictly per your rules.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 263,
+    "total_tokens": 488,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-06T07:22:07.547997"
+}

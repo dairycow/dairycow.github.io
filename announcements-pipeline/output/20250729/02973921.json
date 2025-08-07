@@ -1,0 +1,19 @@
+{
+  "ticker": "YAR",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973921",
+  "id": "02973921",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250729",
+  "time": "1419",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250729/pdf/06m89qkhds0q9v.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details (e.g., title, type, and excerpts), and I will generate a concise, material-only summary per your guidelines.  \n\nExample outputs:  \n\n**1. Trading Halt Request**  \n- Reason: Pending announcement of capital raising.  \n\n**2. Capital Raising (Placement + SPP)**  \n- Structure: A$50M placement (A$0.20/share) + A$10M SPP.  \n- Dates: Ex-date 15/03, Record 18/03, SPP closes 05/04.  \n\n**3. Appendix 4C (Quarterly Cash Flow)**  \n- Cash balance: A$12.5M (prior: A$15.2M).  \n- Quarterly cash burn: A$2.7M.  \n\n**4. Other (Material Contract)**  \n- Secured 5-year supply deal with Tier-1 miner; forecast revenue A$200M.  \n- Conditions precedent: Financing completion by 30/06.  \n\n**5. No material information identified**  \n\nLet me know the specifics of your document and I\u2019ll refine accordingly.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 244,
+    "total_tokens": 469,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-29T05:13:45.619407"
+}

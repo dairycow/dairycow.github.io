@@ -1,0 +1,19 @@
+{
+  "ticker": "CTW",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02973408",
+  "id": "02973408",
+  "pages": 10,
+  "price_sensitive": false,
+  "date": "20250728",
+  "time": "1630",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250728/pdf/06m6xvxh3779s8.pdf",
+  "summary": "### **Summary of Key Information (CitiFirst Instalment MINIs Pricing Update)**  \n\n#### **Product Overview**  \n- **Product Type**: Instalment MINIs (geared equity derivatives).  \n- **Current Interest Rate**: **8.30% p.a.**  \n- **Effective Date**: **29-Jul-25**.  \n \u0438.VICTOR  \n#### **Key Terms by Security (Selected Highlights)**  \n\n| **Underlying**       | **MINI Code** | **Gearing** | **Stop Loss Trigger Level (AUD)** | **Current Share Price (AUD)** | **First Instalment (AUD)** | **Expiry**     |  \n|----------------------|--------------|------------|----------------------------------|-----------------------------|---------------------------|----------------|  \n| **CBA**             | CBAJOA       | 71.77%     | $174.90                         | $125.52                     | 25-Sep-2025               |  \n| **BHP**             | BHPJOA       | 62.83%     | $40.30                          | $25.32                      | 21-Jan-2032               |  \n| **CSL**             | CSLJOF       | 74.44%     | $270.59                         | $201.44                     | 26-May-2026               |  \n| **MQG**             | MQGJOA       | 48.89%     | $216.23                         | $105.71                     | 25-Sep-2025               |  \n| **WBC**             | WBCJOA       | 71.40%     | $33.21                          | $23.71                      | 15-Jul-2032               |  \n| **XRO**             | XROJOA       | 58.15%     | $178.82                         | $103.98                     | 06-Feb-2035               |  \n\n#### **Critical Features**  \n1. **Dividend Treatment**: Most MINIs pay dividends directly to investors (noted as *\"Pay to investor\"*).  \n2. **Stop Loss Risks**: Trigger levels are disclosed (e.g., BHPJOA stops at $40.30, 28.21% below current price).  \n3. **Leverage**: Gearing ranges from **10% (FMGSO1)** to **84% (LLCSO2)**.  \n\n#### **Risk Notes**  \n- High gearing amplifies losses if the underlying share price declines.  \n- Expiry dates vary (2025\u20132035); early termination may apply if stop loss triggered.  \n\n**No material capital-raising or corporate action details identified.**  \n\n*Note: This is a pricing update\u2014no structural or timetable changes detected.*",
+  "usage": {
+    "prompt_tokens": 23312,
+    "completion_tokens": 582,
+    "total_tokens": 23894,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-07-28T07:06:50.859624"
+}

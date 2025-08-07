@@ -1,0 +1,19 @@
+{
+  "ticker": "NEM",
+  "pdf_display_url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977935",
+  "id": "02977935",
+  "pages": 2,
+  "price_sensitive": false,
+  "date": "20250807",
+  "time": "1027",
+  "pdf_url": "https://announcements.asx.com.au/asxpdf/20250807/pdf/06mmnzslkp6y10.pdf",
+  "summary": "Understood. Please provide the ASX announcement PDF or its key details, and I will extract **only** the material trading/capital markets information in concise bullet points, adhering strictly to your format requirements.  \n\nExample outputs based on common scenarios:  \n\n---  \n**Trading Halt Request**  \n- *Reason*: Pending announcement of capital raising.  \n\n**Capital Raising Announcement**  \n- *Type*: 1-for-5 entitlement offer.  \n- *Amount*: AUD 150M.  \n- *Key dates*: Ex-date 15 May, record 17 May, close 31 May.  \n\n**Appendix 4C (Quarterly Cash Flow)**  \n- *Cash balance*: AUD 2.1M (down from AUD 3.4M last quarter).  \n- *Key highlight*: Revenue AUD 5.2M (up 15% QoQ).  \n\n**Other Material Announcement**  \n- Major asset sale: AUD 75M proceeds to repay debt.  \n- CEO resignation effective immediately; interim replacement named.  \n\n**No Material Information Identified**  \n---  \n\nProvide the document, and I\u2019ll prioritize actionable insights.",
+  "usage": {
+    "prompt_tokens": 225,
+    "completion_tokens": 244,
+    "total_tokens": 469,
+    "prompt_tokens_details": null
+  },
+  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "processed_at": "2025-08-07T01:53:29.128187"
+}
